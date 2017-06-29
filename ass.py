@@ -27,10 +27,6 @@ def displaymatch(match):
         return None
     print('<Match: %r, groups=%r>' % (match.group(), match.group(1)))
 
-
-#re_package = re.compile(r"Effect,({.*})*(.*)\\N(.*)")
-#re_package = re.compile(r"!Effect")
-#re_package = re.compile(r"Effect,({.*})*(.*)\\N(.*)")
 re_package = re.compile(r"Effect,({.*})*(.*)\\N{.*}{.*}{.*}{.*}{.*}{.*}{.*}(.*)")
 
 file_name_re = re.compile(r"(.*)\.ass")
@@ -45,14 +41,10 @@ for root, dir, files in os.walk("."):
             with open(newfilename, 'w') as dest:
                 for line in src:
                     match = re_package.search(line)
-                    #print(line)
                     if match is None:
                         continue
-                    #print newfilename
                     str1 = match.group(2)
                     dest.write('%s%s\n' % ('\t', str1.rstrip('\n')))
                     str2 = match.group(3)
                     dest.write('%s%s\n' % ('\t', str2.rstrip('\n')))
-
-
 
