@@ -28,18 +28,31 @@ def displaymatch(match):
     print('<Match: %r, groups=%r>' % (match.group(), match.group(1)))
 
 
-re_package = re.compile(r"Effect,{.*}(.*)\\N{.*}{.*}{.*}{.*}{.*}{.*}{.*}(.*)")
+#re_package = re.compile(r"Effect,({.*})*(.*)\\N(.*)")
+#re_package = re.compile(r"!Effect")
+#re_package = re.compile(r"Effect,({.*})*(.*)\\N(.*)")
+re_package = re.compile(r"Effect,({.*})*(.*)\\N{.*}{.*}{.*}{.*}{.*}{.*}{.*}(.*)")
 
-with open('The.Lord.of.the.Rings.The.Fellowship.of.the.Ring.2001.EXTENDED.1080p.BluRay.H264.AAC-RARBG.ass', 'r') as src:
-    with open('The.Lord.of.the.Rings.The.Fellowship.of.the.Ring.2001.EXTENDED.1080p.BluRay.H264.AAC-RARBG.md', 'w') as dest:
-       for line in src:
-           match = re_package.search(line)
-           if match is None:
-               continue
-           str1 = match.group(1)
-           dest.write('%s%s\n' % ('\t', str1.rstrip('\n')))
-           str2 = match.group(2)
-           dest.write('%s%s\n' % ('\t', str2.rstrip('\n')))
+file_name_re = re.compile(r"(.*)\.ass")
+
+for root, dir, files in os.walk("."):
+   for name in files:
+        file_name_match = file_name_re.match(name)
+        if file_name_match is None:
+            continue
+        newfilename =  file_name_match.group(1)+".md"
+        with open(name, 'r') as src:
+            with open(newfilename, 'w') as dest:
+                for line in src:
+                    match = re_package.search(line)
+                    #print(line)
+                    if match is None:
+                        continue
+                    #print newfilename
+                    str1 = match.group(2)
+                    dest.write('%s%s\n' % ('\t', str1.rstrip('\n')))
+                    str2 = match.group(3)
+                    dest.write('%s%s\n' % ('\t', str2.rstrip('\n')))
 
 
 
