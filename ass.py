@@ -28,7 +28,7 @@ def displaymatch(match):
     print('<Match: %r, groups=%r>' % (match.group(), match.group(1)))
 
 #re_package = re.compile(r"Dialogue(.*,)*(.*)(\{.*\},)*(.*)")
-re_package = re.compile(r"Dialogue(.*,)*(.*)(\{.*\}){4}(.*)")
+re_package = re.compile(r"Dialogue(.*,)*(.*)(\{.*\}){7}(.*)")
 
 file_name_re = re.compile(r"(.*)\.ass")
 
