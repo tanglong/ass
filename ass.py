@@ -33,7 +33,10 @@ re_package = re.compile(r"Dialogue(.*,)*(.*)(\{.*\}){7}(.*)")
 file_name_re = re.compile(r"(.*)\.ass")
 
 for root, dir, files in os.walk("."):
+   if root != ".":
+       continue
    for name in files:
+        print(name)
         file_name_match = file_name_re.match(name)
         if file_name_match is None:
             continue
