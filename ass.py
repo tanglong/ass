@@ -27,8 +27,13 @@ def displaymatch(match):
         return None
     print('<Match: %r, groups=%r>' % (match.group(), match.group(1)))
 
-re_package = re.compile(r"Effect,({.*})*(.*)\\N{.*}{.*}{.*}{.*}{.*}{.*}{.*}(.*)")
-
+#re_package = re.compile(r"Effect,({.*})*(.*)\\N{.*}{.*}{.*}{.*}{.*}{.*}{.*}(.*)")
+#re_package = re.compile(r"Dialogue(.*),(.*),(.*),(.*),(.*),(.*),(.*),(.*),(.*),(.*)({.*})*(.*)")
+#re_package = re.compile(r"Dialogue(.*),(.*),(.*),(.*),(.*),(.*),(.*),(.*),(.*),(.*)({.*})({.*})({.*})({.*})({.*})({.*})(.*)")
+#re_package = re.compile(r"Dialogue(.*),(.*),(.*),(.*),(.*),(.*),(.*),(.*),(.*),({.*})(.*)({.*})\\N({.*})(.*)({.*})")
+#re_package = re.compile(r"Dialogue(.*),(.*),(.*),(.*),(.*),(.*),(.*),(.*),(.*),(.*)\\N(.*)")
+#re_package = re.compile(r"Dialogue(.*),(.*),(.*),(.*),(.*),(.*),(.*),(.*),(.*),(.*)\\N({.*})({.*})({.*})({.*})({.*})({.*})({.*})(.*)")
+re_package = re.compile(r"Dialogue(.*),(.*),(.*),(.*),(.*),(.*),(.*),(.*),(.*),({.*})(.*)({.*})\\N({.*})(.*)({.*})")
 file_name_re = re.compile(r"(.*)\.ass")
 
 for root, dir, files in os.walk("."):
@@ -43,8 +48,8 @@ for root, dir, files in os.walk("."):
                     match = re_package.search(line)
                     if match is None:
                         continue
-                    str1 = match.group(2)
+                    str1 = match.group(11)
                     dest.write('%s%s\n' % ('\t', str1.rstrip('\n')))
-                    str2 = match.group(3)
+                    str2 = match.group(14)
                     dest.write('%s%s\n' % ('\t', str2.rstrip('\n')))
 

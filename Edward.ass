@@ -1,0 +1,968 @@
+﻿[Script Info]
+; // 此字幕由TimeM生成
+; // 欢迎访问人人影视 http://www.YYeTs.net
+Title:YYeTs
+Original Script:YYeTs
+Synch Point:1
+ScriptType:v4.00+
+Collisions:Normal
+Timer:100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正黑体简体,21,&H00FFFFFF,&HF0000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0.00,1,2,1,2,5,5,1,134
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:10.00,*Default,NTP,0000,0000,0000,,{\fad(500,500)\bord0\shad0\fscx11\fscy14\p1\c&HCE8F00&\pos(62,285)}m 20 0 l 209 0 b 218 0 229 11 229 20 l 229 209 b 229 218 218 228 209 228 l 20 228 b 11 228 0 218 0 209 l 0 20 b 0 11 11 0 20 0{\p0}
+Dialogue: 0,0:00:00.00,0:00:10.00,*Default,NTP,0000,0000,0000,,{\fad(500,500)\bord0\shad0\fscx11\fscy14\p1\c&HF6DBA1&\pos(62,285)}m 115 64 l 115 35 l 171 0 l 177 0 l 133 46 l 143 52 l 179 0 l 184 0 l 159 63 l 229 107 l 229 182 l 145 96 l 135 122 l 207 227 l 137 227 l 115 172 l 115 93 l 126 76 l 115 64 l 104 76 l 115 93 l 115 172 l 93 227 l 23 227 l 95 122 l 84 96 l 0 182 l 0 107 l 70 63 l 45 0 l 50 0 l 87 52 l 97 46 l 52 0 l 59 0 l 115 35{\p0}
+Dialogue: 0,0:00:00.00,0:00:10.00,*Default,NTP,0000,0000,0000,,{\fad(500,500)\bord0\shad0\fscx15\fscy18\p1\1a&H3D&\c&HFFFFFF&\blur10\pos(51,275)}m 71 60 b 71 0 161 0 161 60 b 161 120 71 120 71 60{\p0}
+Dialogue: 0,0:00:00.50,0:00:05.00,*Default,NTP,0000,0000,0000,,{\an5\fad(500,500)\fs16\c&H26F4FF&\fn方正准圆简体\shad0\bord1\blur5\clip(73,252,361,288)\move(16,270,192,270,0,500)\t(4000,4500,1,\frx1080)}字幕来源：{\fs18\c&HFFFFFF&}九洲客    {\fs16\c&H26F4FF&}后期：{\fs18\c&HFFFFFF&}Sung1219
+Dialogue: 0,0:00:05.00,0:00:09.50,*Default,NTP,0000,0000,0000,,{\an5\fad(500,500)\fs16\c&H26F4FF&\fn方正准圆简体\shad0\bord1\blur5\clip(73,252,361,288)\move(16,270,200,270,0,500)\t(4000,4500,1,\frx1080)}本字幕非人人影视翻译  人人影视只做压制处理
+Dialogue: 0,0:00:00.00,0:00:10.00,*Default,NTP,0000,0000,0000,,{\fs20\3c&HFFFFFF&\fs36\fscx1350\alpha&H9F&\c&H000000&\bord1\shad0\clip(71,252,75,290)\t(0,500,1,\clip(73,252,361,288)\t(9500,10000,1,\clip(71,252,75,280)))\pos(206,289)}■
+Dialogue: 0,0:00:33.20,0:00:41.87,*Default,NTP,0000,0000,0000,,{\an8}{\fn方正黑体简体\fs18\b1\bord1\shad1\3c&H2F2F2F&}片名  剪刀手爱德华
+Dialogue: 0,0:03:04.01,0:03:07.00,*Default,NTP,0000,0000,0000,,外面很冷  快钻进被窝\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Snuggle in, sweetie! lt's cold out there.
+Dialogue: 0,0:03:11.07,0:03:15.06,*Default,NTP,0000,0000,0000,,为什么会下雪? 雪是从哪里来的?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Why is it snowing, Grandma? Where does it come from?
+Dialogue: 0,0:03:15.06,0:03:18.03,*Default,NTP,0000,0000,0000,,这说来话长\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Oh, that's a long story, sweetheart.
+Dialogue: 0,0:03:19.00,0:03:22.09,*Default,NTP,0000,0000,0000,,-我想听  -改天再说  快睡吧\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-I wanna hear. -Oh, not tonight. Go to sleep.
+Dialogue: 0,0:03:22.09,0:03:25.04,*Default,NTP,0000,0000,0000,,我还不困  告诉我吧  求求你\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I'm not sleepy. Tell me, please.
+Dialogue: 0,0:03:26.03,0:03:28.01,*Default,NTP,0000,0000,0000,,好吧\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Well, all right.
+Dialogue: 0,0:03:29.09,0:03:31.05,*Default,NTP,0000,0000,0000,,我来想想\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Let's see...
+Dialogue: 0,0:03:32.05,0:03:35.07,*Default,NTP,0000,0000,0000,,我想就从剪刀说起吧\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I guess it would have to start with... scissors!
+Dialogue: 0,0:03:36.04,0:03:37.09,*Default,NTP,0000,0000,0000,,剪刀?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Scissors?
+Dialogue: 0,0:03:38.06,0:03:41.03,*Default,NTP,0000,0000,0000,,什么的剪刀都有\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Well, there are all kinds of scissors.
+Dialogue: 0,0:03:41.99,0:03:47.59,*Default,NTP,0000,0000,0000,,从前  有个人的手便是剪刀\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}And once there was even a man who had scissors for hands.
+Dialogue: 0,0:03:48.02,0:03:50.00,*Default,NTP,0000,0000,0000,,-男人? -是\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-A man? -Yes.
+Dialogue: 0,0:03:50.03,0:03:54.10,*Default,NTP,0000,0000,0000,,-手拿剪刀? -不  是剪刀手\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Hands scissors? -No, scissor hands.
+Dialogue: 0,0:03:55.03,0:03:59.12,*Default,NTP,0000,0000,0000,,你知道山顶那座古堡吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You know the mansion on top of the mountain?
+Dialogue: 0,0:04:00.04,0:04:02.01,*Default,NTP,0000,0000,0000,,那里在闹鬼\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}It's haunted.
+Dialogue: 0,0:04:02.01,0:04:02.91,*Default,NTP,0000,0000,0000,,嗯\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Well...
+Dialogue: 0,0:04:04.51,0:04:06.61,*Default,NTP,0000,0000,0000,,很久以前\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}A long time ago...
+Dialogue: 0,0:04:08.04,0:04:11.01,*Default,NTP,0000,0000,0000,,有位发明家住在那里\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}an inventor lived in that mansion.
+Dialogue: 0,0:04:12.07,0:04:15.01,*Default,NTP,0000,0000,0000,,他发明了许多东西\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}He made many things, I suppose.
+Dialogue: 0,0:04:21.05,0:04:23.05,*Default,NTP,0000,0000,0000,,他甚至创造出一个人\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}He also created a man.
+Dialogue: 0,0:04:25.03,0:04:28.93,*Default,NTP,0000,0000,0000,,他给他造了器官  心脏  头脑  以及一切\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}He gave him insides, a heart, a brain, everything.
+Dialogue: 0,0:04:32.04,0:04:34.05,*Default,NTP,0000,0000,0000,,几乎什么都有了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Well, almost everything.
+Dialogue: 0,0:04:36.09,0:04:39.05,*Default,NTP,0000,0000,0000,,但那发明家年纪很大了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You see, the inventor was very old.
+Dialogue: 0,0:04:40.09,0:04:44.02,*Default,NTP,0000,0000,0000,,他临死前  尚未完成一切\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}He died before he got to fiinish the man he invented.
+Dialogue: 0,0:04:45.08,0:04:48.03,*Default,NTP,0000,0000,0000,,所以就留下了那个男孩\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}So the man was left by himself,
+Dialogue: 0,0:04:49.04,0:04:51.06,*Default,NTP,0000,0000,0000,,未被完成  并且非常孤单\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}incomplete and all alone.
+Dialogue: 0,0:04:54.04,0:04:56.07,*Default,NTP,0000,0000,0000,,他有没有名字?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}He didn't have a name?
+Dialogue: 0,0:04:57.02,0:04:59.03,*Default,NTP,0000,0000,0000,,他当然有名字\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Of course he had a name.
+Dialogue: 0,0:05:00.01,0:05:02.00,*Default,NTP,0000,0000,0000,,他叫爱德华\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}His name was Edward.
+Dialogue: 0,0:05:49.07,0:05:50.07,*Default,NTP,0000,0000,0000,,雅芳来拜候你\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Avon calling!
+Dialogue: 0,0:05:50.07,0:05:54.01,*Default,NTP,0000,0000,0000,,-你不是刚来过吗? -不  那是上一季了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Weren't you just here? -No, not since last season!
+Dialogue: 0,0:05:54.06,0:05:57.89,*Default,NTP,0000,0000,0000,,今天我是来展示新系列眼影\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Today I've come to show you our exquisite new line of softer colours, in shadows,
+Dialogue: 0,0:05:57.90,0:06:00.53,*Default,NTP,0000,0000,0000,,粉底  唇膏\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}blushes and lipstick.
+Dialogue: 0,0:06:00.53,0:06:04.40,*Default,NTP,0000,0000,0000,,配合你瞬息万变的容颜\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Everything you need to accent and highlight your changing look.
+Dialogue: 0,0:06:04.40,0:06:08.01,*Default,NTP,0000,0000,0000,,瞬息万变的容貌? 真好\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}My changing look... That's good!
+Dialogue: 0,0:06:08.07,0:06:11.99,*Default,NTP,0000,0000,0000,,另外你喜欢的系列我也有\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I also have a complete selection of your old favourites,
+Dialogue: 0,0:06:12.02,0:06:16.07,*Default,NTP,0000,0000,0000,,这是本公司一向畅销的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}those tried and true products we've all come to depend on year in and year out.
+Dialogue: 0,0:06:16.11,0:06:19.04,*Default,NTP,0000,0000,0000,,你知我从未跟你买过\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Come on, Peg, I never buy anything from you.
+Dialogue: 0,0:06:19.08,0:06:21.03,*Default,NTP,0000,0000,0000,,我知道  再见  海伦  再见\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I know. Bye, Helen.
+Dialogue: 0,0:06:22.02,0:06:23.80,*Default,NTP,0000,0000,0000,,这个不用叫我啊\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Um, you didn't have to call me, ma'am. 
+Dialogue: 0,0:06:23.80,0:06:26.09,*Default,NTP,0000,0000,0000,,你应该可以自己修理\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You could have taken care of this by yourself.
+Dialogue: 0,0:06:26.09,0:06:27.99,*Default,NTP,0000,0000,0000,,那里可以\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I could? I don't think so.
+Dialogue: 0,0:06:27.99,0:06:31.09,*Default,NTP,0000,0000,0000,,只是水管塞了而已\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}It's easy. Your food trap's clogged, that's all.
+Dialogue: 0,0:06:31.09,0:06:34.05,*Default,NTP,0000,0000,0000,,你把这个圆球卸下来\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}See this bolt here? You just unscrew this...
+Dialogue: 0,0:06:34.05,0:06:35.09,*Default,NTP,0000,0000,0000,,看\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Mm-hm...
+Dialogue: 0,0:06:36.02,0:06:37.97,*Default,NTP,0000,0000,0000,,这不就下来了吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}And out she pops.
+Dialogue: 0,0:06:38.00,0:06:40.03,*Default,NTP,0000,0000,0000,,电视说  水电工都很寂寞\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}On TV they say you repairmen are a lonely bunch.
+Dialogue: 0,0:06:40.06,0:06:45.04,*Default,NTP,0000,0000,0000,,其实我们家庭主妇也很寂寞\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Housewives get lonely too,
+Dialogue: 0,0:06:45.05,0:06:47.11,*Default,NTP,0000,0000,0000,,卸下来后\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}And then you just take this 
+Dialogue: 0,0:06:47.11,0:06:49.51,*Default,NTP,0000,0000,0000,,再小心的装回去\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}and put it back in here nice and easy. Be careful not to force it.
+Dialogue: 0,0:06:49.51,0:06:53.08,*Default,NTP,0000,0000,0000,,别使劲  这尺寸刚好塞进  然后再转回去\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}And then you just screw this back on.
+Dialogue: 0,0:06:54.98,0:06:56.25,*Default,NTP,0000,0000,0000,,会是谁啊\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Oh, now who could that be?
+Dialogue: 0,0:06:57.06,0:07:00.00,*Default,NTP,0000,0000,0000,,失陪一下\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Will you excuse me for a moment?
+Dialogue: 0,0:07:00.04,0:07:04.06,*Default,NTP,0000,0000,0000,,别乱跑  我马上回来  你教得太出色\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Now, don't go anywhere. I'll be right back. This is fascinatin'!
+Dialogue: 0,0:07:04.06,0:07:07.03,*Default,NTP,0000,0000,0000,,我不想错漏任何一部份\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I wouldn't wanna miss a moment of it!
+Dialogue: 0,0:07:11.07,0:07:14.34,*Default,NTP,0000,0000,0000,,-早  雅芳来拜候你  -为什么\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Good morning, Joyce. Avon calling! -Why, Peg...
+Dialogue: 0,0:07:14.34,0:07:18.94,*Default,NTP,0000,0000,0000,,你是不是盲的? 看见我这里停了一部车吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Have you gone blind? Can't you see that vehicle in my drive?
+Dialogue: 0,0:07:20.05,0:07:21.09,*Default,NTP,0000,0000,0000,,看见\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Oh. Yes.
+Dialogue: 0,0:07:22.00,0:07:24.07,*Default,NTP,0000,0000,0000,,这就表示现在我很忙\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Don't you realise that means I'm busy?
+Dialogue: 0,0:07:26.03,0:07:28.05,*Default,NTP,0000,0000,0000,,现在我们来选唇膏\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}OK, now we should decide on lipsticks.
+Dialogue: 0,0:07:28.09,0:07:33.06,*Default,NTP,0000,0000,0000,,你最喜欢哪一支? 你擦桃红色很迷人\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}OK, dear, did you like the Winsome Wahini, which looked charming on you,
+Dialogue: 0,0:07:33.07,0:07:35.08,*Default,NTP,0000,0000,0000,,或者是橙红色\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}or the Bahimini Bliss?
+Dialogue: 0,0:07:36.02,0:07:38.49,*Default,NTP,0000,0000,0000,,-我两款都喜欢  -太好了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-I like 'em both. -Well, great!
+Dialogue: 0,0:07:39.03,0:07:42.06,*Default,NTP,0000,0000,0000,,你不会以为我有钱吧?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You don't actually think I have any money, do you?
+Dialogue: 0,0:07:54.08,0:07:58.38,*Default,NTP,0000,0000,0000,,叮当  雅芳推销小姐\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Ding-dong! The Avon lady!
+Dialogue: 0,0:08:01.02,0:08:03.00,*Default,NTP,0000,0000,0000,,今天运气真差\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Just not my day.
+Dialogue: 0,0:10:00.00,0:10:02.02,*Default,NTP,0000,0000,0000,,我的天\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Oh, my goodness!
+Dialogue: 0,0:10:21.02,0:10:23.03,*Default,NTP,0000,0000,0000,,好美啊\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Oh, it's so beautiful!
+Dialogue: 0,0:10:45.06,0:10:46.09,*Default,NTP,0000,0000,0000,,哈啰\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Hello?
+Dialogue: 0,0:11:14.05,0:11:15.08,*Default,NTP,0000,0000,0000,,哈啰\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Hello?
+Dialogue: 0,0:11:24.01,0:11:26.72,*Default,NTP,0000,0000,0000,,我是雅芳小姐\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Hello? Avon calling!
+Dialogue: 0,0:12:02.01,0:12:04.00,*Default,NTP,0000,0000,0000,,天啊\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Oh, my!
+Dialogue: 0,0:12:06.07,0:12:08.01,*Default,NTP,0000,0000,0000,,有人吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Hello?
+Dialogue: 0,0:12:09.07,0:12:11.01,*Default,NTP,0000,0000,0000,,有人吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Hello?
+Dialogue: 0,0:12:13.03,0:12:17.99,*Default,NTP,0000,0000,0000,,我是本地雅芳业务代表\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I'm Peg Boggs. I'm your local Avon representative. Hello?
+Dialogue: 0,0:12:29.06,0:12:32.13,*Default,NTP,0000,0000,0000,,很冒昧闯进来\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I... I'm sorry to barge in like this, 
+Dialogue: 0,0:12:32.13,0:12:34.05,*Default,NTP,0000,0000,0000,,请不必害怕\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}but you don't have any reason to be afraid.
+Dialogue: 0,0:12:35.03,0:12:38.01,*Default,NTP,0000,0000,0000,,这房子真大\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Ooh! This is some huge house, isn't it?
+Dialogue: 0,0:12:38.05,0:12:41.06,*Default,NTP,0000,0000,0000,,还好我参加过有氧舞蹈\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Thank goodness for those aerobics... classes.
+Dialogue: 0,0:13:37.02,0:13:39.39,*Default,NTP,0000,0000,0000,,有人吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Hello? Hello?
+Dialogue: 0,0:13:40.08,0:13:43.01,*Default,NTP,0000,0000,0000,,你为何躲在那里?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Why are you hiding back there?
+Dialogue: 0,0:13:46.06,0:13:49.07,*Default,NTP,0000,0000,0000,,你不用躲我  我叫碧姬\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You don't have to hide from me. I'm Peg Boggs.
+Dialogue: 0,0:13:49.09,0:13:51.48,*Default,NTP,0000,0000,0000,,我是本地雅芳代表\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I'm your local Avon representative,
+Dialogue: 0,0:13:51.52,0:13:53.87,*Default,NTP,0000,0000,0000,,我像樱桃般可人\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}and I'm as harmless as cherry pie...
+Dialogue: 0,0:13:53.87,0:13:56.96,*Default,NTP,0000,0000,0000,,天啊\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Oh, my!
+Dialogue: 0,0:13:57.00,0:13:59.05,*Default,NTP,0000,0000,0000,,我想我一定是打扰你了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I can see that I've disturbed you.
+Dialogue: 0,0:13:59.06,0:14:01.09,*Default,NTP,0000,0000,0000,,我真笨我立刻便走\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}How stupid of me. I'll just be going now.
+Dialogue: 0,0:14:01.13,0:14:03.04,*Default,NTP,0000,0000,0000,,别走\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Don't go.
+Dialogue: 0,0:14:10.03,0:14:11.07,*Default,NTP,0000,0000,0000,,天啊\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Oh, my!
+Dialogue: 0,0:14:13.16,0:14:15.05,*Default,NTP,0000,0000,0000,,你发生什么事?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}What happened to you?
+Dialogue: 0,0:14:15.05,0:14:17.02,*Default,NTP,0000,0000,0000,,-我还没完成  -哦\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-I'm not finished. -Ohh!
+Dialogue: 0,0:14:17.06,0:14:20.08,*Default,NTP,0000,0000,0000,,放下来  请不要再接近\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Put those down. Don't come any closer. Please...
+Dialogue: 0,0:14:28.00,0:14:30.00,*Default,NTP,0000,0000,0000,,这是你的手?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Those are your hands?
+Dialogue: 0,0:14:30.09,0:14:32.09,*Default,NTP,0000,0000,0000,,这是你的手\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Those are your hands!
+Dialogue: 0,0:14:37.05,0:14:39.05,*Default,NTP,0000,0000,0000,,你怎么了?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}What happened to you?
+Dialogue: 0,0:14:41.19,0:14:43.69,*Default,NTP,0000,0000,0000,,你父母呢?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Where are your parents? Um...
+Dialogue: 0,0:14:44.69,0:14:47.42,*Default,NTP,0000,0000,0000,,你母亲呢?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Your mother?
+Dialogue: 0,0:14:47.46,0:14:50.08,*Default,NTP,0000,0000,0000,,你父亲呢?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Your father?
+Dialogue: 0,0:14:51.00,0:14:52.09,*Default,NTP,0000,0000,0000,,他没有醒来\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}He didn't wake up.
+Dialogue: 0,0:14:56.90,0:15:02.10,*Default,NTP,0000,0000,0000,,你一个人吗? 只有你一个人住在这里?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Are you alone? Do you live up here all by yourself?
+Dialogue: 0,0:15:05.04,0:15:07.06,*Default,NTP,0000,0000,0000,,你的脸怎么了?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}What happened to your face?
+Dialogue: 0,0:15:11.02,0:15:13.00,*Default,NTP,0000,0000,0000,,我不会伤害你\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I won't hurt you.
+Dialogue: 0,0:15:14.08,0:15:18.02,*Default,NTP,0000,0000,0000,,让我为你敷收敛剂\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}At the very least, let me give you a good astringent.
+Dialogue: 0,0:15:18.05,0:15:21.02,*Default,NTP,0000,0000,0000,,这可以防止感染细菌\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}This will help to prevent infection.
+Dialogue: 0,0:15:32.04,0:15:34.03,*Default,NTP,0000,0000,0000,,你叫什么?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}What's your name?
+Dialogue: 0,0:15:34.08,0:15:36.03,*Default,NTP,0000,0000,0000,,爱德华\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Edward.
+Dialogue: 0,0:15:37.03,0:15:38.08,*Default,NTP,0000,0000,0000,,爱德华\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Edward...
+Dialogue: 0,0:15:42.04,0:15:45.03,*Default,NTP,0000,0000,0000,,我想你应该跟我回家\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I think you should just come home with me.
+Dialogue: 0,0:15:58.04,0:15:59.07,*Default,NTP,0000,0000,0000,,哦\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Ohh!
+Dialogue: 0,0:15:59.26,0:16:02.53,*Default,NTP,0000,0000,0000,,-不好意思  -不必抱歉\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-I'm... I'm sorry. -No. No, don't be.
+Dialogue: 0,0:16:03.00,0:16:06.06,*Default,NTP,0000,0000,0000,,去看看  你应该会感到很兴奋\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You go ahead and look. You have every reason to be excited.
+Dialogue: 0,0:16:10.08,0:16:12.04,*Default,NTP,0000,0000,0000,,你没事吧?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Oh! You OK?
+Dialogue: 0,0:16:13.08,0:16:15.02,*Default,NTP,0000,0000,0000,,你没事吧?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You OK?
+Dialogue: 0,0:16:46.00,0:16:46.99,*Default,NTP,0000,0000,0000,,你好\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Hello?
+Dialogue: 0,0:16:47.02,0:16:48.31,*Default,NTP,0000,0000,0000,,我是玛姬\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Hi. Yeah, it's Marge.
+Dialogue: 0,0:16:48.31,0:16:51.25,*Default,NTP,0000,0000,0000,,我刚刚在外面和嘉露聊天\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I was standing outside talking to Carol, and Peg drove by. 
+Dialogue: 0,0:16:51.25,0:16:53.52,*Default,NTP,0000,0000,0000,,看见碧姬载了一个男人\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}She had somebody with her.
+Dialogue: 0,0:16:54.00,0:16:56.08,*Default,NTP,0000,0000,0000,,-你看清楚是谁? -我没看清楚\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Did you get a good look at him? -No, I didn't.
+Dialogue: 0,0:16:56.08,0:16:59.02,*Default,NTP,0000,0000,0000,,她家有客人要来吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Did she say anything to you about having a guest?
+Dialogue: 0,0:16:59.05,0:17:02.09,*Default,NTP,0000,0000,0000,,她没说  今早她来按过门铃\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Nothing at all. She rang my doorbell at the crack of dawn.
+Dialogue: 0,0:17:02.13,0:17:05.15,*Default,NTP,0000,0000,0000,,我们待会街角见\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}No... OK, I'll meet you on the corner.
+Dialogue: 0,0:17:05.23,0:17:07.06,*Default,NTP,0000,0000,0000,,好  再见\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Right. Bye.
+Dialogue: 0,0:17:11.09,0:17:14.02,*Default,NTP,0000,0000,0000,,妈的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Oh! Damn!
+Dialogue: 0,0:17:26.06,0:17:28.08,*Default,NTP,0000,0000,0000,,这是我家\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Here we go, dear. This is our house.
+Dialogue: 0,0:17:28.08,0:17:32.04,*Default,NTP,0000,0000,0000,,进来  不要客气\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You can just go right in and make yourself right at home, OK?
+Dialogue: 0,0:17:32.07,0:17:35.96,*Default,NTP,0000,0000,0000,,你要吃  喝什么都行\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}We'll have something to eat or drink, or... Whatever you...
+Dialogue: 0,0:17:36.00,0:17:40.09,*Default,NTP,0000,0000,0000,,前门在这儿  我们从这里进去\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Here, dear. Here we go. This is the front door. Here we go. Right in here.
+Dialogue: 0,0:17:40.09,0:17:43.25,*Default,NTP,0000,0000,0000,,乔伊斯  碧姬跟个男人在一起\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Joyce? I just saw this strange guy drive in with Peg. 
+Dialogue: 0,0:17:43.25,0:17:45.03,*Default,NTP,0000,0000,0000,,我没看清他什么样子\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I didn't get a good look.
+Dialogue: 0,0:17:45.07,0:17:46.99,*Default,NTP,0000,0000,0000,,只是脸很苍白\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}He looked kinda pale.
+Dialogue: 0,0:17:47.02,0:17:49.06,*Default,NTP,0000,0000,0000,,一定要预我参与\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}On my way. Don't do anything without me.
+Dialogue: 0,0:17:49.10,0:17:51.06,*Default,NTP,0000,0000,0000,,好  马上到\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Yes! Be right there!
+Dialogue: 0,0:17:57.06,0:17:59.02,*Default,NTP,0000,0000,0000,,就是这里\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Here we are.
+Dialogue: 0,0:18:18.01,0:18:22.09,*Default,NTP,0000,0000,0000,,这是卧室  浴室在后头\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}So... um, this is the living room and back here are the bedrooms.
+Dialogue: 0,0:18:22.09,0:18:25.07,*Default,NTP,0000,0000,0000,,你想看照片  好吧\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You want to see the pictures? All right.
+Dialogue: 0,0:18:26.06,0:18:30.81,*Default,NTP,0000,0000,0000,,这是我先生  比尔  他是保龄球冠军\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Well, this is my husband Bill. He's a bowling champion.
+Dialogue: 0,0:18:31.01,0:18:33.04,*Default,NTP,0000,0000,0000,,你知道那是什么吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Do you know what bowling is?
+Dialogue: 0,0:18:33.05,0:18:35.00,*Default,NTP,0000,0000,0000,,保龄球?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Bowling?
+Dialogue: 0,0:18:35.04,0:18:38.04,*Default,NTP,0000,0000,0000,,这张是在湖边钓鱼\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}No. Well... Here they are down at the lake, fishing.
+Dialogue: 0,0:18:38.04,0:18:40.31,*Default,NTP,0000,0000,0000,,凯文看来不太高兴\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I think Kevin looks a little glum 
+Dialogue: 0,0:18:40.31,0:18:43.25,*Default,NTP,0000,0000,0000,,因为那天他们一条鱼也没钓到\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}because they didn't catch anything that day.
+Dialogue: 0,0:18:44.04,0:18:47.00,*Default,NTP,0000,0000,0000,,这是我女儿嘉莉\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}And, um... here's my daughter Kim.
+Dialogue: 0,0:18:48.07,0:18:51.02,*Default,NTP,0000,0000,0000,,盛装参加初中毕业舞会\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}All dressed for the junior prom.
+Dialogue: 0,0:18:59.02,0:19:02.00,*Default,NTP,0000,0000,0000,,她现在升上高一了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}She's a senior now, ifyou can believe it!
+Dialogue: 0,0:19:02.05,0:19:05.05,*Default,NTP,0000,0000,0000,,她跟朋友去露营  过几天便回来\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}She's camping in the mountains with friends,
+Dialogue: 0,0:19:05.05,0:19:08.35,*Default,NTP,0000,0000,0000,,到时就可以见到她\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}but she'll be back in a few days. You can meet then.
+Dialogue: 0,0:19:17.09,0:19:20.46,*Default,NTP,0000,0000,0000,,她很美丽吧?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Isn't she beautiful?
+Dialogue: 0,0:19:27.08,0:19:29.06,*Default,NTP,0000,0000,0000,,这就是我们全家\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}That's my family.
+Dialogue: 0,0:19:30.07,0:19:33.02,*Default,NTP,0000,0000,0000,,来  我带你四处看看\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Come along. I'll show you the rest ofthe house.
+Dialogue: 0,0:19:33.05,0:19:36.01,*Default,NTP,0000,0000,0000,,你去洗个脸  换件衣服\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Then you can just freshen up and make yourself at home.
+Dialogue: 0,0:19:36.05,0:19:40.03,*Default,NTP,0000,0000,0000,,厨房在那边  你想吃什么自己拿\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}That's the kitchen over there. Help yourself to anything you want.
+Dialogue: 0,0:19:40.05,0:19:44.00,*Default,NTP,0000,0000,0000,,这是葡萄  后面这是卧室\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Those are grapes. And, um... back here are the bedrooms.
+Dialogue: 0,0:19:44.00,0:19:47.97,*Default,NTP,0000,0000,0000,,我去拿毛巾  还有衣服\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Let me get you some towels and I'lI see what we can find for you to wear.
+Dialogue: 0,0:19:48.00,0:19:52.20,*Default,NTP,0000,0000,0000,,这里应该有比尔的旧衣服\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You know what? I think I have some of Bill's old clothes in here. 
+Dialogue: 0,0:19:52.20,0:19:53.49,*Default,NTP,0000,0000,0000,,这件不错\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}This is perfect!
+Dialogue: 0,0:19:54.01,0:19:55.99,*Default,NTP,0000,0000,0000,,你应该可以穿\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Here. These should just fit you.
+Dialogue: 0,0:19:56.02,0:19:59.09,*Default,NTP,0000,0000,0000,,-不用怕  -那是电话声\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Oh! Don't be alarmed. That's just the phone.
+Dialogue: 0,0:19:59.09,0:20:04.02,*Default,NTP,0000,0000,0000,,到嘉莉房间换  我马上来\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Now you can go in Kim's room and put these on, and I'll be right with you.
+Dialogue: 0,0:21:50.00,0:21:52.08,*Default,NTP,0000,0000,0000,,他有剪刀  对\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}No, no, scissors. No, scissors.
+Dialogue: 0,0:21:53.03,0:21:57.05,*Default,NTP,0000,0000,0000,,没错  他大概在山上出生吧\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}That's right. Well, he was... born up there or... something.
+Dialogue: 0,0:21:57.05,0:22:01.06,*Default,NTP,0000,0000,0000,,-你见过他? -我想他以前没下来过\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Have you seen him before? -No, I doubt he's ever been off the grounds.
+Dialogue: 0,0:22:01.06,0:22:04.01,*Default,NTP,0000,0000,0000,,那你怎么和他在一起?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Then how did you ever get together with him?
+Dialogue: 0,0:22:04.05,0:22:08.04,*Default,NTP,0000,0000,0000,,下次再跟你说\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Listen, I have to go now. I'll talk to you later, Marge. Bye-bye.
+Dialogue: 0,0:22:18.06,0:22:20.08,*Default,NTP,0000,0000,0000,,抱歉  我忘了...\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Sorry, Edward, I didn't...
+Dialogue: 0,0:22:21.07,0:22:23.07,*Default,NTP,0000,0000,0000,,我可以帮你吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}May I help you with this?
+Dialogue: 0,0:22:23.07,0:22:25.03,*Default,NTP,0000,0000,0000,,谢谢\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Thank you.
+Dialogue: 0,0:22:28.05,0:22:31.05,*Default,NTP,0000,0000,0000,,你划伤了脸\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}There you go. Oh dear, you've cut your face.
+Dialogue: 0,0:22:31.06,0:22:33.19,*Default,NTP,0000,0000,0000,,我来替你处理\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Here. Let me just get this right off.
+Dialogue: 0,0:22:33.19,0:22:36.03,*Default,NTP,0000,0000,0000,,-痛吗? -不\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Does that hurt? -No.
+Dialogue: 0,0:22:36.03,0:22:38.09,*Default,NTP,0000,0000,0000,,好我替你穿衣服\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Good. OK. Now, let's get you dressed.
+Dialogue: 0,0:22:39.09,0:22:41.03,*Default,NTP,0000,0000,0000,,好的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}OK...
+Dialogue: 0,0:22:42.06,0:22:44.06,*Default,NTP,0000,0000,0000,,穿好了  很好\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}There we go. Very fine!
+Dialogue: 0,0:22:50.02,0:22:52.04,*Default,NTP,0000,0000,0000,,你穿得很好看\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You look fine, just fine!
+Dialogue: 0,0:22:57.05,0:23:00.07,*Default,NTP,0000,0000,0000,,快我们不等你了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Helen, come on! She wouldn't wait for you.
+Dialogue: 0,0:23:01.02,0:23:03.07,*Default,NTP,0000,0000,0000,,该死的头发\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I've got rollers in my damn hair!
+Dialogue: 0,0:23:21.09,0:23:23.02,*Default,NTP,0000,0000,0000,,好的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}OK...
+Dialogue: 0,0:23:23.05,0:23:26.27,*Default,NTP,0000,0000,0000,,我的剪刀呢?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Now, what did I do with my sciss...?
+Dialogue: 0,0:23:27.06,0:23:29.07,*Default,NTP,0000,0000,0000,,爱德华  麻烦你?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Edward, um... would you?
+Dialogue: 0,0:23:31.08,0:23:33.61,*Default,NTP,0000,0000,0000,,谢谢\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Thank you.
+Dialogue: 0,0:23:34.00,0:23:37.07,*Default,NTP,0000,0000,0000,,我有个医生朋友大概可以帮你\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You know, I have a doctor friend who I think could help you.
+Dialogue: 0,0:23:37.29,0:23:39.09,*Default,NTP,0000,0000,0000,,-真的? -是的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Really? -Yes.
+Dialogue: 0,0:23:41.01,0:23:43.06,*Default,NTP,0000,0000,0000,,那些疤我可以想办法\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Now, I can help with the scars...
+Dialogue: 0,0:23:46.03,0:23:50.03,*Default,NTP,0000,0000,0000,,不过  我得先看看雅芳手册\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}But I just wanna consult the big Avon handbook before doing anything.
+Dialogue: 0,0:24:35.03,0:24:35.71,*Default,NTP,0000,0000,0000,,凯文\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Kevin!
+Dialogue: 0,0:24:35.71,0:24:41.08,*Default,NTP,0000,0000,0000,,凯文\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Kevin!
+Dialogue: 0,0:24:41.08,0:24:44.02,*Default,NTP,0000,0000,0000,,这么看人很不礼貌\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}It's not polite to stare, dear.
+Dialogue: 0,0:24:46.06,0:24:50.05,*Default,NTP,0000,0000,0000,,要是人家这么看你  你怎感想\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Think how it would make you feel if somebody were staring at you.
+Dialogue: 0,0:24:50.09,0:24:54.53,*Default,NTP,0000,0000,0000,,-我不在乎  -我在乎  不要再这么看了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-I wouldn't care. -Well, I would, so don't do it!
+Dialogue: 0,0:24:55.01,0:24:58.04,*Default,NTP,0000,0000,0000,,这对你可是很大的改变\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Well, this must be quite a change for you, right, Ed?
+Dialogue: 0,0:24:58.07,0:25:02.01,*Default,NTP,0000,0000,0000,,-你叫他爱德华好了  -好的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Edward, dear. I think he prefers Edward. -Oh, sure.
+Dialogue: 0,0:25:02.09,0:25:06.31,*Default,NTP,0000,0000,0000,,你在上面大房子里做什么?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}So what have you been doin' with yourself up there in that big old place? 
+Dialogue: 0,0:25:06.51,0:25:11.01,*Default,NTP,0000,0000,0000,,-我猜景观一定不错  -爱德华\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-I bet the view must be spectacular, huh, Ed? -Edward!
+Dialogue: 0,0:25:12.00,0:25:13.03,*Default,NTP,0000,0000,0000,,嗯?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Yes?
+Dialogue: 0,0:25:14.05,0:25:16.03,*Default,NTP,0000,0000,0000,,我只是...\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}No, I... I just...
+Dialogue: 0,0:25:16.08,0:25:19.07,*Default,NTP,0000,0000,0000,,可以看到海边吧?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}See all the way to the ocean, I bet, huh?
+Dialogue: 0,0:25:20.08,0:25:21.03,*Default,NTP,0000,0000,0000,,有时候可以\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Sometimes.
+Dialogue: 0,0:25:23.02,0:25:26.03,*Default,NTP,0000,0000,0000,,把盐和胡椒递给我\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Bill, could I have the salt and pepper, please?
+Dialogue: 0,0:25:27.09,0:25:31.07,*Default,NTP,0000,0000,0000,,请把盐和胡椒递给我  谢谢\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Bill, dear, could I have the salt and pepper, please? Thank you.
+Dialogue: 0,0:25:32.04,0:25:33.09,*Default,NTP,0000,0000,0000,,凯文\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Kevin...!
+Dialogue: 0,0:25:46.01,0:25:47.06,*Default,NTP,0000,0000,0000,,凯文\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Kevin...!
+Dialogue: 0,0:25:50.08,0:25:53.00,*Default,NTP,0000,0000,0000,,那东西真型\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Man, those things are cool!
+Dialogue: 0,0:25:53.04,0:25:57.00,*Default,NTP,0000,0000,0000,,一定比剃刀锋利  要是头颈挨这一手刀...\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I bet they're razor-sharp. One karate chop to a guy's neck...
+Dialogue: 0,0:25:57.00,0:25:58.05,*Default,NTP,0000,0000,0000,,凯文\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Kevin...!
+Dialogue: 0,0:26:02.00,0:26:03.05,*Default,NTP,0000,0000,0000,,爱德华\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Edward,
+Dialogue: 0,0:26:03.09,0:26:06.09,*Default,NTP,0000,0000,0000,,你面包要牛油吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}would you like some butter for your bread?
+Dialogue: 0,0:26:11.04,0:26:12.08,*Default,NTP,0000,0000,0000,,太棒了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Great!
+Dialogue: 0,0:26:13.05,0:26:15.00,*Default,NTP,0000,0000,0000,,谢谢\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Thank you.
+Dialogue: 0,0:26:17.45,0:26:20.07,*Default,NTP,0000,0000,0000,,我星期一可以带他上课吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Hey, can I bring him to show and tell on Monday?
+Dialogue: 0,0:26:20.07,0:26:22.08,*Default,NTP,0000,0000,0000,,凯文  够了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Kevin, I've had enough.
+Dialogue: 0,0:26:27.06,0:26:29.04,*Default,NTP,0000,0000,0000,,你可以睡觉吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Do you think you can sleep?
+Dialogue: 0,0:26:29.07,0:26:33.05,*Default,NTP,0000,0000,0000,,生活起居  你很快会习惯的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I know things feel strange, but soon you'll feel right at home.
+Dialogue: 0,0:26:33.46,0:26:36.03,*Default,NTP,0000,0000,0000,,-晚安  -晚安\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Good night. -Good night.
+Dialogue: 0,0:27:37.04,0:27:40.04,*Default,NTP,0000,0000,0000,,先抹些淡色盖斑霜\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}The light concealing cream goes on first,
+Dialogue: 0,0:27:40.09,0:27:43.02,*Default,NTP,0000,0000,0000,,然后混在一起\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}then you blend and blend and blend.
+Dialogue: 0,0:27:43.05,0:27:45.02,*Default,NTP,0000,0000,0000,,这是秘决\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Blending is the secret.
+Dialogue: 0,0:27:45.06,0:27:46.06,*Default,NTP,0000,0000,0000,,嗯\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Mm-hm!
+Dialogue: 0,0:27:48.00,0:27:49.05,*Default,NTP,0000,0000,0000,,再抹上一点\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}More concealing cream...
+Dialogue: 0,0:27:49.09,0:27:52.01,*Default,NTP,0000,0000,0000,,你的五官很好\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Your complexion is so fair!
+Dialogue: 0,0:27:52.06,0:27:55.05,*Default,NTP,0000,0000,0000,,这种霜带点淡紫色的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Now, this has a touch of lavender in it...
+Dialogue: 0,0:27:56.00,0:27:58.00,*Default,NTP,0000,0000,0000,,这里也抹一点\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Give it a try here.
+Dialogue: 0,0:27:58.00,0:27:59.07,*Default,NTP,0000,0000,0000,,差不多了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Close enough!
+Dialogue: 0,0:28:00.04,0:28:05.52,*Default,NTP,0000,0000,0000,,很好  这应该可以了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}OK, this should do the trick here.
+Dialogue: 0,0:28:06.04,0:28:07.08,*Default,NTP,0000,0000,0000,,好的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Hmph!
+Dialogue: 0,0:28:09.01,0:28:11.00,*Default,NTP,0000,0000,0000,,我想到另一主意\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I have another idea.
+Dialogue: 0,0:28:11.09,0:28:15.09,*Default,NTP,0000,0000,0000,,我先把疤痕补平  再开始化妆\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}We'll cover up the scars and start with a completely smooth surface.
+Dialogue: 0,0:28:30.02,0:28:32.00,*Default,NTP,0000,0000,0000,,该死的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Darn this stuff!
+Dialogue: 0,0:28:41.09,0:28:45.06,*Default,NTP,0000,0000,0000,,现在的比分是3比1\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}They  still  have  11  on  the  scoreboard,  and  it's  three  to  one.
+Dialogue: 0,0:28:48.03,0:28:50.08,*Default,NTP,0000,0000,0000,,球向华伦的空隙飞去\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}It's  through  the  gap  to  Warren.
+Dialogue: 0,0:28:54.03,0:28:55.44,*Default,NTP,0000,0000,0000,,变成12个安打了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Now  they  change  it  to  12  hits.
+Dialogue: 0,0:28:55.44,0:28:58.09,*Default,NTP,0000,0000,0000,,大声点  我听不见\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Turn it up, Kevin, I can't hear it!
+Dialogue: 0,0:29:01.03,0:29:02.07,*Default,NTP,0000,0000,0000,,凯文\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Kevin!
+Dialogue: 0,0:29:05.01,0:29:07.09,*Default,NTP,0000,0000,0000,,你有没有听见?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Did you hear that, Mr Boggs?
+Dialogue: 0,0:29:07.09,0:29:10.04,*Default,NTP,0000,0000,0000,,听不见  大声点\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}No, make it louder!
+Dialogue: 0,0:29:10.08,0:29:12.09,*Default,NTP,0000,0000,0000,,历史在这一刻被改写\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}it's  out  of  here,  it's  history
+Dialogue: 0,0:29:17.09,0:29:19.03,*Default,NTP,0000,0000,0000,,爸\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Dad...
+Dialogue: 0,0:29:19.05,0:29:20.09,*Default,NTP,0000,0000,0000,,你看\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Look!
+Dialogue: 0,0:29:21.03,0:29:24.07,*Default,NTP,0000,0000,0000,,比赛已经进行了5个回合 胜负已分\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}to  make  ita  fiive-run  inning  and  blow  this  game  to  pieces
+Dialogue: 0,0:29:24.11,0:29:26.05,*Default,NTP,0000,0000,0000,,乖乖  不得了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I'll be darned.
+Dialogue: 0,0:29:42.07,0:29:44.03,*Default,NTP,0000,0000,0000,,这么多人打来\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}They filled the whole tape!
+Dialogue: 0,0:29:44.06,0:29:47.05,*Default,NTP,0000,0000,0000,,什么回事? 回电\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}What's going on over there, Peg? Call me.
+Dialogue: 0,0:29:47.08,0:29:50.04,*Default,NTP,0000,0000,0000,,我是玛姬  他是谁? 回电\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Hi, it's Marge. Who is he? Call me.
+Dialogue: 0,0:29:51.00,0:29:53.31,*Default,NTP,0000,0000,0000,,早上好像下雨\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Oh, by the way, lhearit's pouring rain in the mountains. 
+Dialogue: 0,0:29:53.31,0:29:55.05,*Default,NTP,0000,0000,0000,,孩子没事吧?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Do you think the kids are OK?
+Dialogue: 0,0:29:55.08,0:29:59.03,*Default,NTP,0000,0000,0000,,亲爱的  大家对你的神秘访客有兴趣\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Hey there, darlin'! The gals are all in a tizzy about your secret visitor.
+Dialogue: 0,0:29:59.04,0:30:03.00,*Default,NTP,0000,0000,0000,,你不能老把他藏起来\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You can't keep him a secretfor ever!
+Dialogue: 0,0:30:17.01,0:30:19.01,*Default,NTP,0000,0000,0000,,真是太棒了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Well, it's just wonderful, Ed. 
+Dialogue: 0,0:30:19.01,0:30:21.59,*Default,NTP,0000,0000,0000,,你把全家都修剪出来\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}My God, you have the whole family in there, don't ya?
+Dialogue: 0,0:30:21.59,0:30:26.02,*Default,NTP,0000,0000,0000,,他以一记安打回击了那些质疑的声音\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}And  he  answers  the  challenge  at  first  with  a  strike  of  his  own.
+Dialogue: 0,0:30:27.09,0:30:29.08,*Default,NTP,0000,0000,0000,,爱德华  你来\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Edward, come here.
+Dialogue: 0,0:30:38.00,0:30:39.51,*Default,NTP,0000,0000,0000,,孩子  这样不对\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}No, no, no, that's a terrible idea, son!
+Dialogue: 0,0:30:39.51,0:30:44.05,*Default,NTP,0000,0000,0000,,去车库拿点油来  我们可不能让它生锈\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Go to the garage and get the oiI can. We don't want him rusting up on us.
+Dialogue: 0,0:30:50.02,0:30:51.05,*Default,NTP,0000,0000,0000,,哦\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Ohh!
+Dialogue: 0,0:30:51.07,0:30:53.06,*Default,NTP,0000,0000,0000,,爱德华  这是你剪的?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Edward, you did us!
+Dialogue: 0,0:30:54.07,0:30:57.01,*Default,NTP,0000,0000,0000,,-比尔  那是我们啊  -是的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Oh, Bill, it's us! -Yes, it is.
+Dialogue: 0,0:30:57.01,0:30:58.07,*Default,NTP,0000,0000,0000,,哦  爱德华\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Oh, Edward!
+Dialogue: 0,0:31:00.04,0:31:04.57,*Default,NTP,0000,0000,0000,,他非来自天堂  而是来自地狱\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}It's not heaven he's from, it's straight from the stinking flames of hell.
+Dialogue: 0,0:31:04.67,0:31:07.08,*Default,NTP,0000,0000,0000,,我感觉得出他有魔鬼法力\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}The power of Satan is in him, I can feel it.
+Dialogue: 0,0:31:07.08,0:31:11.04,*Default,NTP,0000,0000,0000,,-你们有绵羊走失吗? -我们不是绵羊\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Can't you? Have you sheep strayed so far? -We're not sheep.
+Dialogue: 0,0:31:11.04,0:31:13.03,*Default,NTP,0000,0000,0000,,别靠近我\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Don't come near me.
+Dialogue: 0,0:31:17.00,0:31:20.02,*Default,NTP,0000,0000,0000,,对  你走开吧\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}That's right. Go on, get outta here, run!
+Dialogue: 0,0:31:20.06,0:31:22.04,*Default,NTP,0000,0000,0000,,爱德华  你别听她的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Edward, don't you listen to her!
+Dialogue: 0,0:31:22.07,0:31:26.08,*Default,NTP,0000,0000,0000,,别理她  她是个疯子\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Don't worry about her, Edward. She's just a little loony, that's all.
+Dialogue: 0,0:31:33.29,0:31:34.01,*Default,NTP,0000,0000,0000,,嗨\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Hi!
+Dialogue: 0,0:31:34.04,0:31:37.04,*Default,NTP,0000,0000,0000,,你们就像寄居蟹全躲起来\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You-all are hidin' in there like hermit crabs.
+Dialogue: 0,0:31:37.08,0:31:39.01,*Default,NTP,0000,0000,0000,,乔伊斯\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Hi, Joyce. Hi!
+Dialogue: 0,0:31:39.03,0:31:42.05,*Default,NTP,0000,0000,0000,,真不该  把好客人据为己有\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Shame on you, keepin' your unusual guest to yourself.
+Dialogue: 0,0:31:42.09,0:31:44.08,*Default,NTP,0000,0000,0000,,你太自私了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}We think that's mighty selfish of you.
+Dialogue: 0,0:31:44.11,0:31:46.03,*Default,NTP,0000,0000,0000,,我们确是有点兴奋\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Things have been hectic here.
+Dialogue: 0,0:31:46.06,0:31:49.08,*Default,NTP,0000,0000,0000,,很不错  你愿意改善\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}That is so sweet of you to wanna correct the situation.
+Dialogue: 0,0:31:49.12,0:31:51.08,*Default,NTP,0000,0000,0000,,什么时候举行BBQ?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}What time does the barbecue begin?
+Dialogue: 0,0:31:51.11,0:31:53.03,*Default,NTP,0000,0000,0000,,{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}BBQ?\NBarbecue?
+Dialogue: 0,0:31:53.03,0:31:56.03,*Default,NTP,0000,0000,0000,,不把你客人跟大家介绍吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You intend to introduce your guest to your friends,
+Dialogue: 0,0:31:56.06,0:32:00.03,*Default,NTP,0000,0000,0000,,-不吗? -我带凉拌卷心菜\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-don't you? -I'll bring coleslaw.
+Dialogue: 0,0:32:00.03,0:32:02.09,*Default,NTP,0000,0000,0000,,我带神仙沙拉\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}And I will bring the ambrosia salad!
+Dialogue: 0,0:32:03.07,0:32:06.07,*Default,NTP,0000,0000,0000,,-你说几点开始? -几点啊?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-What time was it that you said? -Uh, what time...
+Dialogue: 0,0:32:06.07,0:32:08.08,*Default,NTP,0000,0000,0000,,-比尔  -五点好了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Bill! -About five?
+Dialogue: 0,0:32:08.09,0:32:10.02,*Default,NTP,0000,0000,0000,,比尔\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Bill!
+Dialogue: 0,0:32:10.04,0:32:13.00,*Default,NTP,0000,0000,0000,,他是头一个被派来诱惑你们的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}He has been sent first to tempt you!
+Dialogue: 0,0:32:13.05,0:32:17.97,*Default,NTP,0000,0000,0000,,但现在还来得及  你们必须把他赶走\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}But it's not too late. You must push him from you, expel him.
+Dialogue: 0,0:32:18.09,0:32:21.06,*Default,NTP,0000,0000,0000,,毁灭这个怪胎\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Trample down the perversion of nature.
+Dialogue: 0,0:32:21.09,0:32:25.00,*Default,NTP,0000,0000,0000,,你们听到吗? 他是怪胎\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Did you hear that? He's a perversion of nature.
+Dialogue: 0,0:32:25.03,0:32:27.04,*Default,NTP,0000,0000,0000,,这真是太刺激了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Why, isn't that excitin'?
+Dialogue: 0,0:32:31.03,0:32:33.07,*Default,NTP,0000,0000,0000,,-再见  -谢谢\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Bye-bye. -Thanks so much.
+Dialogue: 0,0:32:37.00,0:32:38.06,*Default,NTP,0000,0000,0000,,比尔\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Bill! Bill?
+Dialogue: 0,0:32:41.09,0:32:45.08,*Default,NTP,0000,0000,0000,,这种BBQ  是绝对少不了卤蛋的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You really can't have a picnic or a barbecue without devilled eggs.
+Dialogue: 0,0:32:45.08,0:32:48.08,*Default,NTP,0000,0000,0000,,这是最好吃的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}They're just... the best. They make a thing.
+Dialogue: 0,0:32:49.01,0:32:53.73,*Default,NTP,0000,0000,0000,,哦  爱德华  不知你已切了这么多\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Oh, Edward, that's wonderful! I didn't know you'd chopped the whole thing.
+Dialogue: 0,0:32:54.00,0:32:55.08,*Default,NTP,0000,0000,0000,,吃不了那么多\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}We're gonna be...
+Dialogue: 0,0:32:55.09,0:32:58.04,*Default,NTP,0000,0000,0000,,我们只需要一点点\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Oh. All right now, it's just a nick.
+Dialogue: 0,0:32:58.04,0:33:01.01,*Default,NTP,0000,0000,0000,,你不必那么紧张\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}There's no need to be nervous, dear.
+Dialogue: 0,0:33:01.02,0:33:03.43,*Default,NTP,0000,0000,0000,,又不是要来很多人\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Esmeralda won't be here. 
+Dialogue: 0,0:33:03.43,0:33:06.08,*Default,NTP,0000,0000,0000,,邻居们都是很和蔼可亲的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}And the rest of the neighbours, they're really very nice.
+Dialogue: 0,0:33:06.08,0:33:10.03,*Default,NTP,0000,0000,0000,,你不必紧张  他们好想见你\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}There's no need to be nervous. They're so eager to meet you!
+Dialogue: 0,0:33:10.03,0:33:11.98,*Default,NTP,0000,0000,0000,,你自然点就行\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You just have to be yourself.
+Dialogue: 0,0:33:12.02,0:33:15.86,*Default,NTP,0000,0000,0000,,-自然点? -是的  原来可爱的你\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Myself? -That's right. Just your own sweet self.
+Dialogue: 0,0:35:42.02,0:35:45.09,*Default,NTP,0000,0000,0000,,-谢谢  -跟我们玩包剪槌吧\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Thanks, Edward. -Hey! Play scissors, paper, stone with us.
+Dialogue: 0,0:35:45.12,0:35:47.08,*Default,NTP,0000,0000,0000,,玩什么?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Play scissors what?
+Dialogue: 0,0:35:47.38,0:35:51.04,*Default,NTP,0000,0000,0000,,我有个医生朋友也许可帮你\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I got a doctor friend might be able to help you.
+Dialogue: 0,0:35:51.09,0:35:55.88,*Default,NTP,0000,0000,0000,,-他手脚真的那么俐落  -才一下午功夫?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-He did them just like that! -That is incredible.
+Dialogue: 0,0:35:56.01,0:35:59.00,*Default,NTP,0000,0000,0000,,-米高  你好吗? -你好  杰克\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Hi, Mike, how you doin'? -Hello, Jack.
+Dialogue: 0,0:35:59.04,0:36:00.09,*Default,NTP,0000,0000,0000,,孩子们\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Hey, kids!
+Dialogue: 0,0:36:01.02,0:36:05.02,*Default,NTP,0000,0000,0000,,你好  我是佐治  你握手不大方便吧\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Hi, George Monroe. That's a heck of a handshake you got there, Ed.
+Dialogue: 0,0:36:05.05,0:36:08.07,*Default,NTP,0000,0000,0000,,亨利  上礼拜你在高尔夫球场\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Harry! I saw you on the golf course last week...
+Dialogue: 0,0:36:11.24,0:36:15.67,*Default,NTP,0000,0000,0000,,你还好吧? 要吃什么? 你饿了吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Are you OK? Do you want something to eat? Are you hungry?
+Dialogue: 0,0:36:16.03,0:36:17.41,*Default,NTP,0000,0000,0000,,要饼干吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Do you want a cracker?
+Dialogue: 0,0:36:17.41,0:36:20.05,*Default,NTP,0000,0000,0000,,-他好怪异  -和其他人完全不同\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-He's different. -Completely different.
+Dialogue: 0,0:36:20.05,0:36:22.01,*Default,NTP,0000,0000,0000,,没错\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}No kidding.
+Dialogue: 0,0:36:22.04,0:36:24.06,*Default,NTP,0000,0000,0000,,-他好...  -神秘?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-He's so... -Mysterious.
+Dialogue: 0,0:36:24.09,0:36:25.09,*Default,NTP,0000,0000,0000,,是的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Yeah.
+Dialogue: 0,0:36:26.01,0:36:29.09,*Default,NTP,0000,0000,0000,,你看他的手是冷或热的?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}D'you imagine those hands are hot or cold?
+Dialogue: 0,0:36:30.00,0:36:32.06,*Default,NTP,0000,0000,0000,,你瞧那剪子能做什么?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}And just think what a single snip could do.
+Dialogue: 0,0:36:32.10,0:36:35.32,*Default,NTP,0000,0000,0000,,解开裤带呢?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Or undo.
+Dialogue: 0,0:36:36.06,0:36:37.99,*Default,NTP,0000,0000,0000,,爱德华\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Eddie. Eddie.
+Dialogue: 0,0:36:38.02,0:36:41.07,*Default,NTP,0000,0000,0000,,星期五晚  过来跟我们打牌吧\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}The guys and I want to invite you to our card game Friday night.
+Dialogue: 0,0:36:41.11,0:36:43.03,*Default,NTP,0000,0000,0000,,你要来吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Would you like that?
+Dialogue: 0,0:36:43.06,0:36:46.00,*Default,NTP,0000,0000,0000,,只有一个要求  你不能切牌\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Only thing is... you can't cut!
+Dialogue: 0,0:36:58.08,0:37:02.49,*Default,NTP,0000,0000,0000,,我也有个残障地方  对我一点妨碍也没有\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I have my own infirmity. Never did me a bit of harm.
+Dialogue: 0,0:37:03.02,0:37:08.96,*Default,NTP,0000,0000,0000,,战时受的伤  使我没了知觉  一点知觉也没有\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Took some shrapnel during the war, and ever since then I can't feel a thing!
+Dialogue: 0,0:37:09.03,0:37:12.08,*Default,NTP,0000,0000,0000,,别让人说你是残废\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Don't you ever let anybody tell you you have a handicap.
+Dialogue: 0,0:37:12.12,0:37:15.93,*Default,NTP,0000,0000,0000,,谁残废了? 我的天\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Who's handicapped? My goodness.
+Dialogue: 0,0:37:16.08,0:37:20.07,*Default,NTP,0000,0000,0000,,不要说笑  你才不是残废  你...怎么说?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Don't be ridiculous! You're not handicapped, you're...
+Dialogue: 0,0:37:20.10,0:37:23.04,*Default,NTP,0000,0000,0000,,你是万中无一\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}What do they call the... exceptional?
+Dialogue: 0,0:37:24.41,0:37:26.99,*Default,NTP,0000,0000,0000,,我是乔伊斯\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}My name's Joyce, 
+Dialogue: 0,0:37:26.99,0:37:29.94,*Default,NTP,0000,0000,0000,,你还没尝神仙沙拉\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}and I noticed that you have not tasted any ofthe ambrosia salad...
+Dialogue: 0,0:37:30.03,0:37:31.92,*Default,NTP,0000,0000,0000,,那是我特别为你做的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}that I made especially for you.
+Dialogue: 0,0:37:31.92,0:37:35.00,*Default,NTP,0000,0000,0000,,让我来喂你\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Allow me.
+Dialogue: 0,0:37:40.04,0:37:41.06,*Default,NTP,0000,0000,0000,,嗯\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Mmm!
+Dialogue: 0,0:37:41.10,0:37:42.09,*Default,NTP,0000,0000,0000,,嗯\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Mmmm!
+Dialogue: 0,0:37:43.05,0:37:48.02,*Default,NTP,0000,0000,0000,,-来尝尝这个  我妈调制的  -你修剪功夫棒极了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-You must try this. It's my mother's recipe. -Doesn't this look gorgeous?
+Dialogue: 0,0:37:48.02,0:37:51.57,*Default,NTP,0000,0000,0000,,到我家帮个忙吧\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}With a green thumb like yours, I sure could use your help at my place.
+Dialogue: 0,0:37:53.18,0:37:55.09,*Default,NTP,0000,0000,0000,,帮我剪一组天使\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I want a row of angels!
+Dialogue: 0,0:37:55.09,0:37:56.98,*Default,NTP,0000,0000,0000,,抱歉\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I am so sorry, ladies, 
+Dialogue: 0,0:37:56.98,0:38:00.28,*Default,NTP,0000,0000,0000,,他答应先到我家\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}but he's promised to come to my house first. Haven't you, Eddie?
+Dialogue: 0,0:38:01.05,0:38:05.00,*Default,NTP,0000,0000,0000,,-你答应过的  -大家注意\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-I did? -OK, everybody, grab your plates!
+Dialogue: 0,0:38:05.04,0:38:06.06,*Default,NTP,0000,0000,0000,,汤来了  准备盘子\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Soup's on!
+Dialogue: 0,0:38:06.09,0:38:07.29,*Default,NTP,0000,0000,0000,,{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Azhuzhizha zhizhgab\NAzhuzhizha zhigabab.
+Dialogue: 0,0:38:08.09,0:38:10.39,*Default,NTP,0000,0000,0000,,-什么? -我thuzhizha zhizhgabab\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-What? -I thuzhizha zhizhgabab.
+Dialogue: 0,0:38:11.02,0:38:12.09,*Default,NTP,0000,0000,0000,,的确是\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}It is shish kebab. It was a figure of speech.
+Dialogue: 0,0:38:12.09,0:38:16.05,*Default,NTP,0000,0000,0000,,但要了解别人说话背后含意\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You shouldn't take things so literally.
+Dialogue: 0,0:38:19.05,0:38:24.97,*Default,NTP,0000,0000,0000,,假设我们在客厅  女主人招待茶\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Let us pretend we are in the drawing room and the hostess is serving tea.
+Dialogue: 0,0:38:25.01,0:38:29.17,*Default,NTP,0000,0000,0000,,我们面对许多问题\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Many numerous little questions confront us.
+Dialogue: 0,0:38:31.08,0:38:35.44,*Default,NTP,0000,0000,0000,,接茶时  应站起来吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Should the man rise when he accepts his cup oftea?
+Dialogue: 0,0:38:35.48,0:38:40.02,*Default,NTP,0000,0000,0000,,可以用剪刀手拿糖吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}May lump sugar be taken with the fingers?
+Dialogue: 0,0:38:40.02,0:38:41.05,*Default,NTP,0000,0000,0000,,不\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}No.
+Dialogue: 0,0:38:41.06,0:38:44.04,*Default,NTP,0000,0000,0000,,再接受第二杯茶合适吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Is it good form to accept a second cup?
+Dialogue: 0,0:38:44.29,0:38:48.09,*Default,NTP,0000,0000,0000,,餐巾应完全打开呢?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Should the napkin be entirely unfolded...
+Dialogue: 0,0:38:48.09,0:38:52.03,*Default,NTP,0000,0000,0000,,还是应保留中间折痕?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}or should the centre crease be allowed to remain?
+Dialogue: 0,0:38:52.03,0:38:55.02,*Default,NTP,0000,0000,0000,,我们难免会犯尴尬的错误\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}It is so easy to commit embarrassing blunders,
+Dialogue: 0,0:38:55.02,0:38:58.07,*Default,NTP,0000,0000,0000,,但礼仪能使我们知所进退\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}but etiquette tells us just what is expected of us...
+Dialogue: 0,0:38:59.00,0:39:02.03,*Default,NTP,0000,0000,0000,,避免陷入狼狈失礼及不安中\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}and guards us from all humiliation and discomfort.
+Dialogue: 0,0:39:09.04,0:39:11.02,*Default,NTP,0000,0000,0000,,真的很闷吧\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Mm, yes. Boring.
+Dialogue: 0,0:39:12.05,0:39:14.06,*Default,NTP,0000,0000,0000,,我们改看一些...\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Let us switch to, uh...
+Dialogue: 0,0:39:15.06,0:39:17.06,*Default,NTP,0000,0000,0000,,诗\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}to some poetry, hm?
+Dialogue: 0,0:39:22.01,0:39:24.52,*Default,NTP,0000,0000,0000,,有位来自好望角的老人\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}There was an old man from the Cape,
+Dialogue: 0,0:39:24.56,0:39:27.03,*Default,NTP,0000,0000,0000,,他做了件皱纱大衣\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Who made himseIf garments of crepe.
+Dialogue: 0,0:39:27.07,0:39:29.05,*Default,NTP,0000,0000,0000,,有人问大衣会破吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}When asked: Will they tear?
+Dialogue: 0,0:39:29.09,0:39:31.07,*Default,NTP,0000,0000,0000,,他说已经破了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}He replied: Here and there,
+Dialogue: 0,0:39:31.07,0:39:34.03,*Default,NTP,0000,0000,0000,,但反而好看\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}But they keep such a beautiful shape!
+Dialogue: 0,0:39:36.05,0:39:37.18,*Default,NTP,0000,0000,0000,,对了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}That's right.
+Dialogue: 0,0:39:37.18,0:39:40.07,*Default,NTP,0000,0000,0000,,笑吧很有趣的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Go ahead, smile. It's funny.
+Dialogue: 0,0:39:40.07,0:39:42.08,*Default,NTP,0000,0000,0000,,好\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}That's right.
+Dialogue: 0,0:40:04.06,0:40:06.02,*Default,NTP,0000,0000,0000,,到了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}We're home.
+Dialogue: 0,0:40:06.02,0:40:07.31,*Default,NTP,0000,0000,0000,,该死\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Shit.
+Dialogue: 0,0:40:07.31,0:40:09.18,*Default,NTP,0000,0000,0000,,全身都是臭汗\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Everything's still sopping.
+Dialogue: 0,0:40:09.18,0:40:14.15,*Default,NTP,0000,0000,0000,,-我等不及要洗个澡  -还有睡回在床上\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-I can hardly wait to take a shower. -And to sleep in a bed.
+Dialogue: 0,0:40:14.15,0:40:16.06,*Default,NTP,0000,0000,0000,,我家防盗系统已开  只好睡外面\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}If my parents have the alarm set, I'm screwed.
+Dialogue: 0,0:40:16.06,0:40:19.32,*Default,NTP,0000,0000,0000,,我不是叫你先打电话回家\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I told you to call them and tell them we're coming back early.
+Dialogue: 0,0:40:19.32,0:40:22.09,*Default,NTP,0000,0000,0000,,-那你自己有没有? -他就是喜欢抱怨\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-But did you? -Nope, he'd rather complain.
+Dialogue: 0,0:40:22.09,0:40:24.98,*Default,NTP,0000,0000,0000,,为什么永远都针对我?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}How else am I supposed to get attention?
+Dialogue: 0,0:40:25.01,0:40:29.03,*Default,NTP,0000,0000,0000,,-你有否打电话回家? -我们家没那么紧张\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-You didn't call your parents. -They don't run things like a police state.
+Dialogue: 0,0:40:29.06,0:40:32.00,*Default,NTP,0000,0000,0000,,-再见  谢谢送我一程  -再见\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Bye. Thanks for driving, Denny. -Bye.
+Dialogue: 0,0:40:32.00,0:40:33.07,*Default,NTP,0000,0000,0000,,-再见  -再见\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Bye. -Bye.
+Dialogue: 0,0:40:33.08,0:40:35.17,*Default,NTP,0000,0000,0000,,-别忘了你的胳膊  -是的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Don't forget your arm! -Oh, yeah.
+Dialogue: 0,0:40:35.17,0:40:38.01,*Default,NTP,0000,0000,0000,,走吧\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Come on, Jim, let's go.
+Dialogue: 0,0:41:36.09,0:41:38.53,*Default,NTP,0000,0000,0000,,我房间里有人\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}There's somebody in my room! Go look! Look!
+Dialogue: 0,0:41:38.53,0:41:44.03,*Default,NTP,0000,0000,0000,,他手上有斧头  他想杀我\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}He's a murderer! He's got an axe! He tried to kill me!
+Dialogue: 0,0:41:44.03,0:41:46.07,*Default,NTP,0000,0000,0000,,-一起都好  -妈妈  去看看\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Everything's OK. -Mom, go look!
+Dialogue: 0,0:41:46.11,0:41:48.07,*Default,NTP,0000,0000,0000,,没事回去睡\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Go back to bed, Kevin.
+Dialogue: 0,0:41:53.07,0:41:55.02,*Default,NTP,0000,0000,0000,,这边\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}This way.
+Dialogue: 0,0:41:56.00,0:42:00.41,*Default,NTP,0000,0000,0000,,你说什么? 爱德华住在我们这里  没什么好担心的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Edward's come to live with us. There is nothing to be upset about.
+Dialogue: 0,0:42:00.46,0:42:05.00,*Default,NTP,0000,0000,0000,,不  没事了  我马上替你弄床铺\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}OK. We'lI have you set up here in a minute.
+Dialogue: 0,0:42:05.03,0:42:07.56,*Default,NTP,0000,0000,0000,,我们这里有张特大号的床\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}We got a full queen-size bed here, believe it or not.
+Dialogue: 0,0:42:07.56,0:42:13.00,*Default,NTP,0000,0000,0000,,什么都齐备\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Oh, it's all made and everything. Good.
+Dialogue: 0,0:42:13.02,0:42:14.09,*Default,NTP,0000,0000,0000,,好了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}There you go.
+Dialogue: 0,0:42:15.00,0:42:16.10,*Default,NTP,0000,0000,0000,,怎么了?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}What's the matter? What's wrong?
+Dialogue: 0,0:42:16.11,0:42:19.05,*Default,NTP,0000,0000,0000,,她令你紧张吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}She get you nervous?
+Dialogue: 0,0:42:19.24,0:42:22.58,*Default,NTP,0000,0000,0000,,你在那个城堡独居太久了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You've been cloistered away up in that castle too long.
+Dialogue: 0,0:42:22.58,0:42:27.74,*Default,NTP,0000,0000,0000,,对少女一点概念也没有  她们最疯狂了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You don't know about the wonderful world of teenage girls. They're all crazy.
+Dialogue: 0,0:42:29.02,0:42:32.72,*Default,NTP,0000,0000,0000,,-这能令你镇定一点  -这是什么?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Here, this'll straighten you right out. -What is it?
+Dialogue: 0,0:42:33.00,0:42:34.05,*Default,NTP,0000,0000,0000,,柠檬汁\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Lemonade.
+Dialogue: 0,0:42:41.03,0:42:43.04,*Default,NTP,0000,0000,0000,,我也不懂她们\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I don't know what it is.
+Dialogue: 0,0:42:43.23,0:42:44.83,*Default,NTP,0000,0000,0000,,女孩到了某个年纪\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}They reach a certain age...
+Dialogue: 0,0:42:46.53,0:42:49.44,*Default,NTP,0000,0000,0000,,荷尔蒙使身体发胀\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}They develop these gland things, their bodies swell up...
+Dialogue: 0,0:42:51.44,0:42:53.00,*Default,NTP,0000,0000,0000,,于是便疯狂起来了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}They go crazy.
+Dialogue: 0,0:42:56.01,0:42:57.05,*Default,NTP,0000,0000,0000,,荷尔蒙?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Glands?
+Dialogue: 0,0:42:58.05,0:43:00.02,*Default,NTP,0000,0000,0000,,是的  荷尔蒙\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Yeah, glands.
+Dialogue: 0,0:43:01.02,0:43:03.05,*Default,NTP,0000,0000,0000,,我尽量不想这些事\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I try not to think about it.
+Dialogue: 0,0:43:21.01,0:43:22.09,*Default,NTP,0000,0000,0000,,好东西  对吧?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Good, isn't it?
+Dialogue: 0,0:43:24.03,0:43:25.97,*Default,NTP,0000,0000,0000,,你先睡在凯文房\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Now, you stay in Kevin's room tonight 
+Dialogue: 0,0:43:25.97,0:43:28.48,*Default,NTP,0000,0000,0000,,明天再整理你的房间\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}and tomorrow we'll fix your room right up.
+Dialogue: 0,0:43:29.00,0:43:30.05,*Default,NTP,0000,0000,0000,,你为何带他来这里\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Why did you have to bring him here?
+Dialogue: 0,0:43:30.09,0:43:32.88,*Default,NTP,0000,0000,0000,,要是你也会这么做\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I couldn't have left him all alone. You'd have done the same.
+Dialogue: 0,0:43:32.88,0:43:36.00,*Default,NTP,0000,0000,0000,,为什么他要住这里\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Why does he have to stay here?
+Dialogue: 0,0:43:36.03,0:43:38.29,*Default,NTP,0000,0000,0000,,天  他不像你啊  他天生如此\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}My goodness, Kim, I'm surprised at you. He can't help the way he is.
+Dialogue: 0,0:43:38.29,0:43:43.03,*Default,NTP,0000,0000,0000,,-有点同情心吧  -我有同情心啊\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Have a little sympathy. -I do have sympathy.
+Dialogue: 0,0:43:43.05,0:43:44.46,*Default,NTP,0000,0000,0000,,你来跟人家打个招呼  握握手\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Then say a little greeting. Come downstairs, shake the man's hand...
+Dialogue: 0,0:43:46.53,0:43:50.00,*Default,NTP,0000,0000,0000,,-跟他握手? -不是字面的意思\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Shake his hand?! -Well, not literally.
+Dialogue: 0,0:43:50.04,0:43:54.02,*Default,NTP,0000,0000,0000,,-你吓到他了  -我吓了他吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Goodness, you scared him half to death! -I scared him to death?
+Dialogue: 0,0:43:59.06,0:44:04.64,*Default,NTP,0000,0000,0000,,我跟你们正式介绍\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Hi, Bill! I just wanted you two to have a proper introduction.
+Dialogue: 0,0:44:05.03,0:44:07.03,*Default,NTP,0000,0000,0000,,这位是我们的女儿...嘉莉\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Edward, this is our daughter Kim.
+Dialogue: 0,0:44:07.06,0:44:10.07,*Default,NTP,0000,0000,0000,,爱德华他跟我们一起住\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Kim, this is Edward, who's gonna live with us.
+Dialogue: 0,0:44:17.01,0:44:18.03,*Default,NTP,0000,0000,0000,,嗨\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Hi.
+Dialogue: 0,0:44:18.08,0:44:20.07,*Default,NTP,0000,0000,0000,,呵...\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}H-h-h... H-h-h...
+Dialogue: 0,0:44:32.05,0:44:33.08,*Default,NTP,0000,0000,0000,,{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Eddie\NEddie!
+Dialogue: 0,0:44:34.03,0:44:35.08,*Default,NTP,0000,0000,0000,,渴了吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Thirsty?
+Dialogue: 0,0:44:39.05,0:44:42.00,*Default,NTP,0000,0000,0000,,安静点\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Kisses! Hush up!
+Dialogue: 0,0:44:43.05,0:44:45.08,*Default,NTP,0000,0000,0000,,别吵\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Shh, quiet now!
+Dialogue: 0,0:44:45.08,0:44:51.26,*Default,NTP,0000,0000,0000,,你让我无法思考  你是妈妈的宝贝女儿\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Darlin', I can hardly hear myself think! Momma's precious little baby girl...
+Dialogue: 0,0:44:52.63,0:44:57.09,*Default,NTP,0000,0000,0000,,你要不要冰凉的柠檬汁?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Aah! Wouldn't you like a nice cool glass of lemonade?
+Dialogue: 0,0:44:59.05,0:45:01.00,*Default,NTP,0000,0000,0000,,柠檬汁?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Lemonade?
+Dialogue: 0,0:45:10.07,0:45:13.06,*Default,NTP,0000,0000,0000,,向头颈这么一劈他就完了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}One chop to a guy's neck, and it's all over.
+Dialogue: 0,0:45:15.05,0:45:19.03,*Default,NTP,0000,0000,0000,,他的剪刀锐利无比  什么都削得断\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Sharpest things in the world. They can hack through anything.
+Dialogue: 0,0:45:19.08,0:45:21.02,*Default,NTP,0000,0000,0000,,还有...\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}And...
+Dialogue: 0,0:45:39.04,0:45:41.02,*Default,NTP,0000,0000,0000,,我觉得这东西很奇怪\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}They give me the creeps.
+Dialogue: 0,0:45:41.02,0:45:45.00,*Default,NTP,0000,0000,0000,,你该看他在彼太太院子剪的那个\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You should see the clown in Miss Peters' yard.
+Dialogue: 0,0:45:45.00,0:45:46.03,*Default,NTP,0000,0000,0000,,嘉莉\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Kim!
+Dialogue: 0,0:45:47.03,0:45:49.06,*Default,NTP,0000,0000,0000,,-不  -就是他吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Oh, no. -That's him?
+Dialogue: 0,0:45:49.06,0:45:51.09,*Default,NTP,0000,0000,0000,,-嘉莉  他在叫你  -够了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-He's calling you, Kimba. -Stop it!
+Dialogue: 0,0:45:51.09,0:45:54.82,*Default,NTP,0000,0000,0000,,爱德华  你忘了拿你的饼\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Edward, you forgot your cookies.
+Dialogue: 0,0:45:57.02,0:45:59.08,*Default,NTP,0000,0000,0000,,别怕  她在等你\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Don't worry, Eddie. She's waiting for ya!
+Dialogue: 0,0:45:59.11,0:46:02.05,*Default,NTP,0000,0000,0000,,-够了  -我们走\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Stop! -Let's go.
+Dialogue: 0,0:46:08.07,0:46:11.03,*Default,NTP,0000,0000,0000,,你知爱德华在积奇处吃午饭\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Bill, Edward had lunch at Jackie's today...
+Dialogue: 0,0:46:11.03,0:46:14.00,*Default,NTP,0000,0000,0000,,她装修了厨房\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}and she just had her kitchen completely redone.
+Dialogue: 0,0:46:14.04,0:46:17.04,*Default,NTP,0000,0000,0000,,-我弄得  -新油漆  新瓷盘  新地板\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-I'll be darned. -New paint, new cabinets, new floors,
+Dialogue: 0,0:46:17.07,0:46:21.07,*Default,NTP,0000,0000,0000,,-新微波炉  洗碗机  -太棒了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-a new microwave, new silent dishwasher... -Isn't that wonderful?
+Dialogue: 0,0:46:21.07,0:46:24.29,*Default,NTP,0000,0000,0000,,占美  你妈把厨房也装修过\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Jim, didn't you just tell me your mom had her kitchen done too?
+Dialogue: 0,0:46:24.29,0:46:26.39,*Default,NTP,0000,0000,0000,,是呀  我老爸新添了一些家电\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Yeah, my dad bought himself a bunch of new toys.
+Dialogue: 0,0:46:26.39,0:46:30.52,*Default,NTP,0000,0000,0000,,宽银幕电视  CD  四头录影机\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Big-screen TV, CD players, VCR with four heads...
+Dialogue: 0,0:46:30.53,0:46:35.00,*Default,NTP,0000,0000,0000,,天  有钱人就是会享受\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}My goodness sake! I wonder what it's like to be that rich.
+Dialogue: 0,0:46:36.04,0:46:38.00,*Default,NTP,0000,0000,0000,,这些东西都上了锁\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}They keep things locked up.
+Dialogue: 0,0:46:38.04,0:46:41.09,*Default,NTP,0000,0000,0000,,我爸不准我碰\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}My father has his own room for his stuff to make sure I can't use it.
+Dialogue: 0,0:46:41.12,0:46:43.05,*Default,NTP,0000,0000,0000,,他很吝啬甚至不替我买车子\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}He won't even help me buy an old car.
+Dialogue: 0,0:46:43.09,0:46:46.36,*Default,NTP,0000,0000,0000,,他要你自食其力  养成独立\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}He probably wants you to pay for it yourself. It builds character. 
+Dialogue: 0,0:46:46.36,0:46:48.11,*Default,NTP,0000,0000,0000,,以后你会更感激他\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You'll appreciate it more.
+Dialogue: 0,0:46:49.01,0:46:50.03,*Default,NTP,0000,0000,0000,,谈到钱...\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Dad...!
+Dialogue: 0,0:46:50.07,0:46:51.52,*Default,NTP,0000,0000,0000,,爱德华  提到钱\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Speaking of money... 
+Dialogue: 0,0:46:51.53,0:46:55.02,*Default,NTP,0000,0000,0000,,我知道你剪草都不收钱...\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I understand you're not charging for your gardening, Edward.
+Dialogue: 0,0:46:55.06,0:46:58.05,*Default,NTP,0000,0000,0000,,不  比尔  玛姬做了些饼  给他\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Now, Bill... Marge made him cookies today.
+Dialogue: 0,0:46:58.06,0:46:59.49,*Default,NTP,0000,0000,0000,,亲爱的...\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Sweetheart...
+Dialogue: 0,0:46:59.49,0:47:04.95,*Default,NTP,0000,0000,0000,,你不能拿饼  去买东西...\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You can't buy the necessities of life with cookies.
+Dialogue: 0,0:47:05.09,0:47:08.09,*Default,NTP,0000,0000,0000,,饼干买不到车子  对吧?占美\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You can't buy a car with cookies. Am I right, Jim?
+Dialogue: 0,0:47:08.12,0:47:11.03,*Default,NTP,0000,0000,0000,,是的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Uh, that's true, sir, you can't.
+Dialogue: 0,0:47:12.05,0:47:15.03,*Default,NTP,0000,0000,0000,,我不敢吃  他的手碰过\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I... I can't eat that. He used his hands.
+Dialogue: 0,0:47:15.05,0:47:18.02,*Default,NTP,0000,0000,0000,,我觉得不卫生\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}It's... I don't think it's sanitary.
+Dialogue: 0,0:47:22.08,0:47:24.03,*Default,NTP,0000,0000,0000,,对不起\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I'm sorry.
+Dialogue: 0,0:47:28.03,0:47:30.35,*Default,NTP,0000,0000,0000,,我替你把衣服弄干净\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Honey, you want me to help you clean that up?
+Dialogue: 0,0:47:30.35,0:47:33.03,*Default,NTP,0000,0000,0000,,不用了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}No, that's OK.
+Dialogue: 0,0:47:33.09,0:47:35.08,*Default,NTP,0000,0000,0000,,我马上回来\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I'll be right back.
+Dialogue: 0,0:48:22.06,0:48:28.21,*Default,NTP,0000,0000,0000,,这是我的爱丽丝吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Alexis? Oh, this can't possibly be my Alexis!
+Dialogue: 0,0:48:28.21,0:48:31.44,*Default,NTP,0000,0000,0000,,她看起来美极了  看看你\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}She looks so beautiful! Look at you! Sweetie!
+Dialogue: 0,0:48:32.11,0:48:35.04,*Default,NTP,0000,0000,0000,,好漂亮谢谢\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}She's gorgeous. Thank you!
+Dialogue: 0,0:48:37.02,0:48:40.04,*Default,NTP,0000,0000,0000,,等一会  他在决定发式\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}It won't be long. She just has to decide on the style.
+Dialogue: 0,0:48:40.07,0:48:42.05,*Default,NTP,0000,0000,0000,,然后就好了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}And then it'll be fine.
+Dialogue: 0,0:48:53.08,0:48:57.77,*Default,NTP,0000,0000,0000,,让它看起来大一点  就像我的头发一样\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I was hopin' for somethin' big and kinda bouffant. Kinda like mine?
+Dialogue: 0,0:48:58.01,0:49:00.16,*Default,NTP,0000,0000,0000,,小狗狗  别怕\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Now don't you worry, Kisses, you're gonna be just fine. 
+Dialogue: 0,0:49:00.16,0:49:02.07,*Default,NTP,0000,0000,0000,,你会变得好漂亮的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You're gonna be so pretty.
+Dialogue: 0,0:49:03.01,0:49:04.09,*Default,NTP,0000,0000,0000,,是的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Yes, you are. Oh!
+Dialogue: 0,0:49:04.12,0:49:06.03,*Default,NTP,0000,0000,0000,,哦  天啊\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Oh! My!
+Dialogue: 0,0:49:08.02,0:49:09.07,*Default,NTP,0000,0000,0000,,哦\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Oh! Ohh!
+Dialogue: 0,0:49:21.02,0:49:24.05,*Default,NTP,0000,0000,0000,,爱德华  你没有不会剪的吧?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Oh! Eddie, is there anything you can't do?
+Dialogue: 0,0:49:24.05,0:49:28.59,*Default,NTP,0000,0000,0000,,真是叹为观止\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You take my very breath away, I swear. Look at this!
+Dialogue: 0,0:49:30.01,0:49:32.00,*Default,NTP,0000,0000,0000,,你替女人剪过发吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Have you ever cut a woman's hair?
+Dialogue: 0,0:49:32.04,0:49:34.00,*Default,NTP,0000,0000,0000,,来替我剪吧\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Would you cut mine?
+Dialogue: 0,0:50:41.07,0:50:45.05,*Default,NTP,0000,0000,0000,,这是我一生中最难忘的经历\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}That was the single most thrillin' experience of my whole life.
+Dialogue: 0,0:51:50.08,0:51:53.02,*Default,NTP,0000,0000,0000,,连总裁都知道了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}They're getting the head of the company!
+Dialogue: 0,0:51:53.02,0:51:56.03,*Default,NTP,0000,0000,0000,,-我回来了  -亲爱的  我们在这里\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-I'm home! -Hi, honey. We're in here.
+Dialogue: 0,0:51:56.06,0:51:58.02,*Default,NTP,0000,0000,0000,,-嗨  -嗨\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Hi. -Hi!
+Dialogue: 0,0:51:58.06,0:52:00.04,*Default,NTP,0000,0000,0000,,你把头发怎么了?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}What did you do to your hair?
+Dialogue: 0,0:52:00.04,0:52:02.08,*Default,NTP,0000,0000,0000,,爱德华剪的  很野吧\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Edward cut it. Isn't it wild?
+Dialogue: 0,0:52:04.02,0:52:07.05,*Default,NTP,0000,0000,0000,,真不敢相信能亲自和你说话\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Hello? Oh, I can't believe I'm talking to you in person.
+Dialogue: 0,0:52:07.08,0:52:09.05,*Default,NTP,0000,0000,0000,,真是好荣幸\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}This is such an honour.
+Dialogue: 0,0:52:11.00,0:52:13.00,*Default,NTP,0000,0000,0000,,他就在这里\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Yes. He's right here.
+Dialogue: 0,0:52:13.06,0:52:15.04,*Default,NTP,0000,0000,0000,,那你都清楚知道了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}So then you know all about it.
+Dialogue: 0,0:52:15.07,0:52:19.00,*Default,NTP,0000,0000,0000,,我正是用那种敷料\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Uh-huh. Well, that's exactly what I've been using.
+Dialogue: 0,0:52:20.03,0:52:24.38,*Default,NTP,0000,0000,0000,,我在调教份量上有一点问题\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Well, I've had a little trouble getting it the right consistency... 
+Dialogue: 0,0:52:24.38,0:52:25.63,*Default,NTP,0000,0000,0000,,只是一点\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}well, just a little.
+Dialogue: 0,0:52:25.73,0:52:28.33,*Default,NTP,0000,0000,0000,,我会试试看\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I'll try that. Uh-huh.
+Dialogue: 0,0:52:31.03,0:52:33.20,*Default,NTP,0000,0000,0000,,你这建议真好\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Well, what imaginative suggestions.
+Dialogue: 0,0:52:35.44,0:52:38.04,*Default,NTP,0000,0000,0000,,我会的  多谢您\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I sure will. Thank you so much. Bye-bye.
+Dialogue: 0,0:52:40.02,0:52:42.02,*Default,NTP,0000,0000,0000,,难怪人家是做总裁的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}No wonder she's the head of the company.
+Dialogue: 0,0:52:42.05,0:52:46.03,*Default,NTP,0000,0000,0000,,她原先也只是个业务代表\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You know, she started out as a sales representative just like me.
+Dialogue: 0,0:52:46.07,0:52:50.01,*Default,NTP,0000,0000,0000,,我一直就想跟她谈谈\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I've always wanted to talk to her, but until now I never had a reason.
+Dialogue: 0,0:52:50.05,0:52:51.09,*Default,NTP,0000,0000,0000,,谢谢你  爱德华\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Thanks, Edward.
+Dialogue: 0,0:52:53.01,0:52:56.00,*Default,NTP,0000,0000,0000,,-她有好主意? -她当然有\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-She had some ideas? -You bet she did.
+Dialogue: 0,0:52:57.00,0:52:58.09,*Default,NTP,0000,0000,0000,,-哦  -嗯\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Uh-huh! -Mm-hm!
+Dialogue: 0,0:53:10.00,0:53:11.07,*Default,NTP,0000,0000,0000,,我来开\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I'll get that.
+Dialogue: 0,0:53:53.04,0:53:55.03,*Default,NTP,0000,0000,0000,,爱德华  我们到了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Edward. We're here.
+Dialogue: 0,0:53:55.08,0:53:58.04,*Default,NTP,0000,0000,0000,,把剪子磨利点吧\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Come on, let's get you sharpened up.
+Dialogue: 0,0:54:01.05,0:54:04.02,*Default,NTP,0000,0000,0000,,-有吗? -我真不敢相信\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-You got it? -No. I can't believe this.
+Dialogue: 0,0:54:04.05,0:54:06.02,*Default,NTP,0000,0000,0000,,这真是个好剪刀\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}This is such a drag.
+Dialogue: 0,0:54:07.02,0:54:08.04,*Default,NTP,0000,0000,0000,,嗨\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Hi!
+Dialogue: 0,0:54:12.01,0:54:13.08,*Default,NTP,0000,0000,0000,,-再见  -再见\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Bye. -Bye.
+Dialogue: 0,0:54:15.05,0:54:17.03,*Default,NTP,0000,0000,0000,,你有钥匙吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Do you have a key?
+Dialogue: 0,0:54:17.03,0:54:18.06,*Default,NTP,0000,0000,0000,,没有\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}No.
+Dialogue: 0,0:54:18.06,0:54:22.06,*Default,NTP,0000,0000,0000,,-我发誓他们都在我的包里  -我们进退两难了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-I could have sworn they were in my purse. -Well, we're stranded.
+Dialogue: 0,0:54:27.01,0:54:28.08,*Default,NTP,0000,0000,0000,,谢谢\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Wow! Thanks!
+Dialogue: 0,0:54:30.05,0:54:34.06,*Default,NTP,0000,0000,0000,,干得好  你没把门锁弄坏吧\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Ed! What a guy! Good job. You didn't break it or scratch it or anything.
+Dialogue: 0,0:54:34.09,0:54:38.00,*Default,NTP,0000,0000,0000,,碧姬回来就通知我们\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Hey, be a pal and yell when Peg pulls in, huh?
+Dialogue: 0,0:54:41.01,0:54:44.07,*Default,NTP,0000,0000,0000,,真是离奇的故事  有没有人要发问?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Quite a story, yes? Any questions for Edward?
+Dialogue: 0,0:54:44.07,0:54:46.09,*Default,NTP,0000,0000,0000,,借过\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Yeah? Get away over.
+Dialogue: 0,0:54:46.09,0:54:48.05,*Default,NTP,0000,0000,0000,,请起立\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Stand right up.
+Dialogue: 0,0:54:48.05,0:54:51.07,*Default,NTP,0000,0000,0000,,新生活中你最喜欢的是什么?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}What's been the best part of your new life here in town?
+Dialogue: 0,0:54:51.10,0:54:53.07,*Default,NTP,0000,0000,0000,,交到的朋友\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}The friends I've made.
+Dialogue: 0,0:54:55.09,0:54:58.07,*Default,NTP,0000,0000,0000,,其它问题?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Any other questions?
+Dialogue: 0,0:54:58.07,0:55:02.07,*Default,NTP,0000,0000,0000,,你想过做整容手术吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Have you ever thought of having corrective surgery or prosthetics?
+Dialogue: 0,0:55:02.08,0:55:05.09,*Default,NTP,0000,0000,0000,,我认识有位医生可帮你\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I know a doctor that might be able to help you.
+Dialogue: 0,0:55:05.45,0:55:07.97,*Default,NTP,0000,0000,0000,,我愿意跟他碰头\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I'd like to meet him.
+Dialogue: 0,0:55:08.00,0:55:11.08,*Default,NTP,0000,0000,0000,,名字我们待会再说  谢谢\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}We'll get that name after the show. Thank you. That's very nice.
+Dialogue: 0,0:55:11.08,0:55:14.01,*Default,NTP,0000,0000,0000,,还有谁要发问? 若你的手是正常的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Anyone else? Yes, stand right up.
+Dialogue: 0,0:55:14.04,0:55:16.08,*Default,NTP,0000,0000,0000,,你就会跟普通人一样\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}But then you'd be like everyone else.
+Dialogue: 0,0:55:17.02,0:55:18.05,*Default,NTP,0000,0000,0000,,我知道\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Yes, I know.
+Dialogue: 0,0:55:18.08,0:55:20.06,*Default,NTP,0000,0000,0000,,他会喜欢的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I think he'd like that.
+Dialogue: 0,0:55:20.06,0:55:23.02,*Default,NTP,0000,0000,0000,,没有人会再觉得你很特殊\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}But then no one would think you were special.
+Dialogue: 0,0:55:23.06,0:55:25.01,*Default,NTP,0000,0000,0000,,你也不会再上电视\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You wouldn't be on TV or anything.
+Dialogue: 0,0:55:25.04,0:55:28.05,*Default,NTP,0000,0000,0000,,无论如何  爱德华都是特殊的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}No matter what, Edward will always be special.
+Dialogue: 0,0:55:34.03,0:55:37.04,*Default,NTP,0000,0000,0000,,还有问题吗? 请起立\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}More questions? Yes. Stand right up.
+Dialogue: 0,0:55:37.05,0:55:38.75,*Default,NTP,0000,0000,0000,,你的手艺相当特别\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Your work is so interesting, distinctive and unique.
+Dialogue: 0,0:55:38.75,0:55:43.07,*Default,NTP,0000,0000,0000,,你想不想开家美容院呢?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Do you have any plans to open your own beauty salon?
+Dialogue: 0,0:55:43.11,0:55:46.00,*Default,NTP,0000,0000,0000,,这是个好主意\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Oh, there's an idea!
+Dialogue: 0,0:55:48.08,0:55:51.07,*Default,NTP,0000,0000,0000,,还有吗? 请起立\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Anyone else? Yeah. Stand right up.
+Dialogue: 0,0:55:51.07,0:55:54.04,*Default,NTP,0000,0000,0000,,-你有女朋友吗? -哦\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Do you have a girlfriend? -Ohhhh!
+Dialogue: 0,0:55:58.07,0:56:00.07,*Default,NTP,0000,0000,0000,,他有的  对吧?嘉莉\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Sure he does. Right, Kim?
+Dialogue: 0,0:56:00.07,0:56:03.07,*Default,NTP,0000,0000,0000,,-是吧? 嘉莉? -你又让他来难为我了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Right, Kim? -Great! Now you got him started.
+Dialogue: 0,0:56:03.07,0:56:05.02,*Default,NTP,0000,0000,0000,,别吵\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Knock it off, bubble-butt.
+Dialogue: 0,0:56:05.06,0:56:07.14,*Default,NTP,0000,0000,0000,,-是你先挑起的  -那怎么样?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-You did it. -So?
+Dialogue: 0,0:56:08.03,0:56:11.09,*Default,NTP,0000,0000,0000,,你心中有没有心仪的女孩?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}How aboutit, Edward? ls there some speciallady in yourlife?
+Dialogue: 0,0:56:16.00,0:56:17.06,*Default,NTP,0000,0000,0000,,哦\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Ooh...
+Dialogue: 0,0:56:41.15,0:56:43.59,*Default,NTP,0000,0000,0000,,没事的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Uh... everything's all right. 
+Dialogue: 0,0:56:43.59,0:56:47.01,*Default,NTP,0000,0000,0000,,广告后我们再来\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}We'll take a break and we'll be back after these messages.
+Dialogue: 0,0:56:47.03,0:56:48.99,*Default,NTP,0000,0000,0000,,笑什么? 他受伤了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Why are you laughing? He got hurt!
+Dialogue: 0,0:56:49.03,0:56:53.02,*Default,NTP,0000,0000,0000,,-只是电击一下  -电击一下?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-It was just a little shock. What do you care? -A little shock?!
+Dialogue: 0,0:56:53.04,0:56:57.04,*Default,NTP,0000,0000,0000,,我倒想录下来  再看一遍\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I wish we'd been taping that. I'd give my left nut to see that again.
+Dialogue: 0,0:56:58.06,0:57:01.02,*Default,NTP,0000,0000,0000,,你难道不兴奋吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Aren't you excited? This is so thrillin'!
+Dialogue: 0,0:57:01.02,0:57:02.10,*Default,NTP,0000,0000,0000,,我们这一家美容院\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Wait till I show it to you. It's just perfect. 
+Dialogue: 0,0:57:02.10,0:57:02.53,*Default,NTP,0000,0000,0000,,实在太棒\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}It's just what we've been lookin' for.
+Dialogue: 0,0:57:02.54,0:57:08.07,*Default,NTP,0000,0000,0000,,我想取名为"剪发乐园"\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I wanna call it Shear Heaven!
+Dialogue: 0,0:57:10.07,0:57:12.40,*Default,NTP,0000,0000,0000,,我们到了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Ohh! And here we are.
+Dialogue: 0,0:57:13.04,0:57:16.06,*Default,NTP,0000,0000,0000,,这里摆一排的镜子\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Now, all along here I'm gonna put a row of new mirrors.
+Dialogue: 0,0:57:16.09,0:57:17.85,*Default,NTP,0000,0000,0000,,后面呢...\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}And back along here, well, I think...
+Dialogue: 0,0:57:17.85,0:57:21.00,*Default,NTP,0000,0000,0000,,来吧\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Eddie! Come along, doll.
+Dialogue: 0,0:57:21.00,0:57:26.95,*Default,NTP,0000,0000,0000,,这边是一系列的化妆品  一整排都是\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Back up here a whole row of new cosmetics. And all along this row here...
+Dialogue: 0,0:57:28.09,0:57:31.06,*Default,NTP,0000,0000,0000,,-碧姬可以在这里售货  -对啊\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Peg could sell cosmetics. -Yeah... Sure.
+Dialogue: 0,0:57:31.06,0:57:34.04,*Default,NTP,0000,0000,0000,,洗头的地方在此\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}And this of course is where we wash the hair.
+Dialogue: 0,0:57:34.04,0:57:37.09,*Default,NTP,0000,0000,0000,,我便在这里招呼客人\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}And here is where I stand... when I greet the customers.
+Dialogue: 0,0:57:38.03,0:57:41.05,*Default,NTP,0000,0000,0000,,后面才是我最要跟你介绍的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}But back in here is what I really wanna show you.
+Dialogue: 0,0:57:45.04,0:57:48.05,*Default,NTP,0000,0000,0000,,爱德华  这才是我要给你看的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Eddie... This is what I really want to show you.
+Dialogue: 0,0:57:49.06,0:57:51.58,*Default,NTP,0000,0000,0000,,这是我们的贮藏室\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Now, this is the storeroom where we keep everything,
+Dialogue: 0,0:57:51.58,0:57:56.62,*Default,NTP,0000,0000,0000,,每天我需要你替我作个决定\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}and what I need from you today is a decision I need you to help me make.
+Dialogue: 0,0:57:57.06,0:58:00.01,*Default,NTP,0000,0000,0000,,不  那很危险\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Oh, honey, no! No, don't. That's dangerous.
+Dialogue: 0,0:58:00.03,0:58:03.00,*Default,NTP,0000,0000,0000,,你坐在这里\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Now, you just sit right down there...
+Dialogue: 0,0:58:05.06,0:58:09.60,*Default,NTP,0000,0000,0000,,我有件工作服  我来为你示范好吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I have some smocks. Would you like me to model them for you?
+Dialogue: 0,0:58:09.70,0:58:11.03,*Default,NTP,0000,0000,0000,,好的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Yes.
+Dialogue: 0,0:58:11.04,0:58:13.02,*Default,NTP,0000,0000,0000,,好的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}OK.
+Dialogue: 0,0:58:40.40,0:58:43.03,*Default,NTP,0000,0000,0000,,这是我最喜爱的一件\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Now, this is my favourite.
+Dialogue: 0,0:58:43.07,0:58:45.08,*Default,NTP,0000,0000,0000,,因为是黄色的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Because it's yellow...
+Dialogue: 0,0:58:47.04,0:58:49.03,*Default,NTP,0000,0000,0000,,它的作用是...\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}And what it's for...
+Dialogue: 0,0:58:49.04,0:58:54.91,*Default,NTP,0000,0000,0000,,可以阻止头发掉下来\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}is to catch those itchy little trimmings that fall down your neck.
+Dialogue: 0,0:58:57.09,0:59:01.06,*Default,NTP,0000,0000,0000,,还有一件是紫色的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}And then there's this old purple one that you just kinda...
+Dialogue: 0,0:59:01.06,0:59:04.00,*Default,NTP,0000,0000,0000,,就是只有一片盖在上面\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}drape around you like this.
+Dialogue: 0,0:59:06.01,0:59:08.05,*Default,NTP,0000,0000,0000,,我喜欢这一件\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I like that one.
+Dialogue: 0,0:59:11.02,0:59:13.05,*Default,NTP,0000,0000,0000,,你为什么在发抖\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Why, Eddie, you're tremblin'.
+Dialogue: 0,0:59:16.01,0:59:17.06,*Default,NTP,0000,0000,0000,,我也是\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}So am I!
+Dialogue: 0,0:59:20.04,0:59:23.00,*Default,NTP,0000,0000,0000,,我已期待这一刻好久了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I've been waitin' for this moment for so long.
+Dialogue: 0,1:00:03.01,1:00:04.06,*Default,NTP,0000,0000,0000,,爱德华\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Edward!
+Dialogue: 0,1:00:05.01,1:00:08.02,*Default,NTP,0000,0000,0000,,回来  你不能这样便走了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Edward, you come back here! You can't do that!
+Dialogue: 0,1:00:20.00,1:00:21.98,*Default,NTP,0000,0000,0000,,魔术贴\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Velcro, sweetheart.
+Dialogue: 0,1:00:22.02,1:00:25.02,*Default,NTP,0000,0000,0000,,-就是仪表板上用的双面夹  -我从未见过\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-It hangs on the dashboard. -I've never seen that.
+Dialogue: 0,1:00:25.05,1:00:26.14,*Default,NTP,0000,0000,0000,,-对不起  我来迟了  -嗨  爱德华\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Sorry I'm late. -Hi, Edward.
+Dialogue: 0,1:00:26.14,1:00:29.34,*Default,NTP,0000,0000,0000,,对不起  我们吃起来了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Sorry, dear, we had to go ahead without you. There you go.
+Dialogue: 0,1:00:30.44,1:00:32.99,*Default,NTP,0000,0000,0000,,今天工作情形如何?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}So, Edward, did you have a productive day?
+Dialogue: 0,1:00:33.02,1:00:35.05,*Default,NTP,0000,0000,0000,,马太带我去看美容院的地点\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Mrs Monroe showed me where the salon will be.
+Dialogue: 0,1:00:35.98,1:00:37.58,*Default,NTP,0000,0000,0000,,-你会有个化妆专柜  -不好吗\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-You could have a cosmetics counter. -Wouldn't that be great?
+Dialogue: 0,1:00:40.03,1:00:41.02,*Default,NTP,0000,0000,0000,,真棒\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Great.
+Dialogue: 0,1:00:41.06,1:00:45.06,*Default,NTP,0000,0000,0000,,她带我到贮藏室  然后脱去衣服\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Then she showed me the back room where she took all her clothes off.
+Dialogue: 0,1:00:46.09,1:00:49.63,*Default,NTP,0000,0000,0000,,听你这么说  我很高兴\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Edward, I can't tell you how thrilled I am. I'm as pleased as punch.
+Dialogue: 0,1:00:49.63,1:00:52.53,*Default,NTP,0000,0000,0000,,你在美容院可学到不少\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}This venture's gonna teach you volumes.
+Dialogue: 0,1:00:52.63,1:00:55.05,*Default,NTP,0000,0000,0000,,还是经营自己的事业好\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}There's nothin' like running your own business.
+Dialogue: 0,1:00:55.05,1:00:57.04,*Default,NTP,0000,0000,0000,,听你这么一说\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I've never done it myself,
+Dialogue: 0,1:00:57.04,1:01:01.51,*Default,NTP,0000,0000,0000,,你的工作真是令人满意\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}but I gather it's the greatest satisfaction a working man can have.
+Dialogue: 0,1:01:02.03,1:01:05.04,*Default,NTP,0000,0000,0000,,接下来  你就要跟银行打交道\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}So I guess the bank's gonna be your next step, huh?
+Dialogue: 0,1:01:05.08,1:01:06.09,*Default,NTP,0000,0000,0000,,银行?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}The bank?
+Dialogue: 0,1:01:07.01,1:01:10.01,*Default,NTP,0000,0000,0000,,去贷款  准备起步\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Yeah. Take out a loan, get yourself started.
+Dialogue: 0,1:01:10.05,1:01:15.68,*Default,NTP,0000,0000,0000,,凭你的功夫  很快便可闯出名堂\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Nothin' to worry about. With your talent and reputation, it's gonna be a snap.
+Dialogue: 0,1:01:17.03,1:01:18.06,*Default,NTP,0000,0000,0000,,是啊\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Yeah.
+Dialogue: 0,1:01:20.07,1:01:21.46,*Default,NTP,0000,0000,0000,,没有银行记录\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}No credit,
+Dialogue: 0,1:01:22.76,1:01:25.01,*Default,NTP,0000,0000,0000,,没有往来记录  亦无工作记录\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}no record of jobs you've held,
+Dialogue: 0,1:01:25.01,1:01:26.09,*Default,NTP,0000,0000,0000,,没有存款\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}no savings,
+Dialogue: 0,1:01:27.00,1:01:29.03,*Default,NTP,0000,0000,0000,,与私人投资\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}no personal investments...
+Dialogue: 0,1:01:29.08,1:01:33.00,*Default,NTP,0000,0000,0000,,没保险号码  你根本就不存在\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}No social security number you may as well not even exist...
+Dialogue: 0,1:01:33.04,1:01:37.06,*Default,NTP,0000,0000,0000,,-没有抵押品  -我们的房子已抵押\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-There is no collateral. -No, we already have a second on the house.
+Dialogue: 0,1:01:37.06,1:01:39.09,*Default,NTP,0000,0000,0000,,法院的证词可以吧\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}But don't the testimonials count?
+Dialogue: 0,1:01:39.09,1:01:43.09,*Default,NTP,0000,0000,0000,,市长太太都要来请他剪发\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Did you see here the mayor's wife can't wait to become a client?
+Dialogue: 0,1:01:43.09,1:01:45.09,*Default,NTP,0000,0000,0000,,实在很难办到\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}We simply can't do it.
+Dialogue: 0,1:01:45.09,1:01:48.70,*Default,NTP,0000,0000,0000,,你先去办理社会保险号码\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Now, get yourself a social security card, establish credit 
+Dialogue: 0,1:01:48.70,1:01:50.92,*Default,NTP,0000,0000,0000,,然后用信用额买车\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}and buy yourself a car.
+Dialogue: 0,1:01:51.02,1:01:54.89,*Default,NTP,0000,0000,0000,,你会有很好优待\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You have a decided advantage. You can get a handicapped placard...
+Dialogue: 0,1:01:55.29,1:01:57.06,*Default,NTP,0000,0000,0000,,残障专用车可以任意停车\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}and park anywhere you like.
+Dialogue: 0,1:02:00.01,1:02:03.01,*Default,NTP,0000,0000,0000,,简直是欺人太甚\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I can't believe it. It's just an outrage.
+Dialogue: 0,1:02:03.01,1:02:07.05,*Default,NTP,0000,0000,0000,,别担心  无论如何我们会筹钱\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}But don't you worry. This isn't the end of it. We'll get your money somehow.
+Dialogue: 0,1:02:10.46,1:02:14.07,*Default,NTP,0000,0000,0000,,-这是违法擅闯呀  -我父母已经买了全保\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-But that's breaking and entering. -My parents have insurance up the rear.
+Dialogue: 0,1:02:14.07,1:02:16.25,*Default,NTP,0000,0000,0000,,下星期  我爸便会全修好\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}What'll it cost them? A little hassle, that's about it.
+Dialogue: 0,1:02:16.25,1:02:21.06,*Default,NTP,0000,0000,0000,,-我们不能这样做  -那可以替我们弄到钱\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-We can't. -This guy'll give us cash for the stuff.
+Dialogue: 0,1:02:23.02,1:02:24.98,*Default,NTP,0000,0000,0000,,你不想要车吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You don't want us to have our own van where we can be alone? 
+Dialogue: 0,1:02:24.98,1:02:27.42,*Default,NTP,0000,0000,0000,,我们爱去那里都可以?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}And a mattress in the back?
+Dialogue: 0,1:02:27.43,1:02:29.01,*Default,NTP,0000,0000,0000,,你难道不能自己偷吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Why can't you do it?
+Dialogue: 0,1:02:29.04,1:02:32.33,*Default,NTP,0000,0000,0000,,我们需要爱德华来开门\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Because the room's locked and we need Edward to get us in.
+Dialogue: 0,1:02:32.33,1:02:34.53,*Default,NTP,0000,0000,0000,,趁你爸睡时你去拿钥匙呀\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Can't you take the key when he's sleeping?
+Dialogue: 0,1:02:34.56,1:02:37.99,*Default,NTP,0000,0000,0000,,钥匙不在他身边\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}The only thing he hangs on to tighter is his dick.
+Dialogue: 0,1:02:38.03,1:02:41.47,*Default,NTP,0000,0000,0000,,嘉莉  他会为你做任何事\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Razor Blades'll do anything for you. -That's not true.
+Dialogue: 0,1:02:41.47,1:02:44.05,*Default,NTP,0000,0000,0000,,-这话什么意思? 你自己不会去问他  -这样不公平\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Oh, no? Why don't you ask him? -That's not fair.
+Dialogue: 0,1:02:44.09,1:02:48.67,*Default,NTP,0000,0000,0000,,-没有其它方法呀  -一定有的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-So what? There isn't any other way. -There's gotta be.
+Dialogue: 0,1:02:49.03,1:02:51.00,*Default,NTP,0000,0000,0000,,我都想过了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Look, I've racked my brain.
+Dialogue: 0,1:02:51.04,1:02:53.07,*Default,NTP,0000,0000,0000,,你难道不想我们拥有部车\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Don't you want us to have our own van?
+Dialogue: 0,1:02:53.07,1:02:55.03,*Default,NTP,0000,0000,0000,,想呀\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Well... yeah.
+Dialogue: 0,1:02:58.05,1:03:00.00,*Default,NTP,0000,0000,0000,,灯还亮着\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Jim, the lights are on!
+Dialogue: 0,1:03:00.04,1:03:04.03,*Default,NTP,0000,0000,0000,,灯自动会亮  爸妈度周末去了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Those go on automatically. They're gone for the weekend, I told you.
+Dialogue: 0,1:03:04.03,1:03:05.98,*Default,NTP,0000,0000,0000,,用来防止小偷的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}In case of burglars.
+Dialogue: 0,1:03:06.02,1:03:08.06,*Default,NTP,0000,0000,0000,,-警戒系统你关了吧? -是的  走吧\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-You turned off the alarm? -Yes. Let's go.
+Dialogue: 0,1:03:08.07,1:03:10.05,*Default,NTP,0000,0000,0000,,我讨厌这样\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I hate this.
+Dialogue: 0,1:03:10.06,1:03:13.07,*Default,NTP,0000,0000,0000,,我真不敢相信  他不晓得这是占美的家\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Are you sure he doesn't know this is Jim's house?
+Dialogue: 0,1:03:13.07,1:03:17.03,*Default,NTP,0000,0000,0000,,-他从未来过这里  他去偷过你家? -小声点\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-This person stole from you? -Shh! Keep it down!
+Dialogue: 0,1:03:17.03,1:03:19.01,*Default,NTP,0000,0000,0000,,我告诉过你他去偷过  走吧  走\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I told you he stole it, OK? Let's go!
+Dialogue: 0,1:03:19.05,1:03:22.00,*Default,NTP,0000,0000,0000,,他父母会要他交回吧?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Tell his parents and they'll make him give it back.
+Dialogue: 0,1:03:22.04,1:03:26.12,*Default,NTP,0000,0000,0000,,我试过  你答应了嘉莉走吧\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Listen, I already tried that. Now, you told Kim you'd do this. Let's go.
+Dialogue: 0,1:03:27.00,1:03:28.04,*Default,NTP,0000,0000,0000,,走\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Come on!
+Dialogue: 0,1:03:29.01,1:03:30.06,*Default,NTP,0000,0000,0000,,快\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Come on!
+Dialogue: 0,1:03:33.06,1:03:35.06,*Default,NTP,0000,0000,0000,,快...\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}OK, come on. Come on.
+Dialogue: 0,1:03:37.01,1:03:39.09,*Default,NTP,0000,0000,0000,,快\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Come on, come on, come on! Now! Come on!
+Dialogue: 0,1:04:05.00,1:04:07.07,*Default,NTP,0000,0000,0000,,我爸里头也安装了防盗\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}The bastard had it wired separately. Come on!
+Dialogue: 0,1:04:07.11,1:04:10.04,*Default,NTP,0000,0000,0000,,我们不能丢下他\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}No, Jim, we can't just leave him here!
+Dialogue: 0,1:04:18.01,1:04:19.09,*Default,NTP,0000,0000,0000,,-快  -我要这么做\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Come on. -I'm not gonna do this!
+Dialogue: 0,1:04:19.13,1:04:20.61,*Default,NTP,0000,0000,0000,,-快点  -停下\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Just come on, Kim. -Stop!
+Dialogue: 0,1:04:20.61,1:04:24.02,*Default,NTP,0000,0000,0000,,放我下来\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Put me down!
+Dialogue: 0,1:04:26.05,1:04:28.02,*Default,NTP,0000,0000,0000,,放我下来\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Put me down!
+Dialogue: 0,1:04:52.07,1:04:54.08,*Default,NTP,0000,0000,0000,,我们知道你在里面\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}We know you're in there!
+Dialogue: 0,1:04:55.03,1:04:59.04,*Default,NTP,0000,0000,0000,,现在取消防盗设定让你出来\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}We're in the process of deactivating the system so that you can come out!
+Dialogue: 0,1:05:12.00,1:05:13.45,*Default,NTP,0000,0000,0000,,-丹尼  回去  -不行\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Denny, turn around! -No way.
+Dialogue: 0,1:05:13.49,1:05:16.76,*Default,NTP,0000,0000,0000,,你不会因误触警铃而被捕\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Jim, they can't arrest you for setting off your own alarm.
+Dialogue: 0,1:05:16.83,1:05:18.80,*Default,NTP,0000,0000,0000,,我会告诉他们我们害怕跑掉了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}We'll tell 'em we freaked and ran.
+Dialogue: 0,1:05:18.80,1:05:21.04,*Default,NTP,0000,0000,0000,,-我不回去  -我们必须回去\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-I'm not going back there, OK? -We have to!
+Dialogue: 0,1:05:21.04,1:05:22.99,*Default,NTP,0000,0000,0000,,我父亲会告我的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}No. My father would prosecute.
+Dialogue: 0,1:05:23.03,1:05:24.04,*Default,NTP,0000,0000,0000,,-他的儿子  -告自己的儿子?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-His own son? -Especially his own son.
+Dialogue: 0,1:05:24.04,1:05:28.01,*Default,NTP,0000,0000,0000,,是  爱德华说的话我便杀他\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}And if Edward tells I'll kill him!
+Dialogue: 0,1:05:28.04,1:05:29.41,*Default,NTP,0000,0000,0000,,-丹尼  回去  -不\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Denny, turn around! -No!
+Dialogue: 0,1:05:29.41,1:05:32.01,*Default,NTP,0000,0000,0000,,我们一定要回去\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You have to!
+Dialogue: 0,1:05:32.01,1:05:35.65,*Default,NTP,0000,0000,0000,,举起手让我们看见\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}We want your hands high in the air where we can see them!
+Dialogue: 0,1:05:41.02,1:05:43.00,*Default,NTP,0000,0000,0000,,举手\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Put your hands up!
+Dialogue: 0,1:05:48.04,1:05:51.01,*Default,NTP,0000,0000,0000,,他手上好像有刀\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}He's holding something. Looks like knives.
+Dialogue: 0,1:05:51.04,1:05:52.09,*Default,NTP,0000,0000,0000,,抛下武器\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Drop your weapons!
+Dialogue: 0,1:05:52.47,1:05:56.05,*Default,NTP,0000,0000,0000,,我重覆  抛下武器\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I repeat... drop your weapons!
+Dialogue: 0,1:05:56.09,1:06:01.02,*Default,NTP,0000,0000,0000,,我再警告一次  抛下武器\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I'm gonna ask you one more time. This is your last warning. Drop your weapons.
+Dialogue: 0,1:06:06.00,1:06:11.00,*Default,NTP,0000,0000,0000,,再不服从  我们就开枪  别逼我们开枪\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}If you fail to do so we'll have to open fire. Don't make us do that, buddy.
+Dialogue: 0,1:06:11.00,1:06:13.45,*Default,NTP,0000,0000,0000,,抛下武器\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Drop your weapons. Drop 'em!
+Dialogue: 0,1:06:14.15,1:06:15.06,*Default,NTP,0000,0000,0000,,快\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Now!
+Dialogue: 0,1:06:15.06,1:06:17.06,*Default,NTP,0000,0000,0000,,碰到一个神经病的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Looks like we got a psycho.
+Dialogue: 0,1:06:17.06,1:06:19.04,*Default,NTP,0000,0000,0000,,-预备开枪  -不\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Prepare to fire! -Marge No! No!
+Dialogue: 0,1:06:19.07,1:06:23.09,*Default,NTP,0000,0000,0000,,-退后  -那是他的手  不是武器\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Stand back, ladies! -Those aren't weapons, those are his hands!
+Dialogue: 0,1:06:23.09,1:06:25.16,*Default,NTP,0000,0000,0000,,我们认识他\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Please. We know him.
+Dialogue: 0,1:06:27.07,1:06:29.27,*Default,NTP,0000,0000,0000,,锁起来\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}All right. Cuff him.
+Dialogue: 0,1:06:36.02,1:06:40.02,*Default,NTP,0000,0000,0000,,-我们可以看他吗? -我们要拘留他观察一晚\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-But we can see him now? -We're going to have to hold him overnight.
+Dialogue: 0,1:06:40.05,1:06:44.05,*Default,NTP,0000,0000,0000,,-他要留下? -明早再带他回去\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-He has to stay in prison all night? -You can pick him up in the morning.
+Dialogue: 0,1:06:44.09,1:06:46.92,*Default,NTP,0000,0000,0000,,爱德华\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Oh, Edward!
+Dialogue: 0,1:06:47.01,1:06:48.08,*Default,NTP,0000,0000,0000,,爱德华\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Hello, Edward.
+Dialogue: 0,1:06:48.32,1:06:52.00,*Default,NTP,0000,0000,0000,,这都怪我不好\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Oh, Edward, dear. I blame myself.
+Dialogue: 0,1:06:52.00,1:06:54.19,*Default,NTP,0000,0000,0000,,你在打什么主意?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}What in God's name was going through your mind, son?
+Dialogue: 0,1:06:54.19,1:06:59.92,*Default,NTP,0000,0000,0000,,都是我做的坏榜样  我不该羡慕占美家有钱\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Why didn't I set a better example? You saw how I envied Jim's parents.
+Dialogue: 0,1:07:00.01,1:07:02.01,*Default,NTP,0000,0000,0000,,你偷钱做什么呢?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}What were you gonna do with that stuff?
+Dialogue: 0,1:07:02.04,1:07:05.09,*Default,NTP,0000,0000,0000,,我说  我们会替他筹钱开店\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I blithely say We'll get money for the salon somehow,
+Dialogue: 0,1:07:05.12,1:07:07.05,*Default,NTP,0000,0000,0000,,我并不是要你去偷钱\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}but I never meant stealing.
+Dialogue: 0,1:07:07.09,1:07:12.04,*Default,NTP,0000,0000,0000,,偷钱是不对的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Dear, stealing's not the way to get it. Stealing's not the way to get anything.
+Dialogue: 0,1:07:12.07,1:07:16.02,*Default,NTP,0000,0000,0000,,你现在可有麻烦\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Uh-uh. Except trouble. And you're in a serious heap of that.
+Dialogue: 0,1:07:16.05,1:07:18.09,*Default,NTP,0000,0000,0000,,你为什么要这么做呢?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Oh, Edward. Why ever did you do this?
+Dialogue: 0,1:07:18.09,1:07:22.06,*Default,NTP,0000,0000,0000,,-都是电视片集害的  -那些该死的节目\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Damn those TV programmes! -Damn them all to hell!
+Dialogue: 0,1:07:22.06,1:07:25.32,*Default,NTP,0000,0000,0000,,是不是有人叫你这样做?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Or did somebody put you up to this?
+Dialogue: 0,1:07:35.50,1:07:39.13,*Default,NTP,0000,0000,0000,,医生  他没事吧\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Will he be OK, doc?
+Dialogue: 0,1:07:39.21,1:07:42.64,*Default,NTP,0000,0000,0000,,由于长时间的分隔\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}The years spent in isolation have not given him the tools 
+Dialogue: 0,1:07:42.64,1:07:45.05,*Default,NTP,0000,0000,0000,,他无法分辨是非\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}to judge right from wrong.
+Dialogue: 0,1:07:45.05,1:07:48.05,*Default,NTP,0000,0000,0000,,他没有一套遵循的法则\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}He's had no context. He's been completely without guidance.
+Dialogue: 0,1:07:48.09,1:07:52.09,*Default,NTP,0000,0000,0000,,至目前为止他的工作  园艺树雕  发型设计\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Furthermore his work, the garden sculptures, hairstyles and so forth,
+Dialogue: 0,1:07:52.13,1:07:55.08,*Default,NTP,0000,0000,0000,,全都显示他\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}indicate that he's a highly imaginative...
+Dialogue: 0,1:07:55.79,1:07:57.00,*Default,NTP,0000,0000,0000,,很有创造力\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}character.
+Dialogue: 0,1:07:57.03,1:08:01.02,*Default,NTP,0000,0000,0000,,但他对现实却一无所知\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}His awareness of what we call reality is radically underdeveloped.
+Dialogue: 0,1:08:01.06,1:08:04.89,*Default,NTP,0000,0000,0000,,放他出去会没事吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}But will he be all right out there?
+Dialogue: 0,1:08:05.00,1:08:07.01,*Default,NTP,0000,0000,0000,,他不会有事的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Oh, yeah. He'll be fine.
+Dialogue: 0,1:08:13.02,1:08:17.55,*Default,NTP,0000,0000,0000,,他们整晚都在担心你\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Listen, it could keep me up all night worrying about ya. 
+Dialogue: 0,1:08:17.55,1:08:20.43,*Default,NTP,0000,0000,0000,,你到外面小心点\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You watch yourself, you hear?
+Dialogue: 0,1:08:23.09,1:08:26.08,*Default,NTP,0000,0000,0000,,我听到声音就冲出来\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I happened to be up, so I heard all this noise...
+Dialogue: 0,1:08:26.08,1:08:30.96,*Default,NTP,0000,0000,0000,,我就一直觉得他怪怪的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}All along I felt in my gut there was somethin' wrong with him.
+Dialogue: 0,1:08:32.01,1:08:35.06,*Default,NTP,0000,0000,0000,,-他可能也会挑上我家  -任何一家都可能\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-It could have been my house. -Or any of our houses, but...
+Dialogue: 0,1:08:35.06,1:08:39.09,*Default,NTP,0000,0000,0000,,我不是早警告过你们  他有魔鬼的标记\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I warned you, didn't I? I saw the sign of Satan on him.
+Dialogue: 0,1:08:39.09,1:08:44.03,*Default,NTP,0000,0000,0000,,你们不听我的警告  你们也会看到\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You didn't heed my warning, but now you will. Because now you can see it too.
+Dialogue: 0,1:09:00.05,1:09:02.04,*Default,NTP,0000,0000,0000,,你留在这里\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Edward, you stay here.
+Dialogue: 0,1:09:02.04,1:09:05.07,*Default,NTP,0000,0000,0000,,-你是如何辩白的  -他不想谈\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-What do you say in your defence? -Nothing.
+Dialogue: 0,1:09:05.07,1:09:08.97,*Default,NTP,0000,0000,0000,,-他不想说  -你必须说\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-He doesn't want to talk. -You have to say something.
+Dialogue: 0,1:09:09.01,1:09:12.05,*Default,NTP,0000,0000,0000,,-他现在不能谈  -你是被陷害的吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-He can't talk right now. -No comments? No remarks?
+Dialogue: 0,1:09:12.07,1:09:15.30,*Default,NTP,0000,0000,0000,,你有什么感想?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}So, were you set up? What was going through your mind?
+Dialogue: 0,1:09:15.30,1:09:18.66,*Default,NTP,0000,0000,0000,,我们不想谈\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Huh? What do you have to say for yourself?
+Dialogue: 0,1:09:18.70,1:09:22.02,*Default,NTP,0000,0000,0000,,-就一会  -改天再说\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-One comment. One comment. -Later.
+Dialogue: 0,1:09:23.01,1:09:25.21,*Default,NTP,0000,0000,0000,,看来你在圣诞节以前\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Goodness, Lois, it looks like I'lI see you at our Christmas party...
+Dialogue: 0,1:09:25.21,1:09:28.96,*Default,NTP,0000,0000,0000,,都不会来剪发\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}before I get you over for your haircut!
+Dialogue: 0,1:09:29.00,1:09:31.57,*Default,NTP,0000,0000,0000,,今年当然要办舞会\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Well, of course we're gonna have it this year. 
+Dialogue: 0,1:09:31.57,1:09:33.11,*Default,NTP,0000,0000,0000,,每年都有办呀\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}We have it every year. Why wouldn't we?
+Dialogue: 0,1:09:36.07,1:09:38.00,*Default,NTP,0000,0000,0000,,好的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Well!
+Dialogue: 0,1:09:38.02,1:09:40.09,*Default,NTP,0000,0000,0000,,你要是这么想那就错了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You may think that, but you're wrong.
+Dialogue: 0,1:09:45.07,1:09:47.03,*Default,NTP,0000,0000,0000,,你在这里\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You're here.
+Dialogue: 0,1:09:49.06,1:09:52.00,*Default,NTP,0000,0000,0000,,他们没伤害你吧?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}They didn't hurt you, did they?
+Dialogue: 0,1:09:54.04,1:09:56.01,*Default,NTP,0000,0000,0000,,你害怕吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Were you scared?
+Dialogue: 0,1:09:59.06,1:10:04.14,*Default,NTP,0000,0000,0000,,我曾要占美回去  但是他们不听\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I tried to make Jim go back, but you can't make Jim do anything.
+Dialogue: 0,1:10:08.45,1:10:13.08,*Default,NTP,0000,0000,0000,,谢谢你没说出来\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Thank you for not telling them that we...
+Dialogue: 0,1:10:13.08,1:10:15.06,*Default,NTP,0000,0000,0000,,不用客气\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You're welcome.
+Dialogue: 0,1:10:16.43,1:10:22.05,*Default,NTP,0000,0000,0000,,你知道那是占美家一定很难过\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}It must have been awful when they told you whose house it was.
+Dialogue: 0,1:10:22.43,1:10:26.05,*Default,NTP,0000,0000,0000,,我早知那是他家\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I knew it was Jim's house.
+Dialogue: 0,1:10:27.00,1:10:28.08,*Default,NTP,0000,0000,0000,,真的?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You... you did?
+Dialogue: 0,1:10:29.09,1:10:31.02,*Default,NTP,0000,0000,0000,,是的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Yes.
+Dialogue: 0,1:10:33.05,1:10:35.07,*Default,NTP,0000,0000,0000,,那你为什么还要去?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Well, then why'd you do it?
+Dialogue: 0,1:10:37.02,1:10:39.03,*Default,NTP,0000,0000,0000,,因为你叫我去\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Because you asked me to.
+Dialogue: 0,1:10:42.09,1:10:44.05,*Default,NTP,0000,0000,0000,,{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Kimba\NKimba!
+Dialogue: 0,1:10:44.06,1:10:46.06,*Default,NTP,0000,0000,0000,,Kimmy  嘿\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Kimmy! Hey!
+Dialogue: 0,1:10:55.02,1:10:57.07,*Default,NTP,0000,0000,0000,,不要  你怎么了?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Don't! -What's the matter with you?
+Dialogue: 0,1:10:57.07,1:10:59.00,*Default,NTP,0000,0000,0000,,你何时才停止?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}When are you gonna stop? I did what I could.
+Dialogue: 0,1:10:59.00,1:11:03.05,*Default,NTP,0000,0000,0000,,我告诉我爸他是白痴  不然他早坐牢了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}My old man thinks he's retarded, so he's free. What more do you want?
+Dialogue: 0,1:11:03.05,1:11:06.09,*Default,NTP,0000,0000,0000,,-你可以说实话  -你也可以说真话  你也有份\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-You could tell the truth. -So could you. You were there too!
+Dialogue: 0,1:11:06.09,1:11:10.28,*Default,NTP,0000,0000,0000,,-那都是你的主意  我不想做  -你也有份参与\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-You know I didn't wanna do it. -But you did do it.
+Dialogue: 0,1:11:10.32,1:11:14.04,*Default,NTP,0000,0000,0000,,我不知道你干嘛那么在乎\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I don't get why you give such a shit anyway.
+Dialogue: 0,1:11:44.09,1:11:49.01,*Default,NTP,0000,0000,0000,,我们可以重换窗帘和毛巾\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Maybe there's a way you can replace the drapes and the towels,
+Dialogue: 0,1:11:49.01,1:11:52.08,*Default,NTP,0000,0000,0000,,但要对你恢复信心可更难\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}but our confidence in you is not gonna be so easy to replace.
+Dialogue: 0,1:11:52.12,1:11:54.46,*Default,NTP,0000,0000,0000,,爸爸\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Dad...
+Dialogue: 0,1:11:54.53,1:11:57.94,*Default,NTP,0000,0000,0000,,教你一点公民道德\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}OK. A little ethics. You're walkin' down the street. 
+Dialogue: 0,1:11:57.95,1:12:01.02,*Default,NTP,0000,0000,0000,,你在街上捡到一箱钱\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You find a suitcase full of money.
+Dialogue: 0,1:12:01.02,1:12:05.03,*Default,NTP,0000,0000,0000,,附近没有人  你会怎么办?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}There's nobody around. No human person is in evidence. What do you do?
+Dialogue: 0,1:12:05.07,1:12:07.37,*Default,NTP,0000,0000,0000,,你收下这些钱\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You keep the money.
+Dialogue: 0,1:12:07.41,1:12:11.94,*Default,NTP,0000,0000,0000,,你用来买礼物送朋友\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You use it to buy gifts for your friends and your loved ones.
+Dialogue: 0,1:12:12.74,1:12:15.21,*Default,NTP,0000,0000,0000,,你送给穷人\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You give it to the poor.
+Dialogue: 0,1:12:16.05,1:12:19.00,*Default,NTP,0000,0000,0000,,你交给警方\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You turn it in to the police.
+Dialogue: 0,1:12:19.07,1:12:21.49,*Default,NTP,0000,0000,0000,,-爸  这太愚蠢了  -金\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Dad, this is really stupid. -Kim...!
+Dialogue: 0,1:12:21.49,1:12:24.03,*Default,NTP,0000,0000,0000,,-我会收下  -安静\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-I'd keep the money. -Simmer down.
+Dialogue: 0,1:12:24.06,1:12:24.79,*Default,NTP,0000,0000,0000,,爱德华\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Edward?
+Dialogue: 0,1:12:27.19,1:12:31.01,*Default,NTP,0000,0000,0000,,吃完饭  我们去打保龄球吧\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Hey, how about after dinner we go down to the bowling alley? That'd be fun.
+Dialogue: 0,1:12:31.04,1:12:33.01,*Default,NTP,0000,0000,0000,,你今晚不去找占美?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You're not seeing Jim tonight?
+Dialogue: 0,1:12:33.04,1:12:34.03,*Default,NTP,0000,0000,0000,,不去\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}No.
+Dialogue: 0,1:12:35.04,1:12:37.02,*Default,NTP,0000,0000,0000,,今天的课棒极了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}We had the coolest show and tell today.
+Dialogue: 0,1:12:37.06,1:12:42.05,*Default,NTP,0000,0000,0000,,有个同学带来了小袋鼠  全身光溜溜的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}This kid brought in a box of baby possums. Ten, maybe twelve. Totally naked.
+Dialogue: 0,1:12:42.05,1:12:46.01,*Default,NTP,0000,0000,0000,,-凯文  -我想你爸还没说完话\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-No hair at all. -Honey, your father isn't finished yet.
+Dialogue: 0,1:12:47.01,1:12:49.09,*Default,NTP,0000,0000,0000,,谢谢  爱德华我们在等你回答\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Thank you, dear. Edward, we're waiting.
+Dialogue: 0,1:12:53.05,1:12:55.02,*Default,NTP,0000,0000,0000,,送给我的好朋友\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Give it to my loved ones?
+Dialogue: 0,1:12:58.19,1:13:02.04,*Default,NTP,0000,0000,0000,,你觉得该这么做  但这不对\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Oh, Edward, it does seem that that's what you should do, but it's not.
+Dialogue: 0,1:13:05.07,1:13:09.06,*Default,NTP,0000,0000,0000,,白痴呀  应该交给警方才是\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You dope, everybody knows you're supposed to give it to the police.
+Dialogue: 0,1:13:11.07,1:13:13.02,*Default,NTP,0000,0000,0000,,凯文  你说得对\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Good thinking, Kevin.
+Dialogue: 0,1:13:13.06,1:13:15.17,*Default,NTP,0000,0000,0000,,你们大家想一下\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Well, think about it, you guys.
+Dialogue: 0,1:13:16.07,1:13:18.68,*Default,NTP,0000,0000,0000,,他这么做也很好\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I mean, that's the nicer thing to do. That's what l would do.
+Dialogue: 0,1:13:20.08,1:13:23.22,*Default,NTP,0000,0000,0000,,我们要让他能够了解现实\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}We're not trying to confuse him, we're trying to make things easier,
+Dialogue: 0,1:13:23.22,1:13:24.68,*Default,NTP,0000,0000,0000,,大家别再闹了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}so cut the comedy.
+Dialogue: 0,1:13:24.68,1:13:28.60,*Default,NTP,0000,0000,0000,,我觉得这样做可爱多了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I am being serious, Dad. It's a much nicer thing to do.
+Dialogue: 0,1:13:29.03,1:13:31.07,*Default,NTP,0000,0000,0000,,我们现在是要教他明辨是非\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Forget nice. We're talking right and wrong.
+Dialogue: 0,1:13:31.70,1:13:33.01,*Default,NTP,0000,0000,0000,,别笑\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Shut up!
+Dialogue: 0,1:13:33.01,1:13:36.05,*Default,NTP,0000,0000,0000,,难怪爱德华学不好\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Oh, goodness! No wonder poor Edward can't learn right from wrong, 
+Dialogue: 0,1:13:36.05,1:13:38.79,*Default,NTP,0000,0000,0000,,住在我们这样的家庭\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}living in this family!
+Dialogue: 0,1:13:39.03,1:13:42.01,*Default,NTP,0000,0000,0000,,你知他将碧姬家怎么了?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Well, did you hear what he did to Peg's curtains?
+Dialogue: 0,1:13:42.04,1:13:46.04,*Default,NTP,0000,0000,0000,,他们还打算开圣诞舞会? 你要去吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}It's unbelievable they're having their party anyway. Are you going?
+Dialogue: 0,1:13:46.04,1:13:47.99,*Default,NTP,0000,0000,0000,,我不想去\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I don't think so.
+Dialogue: 0,1:13:48.02,1:13:50.44,*Default,NTP,0000,0000,0000,,其实他强暴了乔伊斯\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}He practically raped Joyce, threatening her with those knives.
+Dialogue: 0,1:13:50.44,1:13:53.02,*Default,NTP,0000,0000,0000,,用他的剪刀来威胁她就范\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}It's a miracle she escaped.
+Dialogue: 0,1:13:53.05,1:13:55.05,*Default,NTP,0000,0000,0000,,我不是怪比尔和碧姬\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I have nothing against Bill and Peg, but...
+Dialogue: 0,1:13:55.08,1:13:59.02,*Default,NTP,0000,0000,0000,,但是他们家有一个未成年少女\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I know. They've got that teenage daughter in the house.
+Dialogue: 0,1:13:59.05,1:14:01.32,*Default,NTP,0000,0000,0000,,可怜的孩子  我这么一出事后\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Those poor things! After what happened to me...
+Dialogue: 0,1:14:01.32,1:14:04.00,*Default,NTP,0000,0000,0000,,你能想像吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Can you imagine?
+Dialogue: 0,1:14:04.00,1:14:06.05,*Default,NTP,0000,0000,0000,,你说他们要办舞会?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}What did you say about the Christmas party?
+Dialogue: 0,1:14:06.08,1:14:08.06,*Default,NTP,0000,0000,0000,,我说我可能会去\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I said I hoped we could make it.
+Dialogue: 0,1:14:08.10,1:14:10.02,*Default,NTP,0000,0000,0000,,我也撒了同样的谎\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I lied too.
+Dialogue: 0,1:14:30.05,1:14:33.07,*Default,NTP,0000,0000,0000,,你要替我剪新发型吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Edward? Do you want to give me that new haircut?
+Dialogue: 0,1:14:34.00,1:14:35.52,*Default,NTP,0000,0000,0000,,-还要吗? -是的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Again? -Yeah, sure!
+Dialogue: 0,1:14:35.52,1:14:40.01,*Default,NTP,0000,0000,0000,,我很荣幸有你这位个人发型师\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}It makes me proud to have you as my own personal hairdresser.
+Dialogue: 0,1:14:43.03,1:14:43.90,*Default,NTP,0000,0000,0000,,-嗨  亲爱的  -嗨\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Hi, honey. -Hi.
+Dialogue: 0,1:14:43.90,1:14:47.43,*Default,NTP,0000,0000,0000,,-你要不要玩包剪槌? -不\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Kevin, want to play scissors, paper, stone? -No.
+Dialogue: 0,1:14:47.43,1:14:51.07,*Default,NTP,0000,0000,0000,,-为什么  -无聊死了我老是赢  我出去了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Why? -It's boring. I'm tired of always winning.
+Dialogue: 0,1:14:51.07,1:14:55.00,*Default,NTP,0000,0000,0000,,-我要出去-你礼貌点\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-I'll be outside -A few manners!
+Dialogue: 0,1:14:55.03,1:14:58.02,*Default,NTP,0000,0000,0000,,你不要介意  你剪吧\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Never you mind, dear. Just... cut away. Cut away.
+Dialogue: 0,1:15:22.02,1:15:25.77,*Default,NTP,0000,0000,0000,,还要多添点什么呢?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}It needs something... else. What do you think, honey?
+Dialogue: 0,1:15:26.00,1:15:28.50,*Default,NTP,0000,0000,0000,,-小钟? -再加小钟  好的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-More bells? -More bells. OK.
+Dialogue: 0,1:15:29.00,1:15:31.24,*Default,NTP,0000,0000,0000,,妈  我们真要开舞会吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Mom, do you really think we should be having this party?
+Dialogue: 0,1:15:31.24,1:15:33.61,*Default,NTP,0000,0000,0000,,当然是要办呀\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Of course I think we should be having this party.
+Dialogue: 0,1:15:34.91,1:15:38.09,*Default,NTP,0000,0000,0000,,这样可让事情平静下来\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}It's just what we need to calm things down, 
+Dialogue: 0,1:15:38.10,1:15:39.95,*Default,NTP,0000,0000,0000,,让一切回复正常\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}and... everything'll go back to normal. Hm?
+Dialogue: 0,1:15:43.05,1:15:46.00,*Default,NTP,0000,0000,0000,,你还有小钟吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Do you have any more bells, honey?
+Dialogue: 0,1:17:31.08,1:17:33.01,*Default,NTP,0000,0000,0000,,嘿\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Hey!
+Dialogue: 0,1:17:37.06,1:17:39.09,*Default,NTP,0000,0000,0000,,看你做了什么\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Now you've done it.
+Dialogue: 0,1:17:40.09,1:17:42.05,*Default,NTP,0000,0000,0000,,只是划了一道  没事的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}It's just a scratch, Jim, really. It's OK.
+Dialogue: 0,1:17:42.05,1:17:44.84,*Default,NTP,0000,0000,0000,,-再碰她我就要你的命  -这没什么大不了的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Touch her again and I'll kill ya. -It's no big deal.
+Dialogue: 0,1:17:45.07,1:17:48.04,*Default,NTP,0000,0000,0000,,-快叫医生  -不\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Call a doctor. He skewered Kim. -No!
+Dialogue: 0,1:17:48.08,1:17:50.00,*Default,NTP,0000,0000,0000,,远离她  我说真的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Stay away from her. I mean it!
+Dialogue: 0,1:17:50.03,1:17:51.80,*Default,NTP,0000,0000,0000,,你到处惹祸\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You can't touch anything without ruining it. 
+Dialogue: 0,1:17:51.80,1:17:54.07,*Default,NTP,0000,0000,0000,,你为何还待在这里?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Why do you hang around here anyway?
+Dialogue: 0,1:17:54.11,1:17:58.49,*Default,NTP,0000,0000,0000,,你坐下来  我去拿冰块来敷\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I want you to sit right down and wait for me to bring you some ice.
+Dialogue: 0,1:17:58.52,1:18:02.63,*Default,NTP,0000,0000,0000,,我马上回来\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Stay right there. I'll be right back.
+Dialogue: 0,1:18:02.66,1:18:06.73,*Default,NTP,0000,0000,0000,,圣诞的清晨里...\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}On Christmas day in the morning
+Dialogue: 0,1:18:07.09,1:18:10.00,*Default,NTP,0000,0000,0000,,滚开\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Get the hell outta here!
+Dialogue: 0,1:18:10.08,1:18:14.01,*Default,NTP,0000,0000,0000,,走  走呀  怪胎\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Get the hell out! Go! Freak!
+Dialogue: 0,1:18:14.01,1:18:16.06,*Default,NTP,0000,0000,0000,,爱德华  你要去哪?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Hey, Edward, where are you goin'?
+Dialogue: 0,1:18:24.02,1:18:25.08,*Default,NTP,0000,0000,0000,,他人呢?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Where is he?
+Dialogue: 0,1:18:25.09,1:18:28.07,*Default,NTP,0000,0000,0000,,-他要伤害你  不  -他没有\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-He tried to hurt you. -He did not, and you know it.
+Dialogue: 0,1:18:28.10,1:18:31.00,*Default,NTP,0000,0000,0000,,你疯了吗? 我亲眼看到的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Are you nuts? I just saw him!
+Dialogue: 0,1:18:31.02,1:18:35.49,*Default,NTP,0000,0000,0000,,占美  我不爱你了  你走吧  走呀\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Jim, I don't love you any more. I just want you to go, OK? Just go!
+Dialogue: 0,1:18:36.09,1:18:38.07,*Default,NTP,0000,0000,0000,,你说真的?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Are you serious?
+Dialogue: 0,1:18:38.07,1:18:41.04,*Default,NTP,0000,0000,0000,,你因为他离开我\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}And lose you to that? He isn't even human.
+Dialogue: 0,1:18:41.07,1:18:46.07,*Default,NTP,0000,0000,0000,,你滚吧\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Just get out of here, OK? Just go!
+Dialogue: 0,1:18:52.01,1:18:53.99,*Default,NTP,0000,0000,0000,,爸  你看见他去那里吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Dad, did you see where Edward went?
+Dialogue: 0,1:18:54.02,1:18:56.05,*Default,NTP,0000,0000,0000,,他沿着街走了下去\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I don't know. He just waltzed down the street.
+Dialogue: 0,1:18:56.09,1:18:58.25,*Default,NTP,0000,0000,0000,,-我们得去找他  -叫你父亲去找他\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-We have to find him, Mom. -Your father will find him.
+Dialogue: 0,1:18:58.25,1:19:02.02,*Default,NTP,0000,0000,0000,,进去  我来处理这事\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Go on in the house. I'll take care of it.
+Dialogue: 0,1:19:02.05,1:19:04.07,*Default,NTP,0000,0000,0000,,我去找他\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I'll go find him.
+Dialogue: 0,1:19:21.06,1:19:22.04,*Default,NTP,0000,0000,0000,,爱德华\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Edward!
+Dialogue: 0,1:19:22.04,1:19:25.00,*Default,NTP,0000,0000,0000,,我要报警\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I'm calling the police!
+Dialogue: 0,1:20:12.09,1:20:16.66,*Default,NTP,0000,0000,0000,,这只是一道小伤口\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}See all that blood, sweetie? And it's just a little cut.
+Dialogue: 0,1:20:18.02,1:20:19.04,*Default,NTP,0000,0000,0000,,哦\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Oh!
+Dialogue: 0,1:20:26.05,1:20:29.06,*Default,NTP,0000,0000,0000,,我是来找剪刀手的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Hello. I'm here to see the man with the hands.
+Dialogue: 0,1:20:29.54,1:20:33.01,*Default,NTP,0000,0000,0000,,哦\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Ohh!
+Dialogue: 0,1:20:33.02,1:20:35.08,*Default,NTP,0000,0000,0000,,-嗯  -他不在  谢谢\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Uh... -He's not here. Thank you.
+Dialogue: 0,1:20:36.03,1:20:37.08,*Default,NTP,0000,0000,0000,,亲爱的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Oh, dear.
+Dialogue: 0,1:20:40.03,1:20:42.07,*Default,NTP,0000,0000,0000,,你真的看见他?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Helen, did you actually see him?
+Dialogue: 0,1:20:42.07,1:20:44.35,*Default,NTP,0000,0000,0000,,是的  你看\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Yes! Look!
+Dialogue: 0,1:20:50.00,1:20:51.99,*Default,NTP,0000,0000,0000,,我是来找剪刀手的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I'm looking for the man with the scissors.
+Dialogue: 0,1:20:52.02,1:20:55.07,*Default,NTP,0000,0000,0000,,-谢天谢地  你们来了  -他朝那边去了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Thank God you're here. -He went right down that way, sir.
+Dialogue: 0,1:20:55.07,1:20:58.24,*Default,NTP,0000,0000,0000,,好  冷静  我们会处理的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}All right, calm down, calm down. Go on home. We'll handle it.
+Dialogue: 0,1:20:59.04,1:21:01.01,*Default,NTP,0000,0000,0000,,回家去\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Just go home.
+Dialogue: 0,1:21:01.03,1:21:05.34,*Default,NTP,0000,0000,0000,,-他是恶魔  -抓住他一定要抓住他\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-A... a demon. A demon. -You gotta do somethin'!
+Dialogue: 0,1:21:12.09,1:21:15.06,*Default,NTP,0000,0000,0000,,你爸一定会找到他\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I'm sure your father'll find him soon.
+Dialogue: 0,1:21:16.01,1:21:17.09,*Default,NTP,0000,0000,0000,,几点了?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}What time is it?
+Dialogue: 0,1:21:18.07,1:21:22.07,*Default,NTP,0000,0000,0000,,八点半了  今天派对可真棒呀\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}It's almost 8.30. Great party, huh?
+Dialogue: 0,1:21:22.07,1:21:25.13,*Default,NTP,0000,0000,0000,,他们去了哪里?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Mom, where are they?
+Dialogue: 0,1:21:26.04,1:21:29.26,*Default,NTP,0000,0000,0000,,-天啊  -希望他没事  -我也希望\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-God, I hope he's OK. -So do I, honey.
+Dialogue: 0,1:21:34.08,1:21:37.78,*Default,NTP,0000,0000,0000,,当我把爱德华带回家\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You know, when I brought Edward down here to live with us,
+Dialogue: 0,1:21:39.38,1:21:41.75,*Default,NTP,0000,0000,0000,,我实在没好好考虑清楚\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I really didn't think things through.
+Dialogue: 0,1:21:43.45,1:21:46.32,*Default,NTP,0000,0000,0000,,也没想到他会发生何事\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}And I didn't think about what could happen to him.
+Dialogue: 0,1:21:48.32,1:21:54.09,*Default,NTP,0000,0000,0000,,或者我们会如何? 或对邻居们\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Or to us. Or to the neighbourhood.
+Dialogue: 0,1:21:54.12,1:21:57.29,*Default,NTP,0000,0000,0000,,现在我觉得也许...\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}And now I think that maybe...
+Dialogue: 0,1:21:57.29,1:22:03.00,*Default,NTP,0000,0000,0000,,他回去会比较好\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}it might be best if he goes... back up there.
+Dialogue: 0,1:22:04.10,1:22:06.04,*Default,NTP,0000,0000,0000,,因为至少他在上面比较安全\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Because at least there he's safe.
+Dialogue: 0,1:22:08.64,1:22:11.09,*Default,NTP,0000,0000,0000,,我们的生活再回复正常\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}And we'd just... go back to normal.
+Dialogue: 0,1:22:13.92,1:22:17.58,*Default,NTP,0000,0000,0000,,我几乎走到街尾  都没看见他\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I got halfway to the Whitmans'. I didn't see him anywhere.
+Dialogue: 0,1:22:17.61,1:22:20.06,*Default,NTP,0000,0000,0000,,我们驾车去找他\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Let's get in the car and go look for him.
+Dialogue: 0,1:22:20.10,1:22:22.52,*Default,NTP,0000,0000,0000,,-凯文呢? -他在麦家\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Where's Kevin now? -At Max's.
+Dialogue: 0,1:22:22.52,1:22:23.58,*Default,NTP,0000,0000,0000,,上帝啊\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Oh, for God's sakes!
+Dialogue: 0,1:22:24.61,1:22:26.58,*Default,NTP,0000,0000,0000,,-你要去那里? -跟你们去\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Where do you think you're goin'? -With you guys.
+Dialogue: 0,1:22:26.59,1:22:31.50,*Default,NTP,0000,0000,0000,,-你在家等  如果有人来的话  -我们马上回来\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-You stay here in case somebody shows up. -We'll be right back, dear.
+Dialogue: 0,1:23:10.31,1:23:11.36,*Default,NTP,0000,0000,0000,,警察\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Police!
+Dialogue: 0,1:23:49.30,1:23:50.34,*Default,NTP,0000,0000,0000,,爱德华\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Edward?
+Dialogue: 0,1:23:53.39,1:23:56.31,*Default,NTP,0000,0000,0000,,你没事吧?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Are you OK?
+Dialogue: 0,1:23:56.35,1:23:58.61,*Default,NTP,0000,0000,0000,,没事  你呢?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Yes. Are you OK?
+Dialogue: 0,1:24:02.80,1:24:04.39,*Default,NTP,0000,0000,0000,,大家都去哪里了?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Where is everybody?
+Dialogue: 0,1:24:05.35,1:24:07.35,*Default,NTP,0000,0000,0000,,出去找你\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Out looking for you.
+Dialogue: 0,1:24:13.36,1:24:15.31,*Default,NTP,0000,0000,0000,,抱我\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Hold me.
+Dialogue: 0,1:24:29.34,1:24:30.38,*Default,NTP,0000,0000,0000,,我不能\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I can't.
+Dialogue: 0,1:24:59.35,1:25:03.30,*Default,NTP,0000,0000,0000,,我知离圣诞节还很早\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I know it's a little early for Christmas, Edward, but...
+Dialogue: 0,1:25:07.15,1:25:09.36,*Default,NTP,0000,0000,0000,,但我有礼物给你\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I have a present for you.
+Dialogue: 0,1:27:08.02,1:27:09.37,*Default,NTP,0000,0000,0000,,他连她的手都碰不了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Forget holding her hand.
+Dialogue: 0,1:27:09.37,1:27:11.37,*Default,NTP,0000,0000,0000,,你想他会对她造成什么伤害?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Picture the damage he could do other places.
+Dialogue: 0,1:27:11.38,1:27:14.78,*Default,NTP,0000,0000,0000,,真呕心\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Yeah. That's sick.
+Dialogue: 0,1:27:19.36,1:27:23.32,*Default,NTP,0000,0000,0000,,我真的快吐了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Ugh! I feel like I'm gonna pass out or puke or something.
+Dialogue: 0,1:27:23.35,1:27:25.37,*Default,NTP,0000,0000,0000,,等一会  先载我到她家去\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Later. First, take me to her house.
+Dialogue: 0,1:27:25.41,1:27:27.37,*Default,NTP,0000,0000,0000,,占美别叫我开车了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Come on. Don't make me drive.
+Dialogue: 0,1:27:27.37,1:27:29.33,*Default,NTP,0000,0000,0000,,快开\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Just do it!
+Dialogue: 0,1:27:29.38,1:27:31.39,*Default,NTP,0000,0000,0000,,她真是说得没错\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Jesus. Maybe she was right about you.
+Dialogue: 0,1:27:31.42,1:27:34.42,*Default,NTP,0000,0000,0000,,-快开车  -放松\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Just drive! -Relax!
+Dialogue: 0,1:27:38.33,1:27:41.34,*Default,NTP,0000,0000,0000,,-明天见  -好的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-See you tomorrow. Call me. -All right.
+Dialogue: 0,1:27:59.35,1:28:00.82,*Default,NTP,0000,0000,0000,,抓到他了吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Have they caught him yet?
+Dialogue: 0,1:28:02.33,1:28:05.62,*Default,NTP,0000,0000,0000,,-谁? -他  那个残障呀\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Who? -Him! That... that cripple.
+Dialogue: 0,1:28:09.20,1:28:11.36,*Default,NTP,0000,0000,0000,,抓到了通知我一声\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Let me know when they do.
+Dialogue: 0,1:28:13.35,1:28:15.34,*Default,NTP,0000,0000,0000,,通知大家  好吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Let us all know, OK?
+Dialogue: 0,1:28:16.36,1:28:18.34,*Default,NTP,0000,0000,0000,,做个乖孩子\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Like a good boy.
+Dialogue: 0,1:28:39.12,1:28:40.36,*Default,NTP,0000,0000,0000,,凯文\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Kevin.
+Dialogue: 0,1:28:45.30,1:28:47.34,*Default,NTP,0000,0000,0000,,-Urgh  -你没事吧?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Urgh! -Are you OK?
+Dialogue: 0,1:28:47.34,1:28:49.33,*Default,NTP,0000,0000,0000,,-没事  -哦\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-It's OK. -Ow!
+Dialogue: 0,1:28:50.30,1:28:51.38,*Default,NTP,0000,0000,0000,,哦\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Ow! Ow!
+Dialogue: 0,1:28:52.38,1:28:55.54,*Default,NTP,0000,0000,0000,,-爱德华  住手  -我是你的朋友\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Edward, stop! -I'm your friend.
+Dialogue: 0,1:28:59.35,1:29:01.33,*Default,NTP,0000,0000,0000,,救命\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Somebody help us!
+Dialogue: 0,1:29:03.36,1:29:06.33,*Default,NTP,0000,0000,0000,,你在做什么? 放开他\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}What are you doing? Get away from him!
+Dialogue: 0,1:29:13.37,1:29:15.27,*Default,NTP,0000,0000,0000,,嘿\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Hey...
+Dialogue: 0,1:29:15.31,1:29:16.77,*Default,NTP,0000,0000,0000,,-放开我  -什么?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Let go of me! -What?
+Dialogue: 0,1:29:16.90,1:29:18.34,*Default,NTP,0000,0000,0000,,凯文\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Kevin!
+Dialogue: 0,1:29:25.35,1:29:28.35,*Default,NTP,0000,0000,0000,,-走开  -爱德华  回家\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-Get away! -Edward, come home. Come home!
+Dialogue: 0,1:30:00.47,1:30:01.36,*Default,NTP,0000,0000,0000,,快逃\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Run.
+Dialogue: 0,1:30:29.30,1:30:32.33,*Default,NTP,0000,0000,0000,,凯文没事  只是划伤\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Kevin's all right! It was just the tiniest scratch!
+Dialogue: 0,1:30:32.36,1:30:36.38,*Default,NTP,0000,0000,0000,,他走了  放他走算了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}He's gone. Let's not bother him, all right? Let's just leave him alone.
+Dialogue: 0,1:30:45.34,1:30:47.30,*Default,NTP,0000,0000,0000,,你快逃吧\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Go on, run.
+Dialogue: 0,1:30:52.31,1:30:54.70,*Default,NTP,0000,0000,0000,,-怎么了? -他死了吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}-What happened? ls he dead? -Did you get him?
+Dialogue: 0,1:30:54.70,1:30:58.37,*Default,NTP,0000,0000,0000,,结束了  你们都回家吧\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}It's all over. Go on home. There's nothing more to see.
+Dialogue: 0,1:30:58.37,1:31:03.34,*Default,NTP,0000,0000,0000,,都结束了  我要知道答案\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}What happened out there? I want to know! I want some answers!
+Dialogue: 0,1:31:03.34,1:31:05.32,*Default,NTP,0000,0000,0000,,一切都结束了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}It is all over.
+Dialogue: 0,1:31:05.36,1:31:08.48,*Default,NTP,0000,0000,0000,,他人呢?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Where is he? Where is he?
+Dialogue: 0,1:31:09.39,1:31:12.78,*Default,NTP,0000,0000,0000,,回来  我要问清楚\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Get back here! I wanna ask you something!
+Dialogue: 0,1:31:19.33,1:31:21.39,*Default,NTP,0000,0000,0000,,我真不敢相信\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Look at that! I don't believe this.
+Dialogue: 0,1:31:22.39,1:31:25.30,*Default,NTP,0000,0000,0000,,他们没抓到他  我进去\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}They don't have him. I'm goin'.
+Dialogue: 0,1:31:25.30,1:31:29.17,*Default,NTP,0000,0000,0000,,这恐怕不好吧\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}No! That's not a good idea.
+Dialogue: 0,1:32:32.35,1:32:34.33,*Default,NTP,0000,0000,0000,,他们正来这里吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}They're coming?
+Dialogue: 0,1:32:36.73,1:32:39.30,*Default,NTP,0000,0000,0000,,我伤了凯文吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Did I hurt Kevin?
+Dialogue: 0,1:32:39.32,1:32:42.30,*Default,NTP,0000,0000,0000,,他没事  大概是吓到了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}No, he's OK. Mostly he was just scared.
+Dialogue: 0,1:32:44.38,1:32:46.39,*Default,NTP,0000,0000,0000,,我好怕\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Edward, I was so afraid.
+Dialogue: 0,1:32:47.24,1:32:50.32,*Default,NTP,0000,0000,0000,,我还以为你死了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I thought you were dead.
+Dialogue: 0,1:32:57.90,1:32:59.35,*Default,NTP,0000,0000,0000,,我可没那么想\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I didn't.
+Dialogue: 0,1:33:08.34,1:33:09.36,*Default,NTP,0000,0000,0000,,不\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}No!
+Dialogue: 0,1:33:19.35,1:33:20.37,*Default,NTP,0000,0000,0000,,住手\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}No!
+Dialogue: 0,1:33:20.62,1:33:22.38,*Default,NTP,0000,0000,0000,,占美  住手\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Jim, stop!
+Dialogue: 0,1:33:23.33,1:33:24.36,*Default,NTP,0000,0000,0000,,不\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}No!
+Dialogue: 0,1:33:40.32,1:33:41.34,*Default,NTP,0000,0000,0000,,不\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}No!
+Dialogue: 0,1:33:44.38,1:33:47.33,*Default,NTP,0000,0000,0000,,住手  不然我就自己杀你\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Stop it. Or I'll kill you myself.
+Dialogue: 0,1:33:54.38,1:33:56.32,*Default,NTP,0000,0000,0000,,啊\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Aagh!
+Dialogue: 0,1:33:58.38,1:34:02.14,*Default,NTP,0000,0000,0000,,别再接近她\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Hey! I said stay away from her!
+Dialogue: 0,1:35:01.37,1:35:03.36,*Default,NTP,0000,0000,0000,,再见\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Goodbye.
+Dialogue: 0,1:35:14.38,1:35:17.53,*Default,NTP,0000,0000,0000,,我爱你\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I love you.
+Dialogue: 0,1:36:04.39,1:36:07.30,*Default,NTP,0000,0000,0000,,他在里面吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Is he in there?
+Dialogue: 0,1:36:08.39,1:36:11.38,*Default,NTP,0000,0000,0000,,他死了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}He's dead.
+Dialogue: 0,1:36:14.36,1:36:16.37,*Default,NTP,0000,0000,0000,,屋顶塌下来压死了他\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}The roof caved in on him.
+Dialogue: 0,1:36:17.37,1:36:19.38,*Default,NTP,0000,0000,0000,,他们互相残杀\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}They killed each other.
+Dialogue: 0,1:36:22.37,1:36:25.30,*Default,NTP,0000,0000,0000,,不信你们可以自己来看\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You can see for yourselves.
+Dialogue: 0,1:36:27.37,1:36:28.39,*Default,NTP,0000,0000,0000,,看到吗?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}See?
+Dialogue: 0,1:36:38.31,1:36:40.32,*Default,NTP,0000,0000,0000,,我要回家了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I'm goin' home.
+Dialogue: 0,1:36:49.30,1:36:50.35,*Default,NTP,0000,0000,0000,,乔伊斯\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Joyce...
+Dialogue: 0,1:37:08.33,1:37:10.34,*Default,NTP,0000,0000,0000,,她再也没见到他\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}She never saw him again.
+Dialogue: 0,1:37:11.64,1:37:14.32,*Default,NTP,0000,0000,0000,,在那一夜之后\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Not after that night.
+Dialogue: 0,1:37:15.32,1:37:17.30,*Default,NTP,0000,0000,0000,,你怎么知道?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}How do you know?
+Dialogue: 0,1:37:23.29,1:37:26.37,*Default,NTP,0000,0000,0000,,因为我也在场\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Because I was there.
+Dialogue: 0,1:37:26.38,1:37:31.05,*Default,NTP,0000,0000,0000,,你还是可以上去看看呀\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You could have gone up there. You still could go.
+Dialogue: 0,1:37:31.38,1:37:33.36,*Default,NTP,0000,0000,0000,,不  亲爱的\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}No, sweetheart.
+Dialogue: 0,1:37:33.36,1:37:36.89,*Default,NTP,0000,0000,0000,,我现在已经是个老妇人了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I'm an old woman now.
+Dialogue: 0,1:37:37.33,1:37:40.34,*Default,NTP,0000,0000,0000,,我只愿他记得我当年的样子\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I would rather him remember me the way I was.
+Dialogue: 0,1:38:14.36,1:38:18.60,*Default,NTP,0000,0000,0000,,你怎知他还活着?\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}How do you know he's still alive?
+Dialogue: 0,1:38:19.34,1:38:21.32,*Default,NTP,0000,0000,0000,,我不知道\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I... don't know.
+Dialogue: 0,1:38:21.37,1:38:23.18,*Default,NTP,0000,0000,0000,,不太确定  不过...\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Not for sure, but...
+Dialogue: 0,1:38:24.28,1:38:27.12,*Default,NTP,0000,0000,0000,,我相信他还活着\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}I believe he is.
+Dialogue: 0,1:38:36.33,1:38:39.30,*Default,NTP,0000,0000,0000,,在他没下来前\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}You see, before he came down here...
+Dialogue: 0,1:38:41.16,1:38:43.33,*Default,NTP,0000,0000,0000,,这里从来不下雪\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}it never snowed.
+Dialogue: 0,1:38:47.38,1:38:49.47,*Default,NTP,0000,0000,0000,,之后...\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}And afterwards...
+Dialogue: 0,1:38:49.54,1:38:52.47,*Default,NTP,0000,0000,0000,,就开始下雪了\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}it did.
+Dialogue: 0,1:38:53.37,1:38:58.44,*Default,NTP,0000,0000,0000,,如果他不在上面  那就不可能会下雪\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}If he weren't up there now, I don't think it would be snowing.
+Dialogue: 0,1:39:00.42,1:39:05.08,*Default,NTP,0000,0000,0000,,有时你会见我在雪中翩翩起舞\N{\fn微软雅黑}{\fs14}{\b0}{\c&HFFFFFF&}{\3c&H000000&}{\4c&H000000&}Sometimes you can still catch me dancing in it.
