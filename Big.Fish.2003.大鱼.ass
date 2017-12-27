@@ -1,0 +1,1188 @@
+﻿[Script Info]
+由101eagle合成
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正黑体简体,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.6,0,2,10,10,3,134
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:55.73,0:00:59.36,*Default,NTP,0000,0000,0000,,有些鱼是永远抓不到的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}There are some fish that cannot be caught.
+Dialogue: 0,0:01:00.74,0:01:04.24,*Default,NTP,0000,0000,0000,,这不是因为它们游的快或者比其他鱼强壮\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's not that they're faster or stronger than other fish.
+Dialogue: 0,0:01:04.24,0:01:07.83,*Default,NTP,0000,0000,0000,,而是他们有些与众不同\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}They're just touched by something extra.
+Dialogue: 0,0:01:08.75,0:01:11.91,*Default,NTP,0000,0000,0000,,这条鱼叫野兽\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}One such fish was The Beast.
+Dialogue: 0,0:01:12.75,0:01:17.24,*Default,NTP,0000,0000,0000,,在我出生的那个时候他已经是个传奇人物了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And by the time I was born he was already a legend.
+Dialogue: 0,0:01:17.25,0:01:22.19,*Default,NTP,0000,0000,0000,,他在阿拉巴马使鱼饵落空的次数比其他鱼多100次\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He'd passed up more $ 100 lures than any fish in Alabama.
+Dialogue: 0,0:01:23.26,0:01:26.16,*Default,NTP,0000,0000,0000,,有人说这条鱼...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Some said that fish was the ghost of a thief...
+Dialogue: 0,0:01:26.26,0:01:29.60,*Default,NTP,0000,0000,0000,,是那个60年前在这条湖里淹死的小偷的亡灵\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...who'd drowned in that river 60 years before.
+Dialogue: 0,0:01:30.77,0:01:35.77,*Default,NTP,0000,0000,0000,,另外的人说他是白垩纪的恐龙\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Others claimed he was a dinosaur left over from the "Cruaceous" Period.
+Dialogue: 0,0:01:35.77,0:01:39.78,*Default,NTP,0000,0000,0000,,我对这种假设或者迷信不屑一顾\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I didn't put any stock into such speculation or superstition.
+Dialogue: 0,0:01:39.78,0:01:42.78,*Default,NTP,0000,0000,0000,,我曾经抓住过这条鱼...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}All I knew was I'd been trying to catch that fish...
+Dialogue: 0,0:01:42.78,0:01:45.78,*Default,NTP,0000,0000,0000,,...在我还没你大的时候\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...since I was a boy no bigger than you.
+Dialogue: 0,0:01:45.78,0:01:48.29,*Default,NTP,0000,0000,0000,,在你出生的那天....\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And on the day you were born...
+Dialogue: 0,0:01:48.29,0:01:51.72,*Default,NTP,0000,0000,0000,,就是我抓住他的那天\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Well, that was the day I finally caught him.
+Dialogue: 0,0:01:53.79,0:01:55.26,*Default,NTP,0000,0000,0000,,现在  我要尝试所有的方法:\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Now, I'd tried everything on it:
+Dialogue: 0,0:01:55.29,0:01:59.30,*Default,NTP,0000,0000,0000,,虫子   诱饵   花生白脱   还有奶酪\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Worms, lures, peanut butter, peanut butter and cheese.
+Dialogue: 0,0:01:59.30,0:02:01.80,*Default,NTP,0000,0000,0000,,但是在那天我得到了个启示:\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}But on that day I had a revelation:
+Dialogue: 0,0:02:01.80,0:02:04.21,*Default,NTP,0000,0000,0000,,如果那条鱼是亨利.华斯的灵魂\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}If that fish was Henry Walls' ghost, 
+Dialogue: 0,0:02:04.21,0:02:06.81,*Default,NTP,0000,0000,0000,,一般的诱饵是起不了作用的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}then the usual bait wasn't gonna work.
+Dialogue: 0,0:02:06.81,0:02:11.93,*Default,NTP,0000,0000,0000,,我一定要用他最想得到的东西做诱饵\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I was gonna have to use something he truly desired.
+Dialogue: 0,0:02:12.31,0:02:15.28,*Default,NTP,0000,0000,0000,,-你的手指? -黄金\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- Your finger? - Gold.
+Dialogue: 0,0:02:15.31,0:02:18.82,*Default,NTP,0000,0000,0000,,现在   我把戒指系上了他们做的线...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Now, I tied my ring onto the strongest line they made...
+Dialogue: 0,0:02:18.82,0:02:24.15,*Default,NTP,0000,0000,0000,,...据他们说结实的在短短几分钟可以拉起一座桥\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...strong enough to hold up a bridge, they said, if only for a few minutes.
+Dialogue: 0,0:02:24.32,0:02:27.42,*Default,NTP,0000,0000,0000,,然后我在上游投出了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And then I cast upriver.
+Dialogue: 0,0:02:29.83,0:02:34.83,*Default,NTP,0000,0000,0000,,那个怪物跳了起来  甚至还没等到接触水面就抓住了它\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The Beast jumped up and grabbed it before it even hit the water.
+Dialogue: 0,0:02:34.83,0:02:39.34,*Default,NTP,0000,0000,0000,,然后非常迅速地折断了那条线\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And just as fast, he snapped clean through that line.
+Dialogue: 0,0:02:39.34,0:02:41.34,*Default,NTP,0000,0000,0000,,你明白我的窘境了吧\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Well, you can see my predicament.
+Dialogue: 0,0:02:41.34,0:02:45.34,*Default,NTP,0000,0000,0000,,我的结婚戒指   忠实於我妻子的标志...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}My wedding ring, the symbol of fidelity to my wife...
+Dialogue: 0,0:02:45.34,0:02:48.35,*Default,NTP,0000,0000,0000,,-...她马上要成为我孩子的妈妈了... -让他停下来\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...soon to be mother of my child... - Make him stop.
+Dialogue: 0,0:02:48.35,0:02:51.25,*Default,NTP,0000,0000,0000,,...现在已经在一条抓不到的鱼的肠子里了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...was now lost in the gut of an uncatchable fish.
+Dialogue: 0,0:02:51.35,0:02:53.18,*Default,NTP,0000,0000,0000,,你是怎么做的?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What did you do?
+Dialogue: 0,0:02:53.35,0:02:57.01,*Default,NTP,0000,0000,0000,,我从上游跟那个条鱼到下游\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I followed that fish upriver and downriver.
+Dialogue: 0,0:02:58.36,0:03:00.86,*Default,NTP,0000,0000,0000,,那条鱼   那个怪物...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}This fish, The Beast...
+Dialogue: 0,0:03:00.86,0:03:06.87,*Default,NTP,0000,0000,0000,,...我们一直称它为"他"   但是实际上应该是"她"\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...the whole time we were calling it a him, when in fact it was a her.
+Dialogue: 0,0:03:06.87,0:03:09.37,*Default,NTP,0000,0000,0000,,它正怀着孩子  随时可能临产\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It was fat with eggs it was gonna lay any day.
+Dialogue: 0,0:03:09.37,0:03:12.36,*Default,NTP,0000,0000,0000,,现在我就处在这种情况中\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Now, I was in a situation.
+Dialogue: 0,0:03:12.37,0:03:16.33,*Default,NTP,0000,0000,0000,,我要割开那条鱼的肚子把我的结婚戒指取回来...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I could gut that fish and get my wedding ring back...
+Dialogue: 0,0:03:16.38,0:03:18.41,*Default,NTP,0000,0000,0000,,...但如果我这么做了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...but in doing so I'd 
+Dialogue: 0,0:03:18.41,0:03:21.38,*Default,NTP,0000,0000,0000,,就等於杀死了阿斯顿湖里最聪明的鱼\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}be killing the smartest catfish in the Ashton River.
+Dialogue: 0,0:03:21.38,0:03:23.88,*Default,NTP,0000,0000,0000,,我要剥夺...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Did I want to deprive my son the chance...
+Dialogue: 0,0:03:23.88,0:03:27.38,*Default,NTP,0000,0000,0000,,...我的子孙抓住这条鱼的机会吗?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...to catch a fish like this of his own?
+Dialogue: 0,0:03:27.89,0:03:29.89,*Default,NTP,0000,0000,0000,,我和那条鱼夫人....\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}This ladyfish and I...
+Dialogue: 0,0:03:29.89,0:03:34.92,*Default,NTP,0000,0000,0000,,-我们有着相同的使命 -"我们都是相同等式的一部分"\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- Well, we had the same destiny. - "We were part of the same equation."
+Dialogue: 0,0:03:35.40,0:03:37.90,*Default,NTP,0000,0000,0000,,现在  你也许会问...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Now, you may well ask...
+Dialogue: 0,0:03:37.90,0:03:41.90,*Default,NTP,0000,0000,0000,,哦   亲爱的   亲爱的   这是你的夜晚\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Oh, darling, darling, it's still your night.
+Dialogue: 0,0:03:41.90,0:03:47.91,*Default,NTP,0000,0000,0000,,...为什么对其他东西都无动於衷的它对金子下手那么快?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...why did it strike so quick on gold when nothing else would attract it?
+Dialogue: 0,0:03:47.91,0:03:50.91,*Default,NTP,0000,0000,0000,,那是从那天的事我学到的...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}That was the lesson I learned that day...
+Dialogue: 0,0:03:50.91,0:03:54.38,*Default,NTP,0000,0000,0000,,...我儿子出生的那天\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...the day my son was born.
+Dialogue: 0,0:03:54.41,0:04:00.42,*Default,NTP,0000,0000,0000,,有时抓住一个女人的心的唯一方法...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Sometimes the only way to catch an uncatchable woman...
+Dialogue: 0,0:04:00.42,0:04:04.32,*Default,NTP,0000,0000,0000,,...就是给她一个结婚戒指\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...is to offer her a wedding ring.
+Dialogue: 0,0:04:12.43,0:04:15.44,*Default,NTP,0000,0000,0000,,什么   父亲竟然不能和儿子说话?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What, a father's not allowed to talk about his son?
+Dialogue: 0,0:04:15.44,0:04:17.44,*Default,NTP,0000,0000,0000,,在这个故事里我是个註解   爸爸...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm a footnote in that story, Dad...
+Dialogue: 0,0:04:17.44,0:04:23.44,*Default,NTP,0000,0000,0000,,...你这个奇遇从来就没有发生过\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...the context for your great adventure, which never happened, incidentally.
+Dialogue: 0,0:04:23.44,0:04:26.95,*Default,NTP,0000,0000,0000,,在我出生的时候你在威齐塔卖气货\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You were selling novelty products in Wichita when I was born.
+Dialogue: 0,0:04:26.95,0:04:29.45,*Default,NTP,0000,0000,0000,,来吧   威尔. 每个人都喜欢这个故事!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Come on, Will. Everyone loves that story!
+Dialogue: 0,0:04:29.45,0:04:33.96,*Default,NTP,0000,0000,0000,,不是的. 我就不喜欢.已经听了几千遍了!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}They don't. I don't love that story. Not anymore. Not after a thousand times!
+Dialogue: 0,0:04:33.96,0:04:38.36,*Default,NTP,0000,0000,0000,,我知道每个要点   父亲 我能像那样再说一遍了!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I know every punch line, Dad. I can tell them as well as you can!
+Dialogue: 0,0:04:38.96,0:04:41.96,*Default,NTP,0000,0000,0000,,一个晚上   我生命中的一个晚上...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}For one night, one night in your entire life...
+Dialogue: 0,0:04:41.96,0:04:44.97,*Default,NTP,0000,0000,0000,,...宇宙不再绕着爱德华.布鲁旋转\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...the universe did not revolve around Edward Bloom.
+Dialogue: 0,0:04:44.97,0:04:49.47,*Default,NTP,0000,0000,0000,,-你为什么不能理解呢? -很抱歉麻烦你了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- How can you not understand that? - I'm sorry to embarrass you.
+Dialogue: 0,0:04:49.47,0:04:53.84,*Default,NTP,0000,0000,0000,,你在烦你自己   爸爸. 只是你自己不知道\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You're embarrassing yourself, Dad. You just don't see it.
+Dialogue: 0,0:04:55.48,0:04:59.97,*Default,NTP,0000,0000,0000,,那晚以后  我三年没有再和我父亲说过话\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}After that night, I didn't speak to my father again for three years.
+Dialogue: 0,0:05:04.99,0:05:09.44,*Default,NTP,0000,0000,0000,,威廉.布鲁   联合国际报. 如果我能--\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}William Bloom, United Press International. If I could just...
+Dialogue: 0,0:05:13.00,0:05:15.50,*Default,NTP,0000,0000,0000,,我想我们可以间接地沟通\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}We communicated indirectly, I guess.
+Dialogue: 0,0:05:15.50,0:05:19.93,*Default,NTP,0000,0000,0000,,在她的信和圣诞卡里   我妈妈写信给她们两个\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}In her letters and Christmas cards, my mother wrote for both of them.
+Dialogue: 0,0:05:20.00,0:05:21.51,*Default,NTP,0000,0000,0000,,我打电话去的时候  \N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And when I'd call, 
+Dialogue: 0,0:05:21.51,0:05:25.01,*Default,NTP,0000,0000,0000,,她总是说父亲驾车出去了 或者是在游泳池里游泳\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}she'd say Dad was out driving or swimming in the pool.
+Dialogue: 0,0:05:25.01,0:05:28.47,*Default,NTP,0000,0000,0000,,就这样   我们再也没有说话\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}True to form, we never talked about not talking.
+Dialogue: 0,0:05:31.01,0:05:35.02,*Default,NTP,0000,0000,0000,,实际上   我没有在我父亲身上看到我\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The truth is, I didn't see anything of myself in my father.
+Dialogue: 0,0:05:35.02,0:05:38.75,*Default,NTP,0000,0000,0000,,我相信他也没在我身上找到他的影子\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And I don't think he saw anything of himself in me.
+Dialogue: 0,0:05:42.02,0:05:46.65,*Default,NTP,0000,0000,0000,,我们就像相互瞭解的陌生人\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}We were like strangers who knew each other very well.
+Dialogue: 0,0:05:50.53,0:05:53.04,*Default,NTP,0000,0000,0000,,说起我父亲这一生的故事...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}In telling the story of my father's life...
+Dialogue: 0,0:05:53.04,0:05:55.63,*Default,NTP,0000,0000,0000,,...很难把事实和虚幻分开  \N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...it's impossible to separate fact from fiction, 
+Dialogue: 0,0:05:55.63,0:05:58.06,*Default,NTP,0000,0000,0000,,他是一个有着传奇色彩的人物\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}the man from the myth.
+Dialogue: 0,0:06:01.04,0:06:04.54,*Default,NTP,0000,0000,0000,,最好的办法是我把他告诉我的複述出来\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The best I can do is to tell it the way he told me.
+Dialogue: 0,0:06:06.05,0:06:10.28,*Default,NTP,0000,0000,0000,,故事不一定合理   可能大多数没有发生过\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It doesn't always make sense, and most of it never happened.
+Dialogue: 0,0:06:35.08,0:06:37.55,*Default,NTP,0000,0000,0000,,把我的戒指还给我!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Give me back my ring!
+Dialogue: 0,0:06:50.09,0:06:51.49,*Default,NTP,0000,0000,0000,,谢谢!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Thank you!
+Dialogue: 0,0:06:51.59,0:06:55.19,*Default,NTP,0000,0000,0000,,但是这种故事就是这样的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}But that's what kind of story this is.
+Dialogue: 0,0:07:03.61,0:07:07.11,*Default,NTP,0000,0000,0000,,他的出生便为他以后的生活打下了基础\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}His birth would set the pace for his unlikely life.
+Dialogue: 0,0:07:07.11,0:07:10.11,*Default,NTP,0000,0000,0000,,没有比大多数人活的长   但是伟大\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}No longer than most men's, but larger.
+Dialogue: 0,0:07:10.11,0:07:12.62,*Default,NTP,0000,0000,0000,,他的故事越离奇...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And as strange as his stories got...
+Dialogue: 0,0:07:12.62,0:07:16.52,*Default,NTP,0000,0000,0000,,... 故事的结局就越出人意料\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...the endings were always the most surprising of all.
+Dialogue: 0,0:07:43.15,0:07:46.41,*Default,NTP,0000,0000,0000,,对. 对   他在这\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Yes. Yes, he's here.
+Dialogue: 0,0:07:46.65,0:07:48.95,*Default,NTP,0000,0000,0000,,是你母亲\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's your mother.
+Dialogue: 0,0:07:55.66,0:07:58.56,*Default,NTP,0000,0000,0000,,本耐特医生怎么说?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And what does Dr. Bennett say?
+Dialogue: 0,0:07:59.66,0:08:02.03,*Default,NTP,0000,0000,0000,,不  当然  我要他听电话\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}No, sure, I'll talk to him.
+Dialogue: 0,0:08:02.67,0:08:05.10,*Default,NTP,0000,0000,0000,,好  我等\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Yeah, I'll wait.
+Dialogue: 0,0:08:05.17,0:08:06.67,*Default,NTP,0000,0000,0000,,情况不好?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's bad?
+Dialogue: 0,0:08:06.67,0:08:11.20,*Default,NTP,0000,0000,0000,,对   比他们想像的还糟 他们要停止化疗\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Yeah, it's more than they thought. They're gonna stop chemo.
+Dialogue: 0,0:08:11.68,0:08:14.87,*Default,NTP,0000,0000,0000,,-你要去一次. -可能今晚\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- You need to go. - Probably tonight.
+Dialogue: 0,0:08:15.68,0:08:19.18,*Default,NTP,0000,0000,0000,,-我和你一起去. -不   不   不. 不行\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- I'm going with you. - No, no, no. You shouldn't.
+Dialogue: 0,0:08:19.18,0:08:21.48,*Default,NTP,0000,0000,0000,,我和你一起去\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm going with you.
+Dialogue: 0,0:08:50.22,0:08:52.22,*Default,NTP,0000,0000,0000,,现在  你要听哪个故事?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Now, which one's it gonna be?
+Dialogue: 0,0:08:52.22,0:08:55.47,*Default,NTP,0000,0000,0000,,"穀仓里的猴子" 还是 "路边的狗"?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}"Monkey in a Barn," or "Dog in the Road"?
+Dialogue: 0,0:08:55.47,0:08:57.59,*Default,NTP,0000,0000,0000,,有女巫的那个\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The one about the witch.
+Dialogue: 0,0:09:00.73,0:09:04.86,*Default,NTP,0000,0000,0000,,-你会做恶梦的. -但是我不怕\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- You get nightmares. - But I'm not scared.
+Dialogue: 0,0:09:06.23,0:09:09.24,*Default,NTP,0000,0000,0000,,一开始我也不会\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Well, neither was I, at first.
+Dialogue: 0,0:09:09.24,0:09:12.24,*Default,NTP,0000,0000,0000,,这个故事发生在阿斯顿的郊外\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Now, this took place in the swamp outside of Ashton.
+Dialogue: 0,0:09:12.24,0:09:17.24,*Default,NTP,0000,0000,0000,,因为有蛇  孩子们不能去那   蜘蛛...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Children weren't allowed in the swamp on account of the snakes, spiders...
+Dialogue: 0,0:09:17.24,0:09:22.25,*Default,NTP,0000,0000,0000,,...和流沙会在你尖叫前把你卷进去\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...and quicksand that would swallow you up before you could even scream.
+Dialogue: 0,0:09:22.25,0:09:24.75,*Default,NTP,0000,0000,0000,,那天晚上我们有5个人:\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}There were five of us out there that night:
+Dialogue: 0,0:09:24.75,0:09:28.26,*Default,NTP,0000,0000,0000,,我   露西   威尔博.布利...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Me, Ruthie, Wilbur Freely...
+Dialogue: 0,0:09:28.26,0:09:32.26,*Default,NTP,0000,0000,0000,,...和普来斯兄弟   丹和扎奇\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...and the Price Brothers, Don and Zacky.
+Dialogue: 0,0:09:32.26,0:09:36.56,*Default,NTP,0000,0000,0000,,没人知道那里有什么\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And not one of us knew what was in store.
+Dialogue: 0,0:09:36.76,0:09:41.27,*Default,NTP,0000,0000,0000,,大家都知道有一定规模的 城镇大多会有一个女巫...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's common knowledge that most towns of a certain size have a witch...
+Dialogue: 0,0:09:41.27,0:09:43.27,*Default,NTP,0000,0000,0000,,...会吃那些不听话的小孩...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...if only to eat misbehaving children...
+Dialogue: 0,0:09:43.27,0:09:46.77,*Default,NTP,0000,0000,0000,,...还有在她园子里散步的小狗\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...and the occasional puppy who wanders into her yard.
+Dialogue: 0,0:09:46.77,0:09:50.28,*Default,NTP,0000,0000,0000,,女巫用这些骨头来施魔法和诅咒...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Witches use those bones to cast spells and curses...
+Dialogue: 0,0:09:50.28,0:09:52.78,*Default,NTP,0000,0000,0000,,...让土地变的荒芜\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...and make the land infertile.
+Dialogue: 0,0:09:52.78,0:09:55.08,*Default,NTP,0000,0000,0000,,她有一个玻璃眼球是不是真的?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Is it true she got a glass eye? 
+Dialogue: 0,0:09:55.08,0:09:56.78,*Default,NTP,0000,0000,0000,,我听说他是吉普赛人\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I heard she got it from gypsies.
+Dialogue: 0,0:09:56.78,0:09:59.29,*Default,NTP,0000,0000,0000,,-吉普赛人是干什么的? -你妈妈是吉普赛人\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- What's a gypsy? - Your momma's a gypsy.
+Dialogue: 0,0:09:59.29,0:10:00.79,*Default,NTP,0000,0000,0000,,你妈妈是个贱女人\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Your momma's a bitch.
+Dialogue: 0,0:10:00.79,0:10:03.29,*Default,NTP,0000,0000,0000,,有女士在场你不能骂人\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You shouldn't swear. There's ladies present.
+Dialogue: 0,0:10:03.29,0:10:04.95,*Default,NTP,0000,0000,0000,,-妈的 -见鬼\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- Shit. - Damn.
+Dialogue: 0,0:10:05.29,0:10:08.26,*Default,NTP,0000,0000,0000,,疯子 把你的手电关了. 她会看见你的!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Screw.Turn off your flashlights. She'll see you!
+Dialogue: 0,0:10:08.30,0:10:10.80,*Default,NTP,0000,0000,0000,,然而在阿拉巴马州的所有女巫中...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Yet of all the witches in Alabama...
+Dialogue: 0,0:10:10.80,0:10:13.80,*Default,NTP,0000,0000,0000,,...有一个女巫据说是最可怕的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...there was one who was said to be the most feared.
+Dialogue: 0,0:10:13.80,0:10:18.31,*Default,NTP,0000,0000,0000,,因为她有一只玻璃眼睛  据说有着神秘的魔力\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}For she had one glass eye which was said to contain mystical powers.
+Dialogue: 0,0:10:18.31,0:10:22.31,*Default,NTP,0000,0000,0000,,如果你看见了   就会知道自己是怎么死的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I heard if you look right at it, you'll see how you're gonna die.
+Dialogue: 0,0:10:22.31,0:10:26.31,*Default,NTP,0000,0000,0000,,简直是胡说   他不是个真正的芜师\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}That's bull-S-H-l-T, that is. She's not even a real witch.
+Dialogue: 0,0:10:26.31,0:10:28.32,*Default,NTP,0000,0000,0000,,如果你肯定   就去把那个眼睛拿来\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}If you're so sure, go get that eye.
+Dialogue: 0,0:10:28.32,0:10:33.32,*Default,NTP,0000,0000,0000,,我听说她把眼睛藏在床头柜里. 你是不是怕啦?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I heard she keeps it in a box on her night table. Or are you too scared?
+Dialogue: 0,0:10:33.32,0:10:35.82,*Default,NTP,0000,0000,0000,,我现在就去拿\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'll go in right now and get that eye.
+Dialogue: 0,0:10:35.82,0:10:37.83,*Default,NTP,0000,0000,0000,,-去啊. -好   我会的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- Then do it. - Fine, I will.
+Dialogue: 0,0:10:37.83,0:10:40.83,*Default,NTP,0000,0000,0000,,-好   你去 -好   现在就去\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- Fine, you do it. - Fine, I'm doing it.
+Dialogue: 0,0:10:40.83,0:10:43.33,*Default,NTP,0000,0000,0000,,爱德华   不要!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Edward, don't!
+Dialogue: 0,0:10:43.33,0:10:47.34,*Default,NTP,0000,0000,0000,,她会把你变成肥皂的. 她经常会这么做\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}She'll make soap out of you. That's what she does.
+Dialogue: 0,0:10:47.34,0:10:50.50,*Default,NTP,0000,0000,0000,,把人变成肥皂\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}She makes soap out of people.
+Dialogue: 0,0:11:39.89,0:11:42.39,*Default,NTP,0000,0000,0000,,夫人   我叫爱德华.布鲁...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Ma'am, my name is Edward Bloom...
+Dialogue: 0,0:11:42.39,0:11:45.55,*Default,NTP,0000,0000,0000,,...有些人要看看你的眼睛\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...and there's some folks like to see your eye.
+Dialogue: 0,0:11:58.41,0:12:00.41,*Default,NTP,0000,0000,0000,,-那拿到那个了? -我带来了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- You get The Eye? - I brought it.
+Dialogue: 0,0:12:00.41,0:12:01.97,*Default,NTP,0000,0000,0000,,让我们看看\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Let's see it.
+Dialogue: 0,0:12:07.42,0:12:09.78,*Default,NTP,0000,0000,0000,,哇   救命!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Whoa, help!
+Dialogue: 0,0:12:18.93,0:12:23.59,*Default,NTP,0000,0000,0000,,我看见自己怎么死的了. 我摔下来  不行了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I saw how I was gonna die. I was old and I fell.
+Dialogue: 0,0:12:23.93,0:12:26.76,*Default,NTP,0000,0000,0000,,我一点也不老\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I wasn't old at all.
+Dialogue: 0,0:12:33.94,0:12:37.71,*Default,NTP,0000,0000,0000,,我成天想着死. 看见了自己是怎么死的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I was thinking about death and all. About seeing how you're gonna die.
+Dialogue: 0,0:12:37.95,0:12:41.45,*Default,NTP,0000,0000,0000,,我的意思是   一方面   如果你想的都是死...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I mean, on one hand, if dying was all you thought about...
+Dialogue: 0,0:12:41.45,0:12:43.45,*Default,NTP,0000,0000,0000,,...它就会搅乱你的生活\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...it could kind of screw you up.
+Dialogue: 0,0:12:43.45,0:12:47.46,*Default,NTP,0000,0000,0000,,但是这对你也是一种帮助   不是吗?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}But it could kind of help you, couldn't it?
+Dialogue: 0,0:12:47.46,0:12:51.98,*Default,NTP,0000,0000,0000,,因为   其他的所有情况下   你知道你会得救\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Because, everything else, you'd know you could survive.
+Dialogue: 0,0:12:53.96,0:12:57.49,*Default,NTP,0000,0000,0000,,我想说的是我想知道\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I guess I'm saying I'd like to know.
+Dialogue: 0,0:13:08.98,0:13:11.47,*Default,NTP,0000,0000,0000,,我是怎么死的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}That's how I go.
+Dialogue: 0,0:13:33.51,0:13:35.06,*Default,NTP,0000,0000,0000,,嗨   妈妈\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Hi, Mom.
+Dialogue: 0,0:13:40.51,0:13:43.17,*Default,NTP,0000,0000,0000,,那是不是本耐特大夫的车? \N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Is that Dr. Bennett's car? 
+Dialogue: 0,0:13:43.17,0:13:46.02,*Default,NTP,0000,0000,0000,,是的. 现在他和你父亲在上面\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Yes. He's up with your father now.
+Dialogue: 0,0:13:46.02,0:13:49.52,*Default,NTP,0000,0000,0000,,-他怎么样? -不   我来吧\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- And how is he? - Well... No, I got it.
+Dialogue: 0,0:13:49.52,0:13:54.01,*Default,NTP,0000,0000,0000,,他没救了. 不吃东西. 因为没吃东西  所以越来越虚弱\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He's impossible. He won't eat. Because he doesn't eat, he's weaker.
+Dialogue: 0,0:13:54.03,0:13:56.03,*Default,NTP,0000,0000,0000,,因为他虚弱   所以就更吃不动\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Because he's weak, he doesn't want to eat.
+Dialogue: 0,0:13:56.03,0:14:01.40,*Default,NTP,0000,0000,0000,,-他还剩多少日子? -你现在不能说这个\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- How much time does he have left? - You don't talk about that.
+Dialogue: 0,0:14:01.53,0:14:04.52,*Default,NTP,0000,0000,0000,,还没到时间\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Not yet.
+Dialogue: 0,0:14:04.54,0:14:06.59,*Default,NTP,0000,0000,0000,,威尔\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Will.
+Dialogue: 0,0:14:07.04,0:14:10.51,*Default,NTP,0000,0000,0000,,本耐特大夫. 哦   很高兴见到你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Dr. Bennett. Oh, it's good to see you.
+Dialogue: 0,0:14:10.54,0:14:14.05,*Default,NTP,0000,0000,0000,,我的妻子   傑瑟芬\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}My wife, Josephine.
+Dialogue: 0,0:14:14.05,0:14:15.77,*Default,NTP,0000,0000,0000,,很荣幸见到你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}A pleasure.
+Dialogue: 0,0:14:16.55,0:14:19.98,*Default,NTP,0000,0000,0000,,-有7个月了 -离那个日子!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- You're seven months. - To the day!
+Dialogue: 0,0:14:21.55,0:14:23.21,*Default,NTP,0000,0000,0000,,是个男孩\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's a boy.
+Dialogue: 0,0:14:25.56,0:14:31.69,*Default,NTP,0000,0000,0000,,试着让他喝点什么. 即使他不要也要试着让他喝\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Try to get him to drink one of these. He won't, but go ahead and try.
+Dialogue: 0,0:15:17.11,0:15:18.77,*Default,NTP,0000,0000,0000,,爸爸?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Dad?
+Dialogue: 0,0:15:29.62,0:15:32.52,*Default,NTP,0000,0000,0000,,你要喝水?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You want some water?
+Dialogue: 0,0:15:48.64,0:15:52.65,*Default,NTP,0000,0000,0000,,-没想到你能来 -是吗?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- You are in for a surprise. - Am I?
+Dialogue: 0,0:15:52.65,0:15:55.65,*Default,NTP,0000,0000,0000,,有了孩子一切都改变了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Having a kid changes everything.
+Dialogue: 0,0:15:55.65,0:15:59.65,*Default,NTP,0000,0000,0000,,要裹尿布  打嗝  半夜喂奶\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}There's the diapers and the burping and the midnight feeding.
+Dialogue: 0,0:15:59.65,0:16:03.12,*Default,NTP,0000,0000,0000,,-你都做过吗? -没有\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- Did you do any of that? - No.
+Dialogue: 0,0:16:03.66,0:16:06.13,*Default,NTP,0000,0000,0000,,我听说这很糟糕\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}But I hear it's terrible.
+Dialogue: 0,0:16:06.16,0:16:11.17,*Default,NTP,0000,0000,0000,,那你就教坏那个孩子让他误入歧途...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Then you spend years trying to corrupt and mislead this child...
+Dialogue: 0,0:16:11.17,0:16:16.67,*Default,NTP,0000,0000,0000,,...教他歪理   然而他却成长的很好\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...fill its head with nonsense, and still it turns out perfectly fine.
+Dialogue: 0,0:16:16.67,0:16:21.80,*Default,NTP,0000,0000,0000,,-你认为我要去试试吗? -你已经跟最好的老师在学习了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- You think I'm up for it? - You learned from the best.
+Dialogue: 0,0:16:25.18,0:16:28.08,*Default,NTP,0000,0000,0000,,喝一半. 我会告诉你妈妈你全喝了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Drink half the can. I'll tell Mom you drank it all.
+Dialogue: 0,0:16:28.18,0:16:30.11,*Default,NTP,0000,0000,0000,,双赢\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Everyone wins.
+Dialogue: 0,0:16:30.18,0:16:34.19,*Default,NTP,0000,0000,0000,,大家都不用操心. 还没到时间\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}People needn't worry so much. It's not my time yet.
+Dialogue: 0,0:16:34.19,0:16:36.19,*Default,NTP,0000,0000,0000,,我还不用走\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}This is not how I go.
+Dialogue: 0,0:16:36.19,0:16:40.82,*Default,NTP,0000,0000,0000,,-真的? -实际上. 我从那个眼睛里看到了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- Really? - Truly. I saw it in The Eye.
+Dialogue: 0,0:16:41.20,0:16:44.70,*Default,NTP,0000,0000,0000,,-沼泽旁的那个老女人? -她是个女巫\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- The old lady by the swamp? - She was a witch.
+Dialogue: 0,0:16:44.70,0:16:47.70,*Default,NTP,0000,0000,0000,,不   她只是有点老\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}No, she was old and probably senile.
+Dialogue: 0,0:16:47.70,0:16:52.71,*Default,NTP,0000,0000,0000,,我从那只眼睛里看到我是怎么死的   但现在好像不是这样子\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I saw my death in that eye, and this isn't how it happens.
+Dialogue: 0,0:16:52.71,0:16:55.21,*Default,NTP,0000,0000,0000,,应该是怎么样的呢?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}So how does it happen?
+Dialogue: 0,0:16:55.21,0:17:00.11,*Default,NTP,0000,0000,0000,,奇怪的结局. 我不想破坏气愤\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Surprise ending. Wouldn't want to ruin it for you.
+Dialogue: 0,0:17:00.72,0:17:03.72,*Default,NTP,0000,0000,0000,,你妈妈说你我没机会再说话了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Your mother thought we wouldn't talk again.
+Dialogue: 0,0:17:03.72,0:17:06.72,*Default,NTP,0000,0000,0000,,看看我们.现在聊的多好\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Look at us. We're talking fine.
+Dialogue: 0,0:17:06.72,0:17:08.72,*Default,NTP,0000,0000,0000,,我们都是讲故事的人  我们两个\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}We're storytellers, both of us.
+Dialogue: 0,0:17:08.72,0:17:14.75,*Default,NTP,0000,0000,0000,,我说我的   你写你的. 一回事\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I speak mine out, you write yours down. Same thing.
+Dialogue: 0,0:17:15.73,0:17:17.89,*Default,NTP,0000,0000,0000,,爸爸....\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Dad...
+Dialogue: 0,0:17:20.23,0:17:23.20,*Default,NTP,0000,0000,0000,,我想在我在这的时候谈些事\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I hope to talk about some things while I'm here.
+Dialogue: 0,0:17:23.74,0:17:25.74,*Default,NTP,0000,0000,0000,,你的意思是我在这\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You mean while I'm here.
+Dialogue: 0,0:17:25.74,0:17:29.75,*Default,NTP,0000,0000,0000,,我只是想知道事情的真相:\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I just want to know the true versions of things:
+Dialogue: 0,0:17:29.75,0:17:32.75,*Default,NTP,0000,0000,0000,,真实的事和编造的故事\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Events. Stories.
+Dialogue: 0,0:17:32.75,0:17:34.58,*Default,NTP,0000,0000,0000,,你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You.
+Dialogue: 0,0:17:45.76,0:17:48.26,*Default,NTP,0000,0000,0000,,你妈妈没有保住游泳池\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Your mother hasn't been keeping up the pool.
+Dialogue: 0,0:17:48.26,0:17:52.27,*Default,NTP,0000,0000,0000,,-如果你想做  你可以修一下 -恩   我会的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- lf you wanted to, you could fix it. - Yeah, I will.
+Dialogue: 0,0:17:52.27,0:17:55.77,*Default,NTP,0000,0000,0000,,-你知道化学药品在哪吗? -你出门的时候我做的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- You know where the chemicals are? - I did it when you were gone.
+Dialogue: 0,0:17:55.77,0:18:02.21,*Default,NTP,0000,0000,0000,,我从来不喜欢在家呆着   威尔. 太拘束了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I was never much for being at home, Will. Too confining.
+Dialogue: 0,0:18:02.28,0:18:05.28,*Default,NTP,0000,0000,0000,,然而现在   却被困在床上....\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And this here, being stuck in bed...
+Dialogue: 0,0:18:05.28,0:18:09.15,*Default,NTP,0000,0000,0000,,等死是我一生中最糟糕的事\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Dying is the worst thing that's ever happened to me.
+Dialogue: 0,0:18:09.79,0:18:15.29,*Default,NTP,0000,0000,0000,,-我想你说的是你不会死 -我说的不是我是怎么死的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- I thought you said you weren't dying. - I said this isn't how I go.
+Dialogue: 0,0:18:15.29,0:18:19.69,*Default,NTP,0000,0000,0000,,最后部分最不寻常\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The last part is much more unusual.
+Dialogue: 0,0:18:19.80,0:18:22.53,*Default,NTP,0000,0000,0000,,相信我的话\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Trust me on that.
+Dialogue: 0,0:18:54.83,0:18:57.84,*Default,NTP,0000,0000,0000,,本耐特大夫说我要在家呆一星期\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Dr. Bennett said I have to stay at home for a week.
+Dialogue: 0,0:18:57.84,0:19:01.84,*Default,NTP,0000,0000,0000,,哦   没什么. 有一次   我在床上呆了3年\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Oh, that's nothing. Once, I had to stay in bed for three years.
+Dialogue: 0,0:19:01.84,0:19:05.50,*Default,NTP,0000,0000,0000,,-是你得水痘的那次? -是就好了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- Did you have the chickenpox? - I wish.
+Dialogue: 0,0:19:24.36,0:19:27.36,*Default,NTP,0000,0000,0000,,事实上   没人知道那里出错了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Truth is, no one quite knew what was wrong.
+Dialogue: 0,0:19:27.36,0:19:30.23,*Default,NTP,0000,0000,0000,,一个人成长的大多数时间...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Most times a person grows up gradually...
+Dialogue: 0,0:19:30.37,0:19:33.13,*Default,NTP,0000,0000,0000,,...当我瞭解我自己的时候\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...while I found myself in a hurry.
+Dialogue: 0,0:19:35.87,0:19:40.38,*Default,NTP,0000,0000,0000,,我的肌肉  我的骨骼   无法跟上我的身体猛长的速度\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}My muscles and my bones couldn't keep up with my body's ambition.
+Dialogue: 0,0:19:40.38,0:19:43.88,*Default,NTP,0000,0000,0000,,所以我在床上渡过了三年大好时光...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}So I spent the better part of three years confined to my bed...
+Dialogue: 0,0:19:43.88,0:19:47.89,*Default,NTP,0000,0000,0000,,... 看百科全书是我唯一的探索方式\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...with the encyclopedia being my only means of exploration.
+Dialogue: 0,0:19:47.89,0:19:50.35,*Default,NTP,0000,0000,0000,,我看到了G部...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I had made it all the way to the G's...
+Dialogue: 0,0:19:50.39,0:19:53.55,*Default,NTP,0000,0000,0000,,...想要找到"巨人症"的答案...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...hoping to find an answer to my "gigantificationism"...
+Dialogue: 0,0:19:53.89,0:19:57.40,*Default,NTP,0000,0000,0000,,... 当我翻开一篇关於金鱼的文章的时候\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...when I uncovered an article about the common goldfish.
+Dialogue: 0,0:19:57.40,0:20:01.30,*Default,NTP,0000,0000,0000,,"放在一个小碗里   金鱼会变小\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}"Kept in a small bowl, the goldfish will remain small.
+Dialogue: 0,0:20:01.40,0:20:02.90,*Default,NTP,0000,0000,0000,,地方大了...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}With more space...
+Dialogue: 0,0:20:02.90,0:20:06.90,*Default,NTP,0000,0000,0000,,...金鱼就会两倍三倍的长大"\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...the fish will grow double, triple, or quadruple its size."
+Dialogue: 0,0:20:06.90,0:20:10.41,*Default,NTP,0000,0000,0000,,我似乎找到了我狂长的原因...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It occurred to me then that perhaps the reason for my growth...
+Dialogue: 0,0:20:10.41,0:20:12.91,*Default,NTP,0000,0000,0000,,...是因为我要做大事\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...was that I was intended for larger things.
+Dialogue: 0,0:20:12.91,0:20:16.97,*Default,NTP,0000,0000,0000,,毕竟   伟大的人身躯都很魁梧\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}After all, a giant man can't have an ordinary-sized life.
+Dialogue: 0,0:20:17.92,0:20:21.42,*Default,NTP,0000,0000,0000,,直到我的骨骼发育成型...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}As soon as my bones had settled in their adult configuration...
+Dialogue: 0,0:20:21.42,0:20:26.42,*Default,NTP,0000,0000,0000,,...我就开始计划在阿斯顿打开更广阔的天地\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...I set upon my plan to make a bigger place for myself in Ashton.
+Dialogue: 0,0:20:26.42,0:20:28.08,*Default,NTP,0000,0000,0000,,老虎   走!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Tigers, go!
+Dialogue: 0,0:20:43.44,0:20:45.50,*Default,NTP,0000,0000,0000,,爱德华.布鲁!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Edward Bloom!
+Dialogue: 0,0:21:27.99,0:21:32.48,*Default,NTP,0000,0000,0000,,小狗! 我的小狗! 我的小狗被困住了!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Doggy! My doggy! My doggy's trapped!
+Dialogue: 0,0:21:41.00,0:21:44.49,*Default,NTP,0000,0000,0000,,这是我在阿斯顿看到最大的事件\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I was the biggest thing Ashton had ever seen.
+Dialogue: 0,0:21:45.01,0:21:48.47,*Default,NTP,0000,0000,0000,,直到一天   一个陌生人来到这\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Until one day, a stranger arrived.
+Dialogue: 0,0:22:03.02,0:22:08.03,*Default,NTP,0000,0000,0000,,冷静. 冷静   大家冷静. 已经够了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Calm down. Calm down, everybody. Calm down. That's enough.
+Dialogue: 0,0:22:08.03,0:22:12.03,*Default,NTP,0000,0000,0000,,-市长先生   他把玉米地吃遍了 -他吃了我的狗\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- Mr. Mayor, he ate an entire corn field. - He ate my dog.
+Dialogue: 0,0:22:12.03,0:22:14.54,*Default,NTP,0000,0000,0000,,如果市长你不去阻止他的话  我们去\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}If you ain't gonna stop him, mayor, we will.
+Dialogue: 0,0:22:14.54,0:22:18.03,*Default,NTP,0000,0000,0000,,我不允许镇上存在暴力\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I won't have mob violence in this town.
+Dialogue: 0,0:22:18.04,0:22:20.04,*Default,NTP,0000,0000,0000,,有没有人和他谈谈?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Now, has someone tried talking to him?
+Dialogue: 0,0:22:20.04,0:22:23.04,*Default,NTP,0000,0000,0000,,-你不能和他讲道理 -他是个恶人\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- You can't reason with him. - He's a monster.
+Dialogue: 0,0:22:23.04,0:22:25.24,*Default,NTP,0000,0000,0000,,我去吧\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'll do it.
+Dialogue: 0,0:22:39.06,0:22:41.56,*Default,NTP,0000,0000,0000,,我和他谈谈. 看看能不能让他走\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'll talk to him. See if I can get him to go.
+Dialogue: 0,0:22:41.56,0:22:44.36,*Default,NTP,0000,0000,0000,,那傢伙会把你压扁的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}That creature could crush you without trying.
+Dialogue: 0,0:22:44.57,0:22:48.03,*Default,NTP,0000,0000,0000,,哦   相信我   他会走的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Oh, trust me, he'll have to try.
+Dialogue: 0,0:23:18.60,0:23:20.47,*Default,NTP,0000,0000,0000,,喂?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Hello?
+Dialogue: 0,0:23:25.11,0:23:28.40,*Default,NTP,0000,0000,0000,,我叫爱德华.布鲁   我要和你谈谈!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}My name is Edward Bloom, and I wanna talk to you!
+Dialogue: 0,0:23:28.61,0:23:31.41,*Default,NTP,0000,0000,0000,,滚!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Go away!
+Dialogue: 0,0:23:33.12,0:23:36.12,*Default,NTP,0000,0000,0000,,你不现身我哪都不去!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Now, I'm not going anywhere until you show yourself!
+Dialogue: 0,0:23:36.12,0:23:39.59,*Default,NTP,0000,0000,0000,,我说   滚啊!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I said, go away!
+Dialogue: 0,0:23:59.64,0:24:02.15,*Default,NTP,0000,0000,0000,,我已经预知自己是怎么死的...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Armed with the foreknowledge of my own death...
+Dialogue: 0,0:24:02.15,0:24:04.70,*Default,NTP,0000,0000,0000,,...所以我知道那巨人杀不了我\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...I knew the giant couldn't kill me.
+Dialogue: 0,0:24:06.65,0:24:10.15,*Default,NTP,0000,0000,0000,,不过   希望不要把我的骨头拧断\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}All the same, I preferred to keep my bones unbroken.
+Dialogue: 0,0:24:10.15,0:24:12.59,*Default,NTP,0000,0000,0000,,你怎么在这?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Why are you here?
+Dialogue: 0,0:24:14.16,0:24:15.52,*Default,NTP,0000,0000,0000,,你可以吃我了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}So you can eat me.
+Dialogue: 0,0:24:15.66,0:24:19.89,*Default,NTP,0000,0000,0000,,这个镇决定献上个人祭  那人就是我\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The town decided to send a human sacrifice and I volunteered.
+Dialogue: 0,0:24:20.16,0:24:23.17,*Default,NTP,0000,0000,0000,,我的手臂筋比较多   不过我大腿上的肉还是蛮好吃的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}My arms are a little stringy, but there's some good eating in my legs.
+Dialogue: 0,0:24:23.17,0:24:27.50,*Default,NTP,0000,0000,0000,,我的意思是   我自己都想吃\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I mean, I'd be tempted to eat them myself.
+Dialogue: 0,0:24:28.67,0:24:31.18,*Default,NTP,0000,0000,0000,,我猜....\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}So I guess, well...
+Dialogue: 0,0:24:31.18,0:24:35.84,*Default,NTP,0000,0000,0000,,你动作快点的话我就不会疼   真的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}If you'd just get it over with quick, because I'm not much for pain, really.
+Dialogue: 0,0:24:47.69,0:24:51.75,*Default,NTP,0000,0000,0000,,哦   来吧! 我不能回去了! 我是个人祭!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Oh, come on! I can't go back! I'm a human sacrifice!
+Dialogue: 0,0:24:52.20,0:24:54.20,*Default,NTP,0000,0000,0000,,如果我回去了   他们一定认为我是懦夫\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}If I go back, they'll think I'm a coward.
+Dialogue: 0,0:24:54.20,0:24:57.33,*Default,NTP,0000,0000,0000,,我情愿做晚餐也不做懦夫\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'd rather be dinner than a coward.
+Dialogue: 0,0:24:57.70,0:24:59.20,*Default,NTP,0000,0000,0000,,这里\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Here.
+Dialogue: 0,0:24:59.20,0:25:02.71,*Default,NTP,0000,0000,0000,,你可以从我的手开始. 那很开胃\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You can start with my hand. It'll be an appetizer.
+Dialogue: 0,0:25:02.71,0:25:06.71,*Default,NTP,0000,0000,0000,,我不想吃你 我不想吃任何人\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I don't want to eat you. I don't want to eat anybody.
+Dialogue: 0,0:25:06.71,0:25:11.24,*Default,NTP,0000,0000,0000,,我只是太饿了. 我太高了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I just get so hungry. I'm just too big.
+Dialogue: 0,0:25:12.22,0:25:15.22,*Default,NTP,0000,0000,0000,,我想过你其实并不高吗...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Did you ever think that maybe you're not too big...
+Dialogue: 0,0:25:15.22,0:25:17.22,*Default,NTP,0000,0000,0000,,...也许是镇上的人太矮了呢?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...but maybe this town is just too small?
+Dialogue: 0,0:25:17.22,0:25:20.22,*Default,NTP,0000,0000,0000,,我听说有些城市的建筑很高...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I've heard in real cities there are buildings so tall...
+Dialogue: 0,0:25:20.22,0:25:22.73,*Default,NTP,0000,0000,0000,,...你还看不到他们的顶部\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...you can't even see the tops of them.
+Dialogue: 0,0:25:22.73,0:25:25.23,*Default,NTP,0000,0000,0000,,-真的? -哦   我不会骗你的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- Really? - Oh, I wouldn't lie to you.
+Dialogue: 0,0:25:25.23,0:25:27.73,*Default,NTP,0000,0000,0000,,这是可随便享用的自助餐\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And all-you-can-eat buffets.
+Dialogue: 0,0:25:27.73,0:25:30.73,*Default,NTP,0000,0000,0000,,-你可以吃很多   对吗? -是的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- Now, you can eat a lot, can't you? - I can.
+Dialogue: 0,0:25:30.73,0:25:34.13,*Default,NTP,0000,0000,0000,,那你为什么在这个小镇上浪费时间?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}So why are you wasting your time in a small town?
+Dialogue: 0,0:25:34.24,0:25:37.24,*Default,NTP,0000,0000,0000,,你是个巨人. 你应该去大城市\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You're a big man. You should be in a big city.
+Dialogue: 0,0:25:37.24,0:25:40.75,*Default,NTP,0000,0000,0000,,你是要让我走   对吗?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You're just trying to get me to leave, aren't you?
+Dialogue: 0,0:25:40.75,0:25:44.25,*Default,NTP,0000,0000,0000,,-你叫什么   巨人? -卡尔.\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- What's your name, giant? - Karl.
+Dialogue: 0,0:25:44.25,0:25:48.24,*Default,NTP,0000,0000,0000,,我叫爱德华. 说实话....\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Well, mine's Edward. And truthfully...
+Dialogue: 0,0:25:48.25,0:25:52.26,*Default,NTP,0000,0000,0000,,我是想让你走   卡尔. 但是是和你一起走\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Well, I do want you to leave, Karl. But I want to leave with you.
+Dialogue: 0,0:25:52.26,0:25:55.26,*Default,NTP,0000,0000,0000,,我的意思是   你觉得这个镇对你来说太小了吗?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I mean, you think this town is too small for you?
+Dialogue: 0,0:25:55.26,0:25:58.26,*Default,NTP,0000,0000,0000,,对我的雄心来说也太小了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Well, it's too small for a man of my ambition.
+Dialogue: 0,0:25:58.26,0:26:01.86,*Default,NTP,0000,0000,0000,,你怎么说? 要不要和我一起走?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}So, what do you say? Join me?
+Dialogue: 0,0:26:04.77,0:26:06.39,*Default,NTP,0000,0000,0000,,好的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Okay.
+Dialogue: 0,0:26:07.27,0:26:08.77,*Default,NTP,0000,0000,0000,,好的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Okay.
+Dialogue: 0,0:26:08.77,0:26:12.40,*Default,NTP,0000,0000,0000,,首先   我们要为去的城市做好准备\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Now, first, we gotta get you ready for the city.
+Dialogue: 0,0:26:28.80,0:26:33.30,*Default,NTP,0000,0000,0000,,爱德华.布鲁   阿斯顿的长子...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Edward Bloom, first son of Ashton...
+Dialogue: 0,0:26:33.30,0:26:37.30,*Default,NTP,0000,0000,0000,,...怀着沉重的心情为你送行\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...it's with a heavy heart that we see you go.
+Dialogue: 0,0:26:37.30,0:26:39.81,*Default,NTP,0000,0000,0000,,请带上城市钥匙...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}But take with you this key to the city...
+Dialogue: 0,0:26:39.81,0:26:42.81,*Default,NTP,0000,0000,0000,,...你随时都能回来...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...and know that any time you want to come back...
+Dialogue: 0,0:26:42.81,0:26:46.33,*Default,NTP,0000,0000,0000,,...我们的大门为你敞开\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...all our doors are open to you.
+Dialogue: 0,0:26:54.82,0:26:58.82,*Default,NTP,0000,0000,0000,,当我离开阿斯顿的那个下午   似乎所有人都有忠告\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}That afternoon as I left Ashton, everyone seemed to have advice.
+Dialogue: 0,0:26:58.82,0:27:02.33,*Default,NTP,0000,0000,0000,,给你自己找个好姑娘  要快!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Find yourself a nice girl, now!
+Dialogue: 0,0:27:02.33,0:27:05.33,*Default,NTP,0000,0000,0000,,别失去自尊   爱德华.布鲁!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Watch your pride, Edward Bloom!
+Dialogue: 0,0:27:05.33,0:27:10.53,*Default,NTP,0000,0000,0000,,但是有个人的忠告我最重视\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}But there was one person whose counsel I held above all others.
+Dialogue: 0,0:27:13.84,0:27:16.90,*Default,NTP,0000,0000,0000,,他说湖里的那条大鱼...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}She said that the biggest fish in the river...
+Dialogue: 0,0:27:17.34,0:27:20.44,*Default,NTP,0000,0000,0000,,...从来没有被抓过\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...gets that way by never being caught.
+Dialogue: 0,0:27:24.35,0:27:28.29,*Default,NTP,0000,0000,0000,,-她说了什么? -打我\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- What'd she say? - Beats me.
+Dialogue: 0,0:27:40.37,0:27:41.96,*Default,NTP,0000,0000,0000,,离开阿斯顿有两条路:\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}There were two roads out of Ashton:
+Dialogue: 0,0:27:42.37,0:27:44.87,*Default,NTP,0000,0000,0000,,新的已经铺好了路面 旧的没有\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}A new one which was paved and an older one that wasn't.
+Dialogue: 0,0:27:44.87,0:27:46.87,*Default,NTP,0000,0000,0000,,大家都不走旧的那条...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}People didn't use the old one anymore...
+Dialogue: 0,0:27:46.87,0:27:49.88,*Default,NTP,0000,0000,0000,,...传说那里闹鬼\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...and it had developed a reputation for being haunted.
+Dialogue: 0,0:27:49.88,0:27:53.38,*Default,NTP,0000,0000,0000,,因为我不想再回阿斯顿了...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Well, since I had no intention of ever returning to Ashton...
+Dialogue: 0,0:27:53.38,0:27:57.89,*Default,NTP,0000,0000,0000,,... 看来这次是个好机会看看老路有什么\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...this seemed as good a time as any to find out what lay down that old one.
+Dialogue: 0,0:27:57.89,0:28:02.89,*Default,NTP,0000,0000,0000,,-你知道谁走过吗? -那个诗人   诺什.温丝勒走过\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- You know anyone who's taken it? - That poet, Norther Winslow, did.
+Dialogue: 0,0:28:02.89,0:28:05.39,*Default,NTP,0000,0000,0000,,他去了法国巴黎\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He was going to Paris, France.
+Dialogue: 0,0:28:05.39,0:28:09.38,*Default,NTP,0000,0000,0000,,我猜他喜欢那里. 没人再有他的消息了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I guess he liked it. No one ever heard from him again.
+Dialogue: 0,0:28:09.40,0:28:11.40,*Default,NTP,0000,0000,0000,,我要告诉你. 你选另外条路\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'll tell you what. You go the other way.
+Dialogue: 0,0:28:11.40,0:28:15.49,*Default,NTP,0000,0000,0000,,我在这抄小路   在那头见\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'll cut through here, and I'll meet you on the far side.
+Dialogue: 0,0:28:16.40,0:28:19.93,*Default,NTP,0000,0000,0000,,你是想逃走  对吗?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You're just trying to run away, aren't you?
+Dialogue: 0,0:28:20.91,0:28:22.57,*Default,NTP,0000,0000,0000,,拿着\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Here.
+Dialogue: 0,0:28:23.41,0:28:27.14,*Default,NTP,0000,0000,0000,,为了让你相信  你可以拿着我的包\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Just to be sure, you can take my pack.
+Dialogue: 0,0:29:05.95,0:29:08.92,*Default,NTP,0000,0000,0000,,为什么   你这个狗娘--\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Why, you son of a...
+Dialogue: 0,0:29:34.48,0:29:36.49,*Default,NTP,0000,0000,0000,,那就是说一个有理智的人...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Now, there comes a point when a reasonable man...
+Dialogue: 0,0:29:36.49,0:29:41.49,*Default,NTP,0000,0000,0000,,...在这时候会放下尊严  承认自己犯了个天大的错误\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...will swallow his pride and admit that he's made a terrible mistake.
+Dialogue: 0,0:29:41.49,0:29:46.89,*Default,NTP,0000,0000,0000,,事实是  我从来就不是个有理智的人\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The truth is, I was never a reasonable man.
+Dialogue: 0,0:29:47.50,0:29:50.50,*Default,NTP,0000,0000,0000,,我想起了才主日学校的事...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And what I recall of Sunday school was that...
+Dialogue: 0,0:29:50.50,0:29:56.03,*Default,NTP,0000,0000,0000,,...事情越艰难   到最后得到的回报越大\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...the more difficult something is, the more rewarding it is in the end.
+Dialogue: 0,0:30:54.70,0:30:57.76,*Default,NTP,0000,0000,0000,,朋友! 欢迎你!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Friend! Welcome to you!
+Dialogue: 0,0:30:58.20,0:31:01.67,*Default,NTP,0000,0000,0000,,-你叫什么? -爱德华.布鲁.\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- What's your name? - Edward Bloom.
+Dialogue: 0,0:31:02.21,0:31:05.21,*Default,NTP,0000,0000,0000,,-就像花那样"盛开" ? -对的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- "Bloom" like a flower? - Yes.
+Dialogue: 0,0:31:05.21,0:31:09.71,*Default,NTP,0000,0000,0000,,哦   这里! 你来啦  来这了 "爱德华.布鲁."\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Oh, here! Here you are, right here. "Edward Bloom."
+Dialogue: 0,0:31:09.71,0:31:12.22,*Default,NTP,0000,0000,0000,,我们还没想到你会来\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}We weren't expecting you yet.
+Dialogue: 0,0:31:12.22,0:31:14.72,*Default,NTP,0000,0000,0000,,-你们想我? -还没\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- You were expecting me? - Not yet.
+Dialogue: 0,0:31:14.72,0:31:16.55,*Default,NTP,0000,0000,0000,,你一定没有走捷径. \N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You must've taken a shortcut. 
+Dialogue: 0,0:31:16.55,0:31:19.72,*Default,NTP,0000,0000,0000,,为什么   我走了. 差点杀了我自己\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Why, yes, I did. It almost killed me.
+Dialogue: 0,0:31:19.72,0:31:24.23,*Default,NTP,0000,0000,0000,,人生会给你这些教训. 事实上   长的路往往比较好走\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Life will do that to you. And truthfully, the long way is easier.
+Dialogue: 0,0:31:24.23,0:31:27.23,*Default,NTP,0000,0000,0000,,-但是这也太长了. -长的多\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- But it's longer. - Much longer.
+Dialogue: 0,0:31:27.23,0:31:30.23,*Default,NTP,0000,0000,0000,,现在你在这 这才是关键\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And you're here now, and that's what matters.
+Dialogue: 0,0:31:30.23,0:31:31.74,*Default,NTP,0000,0000,0000,,这里是哪?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What is this place?
+Dialogue: 0,0:31:31.74,0:31:35.24,*Default,NTP,0000,0000,0000,,幽灵镇. 阿拉巴马最好的藏身之处!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The town of Spectre. Best-kept secret in Alabama!
+Dialogue: 0,0:31:35.24,0:31:38.74,*Default,NTP,0000,0000,0000,,这里说你是来自阿斯顿的  对吗?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Now, it says here you're from Ashton, right?
+Dialogue: 0,0:31:38.74,0:31:42.25,*Default,NTP,0000,0000,0000,,我们在阿斯顿遇见的最后一个人是诺什.温丝勒.\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Last person we had from Ashton was Norther Winslow.
+Dialogue: 0,0:31:42.25,0:31:44.25,*Default,NTP,0000,0000,0000,,那个诗人? 他怎么了?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The poet? Whatever happened to him?
+Dialogue: 0,0:31:44.25,0:31:49.01,*Default,NTP,0000,0000,0000,,他仍然在这. 我给你弄点喝的. 我把所有事都告诉你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He's still here. Let me buy you a drink. I'll tell you all about it.
+Dialogue: 0,0:31:49.25,0:31:50.98,*Default,NTP,0000,0000,0000,,该死   我让他告诉你!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Hell, I'll have him tell you!
+Dialogue: 0,0:31:51.26,0:31:54.26,*Default,NTP,0000,0000,0000,,我要见些人   已经迟到了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I have to meet somebody, and I'm already running late.
+Dialogue: 0,0:31:54.26,0:31:58.66,*Default,NTP,0000,0000,0000,,孩子   我告诉你. 你来早了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Now, son, I already told you. You're early.
+Dialogue: 0,0:32:32.80,0:32:36.36,*Default,NTP,0000,0000,0000,,告诉我这是不是你吃过的最好吃的馅饼\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Now, tell me if that isn't the best pie you ever ate.
+Dialogue: 0,0:32:36.80,0:32:38.29,*Default,NTP,0000,0000,0000,,确实是\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It truly is.
+Dialogue: 0,0:32:42.31,0:32:47.00,*Default,NTP,0000,0000,0000,,这里什么都好. 水也很清甜\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Well, everything tastes better here. Even the water is sweet.
+Dialogue: 0,0:32:48.31,0:32:52.01,*Default,NTP,0000,0000,0000,,不是太热  太冷   太潮湿\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Never gets too hot, too cold, too humid.
+Dialogue: 0,0:32:52.32,0:32:55.82,*Default,NTP,0000,0000,0000,,在晚上   清风拂过树林...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}At night, the wind goes through the trees where you'd swear...
+Dialogue: 0,0:32:55.82,0:33:00.02,*Default,NTP,0000,0000,0000,,...你就感觉是大型交响乐团为你演奏\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...there was a whole symphony out there playing just for you.
+Dialogue: 0,0:33:02.33,0:33:04.59,*Default,NTP,0000,0000,0000,,嘿! 珍妮!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Hey! Jenny!
+Dialogue: 0,0:33:05.33,0:33:07.16,*Default,NTP,0000,0000,0000,,回来这里!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Come back here!
+Dialogue: 0,0:33:12.34,0:33:14.13,*Default,NTP,0000,0000,0000,,珍妮!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Jenny!
+Dialogue: 0,0:33:29.36,0:33:31.62,*Default,NTP,0000,0000,0000,,嘿   我要那些\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Hey, I need those.
+Dialogue: 0,0:33:31.86,0:33:35.36,*Default,NTP,0000,0000,0000,,-没有比这镇上更松软的土地了 -就像首诗\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- There is no softer ground than town. - That almost rhymes.
+Dialogue: 0,0:33:35.36,0:33:38.23,*Default,NTP,0000,0000,0000,,他是我们这最傑出的诗人. 来吧\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He's our poet laureate. Come on.
+Dialogue: 0,0:33:41.37,0:33:45.27,*Default,NTP,0000,0000,0000,,我答应在这过个下午   只是想知道...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I agreed to spend the afternoon, if only to understand...
+Dialogue: 0,0:33:45.37,0:33:50.07,*Default,NTP,0000,0000,0000,,...为什么这里感觉这么陌生\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...the mystery of how a place could feel so strange and yet so familiar.
+Dialogue: 0,0:33:53.88,0:33:56.38,*Default,NTP,0000,0000,0000,,这首诗我已经写了12年\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I've been working on this poem for 12 years.
+Dialogue: 0,0:33:56.38,0:33:58.38,*Default,NTP,0000,0000,0000,,真的吗?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Really?
+Dialogue: 0,0:33:58.38,0:34:03.89,*Default,NTP,0000,0000,0000,,人们都很期望. 我不想辜负他们\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}There's a lot of expectation. I don't wanna disappoint my fans.
+Dialogue: 0,0:34:03.89,0:34:05.88,*Default,NTP,0000,0000,0000,,我可以吗?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}May I?
+Dialogue: 0,0:34:25.91,0:34:28.07,*Default,NTP,0000,0000,0000,,只有三行\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's only three lines long.
+Dialogue: 0,0:34:30.92,0:34:34.75,*Default,NTP,0000,0000,0000,,这就是你不要把未成品给人看的原因\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}This is why you should never show a work in progress.
+Dialogue: 0,0:35:29.98,0:35:32.45,*Default,NTP,0000,0000,0000,,我抓住了!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I got him!
+Dialogue: 0,0:35:47.50,0:35:49.69,*Default,NTP,0000,0000,0000,,里面有水蛭\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}There's leeches in there.
+Dialogue: 0,0:35:50.00,0:35:53.47,*Default,NTP,0000,0000,0000,,-你看见那个女人了吗? -她看起来怎么样?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- Did you see that woman? - What did she look like?
+Dialogue: 0,0:35:53.50,0:35:57.34,*Default,NTP,0000,0000,0000,,-她是.... -裸体的?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- Well, she was... - Was she naked?
+Dialogue: 0,0:35:59.01,0:36:00.51,*Default,NTP,0000,0000,0000,,是的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Yes, she was.
+Dialogue: 0,0:36:00.51,0:36:05.21,*Default,NTP,0000,0000,0000,,不是女人.是鱼. 没有人抓住过她\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's not a woman. It's a fish. No one ever catches her.
+Dialogue: 0,0:36:05.51,0:36:08.02,*Default,NTP,0000,0000,0000,,每个人看到的鱼都不一样\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Fish looks different to different people.
+Dialogue: 0,0:36:08.02,0:36:12.32,*Default,NTP,0000,0000,0000,,我爸爸说它们看上去就像他小时候养的猎犬...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}My daddy said it looked like the coon dog he had when he was a kid...
+Dialogue: 0,0:36:12.52,0:36:15.08,*Default,NTP,0000,0000,0000,,...起死回生\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...back from the dead.
+Dialogue: 0,0:36:18.03,0:36:20.39,*Default,NTP,0000,0000,0000,,哦   该死\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Oh, darn.
+Dialogue: 0,0:36:22.03,0:36:24.53,*Default,NTP,0000,0000,0000,,-你几岁了? -18\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- How old are you? - Eighteen.
+Dialogue: 0,0:36:24.53,0:36:28.54,*Default,NTP,0000,0000,0000,,我8岁. 那就是说在我18岁的时候   你就28了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm 8. That means when I'm 18, you'll be 28.
+Dialogue: 0,0:36:28.54,0:36:33.54,*Default,NTP,0000,0000,0000,,-而我28岁的时候  你也才38. -你的数学不错\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- And when I'm 28, you'll only be 38. - You're pretty good at arithmetic.
+Dialogue: 0,0:36:33.54,0:36:38.05,*Default,NTP,0000,0000,0000,,当我38岁的时候   你48. 没多大区别\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And when I'm 38, you'll be 48. That's not much difference at all.
+Dialogue: 0,0:36:38.05,0:36:41.35,*Default,NTP,0000,0000,0000,,有很大区别   尽管   不是吗?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Sure is a lot now, though, huh?
+Dialogue: 0,0:37:14.58,0:37:17.78,*Default,NTP,0000,0000,0000,,嘿   爱德华!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Hey, Edward!
+Dialogue: 0,0:37:25.58,0:37:27.78,*Default,NTP,0000,0000,0000,,玫瑰是红的
+Dialogue: 0,0:37:28.28,0:37:30.08,*Default,NTP,0000,0000,0000,,紫罗兰是蓝的
+Dialogue: 0,0:37:30.60,0:37:33.19,*Default,NTP,0000,0000,0000,,我爱幽灵镇....\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I love Spectre...
+Dialogue: 0,0:37:38.61,0:37:41.04,*Default,NTP,0000,0000,0000,,对不起\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Excuse me.
+Dialogue: 0,0:37:46.62,0:37:50.45,*Default,NTP,0000,0000,0000,,珍妮 觉得你人不错 我们都这样认为\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Jenny thinks you're quite a catch. We all do.
+Dialogue: 0,0:37:51.12,0:37:52.62,*Default,NTP,0000,0000,0000,,什么?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What?
+Dialogue: 0,0:37:52.62,0:37:56.25,*Default,NTP,0000,0000,0000,,我说   你人不错\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I said, you're quite a catch.
+Dialogue: 0,0:38:18.15,0:38:20.41,*Default,NTP,0000,0000,0000,,我要走了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I have to leave.
+Dialogue: 0,0:38:23.66,0:38:25.42,*Default,NTP,0000,0000,0000,,今晚\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Tonight.
+Dialogue: 0,0:38:25.66,0:38:27.35,*Default,NTP,0000,0000,0000,,为什么?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Why?
+Dialogue: 0,0:38:28.16,0:38:31.03,*Default,NTP,0000,0000,0000,,对这个镇我不能要求更多了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}This town is more than any man could ask for.
+Dialogue: 0,0:38:31.16,0:38:34.67,*Default,NTP,0000,0000,0000,,如果我要在这停下来   我会觉得我的运气不错\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And if I were to end up here, I would consider myself lucky.
+Dialogue: 0,0:38:34.67,0:38:39.07,*Default,NTP,0000,0000,0000,,但实际上是   我还没准备好在哪停下来\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}But the truth is, I'm just not ready to end up anywhere.
+Dialogue: 0,0:38:39.17,0:38:41.37,*Default,NTP,0000,0000,0000,,但是没人离开过这\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}But no one's ever left.
+Dialogue: 0,0:38:42.18,0:38:45.68,*Default,NTP,0000,0000,0000,,没鞋你怎么走?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}How are you gonna make it without your shoes?
+Dialogue: 0,0:38:45.68,0:38:48.64,*Default,NTP,0000,0000,0000,,我想会疼. 很疼\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Well, I suspect it will hurt. A lot.
+Dialogue: 0,0:38:52.18,0:38:55.35,*Default,NTP,0000,0000,0000,,对不起   但是.... 再见\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Now, I'm sorry, but... Well, goodbye.
+Dialogue: 0,0:38:58.69,0:39:02.72,*Default,NTP,0000,0000,0000,,-你不会找到更好的地方的. -我也不想\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- You won't find a better place. - I don't expect to.
+Dialogue: 0,0:39:07.70,0:39:09.89,*Default,NTP,0000,0000,0000,,答应我不要回来\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Promise me you'll come back.
+Dialogue: 0,0:39:10.70,0:39:16.00,*Default,NTP,0000,0000,0000,,好的. 将来. 当我真的要回来的时候\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I promise. Someday. When I'm really supposed to.
+Dialogue: 0,0:39:46.74,0:39:50.24,*Default,NTP,0000,0000,0000,,那晚   我有两个结论\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}That night, I reached two conclusions.
+Dialogue: 0,0:39:50.24,0:39:55.70,*Default,NTP,0000,0000,0000,,第一个是险路在黑暗中会变得更险\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The first was that a dangerous path is made much worse by darkness.
+Dialogue: 0,0:39:56.25,0:40:00.75,*Default,NTP,0000,0000,0000,,第二个是我绝望而不不可避免地迷了路\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The second was that I was hopelessly and irrevocably lost.
+Dialogue: 0,0:40:00.75,0:40:04.22,*Default,NTP,0000,0000,0000,,这些树林成了我的葬身之处\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}These woods would become my graveyard.
+Dialogue: 0,0:40:05.76,0:40:08.46,*Default,NTP,0000,0000,0000,,虽然去往幽灵镇的路困难重重 \N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}As difficult as it was to reach Spectre, 
+Dialogue: 0,0:40:08.46,0:40:11.16,*Default,NTP,0000,0000,0000,,我还是注定最终到达了那里\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I was fated to get there eventually.
+Dialogue: 0,0:40:11.27,0:40:15.72,*Default,NTP,0000,0000,0000,,毕竟  没有人可以逃避走到人生的尽头\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}After all, no man can avoid reaching the end of his life.
+Dialogue: 0,0:40:29.28,0:40:33.79,*Default,NTP,0000,0000,0000,,这时我认识到  这不是我的人生的尽头\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And then I realized this wasn't the end of my life.
+Dialogue: 0,0:40:33.79,0:40:37.26,*Default,NTP,0000,0000,0000,,我不是这么死的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}This isn't how I die.
+Dialogue: 0,0:40:53.81,0:40:55.53,*Default,NTP,0000,0000,0000,,朋友\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Friend.
+Dialogue: 0,0:40:55.81,0:41:00.47,*Default,NTP,0000,0000,0000,,-你的鞋怎么了? -他们走在我的前头了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- What happened to your shoes? - They kind of got ahead of me.
+Dialogue: 0,0:41:16.33,0:41:19.83,*Default,NTP,0000,0000,0000,,我不知道你看见了没   但是傑瑟芬有照片...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I don't know if you saw it, but Josephine had some photos...
+Dialogue: 0,0:41:19.83,0:41:21.77,*Default,NTP,0000,0000,0000,,...就在最近的新闻周刊上\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...in the most recent Newsweek.
+Dialogue: 0,0:41:23.84,0:41:25.34,*Default,NTP,0000,0000,0000,,真的吗?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Really?
+Dialogue: 0,0:41:25.34,0:41:27.24,*Default,NTP,0000,0000,0000,,太棒了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}That's just wonderful.
+Dialogue: 0,0:41:29.35,0:41:33.35,*Default,NTP,0000,0000,0000,,我花了一周时间在摩洛哥拍那篇报道. 太不可思议了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I spent a week in Morocco for the story. It was incredible.
+Dialogue: 0,0:41:33.35,0:41:38.38,*Default,NTP,0000,0000,0000,,哦.我们要出个拷贝\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Oh. We'll have to pick up a copy.
+Dialogue: 0,0:41:47.86,0:41:51.39,*Default,NTP,0000,0000,0000,,我不知道你有没有意识到   傑瑟芬...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I don't know if you're aware of this, Josephine...
+Dialogue: 0,0:41:52.37,0:41:54.22,*Default,NTP,0000,0000,0000,,...但是非洲鹦鹉  \N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...but African parrots,
+Dialogue: 0,0:41:54.22,0:41:57.43,*Default,NTP,0000,0000,0000,,在它们的老家刚果   他们只会说法语\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&} in their native Congo, they speak only French.
+Dialogue: 0,0:41:57.87,0:41:59.57,*Default,NTP,0000,0000,0000,,真的吗?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Really?
+Dialogue: 0,0:41:59.88,0:42:03.38,*Default,NTP,0000,0000,0000,,能让他们说几句英语你就很走运了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You're lucky to get four words out of them in English.
+Dialogue: 0,0:42:03.38,0:42:06.38,*Default,NTP,0000,0000,0000,,但是如果你穿过森林...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}But if you were to walk through the jungle...
+Dialogue: 0,0:42:06.38,0:42:10.61,*Default,NTP,0000,0000,0000,,...你会听到它们说最棒的法语\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...you'd hear them speaking the most elaborate French.
+Dialogue: 0,0:42:10.89,0:42:15.89,*Default,NTP,0000,0000,0000,,那些鹦鹉什么都谈. 政治  电影  时装\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Those parrots talk about everything. Politics, movies, fashion.
+Dialogue: 0,0:42:15.89,0:42:19.09,*Default,NTP,0000,0000,0000,,任何事情  除了宗教\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Everything but religion.
+Dialogue: 0,0:42:19.90,0:42:21.62,*Default,NTP,0000,0000,0000,,为什么不说宗教   爸爸?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Why not religion, Dad?
+Dialogue: 0,0:42:21.90,0:42:26.89,*Default,NTP,0000,0000,0000,,说宗教太粗鲁了. 你不会知道你会冒犯什么的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's rude to talk about religion. You never know who you're gonna offend.
+Dialogue: 0,0:42:31.91,0:42:35.54,*Default,NTP,0000,0000,0000,,傑瑟芬实际上去年去了刚果\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Josephine actually went to the Congo last year.
+Dialogue: 0,0:42:36.91,0:42:39.40,*Default,NTP,0000,0000,0000,,哦   所以你知道\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Oh, so you know.
+Dialogue: 0,0:42:54.43,0:42:56.93,*Default,NTP,0000,0000,0000,,你好\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Hello.
+Dialogue: 0,0:42:56.93,0:42:59.70,*Default,NTP,0000,0000,0000,,嗨.你怎么样?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Hi. How are you feeling?
+Dialogue: 0,0:43:00.44,0:43:04.44,*Default,NTP,0000,0000,0000,,哦   我在作梦\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Oh, I was dreaming.
+Dialogue: 0,0:43:04.44,0:43:07.94,*Default,NTP,0000,0000,0000,,梦见什么了?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What were you dreaming about?
+Dialogue: 0,0:43:07.94,0:43:10.95,*Default,NTP,0000,0000,0000,,哦   我通常不太记得...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Oh, I don't usually remember...
+Dialogue: 0,0:43:10.95,0:43:15.71,*Default,NTP,0000,0000,0000,,...除非很有预兆. 你知道这些梦是什么意思吗?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...unless they're especially portentous. Do you know what that word means?
+Dialogue: 0,0:43:15.95,0:43:19.08,*Default,NTP,0000,0000,0000,,意思就是你梦见了可能发生的事\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It means when you dream about something that's gonna happen.
+Dialogue: 0,0:43:19.46,0:43:21.96,*Default,NTP,0000,0000,0000,,就像那晚   我做了个梦...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Like one night, I had a dream...
+Dialogue: 0,0:43:21.96,0:43:26.96,*Default,NTP,0000,0000,0000,,...一只乌鸦飞过来说:\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...where this crow came and said:
+Dialogue: 0,0:43:26.96,0:43:30.02,*Default,NTP,0000,0000,0000,,"你的阿姨会死"\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}"Your aunt is gonna die."
+Dialogue: 0,0:43:30.97,0:43:33.97,*Default,NTP,0000,0000,0000,,我很惊慌   叫醒了父母...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I was so scared, I woke up my parents...
+Dialogue: 0,0:43:33.97,0:43:38.48,*Default,NTP,0000,0000,0000,,...但是他们说只是个梦就又都睡了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...but they said it was just a dream and to get back to bed.
+Dialogue: 0,0:43:38.48,0:43:42.48,*Default,NTP,0000,0000,0000,,但是隔天早上   我的史坦斯阿姨就死了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}But the next morning, my Aunt Stacy was dead.
+Dialogue: 0,0:43:42.48,0:43:44.48,*Default,NTP,0000,0000,0000,,太可怕了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}That's terrible.
+Dialogue: 0,0:43:44.48,0:43:46.41,*Default,NTP,0000,0000,0000,,对她来说太可怕了 \N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Terrible for her,
+Dialogue: 0,0:43:46.41,0:43:50.49,*Default,NTP,0000,0000,0000,,但是想想我   一个孩子有这种力量\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&} but think about me, young boy with that kind of power.
+Dialogue: 0,0:43:50.49,0:43:54.99,*Default,NTP,0000,0000,0000,,不到三周  那只乌鸦又到了我的梦中...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Wasn't three weeks later when the crow came back to me in a dream...
+Dialogue: 0,0:43:54.99,0:44:00.23,*Default,NTP,0000,0000,0000,,...说   "你爸爸会死"\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...and said, "Your daddy's gonna die."
+Dialogue: 0,0:44:01.50,0:44:03.00,*Default,NTP,0000,0000,0000,,我不知道该怎么办\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I didn't know what to do.
+Dialogue: 0,0:44:03.00,0:44:07.01,*Default,NTP,0000,0000,0000,,最后我告诉了我父亲   但他说:\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I finally told my father, but he said:
+Dialogue: 0,0:44:07.01,0:44:13.01,*Default,NTP,0000,0000,0000,,"哦   不要担心." 但是我看的出他很慌张\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}"Oh, not to worry." But I could see he was rattled.
+Dialogue: 0,0:44:13.01,0:44:16.01,*Default,NTP,0000,0000,0000,,第二天   他变了个人\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The next morning, he wasn't himself.
+Dialogue: 0,0:44:16.01,0:44:20.97,*Default,NTP,0000,0000,0000,,到处看   像是在等什么东西砸他脑袋\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Kept looking around, waiting for something to drop on his head.
+Dialogue: 0,0:44:21.02,0:44:26.02,*Default,NTP,0000,0000,0000,,因为乌鸦没说会怎么样   只是说:\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Because the crow didn't say how it was gonna happen, just those words:
+Dialogue: 0,0:44:26.02,0:44:28.68,*Default,NTP,0000,0000,0000,,"你爸爸会死"\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}"Your daddy's gonna die."
+Dialogue: 0,0:44:29.03,0:44:35.03,*Default,NTP,0000,0000,0000,,他很早出去  去了很久\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Well, he left home early and was gone a long time.
+Dialogue: 0,0:44:35.03,0:44:38.04,*Default,NTP,0000,0000,0000,,当他回来的时候   他看上去脸色很吓人...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}When he finally came back, he looked terrible...
+Dialogue: 0,0:44:38.04,0:44:41.73,*Default,NTP,0000,0000,0000,,...就像等了一天斧子掉下来\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...like he was waiting for the ax to fall all day.
+Dialogue: 0,0:44:42.04,0:44:44.04,*Default,NTP,0000,0000,0000,,他跟妈妈说:\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He said to my mother:
+Dialogue: 0,0:44:44.04,0:44:48.05,*Default,NTP,0000,0000,0000,,"这是我一生中最糟的一天"\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}"I've just had the worst day of my life."
+Dialogue: 0,0:44:48.05,0:44:52.05,*Default,NTP,0000,0000,0000,,"你觉得这是你一生中最糟的一天?" 她说\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}"You think you've had a bad day?" she said.
+Dialogue: 0,0:44:52.05,0:44:57.61,*Default,NTP,0000,0000,0000,,"这个早上   送牛奶的在台阶上死了"\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}"This morning, the milkman dropped dead on the porch."
+Dialogue: 0,0:44:59.56,0:45:04.39,*Default,NTP,0000,0000,0000,,因为我母亲和他偷情\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Because, see, my mother was banging the milkman.
+Dialogue: 0,0:45:05.57,0:45:10.07,*Default,NTP,0000,0000,0000,,-我能给你拍张照吗? -哦   你不需要照片\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- Can I take your picture? - Oh, you don't need a picture.
+Dialogue: 0,0:45:10.07,0:45:14.57,*Default,NTP,0000,0000,0000,,查一下 "英俊"这个词\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Just look up the word "handsome" in the dictionary.
+Dialogue: 0,0:45:14.57,0:45:16.30,*Default,NTP,0000,0000,0000,,请?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Please?
+Dialogue: 0,0:45:17.58,0:45:19.60,*Default,NTP,0000,0000,0000,,好的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}All right.
+Dialogue: 0,0:45:22.58,0:45:25.09,*Default,NTP,0000,0000,0000,,我在婚礼的照片上看到你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I have photos of the wedding to show you.
+Dialogue: 0,0:45:25.09,0:45:27.61,*Default,NTP,0000,0000,0000,,你和我父亲在一起很不错\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}There is a great one of you and my father.
+Dialogue: 0,0:45:33.59,0:45:38.10,*Default,NTP,0000,0000,0000,,我想看看你婚礼的照片 我没看过\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I want to see pictures of your wedding. I've never seen any.
+Dialogue: 0,0:45:38.10,0:45:42.10,*Default,NTP,0000,0000,0000,,因为我们没举办过真正的婚礼\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}That's because we didn't have a proper wedding.
+Dialogue: 0,0:45:42.10,0:45:45.61,*Default,NTP,0000,0000,0000,,你的婆婆本不应嫁给我\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Your mother-in-law was never supposed to marry me.
+Dialogue: 0,0:45:45.61,0:45:49.61,*Default,NTP,0000,0000,0000,,-她已经和别人订了婚. -我不知道\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- She was engaged to somebody else. - I never knew.
+Dialogue: 0,0:45:49.61,0:45:52.61,*Default,NTP,0000,0000,0000,,威尔没有告诉你?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Will never told you?
+Dialogue: 0,0:45:52.61,0:45:55.11,*Default,NTP,0000,0000,0000,,可能这样也好\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Probably just as well.
+Dialogue: 0,0:45:55.11,0:45:58.12,*Default,NTP,0000,0000,0000,,说不定他会讲错话\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He would have told it wrong, anyway.
+Dialogue: 0,0:45:58.12,0:46:01.62,*Default,NTP,0000,0000,0000,,实际上   没有一点添油加醋\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}All the facts, none of the flavor.
+Dialogue: 0,0:46:01.62,0:46:05.82,*Default,NTP,0000,0000,0000,,哦. 这就是那个传说\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Oh. So this is a tall tale.
+Dialogue: 0,0:46:06.13,0:46:09.96,*Default,NTP,0000,0000,0000,,故事并不短\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Well, it's not a short one.
+Dialogue: 0,0:46:12.13,0:46:14.53,*Default,NTP,0000,0000,0000,,我刚刚离开幽灵镇去寻找我的使命\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'd just left Spectre and was on my way to discover my destiny.
+Dialogue: 0,0:46:17.14,0:46:20.14,*Default,NTP,0000,0000,0000,,我不太清楚那是什么...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Not knowing what that would be exactly...
+Dialogue: 0,0:46:20.14,0:46:25.51,*Default,NTP,0000,0000,0000,,...我寻找每个机会\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...I explored every opportunity that presented itself.
+Dialogue: 0,0:46:54.18,0:46:58.44,*Default,NTP,0000,0000,0000,,可可! 可可! 他们在那\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Coco! Coco! There they are.
+Dialogue: 0,0:46:59.18,0:47:02.98,*Default,NTP,0000,0000,0000,,女士们先生们!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Ladies and gentlemen!
+Dialogue: 0,0:47:03.18,0:47:07.28,*Default,NTP,0000,0000,0000,,你也许会想你看见了什么非同寻常的东西\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You may think you've seen the unusual.
+Dialogue: 0,0:47:07.69,0:47:12.85,*Default,NTP,0000,0000,0000,,你也许认为自己看到了荒诞的东西\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You may think you've seen the bizarre.
+Dialogue: 0,0:47:13.19,0:47:18.20,*Default,NTP,0000,0000,0000,,但是我找遍了世界的任何角落...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}But I've traveled to the five corners of the world...
+Dialogue: 0,0:47:18.20,0:47:25.69,*Default,NTP,0000,0000,0000,,...让你知道   我从没有看见过这种东西!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...and let me tell you, I've never seen anything like this!
+Dialogue: 0,0:47:30.21,0:47:32.68,*Default,NTP,0000,0000,0000,,当我遇见那个男人的时候...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}When I met this man...
+Dialogue: 0,0:47:32.72,0:47:35.22,*Default,NTP,0000,0000,0000,,...他正在弗罗里达州摘桔子\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...he was picking oranges in Florida.
+Dialogue: 0,0:47:35.22,0:47:39.71,*Default,NTP,0000,0000,0000,,他的同事叫他佩努. "影子"\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}His fellow workers called him El Penumbra. "The Shadow."
+Dialogue: 0,0:47:41.22,0:47:44.21,*Default,NTP,0000,0000,0000,,因为当你在他旁边干活时...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Because when you worked beside him...
+Dialogue: 0,0:47:44.23,0:47:46.89,*Default,NTP,0000,0000,0000,,...他把日光都挡住了!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...he blocked out the daylight!
+Dialogue: 0,0:47:47.23,0:47:51.72,*Default,NTP,0000,0000,0000,,不是吓你  夫人   但是如果那个人想要的话...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Not to alarm you, ma'am, but if this man wanted to...
+Dialogue: 0,0:47:51.73,0:47:56.24,*Default,NTP,0000,0000,0000,,...他可以用脚趾把你的脑袋夹扁...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...he could crush your head between his toes...
+Dialogue: 0,0:47:56.24,0:48:00.17,*Default,NTP,0000,0000,0000,,...就像捏一个小钱包. 不过他不会这么做的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...like a tiny walnut. But he won't do it.
+Dialogue: 0,0:48:00.24,0:48:02.74,*Default,NTP,0000,0000,0000,,不. 不   女士们先生们...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}No. No, ladies and gentlemen...
+Dialogue: 0,0:48:02.74,0:48:05.25,*Default,NTP,0000,0000,0000,,...他不会伤害她...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...he will not hurt her...
+Dialogue: 0,0:48:05.25,0:48:09.18,*Default,NTP,0000,0000,0000,,...因为他是我们的巨人\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...because he is our own gentle giant.
+Dialogue: 0,0:48:10.25,0:48:16.85,*Default,NTP,0000,0000,0000,,女士们先生们   我给你们带来了巨人!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Ladies and gentlemen, I give you Colossus!
+Dialogue: 0,0:49:40.85,0:49:44.35,*Default,NTP,0000,0000,0000,,女士们先生们   姑娘小伙子们...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Ladies and gentlemen, boys and girls...
+Dialogue: 0,0:49:44.35,0:49:47.15,*Default,NTP,0000,0000,0000,,...谢谢你们的到来\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...thank y'all for coming.
+Dialogue: 0,0:49:47.85,0:49:51.25,*Default,NTP,0000,0000,0000,,安全回家   各位. 谢谢你们的到来\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Drive home safely, everyone. Thank you for coming.
+Dialogue: 0,0:49:51.36,0:49:55.38,*Default,NTP,0000,0000,0000,,在这个晚上卡尔找到了他的使命\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It was on that night Karl met his destiny.
+Dialogue: 0,0:49:55.86,0:49:58.86,*Default,NTP,0000,0000,0000,,我也差点找到了我的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And I met mine, almost.
+Dialogue: 0,0:49:58.86,0:50:03.87,*Default,NTP,0000,0000,0000,,他们说当你碰到所爱的人的时候   时间停止了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}They say when you meet the love of your life, time stops.
+Dialogue: 0,0:50:03.87,0:50:05.89,*Default,NTP,0000,0000,0000,,那是真的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And that's true.
+Dialogue: 0,0:50:50.42,0:50:53.98,*Default,NTP,0000,0000,0000,,当时间开始的时候没人告诉你...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What they don't tell you is that once time starts again...
+Dialogue: 0,0:50:54.42,0:50:58.55,*Default,NTP,0000,0000,0000,,...它会走得快点来弥补损失的时间\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...it moves extra fast to catch up.
+Dialogue: 0,0:51:30.96,0:51:32.92,*Default,NTP,0000,0000,0000,,你叫什么?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What's your name?
+Dialogue: 0,0:51:33.46,0:51:37.86,*Default,NTP,0000,0000,0000,,-卡尔. -卡尔\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- It's Karl. - Karl.
+Dialogue: 0,0:51:42.97,0:51:48.48,*Default,NTP,0000,0000,0000,,告诉我   卡尔   你听到过"强制劳役"这个专用名词吗?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Tell me, Karl, have you ever heard the term "involuntary servitude"?
+Dialogue: 0,0:51:48.48,0:51:51.81,*Default,NTP,0000,0000,0000,,-没有 -"不公平合同"呢?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- No. - "Unconscionable contract"?
+Dialogue: 0,0:51:53.48,0:51:56.48,*Default,NTP,0000,0000,0000,,-没有 -好\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- Nope. - Great.
+Dialogue: 0,0:51:56.48,0:51:59.01,*Default,NTP,0000,0000,0000,,去那\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Here you go.
+Dialogue: 0,0:51:59.99,0:52:02.22,*Default,NTP,0000,0000,0000,,去那\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Here you are.
+Dialogue: 0,0:52:04.99,0:52:08.00,*Default,NTP,0000,0000,0000,,大屁股先生   到这来...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Mr. Soggybottom, come down this here...
+Dialogue: 0,0:52:08.00,0:52:10.69,*Default,NTP,0000,0000,0000,,...他可以借用一下你的背来签名\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...so he can use your back to sign on it.
+Dialogue: 0,0:52:23.01,0:52:25.64,*Default,NTP,0000,0000,0000,,好的. 谢谢. 好了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Okay. Thank you. Yeah.
+Dialogue: 0,0:52:26.51,0:52:28.52,*Default,NTP,0000,0000,0000,,嘿   孩子\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Hey, kid.
+Dialogue: 0,0:52:28.52,0:52:32.31,*Default,NTP,0000,0000,0000,,-你的朋友刚刚让自己变成了明星 -哦   太好了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- Your friend just made himself a star. - Oh, that's great.
+Dialogue: 0,0:52:34.52,0:52:37.02,*Default,NTP,0000,0000,0000,,-我的律师   大屁股先生. -很高兴见到你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- My attorney, Mr. Soggybottom. - Good to meet you.
+Dialogue: 0,0:52:37.02,0:52:39.18,*Default,NTP,0000,0000,0000,,很高兴见到你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Pleased to meet you.
+Dialogue: 0,0:52:43.53,0:52:47.04,*Default,NTP,0000,0000,0000,,怎么了? 我从没有看到客户如此沮丧...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What's the matter? I haven't seen a customer so depressed...
+Dialogue: 0,0:52:47.04,0:52:50.87,*Default,NTP,0000,0000,0000,,...自从上次大象坐扁了那个农夫的妻子后\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...since the elephant sat on that farmer's wife.
+Dialogue: 0,0:52:51.54,0:52:54.13,*Default,NTP,0000,0000,0000,,"沮丧"?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}"Depressed"?
+Dialogue: 0,0:52:55.54,0:52:58.37,*Default,NTP,0000,0000,0000,,瞧? 那个大傢伙喜欢这个\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}See? The big guy likes it.
+Dialogue: 0,0:52:58.55,0:53:00.55,*Default,NTP,0000,0000,0000,,我看见了我结婚的对象\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I just saw the woman I'm gonna marry.
+Dialogue: 0,0:53:00.55,0:53:04.11,*Default,NTP,0000,0000,0000,,我知道了. 但是我失去了她\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I know it. But I lost her.
+Dialogue: 0,0:53:05.05,0:53:06.56,*Default,NTP,0000,0000,0000,,哦   真太糟了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Oh, tough break.
+Dialogue: 0,0:53:06.56,0:53:10.56,*Default,NTP,0000,0000,0000,,大多数的男人只有在结婚以后才会失去妻子\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Well, most men have to get married before they lose their wives.
+Dialogue: 0,0:53:10.56,0:53:16.06,*Default,NTP,0000,0000,0000,,然而我要花一生去找她. 否则就一个人死去\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm gonna spend the rest of my life looking for her. That or die alone.
+Dialogue: 0,0:53:16.06,0:53:18.43,*Default,NTP,0000,0000,0000,,见鬼  孩子\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Damn, kid.
+Dialogue: 0,0:53:21.07,0:53:24.04,*Default,NTP,0000,0000,0000,,让我猜猜. 真的很漂亮?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Let me guess. Real pretty?
+Dialogue: 0,0:53:24.57,0:53:26.94,*Default,NTP,0000,0000,0000,,微红的金发?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Reddish-blondish hair?
+Dialogue: 0,0:53:28.58,0:53:30.34,*Default,NTP,0000,0000,0000,,蓝色的衣服?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Blue dress?
+Dialogue: 0,0:53:31.08,0:53:33.07,*Default,NTP,0000,0000,0000,,对!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Yeah!
+Dialogue: 0,0:53:33.08,0:53:36.08,*Default,NTP,0000,0000,0000,,我认识她的叔叔.家族的朋友\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I know her uncle. Friends of the family.
+Dialogue: 0,0:53:36.08,0:53:38.59,*Default,NTP,0000,0000,0000,,她是谁? 住哪?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Who is she? Where does she live?
+Dialogue: 0,0:53:38.59,0:53:41.59,*Default,NTP,0000,0000,0000,,算了.你别浪费时间了. 她和你不一样\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Forget it. Don't waste your time. She's out of your league.
+Dialogue: 0,0:53:41.59,0:53:45.10,*Default,NTP,0000,0000,0000,,-什么? 你还不瞭解我. -我当然瞭解你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- What? You don't even know me. - Sure I do.
+Dialogue: 0,0:53:45.10,0:53:46.76,*Default,NTP,0000,0000,0000,,你在乡下地方很有名 \N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You were hot shit back in Hickville, 
+Dialogue: 0,0:53:46.76,0:53:49.60,*Default,NTP,0000,0000,0000,,但是这里是现实世界   你要屈尊\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}but here in the real world, you got squat.
+Dialogue: 0,0:53:49.60,0:53:52.03,*Default,NTP,0000,0000,0000,,你没有计划和工作\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You don't have a plan or a job.
+Dialogue: 0,0:53:52.10,0:53:54.60,*Default,NTP,0000,0000,0000,,除了背后的衣服什么都没有\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Nothing except the clothes on your back.
+Dialogue: 0,0:53:54.60,0:53:58.00,*Default,NTP,0000,0000,0000,,我身后有一包衣服\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Well, I have a whole backpack full of clothes.
+Dialogue: 0,0:53:59.11,0:54:02.37,*Default,NTP,0000,0000,0000,,哦   谁偷了我的包\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Oh, someone stole my backpack.
+Dialogue: 0,0:54:02.61,0:54:06.62,*Default,NTP,0000,0000,0000,,你在小池塘里是条大鱼   可这里是海洋...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You were a big fish in a small pond, but this here is the ocean...
+Dialogue: 0,0:54:06.62,0:54:09.55,*Default,NTP,0000,0000,0000,,...你会被淹没的. 回水坑镇去吧\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...and you're drowning. Go back to Puddleville.
+Dialogue: 0,0:54:09.62,0:54:13.12,*Default,NTP,0000,0000,0000,,-你会在那开心的. -你刚才说我没有计划. 我有\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- You'll be happy there. - You say I don't have a plan. I do.
+Dialogue: 0,0:54:13.12,0:54:17.13,*Default,NTP,0000,0000,0000,,我要找个姑娘   娶回来   和她共渡余生\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'll find that girl, marry her, and spend the rest of my life with her.
+Dialogue: 0,0:54:17.13,0:54:21.13,*Default,NTP,0000,0000,0000,,我没有工作   如果你给我一个不就有了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I don't have a job, but I would have a job if you gave me one.
+Dialogue: 0,0:54:21.13,0:54:23.13,*Default,NTP,0000,0000,0000,,我没有很多钱...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And I may not have much...
+Dialogue: 0,0:54:23.13,0:54:27.33,*Default,NTP,0000,0000,0000,,...但是我比你会遇见的任何男人都更有决心\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...but I have more determination than any man you're likely to meet.
+Dialogue: 0,0:54:29.14,0:54:33.30,*Default,NTP,0000,0000,0000,,对不起   孩子.我不做慈善事业的 来吧   大个子\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm sorry, kid. I don't do charity. Come on, big boy.
+Dialogue: 0,0:54:33.64,0:54:36.44,*Default,NTP,0000,0000,0000,,等等. 看   我会为你昼夜工作的...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Wait. Look, I'll work night and day for you...
+Dialogue: 0,0:54:36.65,0:54:38.31,*Default,NTP,0000,0000,0000,,...你不用付我钱\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...and you won't have to pay me.
+Dialogue: 0,0:54:40.15,0:54:43.62,*Default,NTP,0000,0000,0000,,你只要告诉我她是谁\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You just have to tell me who she is.
+Dialogue: 0,0:54:46.66,0:54:48.66,*Default,NTP,0000,0000,0000,,每个月你为我工作...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Every month you work for me...
+Dialogue: 0,0:54:48.66,0:54:52.46,*Default,NTP,0000,0000,0000,,...我就告诉你一件关於她的事. 这是我的最后开价\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...l'll tell you one thing about her. That's my final offer.
+Dialogue: 0,0:54:56.17,0:54:59.23,*Default,NTP,0000,0000,0000,,让我们开始\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Let's get started.
+Dialogue: 0,0:55:12.18,0:55:15.69,*Default,NTP,0000,0000,0000,,从那刻起   我做所有卡洛维先生吩咐的事\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}From that moment on, I did everything Mr. Calloway asked.
+Dialogue: 0,0:55:15.69,0:55:18.69,*Default,NTP,0000,0000,0000,,我连续工作三天没有停下来吃过东西\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'd go three days without stopping to eat.
+Dialogue: 0,0:55:18.69,0:55:21.69,*Default,NTP,0000,0000,0000,,四天没有睡觉\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And four days without sleeping.
+Dialogue: 0,0:55:21.69,0:55:24.69,*Default,NTP,0000,0000,0000,,让我前进的动力就是见到那个姑娘...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What kept me going was the promise of meeting the girl...
+Dialogue: 0,0:55:24.69,0:55:26.39,*Default,NTP,0000,0000,0000,,... 那个我要娶的姑娘\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...who would be my wife.
+Dialogue: 0,0:55:33.70,0:55:36.21,*Default,NTP,0000,0000,0000,,连在一起   就那样\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Stick together, that's the way it's gonna be.
+Dialogue: 0,0:55:36.21,0:55:40.21,*Default,NTP,0000,0000,0000,,-就是那样   以后就保持那样 -卡洛维先生?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- The way it was, and the way it will be. - Mr. Calloway, sir?
+Dialogue: 0,0:55:40.21,0:55:42.27,*Default,NTP,0000,0000,0000,,已经一个月了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's been a month today.
+Dialogue: 0,0:55:44.22,0:55:47.84,*Default,NTP,0000,0000,0000,,这个姑娘   你今生的爱...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}This girl, the love of your life...
+Dialogue: 0,0:55:48.22,0:55:53.28,*Default,NTP,0000,0000,0000,,...她最喜欢水仙\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...her favorite flowers are daffodils.
+Dialogue: 0,0:55:53.73,0:55:58.18,*Default,NTP,0000,0000,0000,,-拿着.... -水仙\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- So get that stuff... - Daffodils.
+Dialogue: 0,0:55:58.73,0:56:01.53,*Default,NTP,0000,0000,0000,,水仙\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Daffodils.
+Dialogue: 0,0:56:02.73,0:56:05.39,*Default,NTP,0000,0000,0000,,水仙\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Daffodils.
+Dialogue: 0,0:56:10.74,0:56:12.74,*Default,NTP,0000,0000,0000,,遵守他的诺言...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}True to his word...
+Dialogue: 0,0:56:12.74,0:56:15.75,*Default,NTP,0000,0000,0000,,...每个月阿莫斯都会告诉我一点那个...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...every month Amos would tell me something new...
+Dialogue: 0,0:56:15.75,0:56:18.25,*Default,NTP,0000,0000,0000,,...我梦中的姑娘的事\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...about the woman of my dreams.
+Dialogue: 0,0:56:18.25,0:56:21.25,*Default,NTP,0000,0000,0000,,玩的开心   玩的开心\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Enjoy yourselves, enjoy yourselves.
+Dialogue: 0,0:56:21.25,0:56:23.26,*Default,NTP,0000,0000,0000,,她要上大学了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}She's going to college.
+Dialogue: 0,0:56:23.26,0:56:27.95,*Default,NTP,0000,0000,0000,,大学. 她要上大学了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}College. She's going to college.
+Dialogue: 0,0:56:37.77,0:56:39.63,*Default,NTP,0000,0000,0000,,她喜欢音乐\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}She likes music.
+Dialogue: 0,0:56:39.77,0:56:44.04,*Default,NTP,0000,0000,0000,,音乐. 她喜欢音乐\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Music. She likes music.
+Dialogue: 0,0:56:48.28,0:56:50.78,*Default,NTP,0000,0000,0000,,几个月后   对於这个我要娶的姑娘我了解了很多...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Over the months, I learned a lot about the woman I would marry...
+Dialogue: 0,0:56:52.79,0:56:55.79,*Default,NTP,0000,0000,0000,,...但是不是她的名字   也不知道去哪找她\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...but not her name, and not where to find her.
+Dialogue: 0,0:56:55.79,0:57:01.02,*Default,NTP,0000,0000,0000,,终於到了.我不能再等了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}That time had come. I couldn't wait any longer.
+Dialogue: 0,0:57:11.81,0:57:14.50,*Default,NTP,0000,0000,0000,,卡洛维先生?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Mr. Calloway?
+Dialogue: 0,0:57:16.31,0:57:20.21,*Default,NTP,0000,0000,0000,,是爱德华.布鲁. 我要和你谈谈\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's Edward Bloom. I need to talk to you.
+Dialogue: 0,0:57:23.82,0:57:26.61,*Default,NTP,0000,0000,0000,,卡洛维先生?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Mr. Calloway?
+Dialogue: 0,0:58:00.35,0:58:02.55,*Default,NTP,0000,0000,0000,,不. 等等!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}No. Wait!
+Dialogue: 0,0:58:19.87,0:58:24.38,*Default,NTP,0000,0000,0000,,那天晚上   我发现你认为邪恶的东西...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}That night, I discovered that most things you consider evil or wicked...
+Dialogue: 0,0:58:24.38,0:58:28.75,*Default,NTP,0000,0000,0000,,...只是出於孤独或者是缺乏社交上的分寸\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...are simply lonely and lacking in social niceties.
+Dialogue: 0,0:59:02.92,0:59:05.48,*Default,NTP,0000,0000,0000,,我没杀死什么东西   是吗?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Didn't kill anything, did I?
+Dialogue: 0,0:59:05.92,0:59:10.75,*Default,NTP,0000,0000,0000,,几只兔子而已. 不过我认为其中一只本来就是死的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}A few rabbits. But I think one of them was already dead.
+Dialogue: 0,0:59:13.43,0:59:16.90,*Default,NTP,0000,0000,0000,,怪不得我有点消化不良\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}That would explain the indigestion.
+Dialogue: 0,0:59:23.94,0:59:26.34,*Default,NTP,0000,0000,0000,,谢谢\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Thank you.
+Dialogue: 0,0:59:27.94,0:59:29.95,*Default,NTP,0000,0000,0000,,我看错你了   孩子\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I was wrong about you, kid.
+Dialogue: 0,0:59:29.95,0:59:33.74,*Default,NTP,0000,0000,0000,,你也许什么长处   但是其实你有的   而且很多\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You may not have much, but what you got, you got a lot of.
+Dialogue: 0,0:59:33.95,0:59:36.45,*Default,NTP,0000,0000,0000,,你能追到那姑娘\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You could get any girl.
+Dialogue: 0,0:59:36.45,0:59:38.92,*Default,NTP,0000,0000,0000,,我只想要一个\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}There's only one I want.
+Dialogue: 0,0:59:42.96,0:59:44.69,*Default,NTP,0000,0000,0000,,她...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Her name...
+Dialogue: 0,0:59:47.96,0:59:50.56,*Default,NTP,0000,0000,0000,,...叫桑德拉.坦浦顿\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...is Sandra Templeton.
+Dialogue: 0,0:59:51.97,0:59:54.97,*Default,NTP,0000,0000,0000,,去了奥本念书\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}She goes to Auburn.
+Dialogue: 0,0:59:54.97,0:59:59.48,*Default,NTP,0000,0000,0000,,学期快结束了   所以你最好快点\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Semester's almost over, so you better hurry.
+Dialogue: 0,0:59:59.48,1:00:01.50,*Default,NTP,0000,0000,0000,,谢谢你  谢谢你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Thank you. Thank you.
+Dialogue: 0,1:00:01.98,1:00:04.88,*Default,NTP,0000,0000,0000,,-祝你好运   孩子! -谢谢你   先生!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- Good luck, kid! - Thank you, sir!
+Dialogue: 0,1:00:17.08,1:00:17.94,*Default,NTP,0000,0000,0000,,-再见 -再见   爱德华.\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- Bye, now. - Bye, Edward.
+Dialogue: 0,1:00:21.16,1:00:24.67,*Default,NTP,0000,0000,0000,,说完再见   我换了三趟火车...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}After saying my goodbyes, I hopped three trains...
+Dialogue: 0,1:00:24.67,1:00:28.62,*Default,NTP,0000,0000,0000,,...在下午到了奥本大学\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...to get to Auburn that afternoon.
+Dialogue: 0,1:01:03.20,1:01:07.20,*Default,NTP,0000,0000,0000,,你不认识我   我叫爱德华.布鲁...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You don't know me, but my name is Edward Bloom...
+Dialogue: 0,1:01:07.20,1:01:08.96,*Default,NTP,0000,0000,0000,,...我爱你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...and I love you.
+Dialogue: 0,1:01:10.21,1:01:14.21,*Default,NTP,0000,0000,0000,,我做了三年工就是为了知道你是谁\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I've spent the last three years working to find out who you are.
+Dialogue: 0,1:01:14.21,1:01:16.39,*Default,NTP,0000,0000,0000,,有几次我被枪打中  被刀刺伤 \N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I've been shot, stabbed, and trampled a 
+Dialogue: 0,1:01:16.39,1:01:18.72,*Default,NTP,0000,0000,0000,,还被踩过   我的肋骨断了两次\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}few times. I broke my ribs twice.
+Dialogue: 0,1:01:18.72,1:01:22.21,*Default,NTP,0000,0000,0000,,但是能够见到你我认为一切都是值得的...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}But it's all been worth it to see you here now...
+Dialogue: 0,1:01:22.22,1:01:25.22,*Default,NTP,0000,0000,0000,,...最后能和你说话\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...and to finally get to talk to you.
+Dialogue: 0,1:01:25.22,1:01:27.98,*Default,NTP,0000,0000,0000,,因为我要娶你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Because I'm destined to marry you.
+Dialogue: 0,1:01:28.22,1:01:34.66,*Default,NTP,0000,0000,0000,,从我在马戏团见到你的第一刻起我就知道\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I knew it when I saw you at the circus, and I know it now more than ever.
+Dialogue: 0,1:01:36.23,1:01:39.23,*Default,NTP,0000,0000,0000,,-对不起 -你不必道歉\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- I'm sorry. - You don't have to apologize to me.
+Dialogue: 0,1:01:39.23,1:01:42.13,*Default,NTP,0000,0000,0000,,我是你今天所看见的最幸运的人\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm the luckiest person you'll find today.
+Dialogue: 0,1:01:42.24,1:01:45.80,*Default,NTP,0000,0000,0000,,不   对不起我不想结婚\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}No, I'm sorry I'm engaged to be married.
+Dialogue: 0,1:01:52.25,1:01:55.75,*Default,NTP,0000,0000,0000,,但是你错了.我真的瞭解你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}But you're wrong. I do know you.
+Dialogue: 0,1:01:55.75,1:01:58.22,*Default,NTP,0000,0000,0000,,至少听过你的名声\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}At least by reputation.
+Dialogue: 0,1:01:58.75,1:02:01.25,*Default,NTP,0000,0000,0000,,从阿斯顿来的爱德华.布鲁\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Edward Bloom from Ashton.
+Dialogue: 0,1:02:01.25,1:02:06.19,*Default,NTP,0000,0000,0000,,瞧   实际上我已经和从阿斯顿来的丹.普来斯定婚了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}See, I'm actually engaged to a boy from Ashton. Don Price.
+Dialogue: 0,1:02:06.76,1:02:09.82,*Default,NTP,0000,0000,0000,,他比你大一点\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He was a few years older than you.
+Dialogue: 0,1:02:20.27,1:02:22.13,*Default,NTP,0000,0000,0000,,那么....\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Well...
+Dialogue: 0,1:02:24.28,1:02:25.83,*Default,NTP,0000,0000,0000,,恭喜你了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Congratulations.
+Dialogue: 0,1:02:28.28,1:02:31.34,*Default,NTP,0000,0000,0000,,打扰你很抱歉\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm sorry to have bothered you.
+Dialogue: 0,1:02:36.29,1:02:39.81,*Default,NTP,0000,0000,0000,,停! 并不有趣\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Stop it! It's not funny.
+Dialogue: 0,1:02:40.29,1:02:42.79,*Default,NTP,0000,0000,0000,,可怜的孩子\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}That poor boy.
+Dialogue: 0,1:02:42.79,1:02:46.30,*Default,NTP,0000,0000,0000,,命运总是残酷地捉弄着你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Fate has a cruel way of circling around on you.
+Dialogue: 0,1:02:46.30,1:02:48.30,*Default,NTP,0000,0000,0000,,好不容易离开了阿斯顿...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}After all this work to leave Ashton...
+Dialogue: 0,1:02:48.30,1:02:54.29,*Default,NTP,0000,0000,0000,,...我爱的姑娘却和那来的人定了婚\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...the girl I love was now engaged to one of its biggest jerks.
+Dialogue: 0,1:02:54.30,1:02:56.31,*Default,NTP,0000,0000,0000,,是男人斗争的时候了...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}There's a time when a man needs to fight...
+Dialogue: 0,1:02:56.31,1:03:00.31,*Default,NTP,0000,0000,0000,,...他需要接受使命落空的情况...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...and a time when he needs to accept that his destiny's lost...
+Dialogue: 0,1:03:00.31,1:03:04.31,*Default,NTP,0000,0000,0000,,... 船起航了   傻瓜才会向前\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...the ship has sailed, and that only a fool will continue.
+Dialogue: 0,1:03:04.31,1:03:08.01,*Default,NTP,0000,0000,0000,,事实上   我一直是个傻瓜\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Truth is, I've always been a fool.
+Dialogue: 0,1:03:08.82,1:03:14.05,*Default,NTP,0000,0000,0000,,桑德拉.坦浦顿   我爱你   我要娶你!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Sandra Templeton, I love you, and I will marry you!
+Dialogue: 0,1:03:18.41,1:03:19.20,*Default,NTP,0000,0000,0000,,就像你看到的   如果这些规则适用我们的生活...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}So as you can see, if we apply these rules to our everyday life...
+Dialogue: 0,1:03:22.33,1:03:25.33,*Default,NTP,0000,0000,0000,,...供求更有意义\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...supply and demand makes much more sense.
+Dialogue: 0,1:03:25.33,1:03:29.79,*Default,NTP,0000,0000,0000,,看下一张图  引入这一点将会更有说服力--\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Take a look at the next graph, and the import of this will be even stronger...
+Dialogue: 0,1:03:38.34,1:03:40.85,*Default,NTP,0000,0000,0000,,--三个小时\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- for three hours.
+Dialogue: 0,1:03:40.85,1:03:43.21,*Default,NTP,0000,0000,0000,,看!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Look!
+Dialogue: 0,1:04:13.66,1:04:17.16,*Default,NTP,0000,0000,0000,,-水仙! -这是你最喜欢的花\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- Daffodils! - They're your favorite flower.
+Dialogue: 0,1:04:17.16,1:04:19.15,*Default,NTP,0000,0000,0000,,你哪里去弄来这么多?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}How did you get so many?
+Dialogue: 0,1:04:19.66,1:04:21.66,*Default,NTP,0000,0000,0000,,我5个州都打了电话\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I called everywhere in five states.
+Dialogue: 0,1:04:21.66,1:04:25.10,*Default,NTP,0000,0000,0000,,我告诉他们这是我娶妻的唯一方法\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I told them it was the only way to get my wife to marry me.
+Dialogue: 0,1:04:26.67,1:04:28.90,*Default,NTP,0000,0000,0000,,你似乎不瞭解我\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You don't even know me.
+Dialogue: 0,1:04:29.17,1:04:32.16,*Default,NTP,0000,0000,0000,,我用余生去瞭解\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I have the rest of my life to find out.
+Dialogue: 0,1:04:32.67,1:04:34.83,*Default,NTP,0000,0000,0000,,桑德拉!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Sandra!
+Dialogue: 0,1:04:36.68,1:04:38.68,*Default,NTP,0000,0000,0000,,是丹. 答应我别伤害他\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's Don. Promise you won't hurt him.
+Dialogue: 0,1:04:38.68,1:04:42.11,*Default,NTP,0000,0000,0000,,如果这是你想要的  我发誓\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}If that's what you want, I swear to it.
+Dialogue: 0,1:04:42.18,1:04:45.01,*Default,NTP,0000,0000,0000,,-布鲁? -丹\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- Bloom? - Don.
+Dialogue: 0,1:04:45.69,1:04:50.19,*Default,NTP,0000,0000,0000,,你到底在干什么? 她是我的女孩. 我的!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What the hell are you doing? This is my girl. Mine!
+Dialogue: 0,1:04:50.19,1:04:53.32,*Default,NTP,0000,0000,0000,,我没注意到她已经名花有主了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I wasn't aware that she belonged to anyone.
+Dialogue: 0,1:04:55.70,1:04:59.16,*Default,NTP,0000,0000,0000,,出什么事了? 难道你害怕得不敢还击了?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What's the matter? Are you too scared to fight back?
+Dialogue: 0,1:04:59.20,1:05:01.36,*Default,NTP,0000,0000,0000,,我发誓我不会\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I promised I wouldn't.
+Dialogue: 0,1:05:01.70,1:05:04.70,*Default,NTP,0000,0000,0000,,停下来!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Stop it!
+Dialogue: 0,1:05:04.70,1:05:06.40,*Default,NTP,0000,0000,0000,,丹   停!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Don, stop!
+Dialogue: 0,1:05:06.71,1:05:11.71,*Default,NTP,0000,0000,0000,,虽然我被揍的很惨   但是最后输的却是丹.普来斯\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}While I took the beating of a lifetime, Don Price was ultimately defeated.
+Dialogue: 0,1:05:11.71,1:05:16.72,*Default,NTP,0000,0000,0000,,用力过猛使得他天生的心脏瓣膜缺陷恶化\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}All the physical activity had worsened a congenital valve defect.
+Dialogue: 0,1:05:16.72,1:05:19.31,*Default,NTP,0000,0000,0000,,简单来说   他的心脏还不够强壮\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Put simply, his heart wasn't strong enough.
+Dialogue: 0,1:05:31.73,1:05:34.56,*Default,NTP,0000,0000,0000,,丹! 我不会嫁给你的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Don! I will never marry you.
+Dialogue: 0,1:05:34.73,1:05:37.73,*Default,NTP,0000,0000,0000,,什么? 你是说   你爱这个傢伙?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What? You mean, you love this guy?
+Dialogue: 0,1:05:37.73,1:05:41.33,*Default,NTP,0000,0000,0000,,他还是个陌生人   但我喜欢他胜过你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He's almost a stranger, and I prefer him to you.
+Dialogue: 0,1:06:09.26,1:06:14.77,*Default,NTP,0000,0000,0000,,最后   桑德拉仍然在同一天去了教堂\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}As it turned out, Sandra was able to keep her same date at the chapel.
+Dialogue: 0,1:06:14.77,1:06:18.39,*Default,NTP,0000,0000,0000,,只是新郎换了人\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Only the groom had changed.
+Dialogue: 0,1:06:18.77,1:06:22.78,*Default,NTP,0000,0000,0000,,我记得你说过你没有在教堂举行过婚礼\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I thought you said you didn't have a church wedding.
+Dialogue: 0,1:06:22.78,1:06:26.33,*Default,NTP,0000,0000,0000,,我们都好了  但是还有点麻烦\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}We were all set to, but there was a complication.
+Dialogue: 0,1:06:29.78,1:06:34.01,*Default,NTP,0000,0000,0000,,这药会让你口渴吗?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Is it the medicine that's making you thirsty?
+Dialogue: 0,1:06:34.79,1:06:38.35,*Default,NTP,0000,0000,0000,,实际上   这一直很口渴\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Truth is, I've been thirsty my whole life.
+Dialogue: 0,1:06:38.79,1:06:41.85,*Default,NTP,0000,0000,0000,,不知道为什么\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Never really known why.
+Dialogue: 0,1:06:42.80,1:06:44.80,*Default,NTP,0000,0000,0000,,在我11岁的时候....\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}There was a time when I was 11...
+Dialogue: 0,1:06:44.80,1:06:47.20,*Default,NTP,0000,0000,0000,,你在谈你的婚礼\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You were talking about your wedding.
+Dialogue: 0,1:06:47.30,1:06:51.70,*Default,NTP,0000,0000,0000,,我没有忘记.我绕着弯在讲话\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I didn't forget. I was just working on a tangent.
+Dialogue: 0,1:06:51.80,1:06:55.31,*Default,NTP,0000,0000,0000,,你也知道   大多数人说话都很直接\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You see, most men, they'll tell you a story straight through.
+Dialogue: 0,1:06:55.31,1:06:59.31,*Default,NTP,0000,0000,0000,,这样并不複杂  但是也很没趣\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It won't be complicated, but it won't be interesting, either.
+Dialogue: 0,1:06:59.81,1:07:00.89,*Default,NTP,0000,0000,0000,,我喜欢你的故事\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I like your stories.
+Dialogue: 0,1:07:00.89,1:07:02.81,*Default,NTP,0000,0000,0000,,我喜欢你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And I like you.
+Dialogue: 0,1:07:02.81,1:07:07.07,*Default,NTP,0000,0000,0000,,在你在马戏团工作的时候   你没有一个固定的地址\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Well, when you work for the circus, you don't have a regular address.
+Dialogue: 0,1:07:07.82,1:07:11.41,*Default,NTP,0000,0000,0000,,三年后  有很多信我没收到\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}So after three years, there was a lot of undelivered mail.
+Dialogue: 0,1:07:11.82,1:07:14.82,*Default,NTP,0000,0000,0000,,在我住院的四周时间里...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}During the four weeks I was in the hospital...
+Dialogue: 0,1:07:14.82,1:07:17.33,*Default,NTP,0000,0000,0000,,...邮差终於找到了我\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...the postmaster finally caught up with me.
+Dialogue: 0,1:07:17.33,1:07:20.83,*Default,NTP,0000,0000,0000,,尽管我的心也许是属於桑德拉的...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And it seems that while my heart belonged to Sandra...
+Dialogue: 0,1:07:20.83,1:07:26.99,*Default,NTP,0000,0000,0000,,...我身体的其它部分则属於美国政府\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...the rest of my body belonged to the U.S. government.
+Dialogue: 0,1:07:43.85,1:07:47.86,*Default,NTP,0000,0000,0000,,当时在军中服役期最长可达三年...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}A hitch in the Army was up to three years at that point...
+Dialogue: 0,1:07:47.86,1:07:50.86,*Default,NTP,0000,0000,0000,,...而我已经等了三年才见到桑德拉...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...and having waited three years just to meet Sandra...
+Dialogue: 0,1:07:50.86,1:07:54.86,*Default,NTP,0000,0000,0000,,...我知道我没有办法离开她这么久时间\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...I knew I couldn't survive being away from her that long.
+Dialogue: 0,1:07:54.86,1:07:58.36,*Default,NTP,0000,0000,0000,,所以我就接那种危险的任务...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}So I took every hazardous assignment I could find...
+Dialogue: 0,1:07:58.36,1:08:02.87,*Default,NTP,0000,0000,0000,,...希望能把我的时间缩短一年也好\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...with the hope of getting my time down to less than a year.
+Dialogue: 0,1:08:02.87,1:08:05.77,*Default,NTP,0000,0000,0000,,上! 上!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Go! Go!
+Dialogue: 0,1:08:07.87,1:08:09.88,*Default,NTP,0000,0000,0000,,当我接到个秘密行动...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}When I was offered a secret mission...
+Dialogue: 0,1:08:09.88,1:08:14.28,*Default,NTP,0000,0000,0000,,...要我偷王开堂发电厂的图纸...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...to steal the plans for the Wong Kai Tang power plant...
+Dialogue: 0,1:08:14.38,1:08:18.14,*Default,NTP,0000,0000,0000,,...我跳了下去报效祖国\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...I jumped at the chance to serve my country.
+Dialogue: 0,1:08:20.89,1:08:23.54,*Default,NTP,0000,0000,0000,,上! 上!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Go! Go!
+Dialogue: 0,1:09:00.50,1:09:04.00,*Default,NTP,0000,0000,0000,,嘿 兄弟 兄弟 什么乱七八糟的 下台吧
+Dialogue: 0,1:09:12.35,1:09:14.54,*Default,NTP,0000,0000,0000,,这傢伙谁找的 真他妈要枪毙
+Dialogue: 0,1:09:14.54,1:09:17.04,*Default,NTP,0000,0000,0000,,有很漂亮的小姐为我们演出
+Dialogue: 0,1:09:33.80,1:09:39.30,*Default,NTP,0000,0000,0000,,女孩有时会感觉孤独
+Dialogue: 0,1:09:40.66,1:09:47.16,*Default,NTP,0000,0000,0000,,没有爱人来爱她
+Dialogue: 0,1:09:49.42,1:09:52.43,*Default,NTP,0000,0000,0000,,有时候孤独难耐
+Dialogue: 0,1:09:52.43,1:09:56.61,*Default,NTP,0000,0000,0000,,她内心要爆发
+Dialogue: 0,1:09:56.61,1:10:02.11,*Default,NTP,0000,0000,0000,,见到一个男人就抓紧 扯去他的衣衫
+Dialogue: 0,1:10:02.98,1:10:06.49,*Default,NTP,0000,0000,0000,,可她不会.她不能
+Dialogue: 0,1:10:06.49,1:10:10.10,*Default,NTP,0000,0000,0000,,她需要一个特殊 非凡 超群的男人
+Dialogue: 0,1:10:10.10,1:10:13.95,*Default,NTP,0000,0000,0000,,因为那与我一般容貌的女孩
+Dialogue: 0,1:10:13.95,1:10:18.50,*Default,NTP,0000,0000,0000,,她想要得到 可她有需要
+Dialogue: 0,1:10:18.50,1:10:20.92,*Default,NTP,0000,0000,0000,,谁有需要?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Any of you got needs?
+Dialogue: 0,1:10:20.92,1:10:24.73,*Default,NTP,0000,0000,0000,,我有过双重的冒险
+Dialogue: 0,1:10:24.73,1:10:27.99,*Default,NTP,0000,0000,0000,,我流过双倍的泪
+Dialogue: 0,1:10:27.99,1:10:35.31,*Default,NTP,0000,0000,0000,,我在一半的岁月中有过双倍的不幸
+Dialogue: 0,1:10:35.31,1:10:38.85,*Default,NTP,0000,0000,0000,,现在我需要一个男人
+Dialogue: 0,1:10:38.85,1:10:41.94,*Default,NTP,0000,0000,0000,,能有着加倍的意志
+Dialogue: 0,1:10:41.94,1:10:43.92,*Default,NTP,0000,0000,0000,,我需要这样的男人
+Dialogue: 0,1:10:43.92,1:10:49.42,*Default,NTP,0000,0000,0000,,因为宝贝  我有双倍的爱要付出
+Dialogue: 0,1:11:30.40,1:11:31.99,*Default,NTP,0000,0000,0000,,我需要这样的男人
+Dialogue: 0,1:11:31.99,1:11:42.48,*Default,NTP,0000,0000,0000,,因为宝贝 我有双倍的爱要付出
+Dialogue: 0,1:12:06.59,1:12:09.08,*Default,NTP,0000,0000,0000,,你怎么每次都错过暗示?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}How could you miss your cue?
+Dialogue: 0,1:12:09.10,1:12:13.10,*Default,NTP,0000,0000,0000,,你让我在那一个人看上去像个傻瓜\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You make me look like a fool out there alone.
+Dialogue: 0,1:12:13.10,1:12:15.16,*Default,NTP,0000,0000,0000,,你不是一个人!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You weren't alone!
+Dialogue: 0,1:12:17.10,1:12:18.10,*Default,NTP,0000,0000,0000,,你到底是谁?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Who the hell are you?
+Dialogue: 0,1:12:18.10,1:12:20.11,*Default,NTP,0000,0000,0000,,我不会伤害你的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm not going to hurt you.
+Dialogue: 0,1:12:20.11,1:12:21.54,*Default,NTP,0000,0000,0000,,你当然不敢\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Damn right you're not.
+Dialogue: 0,1:12:21.61,1:12:23.04,*Default,NTP,0000,0000,0000,,守卫!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}GUARD!
+Dialogue: 0,1:12:24.11,1:12:26.11,*Default,NTP,0000,0000,0000,,不要打扰我们!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Tell your men not to bother us!
+Dialogue: 0,1:12:26.11,1:12:27.84,*Default,NTP,0000,0000,0000,,把门帘关上!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And close that curtain!
+Dialogue: 0,1:12:30.12,1:12:32.67,*Default,NTP,0000,0000,0000,,我要你帮忙\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Please, I need your help.
+Dialogue: 0,1:12:33.12,1:12:36.02,*Default,NTP,0000,0000,0000,,你怎么知道我们能帮你?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What makes you think we'll help you?
+Dialogue: 0,1:12:44.13,1:12:49.13,*Default,NTP,0000,0000,0000,,接下来一小时   我要向桑德拉.坦普顿表白...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Over the next hour, I described my love for Sandra K. Templeton...
+Dialogue: 0,1:12:49.13,1:12:52.14,*Default,NTP,0000,0000,0000,,...是我经历的苦难让我出现在她们面前\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...and the ordeal that brought me before them.
+Dialogue: 0,1:12:52.14,1:12:56.07,*Default,NTP,0000,0000,0000,,就像以往一样  这份爱拯救了我\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}As it had always been, this love was my salvation.
+Dialogue: 0,1:12:56.14,1:12:58.14,*Default,NTP,0000,0000,0000,,这是命中注定的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It was destined to be.
+Dialogue: 0,1:12:58.14,1:13:01.65,*Default,NTP,0000,0000,0000,,我们制定了一个周密的逃跑计划...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}We put together an elaborate plan for escape...
+Dialogue: 0,1:13:01.65,1:13:04.15,*Default,NTP,0000,0000,0000,,...包括乘捕鲸船去俄国...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...involving a whaling ship to Russia...
+Dialogue: 0,1:13:04.15,1:13:08.15,*Default,NTP,0000,0000,0000,,...然后乘游艇去古巴   再坐一艘又小又髒的独木舟到达迈阿密\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...a barge to Cuba, and a small, dirty canoe to Miami.
+Dialogue: 0,1:13:08.15,1:13:11.88,*Default,NTP,0000,0000,0000,,我们都知道这很危险\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}We all knew it would be dangerous.
+Dialogue: 0,1:13:12.15,1:13:15.02,*Default,NTP,0000,0000,0000,,我们去了美国可以做点什么呢?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And what are we supposed to do when we get to America?
+Dialogue: 0,1:13:15.16,1:13:16.88,*Default,NTP,0000,0000,0000,,我会帮你们安排的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I can get you bookings.
+Dialogue: 0,1:13:17.16,1:13:19.99,*Default,NTP,0000,0000,0000,,我认识娱乐圈的大人物\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I know the biggest man in show business.
+Dialogue: 0,1:13:20.66,1:13:22.13,*Default,NTP,0000,0000,0000,,鲍勃?!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Bob Hope?!
+Dialogue: 0,1:13:22.16,1:13:23.59,*Default,NTP,0000,0000,0000,,比他大牌\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Bigger.
+Dialogue: 0,1:13:27.17,1:13:28.53,*Default,NTP,0000,0000,0000,,准备好了吗?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Ready?
+Dialogue: 0,1:13:31.17,1:13:35.18,*Default,NTP,0000,0000,0000,,我和双胞胎开始了我们的坚信旅程...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And so the twins and I began our arduous journey...
+Dialogue: 0,1:13:35.18,1:13:37.18,*Default,NTP,0000,0000,0000,,...绕了半个地球\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...halfway around the world.
+Dialogue: 0,1:13:37.18,1:13:41.68,*Default,NTP,0000,0000,0000,,不幸的是   没有办法可以发消息回美国\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Unfortunately, there was no way to send a message back to America.
+Dialogue: 0,1:13:41.68,1:13:46.14,*Default,NTP,0000,0000,0000,,不出所料军方以为我战死沙场了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And so it was no surprise that the Army believed I was dead.
+Dialogue: 0,1:14:02.20,1:14:05.10,*Default,NTP,0000,0000,0000,,不   天哪!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}No, God!
+Dialogue: 0,1:14:06.20,1:14:11.00,*Default,NTP,0000,0000,0000,,四个月后   桑德拉一直做着恶梦\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}After four months, Sandra had gotten over the worst of the nightmares.
+Dialogue: 0,1:14:11.21,1:14:15.21,*Default,NTP,0000,0000,0000,,当电话铃响的时候   她不知道打电话来的是我\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}When the phone rang, she didn't think it was somehow me calling her.
+Dialogue: 0,1:14:15.21,1:14:20.55,*Default,NTP,0000,0000,0000,,当车开过的时候   她没有起身开窗看\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}When a car drove past, she didn't get up to check out the window.
+Dialogue: 0,1:14:55.25,1:14:58.81,*Default,NTP,0000,0000,0000,,我和你父亲昨天在谈\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I talked with your father last night.
+Dialogue: 0,1:15:01.76,1:15:05.26,*Default,NTP,0000,0000,0000,,你从没有告诉我你父母是如何相遇的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You never told me how your parents met.
+Dialogue: 0,1:15:05.26,1:15:07.26,*Default,NTP,0000,0000,0000,,他们是在奥本大学认识的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}They met at Auburn.
+Dialogue: 0,1:15:07.26,1:15:11.27,*Default,NTP,0000,0000,0000,,细节怎么样呢? 他们怎么坠入爱河的?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What about the details? How they fell in love.
+Dialogue: 0,1:15:11.27,1:15:13.27,*Default,NTP,0000,0000,0000,,马戏团. 战争\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The circus. The war.
+Dialogue: 0,1:15:13.27,1:15:15.27,*Default,NTP,0000,0000,0000,,这些你从来没告诉过我\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You never told me any of that.
+Dialogue: 0,1:15:15.27,1:15:17.86,*Default,NTP,0000,0000,0000,,因为大多数的事没发生过\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}That's because most of it never happened.
+Dialogue: 0,1:15:19.27,1:15:21.90,*Default,NTP,0000,0000,0000,,但是很浪漫\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}But it's romantic.
+Dialogue: 0,1:15:24.78,1:15:27.71,*Default,NTP,0000,0000,0000,,-什么? -什么   比起和一个法国女人争吵浪漫...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- What? - What, I know better...
+Dialogue: 0,1:15:27.78,1:15:31.58,*Default,NTP,0000,0000,0000,,...我知道的更多\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...than to argue romance with a French woman.
+Dialogue: 0,1:15:32.28,1:15:34.75,*Default,NTP,0000,0000,0000,,你爱你的父亲吗?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Do you love your father?
+Dialogue: 0,1:15:34.79,1:15:38.88,*Default,NTP,0000,0000,0000,,每个人都爱自己的父亲 他很招人喜欢\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Everyone loves my father. He's a very likable guy.
+Dialogue: 0,1:15:39.79,1:15:41.88,*Default,NTP,0000,0000,0000,,你爱他吗?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Do you love him?
+Dialogue: 0,1:15:46.30,1:15:48.30,*Default,NTP,0000,0000,0000,,你必须理解\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You have to understand.
+Dialogue: 0,1:15:48.30,1:15:52.30,*Default,NTP,0000,0000,0000,,当我长大的时候   他出去的时间比在家时间多\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}When I was growing up, he was gone more than he was there.
+Dialogue: 0,1:15:52.30,1:15:56.74,*Default,NTP,0000,0000,0000,,我就开始想他是不是在其他地方过着另外的生活\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And I started thinking maybe he's got this second life somewhere else.
+Dialogue: 0,1:15:57.31,1:16:00.31,*Default,NTP,0000,0000,0000,,另外的家庭   另外的房子\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Another family, another house.
+Dialogue: 0,1:16:00.31,1:16:03.81,*Default,NTP,0000,0000,0000,,他离开我们去他们那\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And he leaves us and goes to them.
+Dialogue: 0,1:16:03.81,1:16:05.94,*Default,NTP,0000,0000,0000,,或者   或者....\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Or, or...
+Dialogue: 0,1:16:07.82,1:16:12.75,*Default,NTP,0000,0000,0000,,或者没有第二个家庭. 可能他不想要个家\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Or maybe there is no second family. Maybe he never wanted a family.
+Dialogue: 0,1:16:13.32,1:16:17.78,*Default,NTP,0000,0000,0000,,不管怎么样   他喜欢他另外的生活和讲故事...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Whatever it is, he likes his second life better and he tells his stories...
+Dialogue: 0,1:16:17.83,1:16:20.33,*Default,NTP,0000,0000,0000,,...因为他不甘忍受这个无聊的地方\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...because he can't stand this boring place.
+Dialogue: 0,1:16:20.33,1:16:23.85,*Default,NTP,0000,0000,0000,,-但那不是真的. -那么   什么是真的?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- But it's not true. - Well, what's true?
+Dialogue: 0,1:16:25.33,1:16:28.63,*Default,NTP,0000,0000,0000,,他从来没有说过真话\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He's never told me a single true thing.
+Dialogue: 0,1:16:30.34,1:16:32.24,*Default,NTP,0000,0000,0000,,看   嘿....\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Look, hey...
+Dialogue: 0,1:16:33.34,1:16:36.34,*Default,NTP,0000,0000,0000,,我知道你为什么喜欢他了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I know why you like him.
+Dialogue: 0,1:16:36.34,1:16:39.85,*Default,NTP,0000,0000,0000,,我知道为什么每个人都喜欢他\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I know why everyone likes him.
+Dialogue: 0,1:16:39.85,1:16:43.35,*Default,NTP,0000,0000,0000,,但是我要告诉你  我没有疯\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}But I need you to tell me that I'm not crazy.
+Dialogue: 0,1:16:43.35,1:16:46.71,*Default,NTP,0000,0000,0000,,哦  你没有\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Oh, you're not.
+Dialogue: 0,1:16:48.35,1:16:51.58,*Default,NTP,0000,0000,0000,,我想你应该和他谈谈\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And I think you should talk to him.
+Dialogue: 0,1:16:56.36,1:16:59.36,*Default,NTP,0000,0000,0000,,拉里.普凯特的雪佛莱让客人这么说\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Larry Puckett's Chevrolet lets the customer do the talking.
+Dialogue: 0,1:16:59.36,1:17:03.37,*Default,NTP,0000,0000,0000,,拉里.普凯特的通用车在车厂做担保\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Larry Puckett's GM-certified vehicles are under factory warranty.
+Dialogue: 0,1:17:03.37,1:17:07.86,*Default,NTP,0000,0000,0000,,你可以最多比生产者建议零售价少付40%\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And you can save up to 40 percent off the original MSRP.
+Dialogue: 0,1:17:07.87,1:17:11.07,*Default,NTP,0000,0000,0000,,-我有跟你讲过--? -有\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- Did I ever tell you about...? - Yes.
+Dialogue: 0,1:17:11.38,1:17:15.37,*Default,NTP,0000,0000,0000,,枫树和别克的故事? 我们听过\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The maple tree and the Buick? We've heard it.
+Dialogue: 0,1:17:17.38,1:17:21.39,*Default,NTP,0000,0000,0000,,我知道有人没听过\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I know someone who hasn't.
+Dialogue: 0,1:17:21.39,1:17:24.89,*Default,NTP,0000,0000,0000,,-那-- -树倒在车上  把糖浆洒了一地\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- The... - Tree fell on the car, spilling the syrup.
+Dialogue: 0,1:17:24.89,1:17:28.39,*Default,NTP,0000,0000,0000,,引来了很多苍蝇  沾在车上...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Which attracted the flies, which got stuck to it...
+Dialogue: 0,1:17:28.39,1:17:31.88,*Default,NTP,0000,0000,0000,,...飞走时带上整个车\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...and flew off with the whole car.
+Dialogue: 0,1:17:36.40,1:17:40.26,*Default,NTP,0000,0000,0000,,但是真实的故事是我怎么开走这车\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}But the real story is how I got the car.
+Dialogue: 0,1:17:40.40,1:17:41.91,*Default,NTP,0000,0000,0000,,-你知道的-- -父亲?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- You see... - Dad?
+Dialogue: 0,1:17:41.91,1:17:43.41,*Default,NTP,0000,0000,0000,,儿子\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Son.
+Dialogue: 0,1:17:43.41,1:17:45.87,*Default,NTP,0000,0000,0000,,能谈谈吗?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Can we talk?
+Dialogue: 0,1:17:47.91,1:17:50.41,*Default,NTP,0000,0000,0000,,我想我该去洗盘子了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I think I'll get started on these dishes.
+Dialogue: 0,1:17:50.41,1:17:53.04,*Default,NTP,0000,0000,0000,,我来帮你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'll help you.
+Dialogue: 0,1:18:08.43,1:18:11.43,*Default,NTP,0000,0000,0000,,-你知道冰山吗  爸爸? -我?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- You know about icebergs, Dad? - Do I?
+Dialogue: 0,1:18:11.43,1:18:14.42,*Default,NTP,0000,0000,0000,,我看过一次\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I saw an iceberg once.
+Dialogue: 0,1:18:14.43,1:18:17.94,*Default,NTP,0000,0000,0000,,他们当时正把它拉到德克萨斯州当饮用水\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}They were hauling it down to Texas for drinking water.
+Dialogue: 0,1:18:17.94,1:18:21.94,*Default,NTP,0000,0000,0000,,可他们没想到里面还冻了一头大象\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}They didn't count on there being an elephant frozen inside.
+Dialogue: 0,1:18:21.94,1:18:25.03,*Default,NTP,0000,0000,0000,,-长毛的那种.毛象 -爸爸!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- The woolly kind. A mammoth. - Dad!
+Dialogue: 0,1:18:25.44,1:18:27.64,*Default,NTP,0000,0000,0000,,什么?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What?
+Dialogue: 0,1:18:28.95,1:18:31.45,*Default,NTP,0000,0000,0000,,我只是打个比方\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm trying to make a metaphor here.
+Dialogue: 0,1:18:31.45,1:18:34.44,*Default,NTP,0000,0000,0000,,你不应该用提问的方式开始...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Well, you shouldn't have started with a question...
+Dialogue: 0,1:18:34.45,1:18:36.45,*Default,NTP,0000,0000,0000,,...因为人们喜欢回答问题\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...because people want to answer questions.
+Dialogue: 0,1:18:36.45,1:18:40.46,*Default,NTP,0000,0000,0000,,你不能从"关於冰山的是...."开始\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You should've started with, "The thing about icebergs is..."
+Dialogue: 0,1:18:40.46,1:18:43.96,*Default,NTP,0000,0000,0000,,好  好. 关於冰山的问题是你只看了10%\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Okay, okay. The thing about icebergs is you only see 10 percent.
+Dialogue: 0,1:18:43.96,1:18:47.46,*Default,NTP,0000,0000,0000,,在水下的90%你没看见\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The other 90 percent is below the water where you can't see it.
+Dialogue: 0,1:18:47.46,1:18:49.47,*Default,NTP,0000,0000,0000,,那是...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And that's...
+Dialogue: 0,1:18:49.47,1:18:52.47,*Default,NTP,0000,0000,0000,,...那是和你有关的   爸爸\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...what it is with you, Dad.
+Dialogue: 0,1:18:52.47,1:18:55.47,*Default,NTP,0000,0000,0000,,我只看出了一点...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I am only seeing this little bit...
+Dialogue: 0,1:18:55.47,1:18:57.47,*Default,NTP,0000,0000,0000,,...就是在水面上的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...that sticks above the water.
+Dialogue: 0,1:18:57.47,1:19:00.98,*Default,NTP,0000,0000,0000,,哦   你只看见我鼻子下的? 我的下巴?我的--\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Oh, you're only seeing down to my nose? My chin? My...
+Dialogue: 0,1:19:00.98,1:19:03.98,*Default,NTP,0000,0000,0000,,爸爸   我不知道你是...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Dad, I have no idea who you are...
+Dialogue: 0,1:19:03.98,1:19:07.48,*Default,NTP,0000,0000,0000,,...因为你没告诉过我什么真相\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...because you've never told me a single fact.
+Dialogue: 0,1:19:07.48,1:19:09.13,*Default,NTP,0000,0000,0000,,我告诉了你几千个真相  \N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I've told you a thousand facts,
+Dialogue: 0,1:19:09.14,1:19:11.49,*Default,NTP,0000,0000,0000,,威尔. 这就是我干的  讲故事!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&} Will. That's what I do, I tell stories!
+Dialogue: 0,1:19:11.49,1:19:15.44,*Default,NTP,0000,0000,0000,,你说...谎   爸爸\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You tell... lies, Dad.
+Dialogue: 0,1:19:15.49,1:19:16.49,*Default,NTP,0000,0000,0000,,你总是说那些有趣的谎言\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You tell amusing lies.
+Dialogue: 0,1:19:16.49,1:19:19.99,*Default,NTP,0000,0000,0000,,这些就是你在一个5岁孩子临睡前讲的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Stories are what you tell a 5-year-old at bedtime.
+Dialogue: 0,1:19:19.99,1:19:23.15,*Default,NTP,0000,0000,0000,,当你的儿子长到10  15  20  30岁时...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}They're not elaborate mythologies that you maintain...
+Dialogue: 0,1:19:23.50,1:19:25.50,*Default,NTP,0000,0000,0000,,...你就不能再编织那些动人的神话了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...when your son is 10 and 15 and 20 and 30.
+Dialogue: 0,1:19:25.50,1:19:28.87,*Default,NTP,0000,0000,0000,,我相信你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And I believed you.
+Dialogue: 0,1:19:30.50,1:19:34.01,*Default,NTP,0000,0000,0000,,我早就不应该相信你的故事了  但我信了很久\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I believed your stories so much longer than I should have.
+Dialogue: 0,1:19:34.01,1:19:37.01,*Default,NTP,0000,0000,0000,,当我意识到你说的是不可能的...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Then when I realized everything you said was impossible...
+Dialogue: 0,1:19:37.01,1:19:39.51,*Default,NTP,0000,0000,0000,,...我感觉自己想个傻瓜一样相信你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...I felt like a fool to have trusted you.
+Dialogue: 0,1:19:39.51,1:19:42.02,*Default,NTP,0000,0000,0000,,你就像圣诞老人和复活节兔子\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You're like Santa Claus and the Easter Bunny.
+Dialogue: 0,1:19:42.02,1:19:44.02,*Default,NTP,0000,0000,0000,,很动人  但也很虚假\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Just as charming and just as fake.
+Dialogue: 0,1:19:44.02,1:19:46.85,*Default,NTP,0000,0000,0000,,你认为我虚假\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You think I'm fake.
+Dialogue: 0,1:19:47.52,1:19:52.08,*Default,NTP,0000,0000,0000,,只是在表面上  爸爸 但都是我看见的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Only on the surface, Dad. But it's all I've ever seen.
+Dialogue: 0,1:19:53.53,1:19:55.72,*Default,NTP,0000,0000,0000,,看着\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Look.
+Dialogue: 0,1:19:56.53,1:19:59.52,*Default,NTP,0000,0000,0000,,我要走了...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm about to have...
+Dialogue: 0,1:19:59.53,1:20:01.03,*Default,NTP,0000,0000,0000,,...我有自己的孩子了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...a kid of my own.
+Dialogue: 0,1:20:01.03,1:20:04.04,*Default,NTP,0000,0000,0000,,如果你在一生都没能理解我...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It would kill me if he went through his whole life...
+Dialogue: 0,1:20:04.04,1:20:06.54,*Default,NTP,0000,0000,0000,,...我会很难过\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...never understanding me.
+Dialogue: 0,1:20:06.54,1:20:09.33,*Default,NTP,0000,0000,0000,,你会难过   恩?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It would kill you, huh?
+Dialogue: 0,1:20:10.54,1:20:14.55,*Default,NTP,0000,0000,0000,,你要什么   威尔? 你想成为谁?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What do you want, Will? Who do you want me to be?
+Dialogue: 0,1:20:14.55,1:20:16.05,*Default,NTP,0000,0000,0000,,你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Just yourself.
+Dialogue: 0,1:20:16.05,1:20:20.05,*Default,NTP,0000,0000,0000,,好   坏   让我看看真实的你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Good, bad, everything. Just show me who you are for once.
+Dialogue: 0,1:20:20.05,1:20:23.55,*Default,NTP,0000,0000,0000,,自出生以来我一直是我\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I've been nothing but myself since the day I was born.
+Dialogue: 0,1:20:23.55,1:20:28.45,*Default,NTP,0000,0000,0000,,如果你看不见   是你的失败   不是我的!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And if you can't see that, it's your failing, not mine!
+Dialogue: 0,1:20:59.09,1:21:04.02,*Default,NTP,0000,0000,0000,,你父亲决定自己要间办公室...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Your father decided that he needed to have an office...
+Dialogue: 0,1:21:04.09,1:21:07.59,*Default,NTP,0000,0000,0000,,...当然   在家是不行的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...and, of course, it wouldn't do to have it in the house.
+Dialogue: 0,1:21:07.59,1:21:09.46,*Default,NTP,0000,0000,0000,,那么....\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}So...
+Dialogue: 0,1:21:10.60,1:21:15.76,*Default,NTP,0000,0000,0000,,你应该比我更瞭解什么是重点\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You'll know better than me what's important.
+Dialogue: 0,1:21:25.61,1:21:28.17,*Default,NTP,0000,0000,0000,,是什么?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What is it?
+Dialogue: 0,1:21:29.11,1:21:31.12,*Default,NTP,0000,0000,0000,,在战争期间\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It was during the war.
+Dialogue: 0,1:21:31.12,1:21:35.48,*Default,NTP,0000,0000,0000,,你父亲失踪了 他们以为他已经牺牲\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Your father went missing. They thought he was dead.
+Dialogue: 0,1:21:36.12,1:21:38.62,*Default,NTP,0000,0000,0000,,哦   真的是这样吗?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Oh, that really happened?
+Dialogue: 0,1:21:38.62,1:21:42.89,*Default,NTP,0000,0000,0000,,你父亲说的不完全是编造的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Not everything your father says is a complete fabrication.
+Dialogue: 0,1:21:44.13,1:21:47.59,*Default,NTP,0000,0000,0000,,我想我要去看看他\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I think I'll go check on him.
+Dialogue: 0,1:21:49.63,1:21:52.12,*Default,NTP,0000,0000,0000,,我要躺会\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I need to lie down for a bit.
+Dialogue: 0,1:21:52.14,1:21:55.26,*Default,NTP,0000,0000,0000,,好   去吧\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Okay, go.
+Dialogue: 0,1:22:09.65,1:22:14.66,*Default,NTP,0000,0000,0000,,战争以后  阿拉巴马的孩子们回到家园找工作\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}After the war, the sons of Alabama returned home, looking for work.
+Dialogue: 0,1:22:14.66,1:22:16.16,*Default,NTP,0000,0000,0000,,每个人都比我有优势\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Each had the advantage over me.
+Dialogue: 0,1:22:16.16,1:22:20.09,*Default,NTP,0000,0000,0000,,他们或者   而我已经被官方证实死亡\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}They were alive, while I was officially deceased.
+Dialogue: 0,1:22:20.16,1:22:22.16,*Default,NTP,0000,0000,0000,,前途渺茫...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}With my prospects few...
+Dialogue: 0,1:22:22.16,1:22:25.67,*Default,NTP,0000,0000,0000,,...我找了一份适合自己的旅游推销工作\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...I took a job as a traveling salesman. It suited me.
+Dialogue: 0,1:22:25.67,1:22:29.17,*Default,NTP,0000,0000,0000,,你可以说爱德华 布鲁...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}If there was one thing you can say about Edward Bloom...
+Dialogue: 0,1:22:29.17,1:22:31.79,*Default,NTP,0000,0000,0000,,...是个社交人物\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...it's that I am a social person.
+Dialogue: 0,1:22:32.67,1:22:36.18,*Default,NTP,0000,0000,0000,,-恭喜 -谢谢   险胜\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- Congratulations. - Thank you, sir.
+Dialogue: 0,1:22:36.18,1:22:39.11,*Default,NTP,0000,0000,0000,,我每次都要出去几周\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I could be gone for weeks at a time.
+Dialogue: 0,1:22:39.18,1:22:42.18,*Default,NTP,0000,0000,0000,,但是每个星期五   我把钱都...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}But every other Friday, I put all the money I made...
+Dialogue: 0,1:22:42.18,1:22:45.68,*Default,NTP,0000,0000,0000,,...存入一个帐号...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...into an account set aside for a proper house...
+Dialogue: 0,1:22:45.68,1:22:48.51,*Default,NTP,0000,0000,0000,,...用来买白色栅栏的房子\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...with a white picket fence.
+Dialogue: 0,1:22:53.69,1:22:57.70,*Default,NTP,0000,0000,0000,,我想借此机会向大家介绍我们的新产品...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'd like a moment of your time to tell you about my new product...
+Dialogue: 0,1:22:57.70,1:23:00.42,*Default,NTP,0000,0000,0000,,...自动手\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...the Handi-matic.
+Dialogue: 0,1:23:15.71,1:23:18.72,*Default,NTP,0000,0000,0000,,几年后   我在其他城市做不同的商品...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}A few years later, I added other products and other cities...
+Dialogue: 0,1:23:18.72,1:23:22.77,*Default,NTP,0000,0000,0000,,...直到我的领地从沿海地区延伸到西部的德州\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...until my territory stretched from the coast to western Texas.
+Dialogue: 0,1:23:47.24,1:23:48.74,*Default,NTP,0000,0000,0000,,爱德华?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Edward?
+Dialogue: 0,1:23:48.74,1:23:50.74,*Default,NTP,0000,0000,0000,,爱德华 布鲁!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Edward Bloom!
+Dialogue: 0,1:23:50.74,1:23:52.75,*Default,NTP,0000,0000,0000,,是我   诺什.温斯勒\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's me, Norther Winslow.
+Dialogue: 0,1:23:52.75,1:23:54.75,*Default,NTP,0000,0000,0000,,我不相信\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I don't believe it.
+Dialogue: 0,1:23:54.75,1:23:59.25,*Default,NTP,0000,0000,0000,,我很惊讶竟然远在德州...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I was astonished to see the greatest poet of both Ashton and Spectre...
+Dialogue: 0,1:23:59.25,1:24:01.25,*Default,NTP,0000,0000,0000,,...看到了阿斯顿和幽灵镇两地最伟大的诗人\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...all the way out in Texas.
+Dialogue: 0,1:24:01.25,1:24:05.26,*Default,NTP,0000,0000,0000,,我想你知道   当你离开幽灵镇的时候  我的眼界开阔了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I want you to know, when you left Spectre, it opened my eyes.
+Dialogue: 0,1:24:05.26,1:24:08.76,*Default,NTP,0000,0000,0000,,外面的生活我还没有体验过呢\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}There was a whole life out there that I was not living.
+Dialogue: 0,1:24:08.76,1:24:10.76,*Default,NTP,0000,0000,0000,,所以我也出来了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}So I traveled.
+Dialogue: 0,1:24:10.76,1:24:13.77,*Default,NTP,0000,0000,0000,,我去了法国  非洲  半个南美\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I saw France, Africa, half of South America.
+Dialogue: 0,1:24:13.77,1:24:16.77,*Default,NTP,0000,0000,0000,,每天都有新的经历. 这是我的格言\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Every day, a new adventure. That's my motto.
+Dialogue: 0,1:24:16.77,1:24:19.27,*Default,NTP,0000,0000,0000,,太好了   诺什. 我为你感到高兴\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}That's great, Norther. I'm happy for you.
+Dialogue: 0,1:24:19.27,1:24:22.14,*Default,NTP,0000,0000,0000,,你现在在干什么?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What are you doing now?
+Dialogue: 0,1:24:22.77,1:24:24.74,*Default,NTP,0000,0000,0000,,我要抢劫这个地方\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm robbing this place.
+Dialogue: 0,1:24:28.28,1:24:30.51,*Default,NTP,0000,0000,0000,,好了  所有人蹲下!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}All right, everybody down!
+Dialogue: 0,1:24:31.78,1:24:35.48,*Default,NTP,0000,0000,0000,,嘿! 把枪滑过来\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Hey! Just slide that over.
+Dialogue: 0,1:24:41.29,1:24:44.55,*Default,NTP,0000,0000,0000,,-你能不能把它拿过来? -什么?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- Would you mind grabbing that? - What?
+Dialogue: 0,1:24:44.79,1:24:46.16,*Default,NTP,0000,0000,0000,,枪\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The gun.
+Dialogue: 0,1:24:47.80,1:24:49.80,*Default,NTP,0000,0000,0000,,我会拿光现金抽屉里的钱...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm gonna be cleaning out the cash drawers...
+Dialogue: 0,1:24:49.80,1:24:54.43,*Default,NTP,0000,0000,0000,,...而我的助手会去金库\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...and my associate here is gonna handle the vault.
+Dialogue: 0,1:25:00.31,1:25:04.30,*Default,NTP,0000,0000,0000,,好了   你! 你当我的助手   好吗?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}All right, you! You help my friend, okay?
+Dialogue: 0,1:25:04.31,1:25:06.33,*Default,NTP,0000,0000,0000,,我们走!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Let's go!
+Dialogue: 0,1:25:25.83,1:25:27.83,*Default,NTP,0000,0000,0000,,对不起   女士 是我\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm sorry, ma'am. I am.
+Dialogue: 0,1:25:27.83,1:25:31.34,*Default,NTP,0000,0000,0000,,我真的不想任何人受伤\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I really just don't want anyone to get hurt.
+Dialogue: 0,1:25:31.34,1:25:33.74,*Default,NTP,0000,0000,0000,,不是的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's not that.
+Dialogue: 0,1:25:33.84,1:25:36.27,*Default,NTP,0000,0000,0000,,只是....\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's just...
+Dialogue: 0,1:25:41.35,1:25:43.31,*Default,NTP,0000,0000,0000,,没钱\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}There's no money.
+Dialogue: 0,1:25:43.85,1:25:47.85,*Default,NTP,0000,0000,0000,,我们完全破产了. 不要告诉任何人\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}We're completely bankrupt. Don't tell anybody.
+Dialogue: 0,1:25:47.85,1:25:51.86,*Default,NTP,0000,0000,0000,,结果储蓄和贷款的钱早已被洗劫一空...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It turned out that the Savings & Loan had already been robbed...
+Dialogue: 0,1:25:51.86,1:25:56.86,*Default,NTP,0000,0000,0000,,...不是被持枪的强盗  而是被德州的地产投机商抢走的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...not by armed bandits, but by speculators in Texas real estate.
+Dialogue: 0,1:25:56.86,1:25:59.33,*Default,NTP,0000,0000,0000,,好了   我们走!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}All right, let's go!
+Dialogue: 0,1:26:09.87,1:26:12.36,*Default,NTP,0000,0000,0000,,诺什!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Norther!
+Dialogue: 0,1:26:31.39,1:26:34.40,*Default,NTP,0000,0000,0000,,对! 这里有$400!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Yeah! There's gotta be close to $400 here!
+Dialogue: 0,1:26:34.40,1:26:36.90,*Default,NTP,0000,0000,0000,,这还只是抽屉里的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And that's just from the drawers.
+Dialogue: 0,1:26:36.90,1:26:39.92,*Default,NTP,0000,0000,0000,,我们来看看你从金库里拿了多少\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Let's see what you got from the vault.
+Dialogue: 0,1:26:49.41,1:26:52.38,*Default,NTP,0000,0000,0000,,这点吗? 整个金库里?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}This is it? The whole vault?
+Dialogue: 0,1:26:52.41,1:26:55.35,*Default,NTP,0000,0000,0000,,恐怕是的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm afraid so.
+Dialogue: 0,1:26:57.92,1:26:59.42,*Default,NTP,0000,0000,0000,,有你的存款单\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's got your deposit slip on it.
+Dialogue: 0,1:26:59.42,1:27:01.89,*Default,NTP,0000,0000,0000,,我只是不想让你空手而归\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Well, I just didn't want you leaving empty-handed.
+Dialogue: 0,1:27:02.42,1:27:06.43,*Default,NTP,0000,0000,0000,,有些事情你应该知道. 他们没钱的理由....\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}There's something you should know. The reason they don't have money...
+Dialogue: 0,1:27:06.43,1:27:09.93,*Default,NTP,0000,0000,0000,,我告诉诺什德州石油价格难以预计的变化...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I told Norther about the vagaries of Texas oil money...
+Dialogue: 0,1:27:09.93,1:27:12.93,*Default,NTP,0000,0000,0000,,...还有房地产价格效应...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...and its effect on real-estate prices...
+Dialogue: 0,1:27:12.93,1:27:16.44,*Default,NTP,0000,0000,0000,,...以及信託程序的不严格执行...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...and how lax enforcement of fiduciary process...
+Dialogue: 0,1:27:16.44,1:27:20.44,*Default,NTP,0000,0000,0000,,...已经使得储蓄和贷款减少\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...had made savings and loans particularly vulnerable.
+Dialogue: 0,1:27:20.44,1:27:25.44,*Default,NTP,0000,0000,0000,,听到了这个  诺什留下了个结论:\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Hearing this news, Norther was left with one conclusion:
+Dialogue: 0,1:27:25.44,1:27:28.95,*Default,NTP,0000,0000,0000,,我应该去华尔街. 钱都在那里\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I should go to Wall Street. That's where all the money is.
+Dialogue: 0,1:27:28.95,1:27:32.45,*Default,NTP,0000,0000,0000,,我知道我犯罪的日子已经结束了...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I knew then that while my days as a criminal were over...
+Dialogue: 0,1:27:32.45,1:27:33.95,*Default,NTP,0000,0000,0000,,谢谢你的帮忙!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Thanks for the hand!
+Dialogue: 0,1:27:33.95,1:27:35.95,*Default,NTP,0000,0000,0000,,...诺什开始了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...Norther's were just beginning.
+Dialogue: 0,1:27:35.95,1:27:38.46,*Default,NTP,0000,0000,0000,,当诺什赚到了他的第一个100万时...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}When Norther made his first million dollars...
+Dialogue: 0,1:27:38.46,1:27:40.96,*Default,NTP,0000,0000,0000,,...他给了我10  000的支票\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...he sent me a check for 10,000.
+Dialogue: 0,1:27:40.96,1:27:45.46,*Default,NTP,0000,0000,0000,,我拒绝了   但他说这是他付给我的职业咨询费\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I protested, but he said it was my fee as his career advisor.
+Dialogue: 0,1:27:45.46,1:27:48.96,*Default,NTP,0000,0000,0000,,这些钱足以给我的妻子买一栋有白色...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It was enough to buy my wife a proper house...
+Dialogue: 0,1:27:48.96,1:27:50.97,*Default,NTP,0000,0000,0000,,... 栅栏的房子\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...with a white picket fence.
+Dialogue: 0,1:27:50.97,1:27:55.59,*Default,NTP,0000,0000,0000,,那就是男人对财富的最大梦想\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And for that, it was all the riches a man could ever want.
+Dialogue: 0,1:28:29.00,1:28:31.40,*Default,NTP,0000,0000,0000,,我乾透了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I was drying out.
+Dialogue: 0,1:28:32.50,1:28:35.40,*Default,NTP,0000,0000,0000,,我知道\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I see.
+Dialogue: 0,1:28:37.01,1:28:41.01,*Default,NTP,0000,0000,0000,,我看我们该给你买个洒水器...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I think we ought to get you a plant mister...
+Dialogue: 0,1:28:41.01,1:28:44.31,*Default,NTP,0000,0000,0000,,...那样我们就可以像浇花一样给你浇水了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...so we can just spray you like a fern.
+Dialogue: 0,1:29:10.04,1:29:12.87,*Default,NTP,0000,0000,0000,,来吧\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Come, now.
+Dialogue: 0,1:29:16.55,1:29:20.34,*Default,NTP,0000,0000,0000,,我想我是永远不会干透的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I don't think I'll ever dry out.
+Dialogue: 0,1:30:18.10,1:30:21.57,*Default,NTP,0000,0000,0000,,你拿着. 我看看....\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You carry on. I'll see...
+Dialogue: 0,1:30:26.11,1:30:28.11,*Default,NTP,0000,0000,0000,,你好\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Hello.
+Dialogue: 0,1:30:28.11,1:30:32.12,*Default,NTP,0000,0000,0000,,-你是珍尼佛.希尔? -我是\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- Are you Jennifer Hill? - I am.
+Dialogue: 0,1:30:32.12,1:30:34.62,*Default,NTP,0000,0000,0000,,你是威尔吧\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And you're Will.
+Dialogue: 0,1:30:34.62,1:30:38.09,*Default,NTP,0000,0000,0000,,我看过你的照片. 所以我认的出你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I've seen a picture of you. That's how I recognize you.
+Dialogue: 0,1:30:40.12,1:30:43.13,*Default,NTP,0000,0000,0000,,听着   肯尼   我们今天可不可以不要上了?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Listen, Kenny, why don't we skip the lesson today?
+Dialogue: 0,1:30:43.13,1:30:45.63,*Default,NTP,0000,0000,0000,,下周再上\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}We can go again next week.
+Dialogue: 0,1:30:45.63,1:30:48.09,*Default,NTP,0000,0000,0000,,我要把这个换给妈妈吗?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Do I have to give it back to my mom?
+Dialogue: 0,1:30:48.13,1:30:51.03,*Default,NTP,0000,0000,0000,,你不想说就不要说了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Well, I won't tell her if you won't.
+Dialogue: 0,1:31:01.73,1:31:03.55,*Default,NTP,0000,0000,0000,,你怎么认识我父亲的?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}How did you know my father?
+Dialogue: 0,1:31:03.81,1:31:05.81,*Default,NTP,0000,0000,0000,,这是他去推销的必经之地...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Well, this was on his sales route...
+Dialogue: 0,1:31:05.81,1:31:10.31,*Default,NTP,0000,0000,0000,,...他经常经过这里  每个人都认识他\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...so he was through here all the time, and everyone in town knew him.
+Dialogue: 0,1:31:10.32,1:31:12.81,*Default,NTP,0000,0000,0000,,你有事吗?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Were you having an affair?
+Dialogue: 0,1:31:14.82,1:31:17.62,*Default,NTP,0000,0000,0000,,哇. 哇   你说了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Wow. Wow, you just said it.
+Dialogue: 0,1:31:17.82,1:31:22.02,*Default,NTP,0000,0000,0000,,我还准备再绕上半小时呢\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I was expecting to dance around this for another half-hour.
+Dialogue: 0,1:31:23.33,1:31:26.82,*Default,NTP,0000,0000,0000,,我见过他和这个女人在一起. 他和她调情. 他一直这样\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I've seen him with women. He flirts. He always has.
+Dialogue: 0,1:31:26.83,1:31:30.84,*Default,NTP,0000,0000,0000,,从某种程度上看   我只是猜测...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And on some level, I just presumed that he was...
+Dialogue: 0,1:31:30.84,1:31:34.70,*Default,NTP,0000,0000,0000,,...他欺骗了我妈 但是我没有证据\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...cheating on my mom. I just never had proof.
+Dialogue: 0,1:31:37.34,1:31:39.34,*Default,NTP,0000,0000,0000,,我能问个问题吗?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Well, can I ask you a question?
+Dialogue: 0,1:31:39.34,1:31:42.61,*Default,NTP,0000,0000,0000,,如果你找到了契约   为什么不问艾迪?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}If you found this deed, why didn't you just ask Eddie?
+Dialogue: 0,1:31:42.85,1:31:45.58,*Default,NTP,0000,0000,0000,,因为他快死了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Because he's dying.
+Dialogue: 0,1:31:54.36,1:31:58.86,*Default,NTP,0000,0000,0000,,看   我不知道你瞭解多少情况\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Look, I don't know how much you want to know about any of this.
+Dialogue: 0,1:31:58.86,1:32:01.36,*Default,NTP,0000,0000,0000,,你对你父亲有印象...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You have one image of your father...
+Dialogue: 0,1:32:01.36,1:32:03.87,*Default,NTP,0000,0000,0000,,...我不应该改变它...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...and it'd be wrong of me to change it...
+Dialogue: 0,1:32:03.87,1:32:05.87,*Default,NTP,0000,0000,0000,,...尤其是在游戏的结尾\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...especially this late in the game.
+Dialogue: 0,1:32:05.87,1:32:08.37,*Default,NTP,0000,0000,0000,,我父亲说了他从来没说过的事...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}My father talked about things he never did...
+Dialogue: 0,1:32:08.37,1:32:11.88,*Default,NTP,0000,0000,0000,,...我相信这些他从没有说过\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...and I'm sure he did a lot of things that he never talked about.
+Dialogue: 0,1:32:11.88,1:32:14.31,*Default,NTP,0000,0000,0000,,我试着在两者之间找到共同点\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm just trying to reconcile the two.
+Dialogue: 0,1:32:17.38,1:32:20.88,*Default,NTP,0000,0000,0000,,首先你要瞭解...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The first thing you have to understand...
+Dialogue: 0,1:32:20.88,1:32:24.18,*Default,NTP,0000,0000,0000,,...你父亲没想到会来这\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...is that your father never meant to end up here.
+Dialogue: 0,1:32:24.39,1:32:25.89,*Default,NTP,0000,0000,0000,,然而他来了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Yet he did.
+Dialogue: 0,1:32:25.89,1:32:27.89,*Default,NTP,0000,0000,0000,,两次\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Twice.
+Dialogue: 0,1:32:27.89,1:32:30.79,*Default,NTP,0000,0000,0000,,第一次   他来早了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The first time, he was early.
+Dialogue: 0,1:32:30.89,1:32:33.38,*Default,NTP,0000,0000,0000,,第二次   他来晚了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The second time, he was late.
+Dialogue: 0,1:32:34.90,1:32:38.90,*Default,NTP,0000,0000,0000,,那些日子  你父亲为自己工作\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Those days, your father was working for himself.
+Dialogue: 0,1:32:38.90,1:32:42.30,*Default,NTP,0000,0000,0000,,爱德华.布鲁是这样一个人...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}If there's one thing you could say about Edward Bloom...
+Dialogue: 0,1:32:42.40,1:32:47.41,*Default,NTP,0000,0000,0000,,...他是个喜欢社交的人   大家都喜欢和他说话\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...it's that he was a social person, and people took a liking to him.
+Dialogue: 0,1:32:47.41,1:32:51.03,*Default,NTP,0000,0000,0000,,一天晚上   他出门三周后回来...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}One night, he was returning from three weeks on the road...
+Dialogue: 0,1:32:51.41,1:32:54.94,*Default,NTP,0000,0000,0000,,... 遇上了从没碰到过的暴风雨\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...when he hit a thunderstorm unlike any in his life.
+Dialogue: 0,1:34:43.01,1:34:45.52,*Default,NTP,0000,0000,0000,,命运就是喜欢捉弄人...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Fate has a way of circling back on a man...
+Dialogue: 0,1:34:45.52,1:34:48.04,*Default,NTP,0000,0000,0000,,...让他大吃一惊\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...and taking him by surprise.
+Dialogue: 0,1:34:52.52,1:34:56.03,*Default,NTP,0000,0000,0000,,一个人在生命的各种时段看事物角度也是不同的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}A man sees things differently at different times in his life.
+Dialogue: 0,1:34:56.03,1:35:00.46,*Default,NTP,0000,0000,0000,,这个镇在年老的他看来已经不同了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}This town didn't seem the same now that he was older.
+Dialogue: 0,1:35:01.53,1:35:05.04,*Default,NTP,0000,0000,0000,,一条新路已经把外面的世界带进了幽灵镇...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}A new road had brought the outside world to Spectre...
+Dialogue: 0,1:35:05.04,1:35:08.54,*Default,NTP,0000,0000,0000,,...随之而来的是  银行  抵押和债务\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...and with it, banks, liens and debt.
+Dialogue: 0,1:35:08.54,1:35:13.84,*Default,NTP,0000,0000,0000,,只要你看的到的地方   就有人破产\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Almost everywhere you looked, people were bankrupt.
+Dialogue: 0,1:35:14.54,1:35:18.05,*Default,NTP,0000,0000,0000,,今天为幽灵镇举行一次拍卖\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The auction today is for the town of Spectre.
+Dialogue: 0,1:35:18.05,1:35:21.05,*Default,NTP,0000,0000,0000,,-开价 $1 0  000. -於是爱德华.布鲁...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- The opening bid will be $ 10,000. - So Edward Bloom...
+Dialogue: 0,1:35:21.05,1:35:23.88,*Default,NTP,0000,0000,0000,,-...决定买下这个镇 -50  000.\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...decided to buy the town. - 50,000.
+Dialogue: 0,1:35:27.56,1:35:31.06,*Default,NTP,0000,0000,0000,,-我不能相信我的眼睛-- -他从来不是个有钱的人...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- I couldn't believe my eyes... - He was never a wealthy man...
+Dialogue: 0,1:35:31.06,1:35:36.65,*Default,NTP,0000,0000,0000,,...但是他能让别人变的有钱   现在他找他们帮忙\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...but he had made other men rich, and now he asked for their favors.
+Dialogue: 0,1:35:38.07,1:35:41.53,*Default,NTP,0000,0000,0000,,-我决定存.... -他们中的大多数人没见过幽灵镇\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- I'm trying to save... - Most of them hadn't seen Spectre.
+Dialogue: 0,1:35:41.57,1:35:44.57,*Default,NTP,0000,0000,0000,,只是听爱德华描述过\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}They only had Edward's words to describe it.
+Dialogue: 0,1:35:44.57,1:35:48.44,*Default,NTP,0000,0000,0000,,有这些已经够了. 他卖了出去\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}That's all he needed. He sold them on the dream.
+Dialogue: 0,1:35:48.57,1:35:51.08,*Default,NTP,0000,0000,0000,,首先他买了农场\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}So first he bought the farms.
+Dialogue: 0,1:35:51.08,1:35:55.44,*Default,NTP,0000,0000,0000,,然后是房子. 接着是商店\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Then he bought the houses. And then he bought the stores.
+Dialogue: 0,1:35:55.58,1:36:01.09,*Default,NTP,0000,0000,0000,,他买的地方   里面的人都不用离开或者付房租\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Whatever he bought, the people were not asked to leave or pay rent.
+Dialogue: 0,1:36:01.09,1:36:04.09,*Default,NTP,0000,0000,0000,,他们被要求像平时一样生活\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}They were just asked to keep doing as they were doing.
+Dialogue: 0,1:36:04.09,1:36:08.55,*Default,NTP,0000,0000,0000,,那样   他就能保证这个镇不会灭亡\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}In that way, he could make sure the town would never die.
+Dialogue: 0,1:36:10.60,1:36:16.10,*Default,NTP,0000,0000,0000,,在6个月里   整个镇都信任了他\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Within six months, his trust had purchased the entire town.
+Dialogue: 0,1:36:16.10,1:36:19.12,*Default,NTP,0000,0000,0000,,所有的人\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}With one exception.
+Dialogue: 0,1:36:43.13,1:36:46.13,*Default,NTP,0000,0000,0000,,你一定是爱德华 布鲁\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You must be Edward Bloom.
+Dialogue: 0,1:36:46.13,1:36:47.79,*Default,NTP,0000,0000,0000,,你怎么知道的?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}How do you know?
+Dialogue: 0,1:36:48.13,1:36:51.13,*Default,NTP,0000,0000,0000,,不会有人没事来这里的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}No one would come out here unless they had business.
+Dialogue: 0,1:36:51.13,1:36:54.14,*Default,NTP,0000,0000,0000,,除了你也没人会来找我\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And no one would have business with me except for you.
+Dialogue: 0,1:36:54.14,1:36:56.86,*Default,NTP,0000,0000,0000,,你把镇买下来了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You're buying the town.
+Dialogue: 0,1:36:57.64,1:37:01.64,*Default,NTP,0000,0000,0000,,显然我注意到了   我要弥补一下\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Apparently I overlooked this one piece of it, and I'd like to remedy that.
+Dialogue: 0,1:37:01.64,1:37:06.65,*Default,NTP,0000,0000,0000,,为了让这个镇保全下来   整个镇子\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}In order for the town to be preserved, the trust must own it, in its entirety.
+Dialogue: 0,1:37:06.65,1:37:08.15,*Default,NTP,0000,0000,0000,,我听说了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And so I've heard.
+Dialogue: 0,1:37:08.15,1:37:11.65,*Default,NTP,0000,0000,0000,,我会高价买下来. 你不必搬\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'll offer you more than it's worth. And you won't have to move.
+Dialogue: 0,1:37:11.65,1:37:15.64,*Default,NTP,0000,0000,0000,,契约上除了名字什么都不会变\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Nothing will change except the name on the deed, you have my word.
+Dialogue: 0,1:37:15.66,1:37:18.16,*Default,NTP,0000,0000,0000,,我跟你直说吧\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Now, let me get this straight.
+Dialogue: 0,1:37:18.16,1:37:21.16,*Default,NTP,0000,0000,0000,,你从我这里把沼泽买走   但我可以住在里面?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You buy the swamp from me, but I'll stay in it?
+Dialogue: 0,1:37:21.16,1:37:24.15,*Default,NTP,0000,0000,0000,,你将拥有这房子   可这里还是我住?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You'll own the house, but it'll still be mine?
+Dialogue: 0,1:37:24.16,1:37:28.17,*Default,NTP,0000,0000,0000,,我住这   你可以自由出入\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'll be here, and you'll come and go as you please to one place or another.
+Dialogue: 0,1:37:28.17,1:37:30.17,*Default,NTP,0000,0000,0000,,对吗?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Do I have that right?
+Dialogue: 0,1:37:30.17,1:37:33.14,*Default,NTP,0000,0000,0000,,应该说   是的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}In so many words, yes.
+Dialogue: 0,1:37:33.67,1:37:36.10,*Default,NTP,0000,0000,0000,,对   我不这么想   布鲁先生\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Yeah, then I don't think so, Mr. Bloom.
+Dialogue: 0,1:37:36.68,1:37:39.68,*Default,NTP,0000,0000,0000,,如果能不改变   我宁愿不要改变...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}If nothing's gonna change, I'd just as soon it not change...
+Dialogue: 0,1:37:39.68,1:37:43.11,*Default,NTP,0000,0000,0000,,...这些东西我很久没变了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...in the way things haven't been changing all this time.
+Dialogue: 0,1:37:43.68,1:37:48.95,*Default,NTP,0000,0000,0000,,你什么也不会失去. 你可以问问镇上的其他人\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's not like you'll lose anything. You can ask anyone in town.
+Dialogue: 0,1:37:50.19,1:37:52.69,*Default,NTP,0000,0000,0000,,你为什么要买下这   布鲁先生?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Why are you buying this land, Mr. Bloom?
+Dialogue: 0,1:37:52.69,1:37:54.78,*Default,NTP,0000,0000,0000,,某种中年危机吗?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Some sort of midlife crisis?
+Dialogue: 0,1:37:55.19,1:37:58.12,*Default,NTP,0000,0000,0000,,你不买债券  买镇子?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Instead of buying a convertible, you buy a town?
+Dialogue: 0,1:37:58.20,1:38:00.79,*Default,NTP,0000,0000,0000,,助人为乐\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Helping people makes me happy.
+Dialogue: 0,1:38:01.20,1:38:04.70,*Default,NTP,0000,0000,0000,,我不认为你会开心\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm not convinced you should be happy.
+Dialogue: 0,1:38:04.70,1:38:08.70,*Default,NTP,0000,0000,0000,,-对不起. 我有没有冒犯你? -没\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- I'm sorry. Have I offended you? - No.
+Dialogue: 0,1:38:08.70,1:38:11.10,*Default,NTP,0000,0000,0000,,你遵守了承诺\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You did exactly what you promised.
+Dialogue: 0,1:38:11.21,1:38:16.16,*Default,NTP,0000,0000,0000,,你回来了. 我还以为会更早点\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You came back. I was just expecting you sooner.
+Dialogue: 0,1:38:23.22,1:38:25.15,*Default,NTP,0000,0000,0000,,你是比曼的女儿\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You're Beamen's daughter.
+Dialogue: 0,1:38:26.72,1:38:29.95,*Default,NTP,0000,0000,0000,,名字变了. 你结婚了吗?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Your name's different. Did you get married?
+Dialogue: 0,1:38:30.22,1:38:35.75,*Default,NTP,0000,0000,0000,,我18. 他28. 差很多\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I was 18. He was 28. Turns out that was a big difference.
+Dialogue: 0,1:38:44.74,1:38:49.07,*Default,NTP,0000,0000,0000,,我不会把房子卖给你的   布鲁先生\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I won't be selling you this house, Mr. Bloom.
+Dialogue: 0,1:38:49.24,1:38:51.26,*Default,NTP,0000,0000,0000,,我知道\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I see.
+Dialogue: 0,1:38:51.74,1:38:55.64,*Default,NTP,0000,0000,0000,,谢谢你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Well, thank you for your time.
+Dialogue: 0,1:39:05.26,1:39:08.82,*Default,NTP,0000,0000,0000,,-门卡住了 -是\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- It's stuck. - Yeah.
+Dialogue: 0,1:39:18.77,1:39:22.27,*Default,NTP,0000,0000,0000,,-哦   对不起! 我-- -好了. 别管了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- Oh, I'm so sorry! l... - It's okay. Just leave it.
+Dialogue: 0,1:39:22.27,1:39:25.10,*Default,NTP,0000,0000,0000,,-不   我-- -请! 走吧\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- No, I'll... - Please! Just go.
+Dialogue: 0,1:39:26.28,1:39:29.04,*Default,NTP,0000,0000,0000,,-但是-- -走吧\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- But... - Go.
+Dialogue: 0,1:39:30.78,1:39:35.78,*Default,NTP,0000,0000,0000,,大多数人在这种情况下会接受失败继续走下去\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Most men in that situation would accept their failure and move on.
+Dialogue: 0,1:39:35.78,1:39:37.79,*Default,NTP,0000,0000,0000,,但是爱德华不在其中\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}But Edward was not like most men.
+Dialogue: 0,1:39:37.79,1:39:38.81,*Default,NTP,0000,0000,0000,,但是爱德华不在其中\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}But Edward was not like most men.
+Dialogue: 0,1:39:48.30,1:39:50.13,*Default,NTP,0000,0000,0000,,停!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Hold!
+Dialogue: 0,1:39:53.80,1:39:56.43,*Default,NTP,0000,0000,0000,,他们的性格完全不同但是...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}They both had completely different characters but...
+Dialogue: 0,1:39:56.80,1:39:59.33,*Default,NTP,0000,0000,0000,,...只有两条腿\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...well, just one pair of legs.
+Dialogue: 0,1:40:09.32,1:40:12.82,*Default,NTP,0000,0000,0000,,几个月过去了   他找了很多东西修理...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}As the months passed, he found more and more things to fix...
+Dialogue: 0,1:40:12.82,1:40:17.19,*Default,NTP,0000,0000,0000,,...直到那小屋完全变了一个模样\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...until the shack no longer resembled itself.
+Dialogue: 0,1:40:32.84,1:40:37.53,*Default,NTP,0000,0000,0000,,当然   最好的地方是材料换了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Of course, the best part was coming up with the new material.
+Dialogue: 0,1:40:37.84,1:40:40.34,*Default,NTP,0000,0000,0000,,当我和双胞胎去哈瓦那时...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}By the time the twins and I had got to Havana...
+Dialogue: 0,1:40:40.34,1:40:43.42,*Default,NTP,0000,0000,0000,,...我们想出了一条新路线  \N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...we'd worked out a new routine, 
+Dialogue: 0,1:40:43.42,1:40:46.51,*Default,NTP,0000,0000,0000,,只用一把尤格里里琴和一只口琴\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}using only a ukulele and a harmonica.
+Dialogue: 0,1:41:05.37,1:41:09.30,*Default,NTP,0000,0000,0000,,-那么.... -你可以离开那了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- Well... - You could leave it there.
+Dialogue: 0,1:41:26.39,1:41:28.32,*Default,NTP,0000,0000,0000,,不\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}No.
+Dialogue: 0,1:41:38.40,1:41:40.62,*Default,NTP,0000,0000,0000,,不要\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Now, don't.
+Dialogue: 0,1:41:40.90,1:41:45.99,*Default,NTP,0000,0000,0000,,不要尴尬. 我不能让你认为....\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Don't be embarrassed. I should never have let you think that...
+Dialogue: 0,1:41:46.91,1:41:49.53,*Default,NTP,0000,0000,0000,,我爱我的妻子\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm in love with my wife.
+Dialogue: 0,1:41:49.91,1:41:52.34,*Default,NTP,0000,0000,0000,,我知道\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Yeah, I know.
+Dialogue: 0,1:41:52.41,1:41:55.42,*Default,NTP,0000,0000,0000,,从我见她的第一天到我死去...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And from the first day I saw her until the day I die...
+Dialogue: 0,1:41:55.42,1:41:57.94,*Default,NTP,0000,0000,0000,,...她是我的唯一\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...she's the only one.
+Dialogue: 0,1:41:58.42,1:42:01.35,*Default,NTP,0000,0000,0000,,幸运的女孩\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Lucky girl.
+Dialogue: 0,1:42:01.42,1:42:05.08,*Default,NTP,0000,0000,0000,,对不起   珍妮. 我认真的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm sorry, Jenny. I am.
+Dialogue: 0,1:42:11.93,1:42:14.83,*Default,NTP,0000,0000,0000,,等等! 爱德华.\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Wait! Edward.
+Dialogue: 0,1:42:55.97,1:42:58.97,*Default,NTP,0000,0000,0000,,一天   爱德华.布鲁离开了...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}One day, Edward Bloom left...
+Dialogue: 0,1:42:58.97,1:43:03.31,*Default,NTP,0000,0000,0000,,...没有再回到这个他苦心经营的镇上\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...and never returned to the town he'd saved.
+Dialogue: 0,1:43:15.49,1:43:17.49,*Default,NTP,0000,0000,0000,,至於那个女孩...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}As for the girl...
+Dialogue: 0,1:43:17.49,1:43:20.48,*Default,NTP,0000,0000,0000,,...通常的说法是她变成了女巫...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...the common belief was that she'd become a witch...
+Dialogue: 0,1:43:20.99,1:43:23.29,*Default,NTP,0000,0000,0000,,...并很疯狂於此\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...and crazy at that.
+Dialogue: 0,1:43:24.00,1:43:27.99,*Default,NTP,0000,0000,0000,,她自己成了一个传奇\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}She became something of a legend herself.
+Dialogue: 0,1:43:29.00,1:43:34.23,*Default,NTP,0000,0000,0000,,这个故事在开始的时候就结束了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And the story ended where it began.
+Dialogue: 0,1:43:34.51,1:43:37.51,*Default,NTP,0000,0000,0000,,逻辑上来看   你不能成为女巫   因为她...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Logically, you couldn't be the witch, because she was...
+Dialogue: 0,1:43:37.51,1:43:39.01,*Default,NTP,0000,0000,0000,,...在他小的时候就很老了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...old when he was young.
+Dialogue: 0,1:43:39.01,1:43:42.77,*Default,NTP,0000,0000,0000,,你像你父亲那样思考才符合逻辑\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Well, it's logical if you think like your father.
+Dialogue: 0,1:43:43.01,1:43:47.38,*Default,NTP,0000,0000,0000,,对於他来说只有两种女人:\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}See, to him there's only two women:
+Dialogue: 0,1:43:47.52,1:43:49.02,*Default,NTP,0000,0000,0000,,你的母亲...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Your mother...
+Dialogue: 0,1:43:49.02,1:43:50.52,*Default,NTP,0000,0000,0000,,...和其他人\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...and everyone else.
+Dialogue: 0,1:43:50.52,1:43:52.88,*Default,NTP,0000,0000,0000,,一天...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And one day...
+Dialogue: 0,1:43:53.02,1:43:57.85,*Default,NTP,0000,0000,0000,,...我意识到我爱上了一个不爱我的男人\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...I realized I was in love with a man who could never love me back.
+Dialogue: 0,1:43:58.03,1:44:01.49,*Default,NTP,0000,0000,0000,,我生活在童话世界里\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I was living in a fairy tale.
+Dialogue: 0,1:44:01.53,1:44:04.03,*Default,NTP,0000,0000,0000,,我不知道我该不该告诉你这些\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm not sure I should've told you any of this.
+Dialogue: 0,1:44:04.03,1:44:07.04,*Default,NTP,0000,0000,0000,,不   不   不   我想知道. 我....\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}No, no, no, I wanted to know. I'm...
+Dialogue: 0,1:44:07.04,1:44:08.86,*Default,NTP,0000,0000,0000,,很高兴能知道\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm glad I know.
+Dialogue: 0,1:44:09.04,1:44:12.77,*Default,NTP,0000,0000,0000,,我希望我对你能像他对你这么重要\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I wanted to be as important to him as you were.
+Dialogue: 0,1:44:13.04,1:44:15.04,*Default,NTP,0000,0000,0000,,我....\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And I'm...
+Dialogue: 0,1:44:15.04,1:44:17.94,*Default,NTP,0000,0000,0000,,我永远不可能\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I was never gonna be.
+Dialogue: 0,1:44:20.05,1:44:22.14,*Default,NTP,0000,0000,0000,,我只是虚幻的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I was make-believe.
+Dialogue: 0,1:44:23.05,1:44:28.05,*Default,NTP,0000,0000,0000,,他另外的生活   你....\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And his other life, you...
+Dialogue: 0,1:44:28.05,1:44:30.11,*Default,NTP,0000,0000,0000,,是真实的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You were real.
+Dialogue: 0,1:44:54.08,1:44:56.20,*Default,NTP,0000,0000,0000,,妈妈?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Mom?
+Dialogue: 0,1:44:56.58,1:44:58.91,*Default,NTP,0000,0000,0000,,傑瑟芬?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Josephine?
+Dialogue: 0,1:45:00.59,1:45:02.48,*Default,NTP,0000,0000,0000,,傑瑟芬?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Josephine?
+Dialogue: 0,1:45:16.10,1:45:18.62,*Default,NTP,0000,0000,0000,,威尔!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Will!
+Dialogue: 0,1:45:19.10,1:45:20.60,*Default,NTP,0000,0000,0000,,出什么事了?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What happened?
+Dialogue: 0,1:45:20.60,1:45:22.69,*Default,NTP,0000,0000,0000,,你父亲中风了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Your father had a stroke.
+Dialogue: 0,1:45:23.11,1:45:25.61,*Default,NTP,0000,0000,0000,,他和你妈妈在楼上 还有本耐特大夫\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He's upstairs with your mom and Dr. Bennett.
+Dialogue: 0,1:45:25.61,1:45:27.33,*Default,NTP,0000,0000,0000,,他会好吗?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Is he gonna be okay?
+Dialogue: 0,1:45:35.12,1:45:37.12,*Default,NTP,0000,0000,0000,,我觉得我...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I don't suppose that I could...
+Dialogue: 0,1:45:37.12,1:45:40.14,*Default,NTP,0000,0000,0000,,...应该留下来. 我的意思是   假如....\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...stay here with him. I mean, in case...
+Dialogue: 0,1:45:40.62,1:45:43.63,*Default,NTP,0000,0000,0000,,假如他醒了   我应该在这里\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}In case he wakes up, I really ought to be here.
+Dialogue: 0,1:45:43.63,1:45:45.32,*Default,NTP,0000,0000,0000,,我留下来\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'll stay.
+Dialogue: 0,1:45:46.13,1:45:49.59,*Default,NTP,0000,0000,0000,,你和傑瑟芬回家吧. 我陪夜\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Why don't you go home with Josephine. I'll stay tonight.
+Dialogue: 0,1:45:51.13,1:45:54.56,*Default,NTP,0000,0000,0000,,-好吗? -好\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- Is that okay? - Fine.
+Dialogue: 0,1:45:56.64,1:46:00.04,*Default,NTP,0000,0000,0000,,威尔  如果有事打电话...?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Will, you'll call if there's any...?
+Dialogue: 0,1:46:00.14,1:46:03.70,*Default,NTP,0000,0000,0000,,知道. 知道了. 我会打的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I will. I will. I'll call.
+Dialogue: 0,1:46:04.64,1:46:09.10,*Default,NTP,0000,0000,0000,,-你想和爸爸呆会吗? -是的.谢谢\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- Do you want some time with Dad? - Yes. Thank you.
+Dialogue: 0,1:47:12.71,1:47:16.61,*Default,NTP,0000,0000,0000,,很高兴看见你不是来真心谈话的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Glad to see you're not trying to have a heartfelt talk.
+Dialogue: 0,1:47:19.21,1:47:22.22,*Default,NTP,0000,0000,0000,,我最烦的一件事就是...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}One of my greatest annoyances is when...
+Dialogue: 0,1:47:22.22,1:47:25.22,*Default,NTP,0000,0000,0000,,...和不想听的人倾诉\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...people try to talk to those who can't hear them.
+Dialogue: 0,1:47:25.22,1:47:27.72,*Default,NTP,0000,0000,0000,,我们有优势\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Well, we have an advantage.
+Dialogue: 0,1:47:27.72,1:47:30.28,*Default,NTP,0000,0000,0000,,我和父亲从来不说话\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}My father and I never talk.
+Dialogue: 0,1:47:36.73,1:47:39.73,*Default,NTP,0000,0000,0000,,你父亲告诉过你关於你出生那天的事吗?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Your father ever tell you about the day you were born?
+Dialogue: 0,1:47:39.73,1:47:43.23,*Default,NTP,0000,0000,0000,,对   1000多次了. 他抓住了那条抓不到的鱼的事\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Yeah, a thousand times. He caught an uncatchable fish.
+Dialogue: 0,1:47:43.23,1:47:47.67,*Default,NTP,0000,0000,0000,,不是那个. 真实的故事. 他和你说了吗?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Not that. The real story. He ever tell you that?
+Dialogue: 0,1:47:47.74,1:47:49.74,*Default,NTP,0000,0000,0000,,没有\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}No.
+Dialogue: 0,1:47:49.74,1:47:53.25,*Default,NTP,0000,0000,0000,,你母亲下午3点进来\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Well, your mother came in about 3 in the afternoon.
+Dialogue: 0,1:47:53.25,1:47:57.75,*Default,NTP,0000,0000,0000,,她的邻居送她进来的   考虑到你父亲外出威齐塔...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Her neighbor drove her, on account of your father was away on business...
+Dialogue: 0,1:47:57.75,1:47:59.71,*Default,NTP,0000,0000,0000,,...做生意的情况\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...in Wichita.
+Dialogue: 0,1:48:00.25,1:48:04.25,*Default,NTP,0000,0000,0000,,你早产了一个星期   不过非常顺利\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You were born a week early, but there were no complications.
+Dialogue: 0,1:48:04.25,1:48:10.26,*Default,NTP,0000,0000,0000,,接生非常成功. 你父亲很遗憾没在场\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It was a perfect delivery. Your father was sorry not to be there.
+Dialogue: 0,1:48:10.26,1:48:15.26,*Default,NTP,0000,0000,0000,,不过那时男人都不进产房...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}But it wasn't the custom then for men to be in the room for deliveries...
+Dialogue: 0,1:48:15.26,1:48:19.77,*Default,NTP,0000,0000,0000,,...所以我不明白他在场的话会有多少不同\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...so I can't see how it would've been much different had he been there.
+Dialogue: 0,1:48:19.77,1:48:22.86,*Default,NTP,0000,0000,0000,,那就是你出生的真实故事\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And that's the real story of how you were born.
+Dialogue: 0,1:48:23.27,1:48:25.78,*Default,NTP,0000,0000,0000,,不是很有意思   对吗?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Not very exciting, is it?
+Dialogue: 0,1:48:25.78,1:48:29.78,*Default,NTP,0000,0000,0000,,我只能在真实的版本...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And I suppose if I had to choose between the true version...
+Dialogue: 0,1:48:29.78,1:48:34.28,*Default,NTP,0000,0000,0000,,...和关於鱼和婚戒的精美故事...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...and an elaborate one involving a fish and a wedding ring...
+Dialogue: 0,1:48:34.28,1:48:36.71,*Default,NTP,0000,0000,0000,,...做出选择\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...I might choose the fancy version.
+Dialogue: 0,1:48:37.29,1:48:39.72,*Default,NTP,0000,0000,0000,,但是   那是我\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}But, then that's just me.
+Dialogue: 0,1:48:40.29,1:48:42.78,*Default,NTP,0000,0000,0000,,我喜欢的版本\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I kind of liked your version.
+Dialogue: 0,1:49:04.31,1:49:06.44,*Default,NTP,0000,0000,0000,,爸爸?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Dad?
+Dialogue: 0,1:49:07.81,1:49:11.75,*Default,NTP,0000,0000,0000,,嘿   爸爸? 嘿  你要我去叫护士?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Hey, Dad? Hey, you want me to get the nurse?
+Dialogue: 0,1:49:13.32,1:49:16.82,*Default,NTP,0000,0000,0000,,你要什么? 我能做什么? 要我拿什么?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What do you want? What can I do? What can I get?
+Dialogue: 0,1:49:16.82,1:49:19.69,*Default,NTP,0000,0000,0000,,你要喝水?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You want some water?
+Dialogue: 0,1:49:19.83,1:49:21.72,*Default,NTP,0000,0000,0000,,你要点水?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You want a bit of water?
+Dialogue: 0,1:49:24.33,1:49:27.56,*Default,NTP,0000,0000,0000,,河\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The river.
+Dialogue: 0,1:49:28.33,1:49:30.70,*Default,NTP,0000,0000,0000,,河?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The river?
+Dialogue: 0,1:49:30.84,1:49:35.43,*Default,NTP,0000,0000,0000,,告诉我发生了什么\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Tell me how it happens.
+Dialogue: 0,1:49:36.84,1:49:39.84,*Default,NTP,0000,0000,0000,,怎么发生的?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}How what happens?
+Dialogue: 0,1:49:39.84,1:49:42.67,*Default,NTP,0000,0000,0000,,开始吧\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}How I go.
+Dialogue: 0,1:49:46.35,1:49:49.37,*Default,NTP,0000,0000,0000,,你的意思是当你看到那个眼睛的时候?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You mean what you saw in The Eye?
+Dialogue: 0,1:50:02.87,1:50:06.59,*Default,NTP,0000,0000,0000,,我不知道那个故事  爸爸. 你没告诉过我\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I don't know that story, Dad. You never told me that one.
+Dialogue: 0,1:50:09.37,1:50:12.37,*Default,NTP,0000,0000,0000,,好. 嘿   好的   我试试\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Okay. Hey, okay, I'll try.
+Dialogue: 0,1:50:12.37,1:50:15.50,*Default,NTP,0000,0000,0000,,我要你帮忙. 告诉我怎么开始\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I need your help. Tell me how it starts.
+Dialogue: 0,1:50:17.38,1:50:21.38,*Default,NTP,0000,0000,0000,,像这样\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Like this.
+Dialogue: 0,1:50:21.38,1:50:23.87,*Default,NTP,0000,0000,0000,,好的. 好的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Okay. Okay.
+Dialogue: 0,1:50:25.89,1:50:29.39,*Default,NTP,0000,0000,0000,,好的   在早上...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Okay, so it's in the morning...
+Dialogue: 0,1:50:29.39,1:50:33.89,*Default,NTP,0000,0000,0000,,...我和你在医院的时候睡着了. 我醒来...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...and you and I are in the hospital, and I've fallen asleep. And I wake up...
+Dialogue: 0,1:50:33.89,1:50:37.69,*Default,NTP,0000,0000,0000,,...看着你   你看上去好多了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...and I see you, and somehow you're better.
+Dialogue: 0,1:50:37.90,1:50:38.90,*Default,NTP,0000,0000,0000,,爸爸?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Dad?
+Dialogue: 0,1:50:38.90,1:50:41.33,*Default,NTP,0000,0000,0000,,你不一样了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You're different.
+Dialogue: 0,1:50:41.90,1:50:44.90,*Default,NTP,0000,0000,0000,,-爸爸 -我们离开这吧\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- Dad. - Let's get out of here.
+Dialogue: 0,1:50:44.90,1:50:46.40,*Default,NTP,0000,0000,0000,,我说:\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Then I say:
+Dialogue: 0,1:50:46.40,1:50:47.91,*Default,NTP,0000,0000,0000,,爸爸   你不能--\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Dad, you're in no condition...
+Dialogue: 0,1:50:47.91,1:50:50.70,*Default,NTP,0000,0000,0000,,把轮椅拿来\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Get that wheelchair.
+Dialogue: 0,1:50:52.91,1:50:54.91,*Default,NTP,0000,0000,0000,,快!我们没多少时间了!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Hurry up! We haven't much time!
+Dialogue: 0,1:50:54.91,1:50:57.41,*Default,NTP,0000,0000,0000,,一旦下了楼   我们就畅通无阻了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Once we get off this floor, we're in the clear.
+Dialogue: 0,1:50:57.41,1:50:59.42,*Default,NTP,0000,0000,0000,,我们坐上轮椅...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And we get in the wheelchair...
+Dialogue: 0,1:50:59.42,1:51:02.92,*Default,NTP,0000,0000,0000,,-快点! -...就像我们在逃离医院一样\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- Faster! ...like we're escaping the hospital.
+Dialogue: 0,1:51:02.92,1:51:04.92,*Default,NTP,0000,0000,0000,,你在干什么?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What are you doing?
+Dialogue: 0,1:51:04.92,1:51:07.42,*Default,NTP,0000,0000,0000,,我们绕过了本耐特大夫   他想拦住我们\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}We pass Dr. Bennett, who tries to slow us down.
+Dialogue: 0,1:51:07.42,1:51:10.43,*Default,NTP,0000,0000,0000,,-拦住他们! -我们飞奔过大厅\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- Stop them! - We're flying down the hall.
+Dialogue: 0,1:51:10.43,1:51:12.86,*Default,NTP,0000,0000,0000,,保安在追我们\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Orderly after orderly is chasing us.
+Dialogue: 0,1:51:12.93,1:51:14.93,*Default,NTP,0000,0000,0000,,妈妈和傑瑟芬在最后\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Mom and Josephine are at the end.
+Dialogue: 0,1:51:14.93,1:51:18.36,*Default,NTP,0000,0000,0000,,没有时间解释了! 拦住他们!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}No time to explain! Stall them!
+Dialogue: 0,1:51:23.44,1:51:25.44,*Default,NTP,0000,0000,0000,,我们飞奔过围栏...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}We come flying out over the curb...
+Dialogue: 0,1:51:25.44,1:51:30.38,*Default,NTP,0000,0000,0000,,...你的旧款红色车停在那. 不过很新. 崭新的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...and your old red Charger is there. But it's new. Brand-new.
+Dialogue: 0,1:51:30.45,1:51:32.45,*Default,NTP,0000,0000,0000,,我带你上去...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And I pick you up...
+Dialogue: 0,1:51:32.45,1:51:36.61,*Default,NTP,0000,0000,0000,,...你几乎没什么重量. 我不能解释\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...and somehow you hardly weigh anything. I can't explain it.
+Dialogue: 0,1:51:40.45,1:51:43.68,*Default,NTP,0000,0000,0000,,离开! 我们不需要!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Leave it! We don't need it!
+Dialogue: 0,1:51:45.46,1:51:48.39,*Default,NTP,0000,0000,0000,,水. 我要喝水\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Water. I need water.
+Dialogue: 0,1:51:50.97,1:51:53.43,*Default,NTP,0000,0000,0000,,-我们去哪? -河那里\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- Where are we going? - The river.
+Dialogue: 0,1:51:59.97,1:52:02.47,*Default,NTP,0000,0000,0000,,我们走格伦镇这条路避免交通拥挤...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And we have to take Glenville to avoid traffic...
+Dialogue: 0,1:52:02.47,1:52:05.74,*Default,NTP,0000,0000,0000,,...因为去教堂的人开的很慢\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...because the damn church people drive too slow.
+Dialogue: 0,1:52:46.52,1:52:52.18,*Default,NTP,0000,0000,0000,,我们越来越接近河...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And as we get close to the river...
+Dialogue: 0,1:53:00.03,1:53:02.53,*Default,NTP,0000,0000,0000,,他在那!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He's here!
+Dialogue: 0,1:53:02.53,1:53:05.86,*Default,NTP,0000,0000,0000,,...我们看见所有人都在那\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...we see that everybody is already there.
+Dialogue: 0,1:53:22.05,1:53:23.98,*Default,NTP,0000,0000,0000,,我的意思是...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And I mean...
+Dialogue: 0,1:53:25.05,1:53:26.71,*Default,NTP,0000,0000,0000,,...所有人\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...everyone.
+Dialogue: 0,1:53:38.56,1:53:41.79,*Default,NTP,0000,0000,0000,,太不可思议了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's unbelievable.
+Dialogue: 0,1:53:42.07,1:53:47.30,*Default,NTP,0000,0000,0000,,我生命的故事\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The story of my life.
+Dialogue: 0,1:53:54.58,1:53:57.58,*Default,NTP,0000,0000,0000,,奇怪的是   他们看上去并不生气\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The strange thing is, there's not a sad face to be found.
+Dialogue: 0,1:53:57.58,1:54:00.67,*Default,NTP,0000,0000,0000,,每个人都很高兴见到你...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Everyone is just so glad to see you...
+Dialogue: 0,1:54:01.58,1:54:03.59,*Default,NTP,0000,0000,0000,,...为你送行\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...and send you off right.
+Dialogue: 0,1:54:03.59,1:54:09.72,*Default,NTP,0000,0000,0000,,大家再见! 别了! 再见!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Goodbye, everybody! Farewell! Adieu!
+Dialogue: 0,1:54:20.60,1:54:23.69,*Default,NTP,0000,0000,0000,,我河里的姑娘\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}My girl in the river.
+Dialogue: 0,1:55:34.67,1:55:38.00,*Default,NTP,0000,0000,0000,,你变回到了原来的你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You become what you always were.
+Dialogue: 0,1:55:39.18,1:55:41.94,*Default,NTP,0000,0000,0000,,一条大鱼\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}A very big fish.
+Dialogue: 0,1:55:46.68,1:55:49.58,*Default,NTP,0000,0000,0000,,就是这么发生的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And that's how it happens.
+Dialogue: 0,1:55:50.69,1:55:52.98,*Default,NTP,0000,0000,0000,,对\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Yeah.
+Dialogue: 0,1:55:55.19,1:55:57.85,*Default,NTP,0000,0000,0000,,太对了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Exactly.
+Dialogue: 0,1:56:39.73,1:56:41.92,*Default,NTP,0000,0000,0000,,妈妈?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Mom?
+Dialogue: 0,1:58:08.31,1:58:11.82,*Default,NTP,0000,0000,0000,,我的牧师做了主   我不能再要求什么了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The Lord is my shepherd, I shall not be in want.
+Dialogue: 0,1:58:11.82,1:58:15.32,*Default,NTP,0000,0000,0000,,他让我躺在碧绿的草地里\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He makes me to lie down in green pastures.
+Dialogue: 0,1:58:15.32,1:58:18.32,*Default,NTP,0000,0000,0000,,在清清的河水边\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He leads me beside the quiet waters.
+Dialogue: 0,1:58:18.32,1:58:20.75,*Default,NTP,0000,0000,0000,,他保留了我的灵魂\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He restores my soul.
+Dialogue: 0,1:58:20.82,1:58:25.28,*Default,NTP,0000,0000,0000,,他用他的名义引导我走向公正\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He guides me in the paths of righteousness for his name's sake.
+Dialogue: 0,1:58:25.33,1:58:28.83,*Default,NTP,0000,0000,0000,,对   我走过了死亡的阴影...\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Yea, though I walk through the valley of the shadow of death...
+Dialogue: 0,1:58:28.83,1:58:31.34,*Default,NTP,0000,0000,0000,,...不再害怕恶魔   因为你和我在一起\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}...I will fear no evil, for you are with me.
+Dialogue: 0,1:58:31.34,1:58:36.07,*Default,NTP,0000,0000,0000,,善良和爱在我生命中的每一天\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Surely goodness and love will follow me all the days of my life.
+Dialogue: 0,1:59:22.88,1:59:27.39,*Default,NTP,0000,0000,0000,,你听到过那种听了几遍都不知道哪好笑的笑话吗?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Have you ever heard a joke so many times you've forgotten why it's funny?
+Dialogue: 0,1:59:27.39,1:59:31.88,*Default,NTP,0000,0000,0000,,当你再听一遍觉得又是一个新的笑话\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And then you hear it again and suddenly it's new.
+Dialogue: 0,1:59:31.89,1:59:35.48,*Default,NTP,0000,0000,0000,,你记得为什么第一次会喜欢它\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You remember why you loved it in the first place.
+Dialogue: 0,1:59:36.89,1:59:39.90,*Default,NTP,0000,0000,0000,,他说他会和一个身高15英尺的巨人作战!\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}So he said he'll fight the giant who was 15 feet tall!
+Dialogue: 0,1:59:39.90,1:59:43.85,*Default,NTP,0000,0000,0000,,-没门! -爸爸! 那是真的   对吗?\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}- No way! - Dad! That's right, isn't it?
+Dialogue: 0,1:59:43.90,1:59:45.40,*Default,NTP,0000,0000,0000,,太对了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Pretty much.
+Dialogue: 0,1:59:45.40,1:59:47.41,*Default,NTP,0000,0000,0000,,瞧? 他确实是个巨人\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}See? So he was a giant.
+Dialogue: 0,1:59:47.41,1:59:50.27,*Default,NTP,0000,0000,0000,,我猜那是我父亲最后的笑话\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}That was my father's final joke, I guess.
+Dialogue: 0,1:59:50.41,1:59:56.64,*Default,NTP,0000,0000,0000,,一个讲了无数故事的人最终成了故事的一部分\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}A man tells his stories so many times that he becomes the stories.
+Dialogue: 0,1:59:57.41,2:00:00.14,*Default,NTP,0000,0000,0000,,故事在他死后继续流传\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}They live on after him.
+Dialogue: 0,2:00:02.42,2:00:06.15,*Default,NTP,0000,0000,0000,,从这方面来看   他永远不死\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And in that way, he becomes immortal.
