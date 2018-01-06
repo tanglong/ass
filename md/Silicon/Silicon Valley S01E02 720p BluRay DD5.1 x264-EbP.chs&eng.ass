@@ -1,0 +1,652 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正黑体_GBK,20,&H00ffffff,&Hf0000000,&H00000000,&H32000000,0,0,0,0,100.00,100.00,0.00,0.00,1,2.00,1.00,2,5,5,2,134
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.73,0:00:05.82,Default,NTP,0000,0000,0000,,{\fe134\an2\i0\u0\s0\fsp0\fr0\4c&H00000&\b1\fs16\fn方正黑体_GBK}{\bord0\shad0\fscx11\fscy14.5\p1\c&HCE8F00&\pos(70,258)\fad(500,500)}m 20 0 l 209 0 b 218 0 229 11 229 20 l 229 209 b 229 218 218 228 209 228 l 20 228 b 11 228 0 218 0 209 l 0 20 b 0 11 11 0 20 0{\p0}
+Dialogue: 0,0:00:00.73,0:00:05.82,Default,NTP,0000,0000,0000,,{\fe134\an2\i0\u0\s0\fsp0\fr0\4c&H00000&\b1\fs16\fn方正黑体_GBK}{\bord0\shad0\fscx11\fscy14\p1\c&HF6DBA1&\pos(70,258)\fad(500,500)}m 115 64 l 115 35 l 171 0 l 177 0 l 133 46 l 143 52 l 179 0 l 184 0 l 159 63 l 229 107 l 229 182 l 145 96 l 135 122 l 207 227 l 137 227 l 115 172 l 115 93 l 126 76 l 115 64 l 104 76 l 115 93 l 115 172 l 93 227 l 23 227 l 95 122 l 84 96 l 0 182 l 0 107 l 70 63 l 45 0 l 50 0 l 87 52 l 97 46 l 52 0 l 59 0 l 115 35{\p0}
+Dialogue: 0,0:00:00.73,0:00:05.82,Default,NTP,0000,0000,0000,,{\fe134\an2\i0\u0\s0\fsp0\fr0\4c&H00000&\b1\fs16\fn方正黑体_GBK}{\bord0\shad0\fscx15\fscy18\p1\1a&H3D&\c&HFFFFFF&\blur10\pos(60,248)\fad(500,500)}m 71 60 b 71 0 161 0 161 60 b 161 120 71 120 71 60{\p0}
+Dialogue: 0,0:00:00.73,0:00:05.82,Default,NTP,0000,0000,0000,,{\fe134\an2\i0\u0\s0\fsp0\fr0\4c&H00000&\b1\fs16\fn方正黑体_GBK}{\bord0\shad0\fscx11\fscy14\p1\c&HECB000&\pos(86,258)\fad(500,500)}m 325 0 l 355 0 l 332 47 l 354 47 l 399 136 l 369 136 l 328 53 l 288 136 l 257 136 l 325 0 m 467 0 l 497 0 l 474 47 l 496 47 l 541 136 l 511 136 l 470 53 l 430 136 l 399 136 l 467 0 m 545 1 l 583 1 l 583 14 l 568 14 l 568 19 l 583 19 l 583 30 l 568 30 l 568 34 l 599 34 l 599 30 l 583 30 l 583 19 l 599 19 l 599 14 l 583 14 l 583 1 l 611 1 b 616 1 622 6 622 10 l 622 36 l 652 0 l 678 0 l 644 41 l 622 41 l 622 47 l 596 47 l 597 54 l 625 54 l 625 68 l 541 68 l 541 54 l 572 54 l 571 47 l 545 47 l 545 1 m 583 72 l 583 85 l 569 85 l 569 90 l 598 90 l 598 85 l 583 85 l 583 72 l 611 72 b 615 72 621 78 621 82 l 653 44 l 678 44 l 644 86 l 621 86 l 621 103 l 597 103 l 597 136 l 570 136 l 564 126 l 562 136 l 542 136 l 548 107 l 568 107 l 565 121 l 571 121 l 571 103 l 547 103 l 547 72 l 583 72 m 600 107 l 620 107 l 624 124 l 653 89 l 679 89 l 642 136 l 615 136 l 618 132 l 606 132 l 600 107 m 689 0 l 716 0 l 721 15 l 732 15 l 732 30 l 718 56 l 731 56 l 735 100 l 721 100 l 717 59 l 714 64 l 714 136 l 693 136 l 693 79 l 676 79 l 707 30 l 679 30 l 679 15 l 694 15 l 689 0 m 738 0 l 804 0 b 807 0 813 6 813 9 l 813 87 l 794 87 l 794 14 l 756 14 l 756 87 l 763 77 l 763 21 l 787 21 l 787 91 l 798 91 l 798 120 l 820 120 l 812 136 l 778 136 l 778 90 l 748 136 l 723 136 l 756 87 l 738 87 l 738 0 m 257 151 l 275 151 l 297 182 l 319 151 l 337 151 l 304 197 l 304 227 l 290 227 l 290 197 l 257 151 m 337 151 l 355 151 l 377 182 l 399 151 l 417 151 l 384 197 l 384 227 l 370 227 l 370 197 l 337 151 m 425 192 l 447 192 b 445 181 427 181 425 192 l 410 192 b 414 162 458 162 462 192 l 462 206 l 425 206 b 425 210 429 212 433 213 l 462 213 l 462 227 l 433 227 b 412 227 408 203 410 192 m 462 151 l 532 151 l 532 165 l 504 165 l 504 227 l 489 227 l 489 165 l 462 165 l 462 151 m 580 172 l 580 186 l 549 186 b 543 186 543 192 549 192 l 565 192 b 589 192 589 227 565 227 l 532 227 l 532 213 l 565 213 b 570 213 570 206 565 206 l 549 206 b 524 206 524 172 549 172 l 580 172 m 592 213 l 606 213 l 606 227 l 592 227 l 592 213 m 639 172 l 665 172 l 665 186 l 639 186 b 623 186 623 213 639 213 l 665 213 l 665 227 l 639 227 b 603 227 603 172 639 172 m 700 184 b 722 184 722 215 700 215 l 700 229 b 740 229 740 170 700 170 b 660 170 660 229 700 229 l 700 215 b 680 215 680 184 700 184 m 737 172 l 782 172 b 803 172 813 177 813 198 l 813 228 l 799 228 l 799 198 b 799 186 793 187 782 187 l 782 228 l 768 228 l 768 187 l 752 187 l 752 228 l 737 228 l 737 172{\p0}
+Dialogue: 0,0:00:00.73,0:00:05.82,Default,NTP,0000,0000,0000,,{\fe134\an5\i0\u0\s0\fscx100\fscy100\fsp0\fr0\4c&H00000&}{\fs18\fn方正准圆简体\b1\bord0\shad0\pos(240,242)\fad(500,500)}本字幕由人人影视字幕组翻译\N禁止用作任何商业盈利行为
+Dialogue: 0,0:00:06.98,0:00:08.98,Default,,0000,0000,0000,,{\bord0\shad0\fad(330,550)\fn方正字迹-童体硬笔字体\fs22\b1\pos(330,220)}翻译\N{\fs26}机械章鱼X
+Dialogue: 0,0:00:08.98,0:00:11.98,Default,,0000,0000,0000,,{\bord0\shad0\fad(330,550)\fn方正字迹-童体硬笔字体\fs22\b1\pos(330,220)}翻译\N{\fs26}吃货丁小七
+Dialogue: 0,0:00:11.98,0:00:14.98,Default,,0000,0000,0000,,{\bord0\shad0\fad(330,550)\fn方正字迹-童体硬笔字体\fs22\b1\pos(330,220)}翻译\N{\fs26}七七
+Dialogue: 0,0:00:14.27,0:00:15.40,Default,NTP,0000,0000,0000,,我操\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Holy shit.
+Dialogue: 0,0:00:14.98,0:00:17.98,Default,,0000,0000,0000,,{\bord0\shad0\fad(330,550)\fn方正字迹-童体硬笔字体\fs22\b1\pos(330,220)}翻译\N{\fs26}王大可
+Dialogue: 0,0:00:16.81,0:00:18.03,Default,NTP,0000,0000,0000,,那他妈什么玩意\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}What the fuck is that?
+Dialogue: 0,0:00:17.98,0:00:20.98,Default,,0000,0000,0000,,{\bord0\shad0\fad(330,550)\fn方正字迹-童体硬笔字体\fs22\b1\pos(330,220)}翻译\N{\fs26\1c&H006BEE&}王小麦
+Dialogue: 0,0:00:18.03,0:00:20.95,Default,NTP,0000,0000,0000,,那是贾里德·邓恩\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Uh, that is Jared Dunn.
+Dialogue: 0,0:00:20.98,0:00:23.98,Default,,0000,0000,0000,,{\bord0\shad0\fad(330,550)\fn方正字迹-童体硬笔字体\fs22\b1\pos(330,220)}翻译\N{\fs26}面条打包子
+Dialogue: 0,0:00:21.17,0:00:22.71,Default,NTP,0000,0000,0000,,为盖文·贝尔森工作\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}He works for Gavin Belson.
+Dialogue: 0,0:00:26.61,0:00:28.19,Default,NTP,0000,0000,0000,,抱歉吓着你了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Sorry if I scared you.
+Dialogue: 0,0:00:28.19,0:00:31.00,Default,NTP,0000,0000,0000,,我知道我有时比较神出鬼没\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I know I have somewhat ghost-like features.
+Dialogue: 0,0:00:31.59,0:00:32.69,Default,NTP,0000,0000,0000,,我叔叔说过\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}My uncle used to say,
+Dialogue: 0,0:00:32.69,0:00:35.17,Default,NTP,0000,0000,0000,,"你就是个让处女饥渴到老的人"\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}"You look like someone starved a virgin to death."
+Dialogue: 0,0:00:35.77,0:00:37.51,Default,NTP,0000,0000,0000,,那  没错  看出来了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}It's... Yeah. I can see it.
+Dialogue: 0,0:00:40.91,0:00:42.89,Default,NTP,0000,0000,0000,,我听说你正在办开业派对\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I heard you were having a launch party.
+Dialogue: 0,0:00:43.06,0:00:45.71,Default,NTP,0000,0000,0000,,-没错  -我来早了吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- Yeah. - Am I early?
+Dialogue: 0,0:00:45.95,0:00:46.98,Default,NTP,0000,0000,0000,,没有\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}No.
+Dialogue: 0,0:00:49.61,0:00:52.75,Default,NTP,0000,0000,0000,,这是庆祝你们开业的一点心意\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Well then, a gift of congratulations.
+Dialogue: 0,0:00:52.75,0:00:54.10,Default,NTP,0000,0000,0000,,如果是盖文派你来的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Now, if Gavin sent you here,
+Dialogue: 0,0:00:54.10,0:00:55.39,Default,NTP,0000,0000,0000,,那你该知道我已经拒绝他了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}you should know that I've turned him down.
+Dialogue: 0,0:00:55.39,0:00:56.66,Default,NTP,0000,0000,0000,,我接受了彼得·格里高利的条件\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'm going with Peter Gregory.
+Dialogue: 0,0:00:56.66,0:00:58.25,Default,NTP,0000,0000,0000,,我明天就去拿支票\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'm actually picking up my check tomorrow.
+Dialogue: 0,0:00:58.25,0:00:59.75,Default,NTP,0000,0000,0000,,我已经做好决定了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}So I've made my decision.
+Dialogue: 0,0:00:59.75,0:01:01.63,Default,NTP,0000,0000,0000,,我不是来做说客的  我只是\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}That's not why I'm here. It's just...
+Dialogue: 0,0:01:02.90,0:01:05.35,Default,NTP,0000,0000,0000,,看着你拒绝了千万巨款\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}watching you say no to ten million dollars
+Dialogue: 0,0:01:05.35,0:01:06.45,Default,NTP,0000,0000,0000,,只为开创自己的事业\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}to build your own thing,
+Dialogue: 0,0:01:06.45,0:01:09.58,Default,NTP,0000,0000,0000,,真的很让人心情澎湃\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}there's just something very exciting about that.
+Dialogue: 0,0:01:10.67,0:01:11.99,Default,NTP,0000,0000,0000,,他来干什么\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}What is he doing here?
+Dialogue: 0,0:01:12.09,0:01:13.35,Default,NTP,0000,0000,0000,,这是私人派对  伙计\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Hey, this is a private party, buddy.
+Dialogue: 0,0:01:13.35,0:01:14.78,Default,NTP,0000,0000,0000,,请你离开\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'm gonna have to ask you to leave.
+Dialogue: 0,0:01:14.78,0:01:17.18,Default,NTP,0000,0000,0000,,-我不是想  -在加州\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- Oh, I didn't mean to... - You know, in the state of California
+Dialogue: 0,0:01:17.18,0:01:20.07,Default,NTP,0000,0000,0000,,屋主有权开枪打死擅闯民宅的人\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}you can kill a man for entering your house without permission.
+Dialogue: 0,0:01:20.07,0:01:22.88,Default,NTP,0000,0000,0000,,好的  我明白  谢谢\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}OK. I understand. Uh, thank you.
+Dialogue: 0,0:01:25.27,0:01:26.43,Default,NTP,0000,0000,0000,,理查德  我只是想告诉你\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Richard, I just wanna say,
+Dialogue: 0,0:01:26.43,0:01:28.22,Default,NTP,0000,0000,0000,,我非常敬佩你的决定\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I really respect what you're doing here.
+Dialogue: 0,0:01:28.22,0:01:29.59,Default,NTP,0000,0000,0000,,如果你有任何用得着\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}And if you could ever use someone
+Dialogue: 0,0:01:29.59,0:01:31.85,Default,NTP,0000,0000,0000,,我的企业发展规划能力的地方\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}with my business development skill set,
+Dialogue: 0,0:01:31.86,0:01:33.13,Default,NTP,0000,0000,0000,,我很乐意加入你们\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I would love to be a part of this.
+Dialogue: 0,0:01:33.13,0:01:34.61,Default,NTP,0000,0000,0000,,加入个头\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}The fuck you will be.
+Dialogue: 0,0:01:34.98,0:01:37.37,Default,NTP,0000,0000,0000,,等我们想买休闲西裤的时候自会找你\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}We'll call you when we want pleated khakis.
+Dialogue: 0,0:01:41.94,0:01:43.67,Default,NTP,0000,0000,0000,,国产的破酒还好意思拿来送人\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}You know this is a fucking domestic?
+Dialogue: 0,0:01:44.26,0:01:46.05,Default,NTP,0000,0000,0000,,你  你怎么对他那么凶\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Why... why were you so mean to him?
+Dialogue: 0,0:01:46.06,0:01:48.31,Default,NTP,0000,0000,0000,,他又不是来刺探的  他刚说了喜欢我们\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}He wasn't spying on us. He just said he likes us.
+Dialogue: 0,0:01:48.25,0:01:51.25,Default,,0000,0000,0000,,{\bord0\shad0\fad(330,550)\fn方正字迹-童体硬笔字体\fs22\b1\pos(330,220)}时间轴\N{\fs26}sOF
+Dialogue: 0,0:01:48.31,0:01:49.28,Default,NTP,0000,0000,0000,,想加入我们公司\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}He wants to join the company.
+Dialogue: 0,0:01:49.28,0:01:50.41,Default,NTP,0000,0000,0000,,他当然想  理查德\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Of course he does, Richard.
+Dialogue: 0,0:01:50.41,0:01:51.94,Default,NTP,0000,0000,0000,,让我来给你解释一下\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Let me explain something to you.
+Dialogue: 0,0:01:51.25,0:01:54.25,Default,,0000,0000,0000,,{\bord0\shad0\fad(330,550)\fn方正字迹-童体硬笔字体\fs22\b1\pos(330,220)}时间轴\N{\fs26}安安
+Dialogue: 0,0:01:51.94,0:01:54.16,Default,NTP,0000,0000,0000,,这辈子你都是个丑爆了的妞\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}You whole life you've been an ugly chick.
+Dialogue: 0,0:01:54.29,0:01:56.49,Default,NTP,0000,0000,0000,,结果突然间你变得超性感\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}But now suddenly you are a hot chick,
+Dialogue: 0,0:01:56.50,0:01:58.58,Default,NTP,0000,0000,0000,,丰乳粉晕羡煞众人\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}with big tits and small nipples.
+Dialogue: 0,0:01:58.58,0:02:00.87,Default,NTP,0000,0000,0000,,男人们会不停地来勾搭你\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}so guys like that are gonna keep coming around,
+Dialogue: 0,0:02:00.87,0:02:02.62,Default,NTP,0000,0000,0000,,大腿一定要夹紧  理查德\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}don't be a slut, Richard.
+Dialogue: 0,0:02:02.70,0:02:03.93,Default,NTP,0000,0000,0000,,我不明白\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I don't...
+Dialogue: 0,0:02:03.10,0:02:06.10,Default,,0000,0000,0000,,{\bord0\shad0\fad(330,550)\fn方正字迹-童体硬笔字体\fs22\b1\pos(330,220)}校对\N{\fs26}面条打包子
+Dialogue: 0,0:02:04.46,0:02:06.59,Default,NTP,0000,0000,0000,,说到这个话题\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Now speaking of such things,
+Dialogue: 0,0:02:06.10,0:02:09.10,Default,,0000,0000,0000,,{\bord0\shad0\fad(330,550)\fn方正字迹-童体硬笔字体\fs22\b1\pos(330,220)}校对\N{\fs26\1c&H006BEE&}王小麦
+Dialogue: 0,0:02:06.59,0:02:09.00,Default,NTP,0000,0000,0000,,迪尼希  换首火辣激情的曲子\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Dinesh, change the lighting to something erotic
+Dialogue: 0,0:02:09.00,0:02:12.83,Default,NTP,0000,0000,0000,,因为马上就要激情满屋了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}because it's about to get pretty fucking erotic in here.
+Dialogue: 0,0:02:12.92,0:02:16.46,Default,NTP,0000,0000,0000,,9号格杀令  行动代号"激辣"\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}License to Kill-9. IB Action-dot-Erotica.
+Dialogue: 0,0:02:17.15,0:02:18.94,Default,NTP,0000,0000,0000,,这  这是要干什么\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Wha... what... what's going on?
+Dialogue: 0,0:02:18.94,0:02:22.07,Default,NTP,0000,0000,0000,,-怎么了这是  -绅士们  为你们献上\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- What's happening? - Gentlemen, I present to you...
+Dialogue: 0,0:02:23.25,0:02:24.72,Default,NTP,0000,0000,0000,,摩卡奇诺\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Mochacino.
+Dialogue: 0,0:02:25.33,0:02:26.50,Default,NTP,0000,0000,0000,,不是这男的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Not this guy.
+Dialogue: 0,0:02:27.36,0:02:28.87,Default,NTP,0000,0000,0000,,摩卡奇诺\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Mochacino.
+Dialogue: 0,0:02:30.15,0:02:31.72,Default,NTP,0000,0000,0000,,她就是我的大礼\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}She's my gift to you.
+Dialogue: 0,0:02:35.68,0:02:36.93,Default,NTP,0000,0000,0000,,想来点大麻吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}You wanna smoke weed?
+Dialogue: 0,0:02:48.31,0:02:50.34,Default,NTP,0000,0000,0000,,就不能放点带节奏的音乐吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Can somebody play something with a beat, please?
+Dialogue: 0,0:02:50.34,0:02:52.61,Default,NTP,0000,0000,0000,,我这就排个播放列表去\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'll go make a playlist.
+Dialogue: 0,0:02:52.61,0:02:55.65,Default,NTP,0000,0000,0000,,对  我得去喝点水  该做饭了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Yeah. I actually have some... some water, uh, cooking, I think.
+Dialogue: 0,0:02:57.24,0:02:59.68,Default,NTP,0000,0000,0000,,[印地语]
+Dialogue: 0,0:03:04.05,0:03:05.96,Default,NTP,0000,0000,0000,,付你钱的人不是我  所以\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Yeah, I don't pay for it. So...
+Dialogue: 0,0:03:06.41,0:03:08.15,Default,NTP,0000,0000,0000,,你勾引错人了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}barking up the wrong tree here.
+Dialogue: 0,0:03:10.35,0:03:12.07,Default,NTP,0000,0000,0000,,我恨死帕罗奥多[硅谷所在地]了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}God, I hate Palo Alto.
+Dialogue: 1,0:03:12.00,0:03:15.55,Default,NTP,0000,0000,0000,,{\fad(500,500)}{\bord0\shad0\fscx11\fscy14.5\p1\c&HCE8F00&\pos(21,45)}m 20 0 l 209 0 b 218 0 229 11 229 20 l 229 209 b 229 218 218 228 209 228 l 20 228 b 11 228 0 218 0 209 l 0 20 b 0 11 11 0 20 0{\p0}
+Dialogue: 3,0:03:12.00,0:03:15.55,Default,NTP,0000,0000,0000,,{\fad(500,500)}{\bord0\shad0\fscx11\fscy14\p1\c&HF6DBA1&\pos(21,45)}m 115 64 l 115 35 l 171 0 l 177 0 l 133 46 l 143 52 l 179 0 l 184 0 l 159 63 l 229 107 l 229 182 l 145 96 l 135 122 l 207 227 l 137 227 l 115 172 l 115 93 l 126 76 l 115 64 l 104 76 l 115 93 l 115 172 l 93 227 l 23 227 l 95 122 l 84 96 l 0 182 l 0 107 l 70 63 l 45 0 l 50 0 l 87 52 l 97 46 l 52 0 l 59 0 l 115 35{\p0}
+Dialogue: 5,0:03:12.00,0:03:15.55,Default,NTP,0000,0000,0000,,{\fad(500,500)}{\bord0\shad0\fscx15\fscy18\p1\1a&H3D&\c&HFFFFFF&\blur10\pos(11,35)}m 71 60 b 71 0 161 0 161 60 b 161 120 71 120 71 60{\p0}
+Dialogue: 1,0:03:12.00,0:03:15.55,Default,NTP,0000,0000,0000,,{\fad(500,500)}{\bord0\shad0\fscx11\fscy14\p1\c&HECB000&\pos(37,45)}m 325 0 l 355 0 l 332 47 l 354 47 l 399 136 l 369 136 l 328 53 l 288 136 l 257 136 l 325 0 m 467 0 l 497 0 l 474 47 l 496 47 l 541 136 l 511 136 l 470 53 l 430 136 l 399 136 l 467 0 m 545 1 l 583 1 l 583 14 l 568 14 l 568 19 l 583 19 l 583 30 l 568 30 l 568 34 l 599 34 l 599 30 l 583 30 l 583 19 l 599 19 l 599 14 l 583 14 l 583 1 l 611 1 b 616 1 622 6 622 10 l 622 36 l 652 0 l 678 0 l 644 41 l 622 41 l 622 47 l 596 47 l 597 54 l 625 54 l 625 68 l 541 68 l 541 54 l 572 54 l 571 47 l 545 47 l 545 1 m 583 72 l 583 85 l 569 85 l 569 90 l 598 90 l 598 85 l 583 85 l 583 72 l 611 72 b 615 72 621 78 621 82 l 653 44 l 678 44 l 644 86 l 621 86 l 621 103 l 597 103 l 597 136 l 570 136 l 564 126 l 562 136 l 542 136 l 548 107 l 568 107 l 565 121 l 571 121 l 571 103 l 547 103 l 547 72 l 583 72 m 600 107 l 620 107 l 624 124 l 653 89 l 679 89 l 642 136 l 615 136 l 618 132 l 606 132 l 600 107 m 689 0 l 716 0 l 721 15 l 732 15 l 732 30 l 718 56 l 731 56 l 735 100 l 721 100 l 717 59 l 714 64 l 714 136 l 693 136 l 693 79 l 676 79 l 707 30 l 679 30 l 679 15 l 694 15 l 689 0 m 738 0 l 804 0 b 807 0 813 6 813 9 l 813 87 l 794 87 l 794 14 l 756 14 l 756 87 l 763 77 l 763 21 l 787 21 l 787 91 l 798 91 l 798 120 l 820 120 l 812 136 l 778 136 l 778 90 l 748 136 l 723 136 l 756 87 l 738 87 l 738 0 m 257 151 l 275 151 l 297 182 l 319 151 l 337 151 l 304 197 l 304 227 l 290 227 l 290 197 l 257 151 m 337 151 l 355 151 l 377 182 l 399 151 l 417 151 l 384 197 l 384 227 l 370 227 l 370 197 l 337 151 m 425 192 l 447 192 b 445 181 427 181 425 192 l 410 192 b 414 162 458 162 462 192 l 462 206 l 425 206 b 425 210 429 212 433 213 l 462 213 l 462 227 l 433 227 b 412 227 408 203 410 192 m 462 151 l 532 151 l 532 165 l 504 165 l 504 227 l 489 227 l 489 165 l 462 165 l 462 151 m 580 172 l 580 186 l 549 186 b 543 186 543 192 549 192 l 565 192 b 589 192 589 227 565 227 l 532 227 l 532 213 l 565 213 b 570 213 570 206 565 206 l 549 206 b 524 206 524 172 549 172 l 580 172 m 592 213 l 606 213 l 606 227 l 592 227 l 592 213 m 639 172 l 665 172 l 665 186 l 639 186 b 623 186 623 213 639 213 l 665 213 l 665 227 l 639 227 b 603 227 603 172 639 172 m 700 184 b 722 184 722 215 700 215 l 700 229 b 740 229 740 170 700 170 b 660 170 660 229 700 229 l 700 215 b 680 215 680 184 700 184 m 737 172 l 782 172 b 803 172 813 177 813 198 l 813 228 l 799 228 l 799 198 b 799 186 793 187 782 187 l 782 228 l 768 228 l 768 187 l 752 187 l 752 228 l 737 228 l 737 172{\p0}
+Dialogue: 1,0:03:12.00,0:03:15.55,Default,NTP,0000,0000,0000,,{\fad(500,500)}{\fs16\bord0\shad0\b1\fn方正兰亭粗黑_GBK\c&HECB000&\pos(52,64)}原创翻译  双语字幕
+Dialogue: 0,0:03:19.05,0:03:22.01,Default,,0000,0000,0000,,{\an6\move(103.8,141.6,93.84,147.84,26,401)}{\fn方正超粗黑简体\fs30\b0\bord2\shad0\c&H2429C8&\t(0,401,\c&H181DF6&)\3c&H020202&}{\frz-22\fry-40\frx-20}第
+Dialogue: 0,0:03:19.05,0:03:22.01,Default,,0000,0000,0000,,{\an6\move(124.2,154.4,115.2,160.8,26,401)}{\fn方正超粗黑简体\fs30\b0\bord2\shad0\c&H2429C8&\t(0,401,\c&H181DF6&)\3c&H020202&}{\frz-25.5\fry-40\frx-20}一
+Dialogue: 0,0:03:19.05,0:03:22.01,Default,,0000,0000,0000,,{\an6\move(148.2,170.4,140.52,176.48,26,401)}{\fn方正超粗黑简体\fs30\b0\bord2\shad0\c&H2429C8&\t(0,401,\c&H181DF6&)\3c&H020202&}{\frz-21\fry-40\frx-20}季
+Dialogue: 0,0:03:19.05,0:03:22.01,Default,,0000,0000,0000,,{\an6\move(168.48,181.6,160.8,190.4,26,401)}{\fn方正超粗黑简体\fs30\b0\bord2\shad0\c&H2429C8&\t(0,401,\c&H181DF6&)\3c&H020202&}{\frz-21\fry-40\frx-20}第
+Dialogue: 0,0:03:19.05,0:03:22.01,Default,,0000,0000,0000,,{\an6\move(189,195.2,182.64,205.44,26,401)}{\fn方正超粗黑简体\fs30\b0\bord2\shad0\c&H2429C8&\t(0,401,\c&H181DF6&)\3c&H020202&}{\frz-24.5\fry-40\frx-20}二
+Dialogue: 0,0:03:19.05,0:03:22.01,Default,,0000,0000,0000,,{\an6\move(211.2,209.6,206.4,216,26,401)}{\fn方正超粗黑简体\fs30\b0\bord2\shad0\c&H2429C8&\t(0,401,\c&H181DF6&)\3c&H020202&}{\frz-22\fry-40\frx-20}集
+Dialogue: 0,0:03:19.05,0:03:22.01,Default,,0000,0000,0000,,{\an4\move(217.2,208,210.6,219.2,26,401)}{\fn方正超粗黑简体\fs50\b0\bord2\shad0\c&H2429C8&\t(0,401,\c&H181DF6&)\3c&H020202&\pos(234.6,240)}{\fry5\frz4\frx-13}硅
+Dialogue: 0,0:03:19.05,0:03:22.01,Default,,0000,0000,0000,,{\an4\move(266.4,194.4,262.2,200.8,26,401)}{\fn方正超粗黑简体\fs60\b0\bord2\shad0\c&H2429C8&\t(0,401,\c&H181DF6&)\3c&H020202&\pos(275.4,224.8)}{\fry35\frz15\frx-7}谷
+Dialogue: 0,0:03:22.01,0:03:25.01,Default,,0000,0000,0000,,{\bord0\shad0\fad(330,550)\fn方正字迹-童体硬笔字体\fs22\b1\pos(50,220)}视效&后期\N{\fs26}冰冰爱尖尖
+Dialogue: 0,0:03:24.56,0:03:26.06,Default,NTP,0000,0000,0000,,又见面了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Hello again.
+Dialogue: 0,0:03:25.01,0:03:28.01,Default,,0000,0000,0000,,{\bord0\shad0\fad(330,550)\fn方正字迹-童体硬笔字体\fs22\b1\pos(50,220)}总监\N{\fs26}面条打包子
+Dialogue: 0,0:03:26.06,0:03:27.94,Default,NTP,0000,0000,0000,,我没存那么多舞曲\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}You know, I don't actually have a ton of dance music
+Dialogue: 0,0:03:27.94,0:03:29.43,Default,NTP,0000,0000,0000,,但我把重低音调大了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}but I turned the bass way up.
+Dialogue: 0,0:03:29.43,0:03:30.45,Default,NTP,0000,0000,0000,,宝贝\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Baby...
+Dialogue: 0,0:03:30.81,0:03:32.47,Default,NTP,0000,0000,0000,,这下你有艳福了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}you're getting a private show.
+Dialogue: 0,0:03:35.01,0:03:36.91,Default,NTP,0000,0000,0000,,我晕\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}What the fuck?
+Dialogue: 0,0:03:36.91,0:03:39.08,Default,NTP,0000,0000,0000,,好吧  美臀驾到\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}OK. There's the butt time.
+Dialogue: 0,0:03:41.17,0:03:43.00,Default,NTP,0000,0000,0000,,我们应该把他一个人丢在那儿吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Hey, should we have left him in there by himself?
+Dialogue: 0,0:03:43.00,0:03:44.34,Default,NTP,0000,0000,0000,,我要不要回去\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I mean, should we go back in there?
+Dialogue: 0,0:03:44.34,0:03:45.96,Default,NTP,0000,0000,0000,,没兴趣  我只勾引人上床\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}No interest. I entice the flesh,
+Dialogue: 0,0:03:45.96,0:03:46.89,Default,NTP,0000,0000,0000,,但绝不为此付钱\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I don't pay for it.
+Dialogue: 0,0:03:46.90,0:03:48.58,Default,NTP,0000,0000,0000,,再说  塔拉过几周就要来了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Plus, Tara's coming into town in a couple weeks.
+Dialogue: 0,0:03:48.58,0:03:50.41,Default,NTP,0000,0000,0000,,我得存点元精供她享用\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'm saving up all my humors for her.
+Dialogue: 0,0:03:50.41,0:03:51.83,Default,NTP,0000,0000,0000,,知道我什么意思吧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}You know what I mean?
+Dialogue: 0,0:03:51.83,0:03:52.87,Default,NTP,0000,0000,0000,,你的借口是什么\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}What's your excuse?
+Dialogue: 0,0:03:52.87,0:03:56.43,Default,NTP,0000,0000,0000,,我直到十七岁才摸过女人的手\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I didn't even shake a woman's hand until I was 17-years-old.
+Dialogue: 0,0:03:56.60,0:04:00.06,Default,NTP,0000,0000,0000,,在和我一起工作生活的人的注视下勃起\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}The idea of getting an erection around men I live and work with,
+Dialogue: 0,0:04:00.06,0:04:02.98,Default,NTP,0000,0000,0000,,我有点无法接受\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}it's just not something I can handle.
+Dialogue: 0,0:04:03.09,0:04:05.26,Default,NTP,0000,0000,0000,,想象下我撑个帐篷  你撑个帐篷\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}The idea that I have a boner and you have a boner
+Dialogue: 0,0:04:05.26,0:04:05.82,Default,NTP,0000,0000,0000,,他也撑个帐篷\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}and he has a boner
+Dialogue: 0,0:04:05.82,0:04:08.48,Default,NTP,0000,0000,0000,,然后大家都坐在那撑着帐篷是个什么场景\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}and we're all sitting there with boners in our pants?
+Dialogue: 0,0:04:08.82,0:04:10.74,Default,NTP,0000,0000,0000,,我不知道他还撑不撑得住\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I wonder if he's OK in there.
+Dialogue: 0,0:04:10.74,0:04:13.65,Default,NTP,0000,0000,0000,,你们几个是干什么的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}So what do you guys do here?
+Dialogue: 0,0:04:14.05,0:04:17.33,Default,NTP,0000,0000,0000,,我们最近在开发一种无损压缩算法\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}We're mostly working on a lossless compression algorithm.
+Dialogue: 0,0:04:18.12,0:04:19.83,Default,NTP,0000,0000,0000,,-一种啥  -让文件更小\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- A what? - It makes files smaller.
+Dialogue: 0,0:04:19.83,0:04:21.57,Default,NTP,0000,0000,0000,,无所谓了  名字叫做魔笛手\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Doesn't matter. Uh, it's called Pied Piper.
+Dialogue: 0,0:04:21.57,0:04:24.31,Default,NTP,0000,0000,0000,,将来会很出名  你总有一天会知道\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}It's gonna be famous. You'll know it, eventually.
+Dialogue: 0,0:04:25.54,0:04:28.34,Default,NTP,0000,0000,0000,,夺走你处女握的女人是谁\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Who was this woman that you shook hands with for the first time?
+Dialogue: 0,0:04:28.63,0:04:29.93,Default,NTP,0000,0000,0000,,一位邮递员女士\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}The postman lady.
+Dialogue: 0,0:04:29.94,0:04:31.76,Default,NTP,0000,0000,0000,,-啥  -一位曾经是汉子的女士吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- What? - A woman that was a man?
+Dialogue: 0,0:04:31.76,0:04:33.88,Default,NTP,0000,0000,0000,,我说的不是"有弟员"\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Not a post-man lady.
+Dialogue: 0,0:04:34.02,0:04:36.35,Default,NTP,0000,0000,0000,,-是送邮件的女士  -我问你点别的吧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- A lady who was a post... - Let me ask you another question.
+Dialogue: 0,0:04:36.35,0:04:38.51,Default,NTP,0000,0000,0000,,你第二次握的是哪个女人的手\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Who was the second woman you shook hands with?
+Dialogue: 0,0:04:38.51,0:04:39.62,Default,NTP,0000,0000,0000,,我甚至都不知道你会来\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I didn't even know you were coming.
+Dialogue: 0,0:04:39.62,0:04:41.51,Default,NTP,0000,0000,0000,,-住口  道格  -不是吧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- Stop. Doug! - Oh, boy.
+Dialogue: 0,0:04:41.71,0:04:42.47,Default,NTP,0000,0000,0000,,-住口  我不觉得是我\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- Stop. - I don't think I'm the one...
+Dialogue: 0,0:04:42.47,0:04:44.50,Default,NTP,0000,0000,0000,,肯定要有人买单\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Someone is paying me. OK.
+Dialogue: 0,0:04:44.50,0:04:47.30,Default,NTP,0000,0000,0000,,我今晚不是来对着你的小帐篷免费表演的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I didn't come just to dance on your boner all night for free.
+Dialogue: 0,0:04:47.30,0:04:50.57,Default,NTP,0000,0000,0000,,我没有勃起  我  那只是出于礼貌\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I was not erect. I... that was... I was only being polite.
+Dialogue: 0,0:04:50.57,0:04:52.44,Default,NTP,0000,0000,0000,,所以你说爱我也只是出于礼貌吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}So you were being polite when you said that you loved me?
+Dialogue: 0,0:04:52.44,0:04:53.90,Default,NTP,0000,0000,0000,,首先  我说的是你看起来\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}First off, I said you seemed like
+Dialogue: 0,0:04:53.90,0:04:55.23,Default,NTP,0000,0000,0000,,像是我会爱上的那种人\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}someone I could fall in love with.
+Dialogue: 0,0:04:55.23,0:04:57.00,Default,NTP,0000,0000,0000,,而且没错  确实只是礼貌\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}And, yes, also politeness.
+Dialogue: 0,0:04:57.06,0:04:58.87,Default,NTP,0000,0000,0000,,理奇  把钱给她\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Richie, pay the lady.
+Dialogue: 0,0:04:59.05,0:05:00.93,Default,NTP,0000,0000,0000,,什么  凭  凭什么是我给钱\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}What? Why... why should I pay her?
+Dialogue: 0,0:05:00.93,0:05:02.95,Default,NTP,0000,0000,0000,,她又不是我请的  她都没给我跳大腿舞\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I didn't hire her. I didn't even get a lap dance.
+Dialogue: 0,0:05:02.95,0:05:04.61,Default,NTP,0000,0000,0000,,这是公司派对  而你是首席执行官\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}This is a company party and you're the CEO.
+Dialogue: 0,0:05:04.61,0:05:07.71,Default,NTP,0000,0000,0000,,-赶紧买单吧  -不  要给钱也是你给\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- So pony up. - No. If anyone should pay her it should be you.
+Dialogue: 0,0:05:05.82,0:06:05.82,Default,NTP,0000,0000,0000,,{\an7}{\alpha&FF\bord0\shad0\b0\c&HECB000&\fn方正兰亭粗黑_GBK\fs15}{\fry-90\t(0,1000,\fry0)\t(10000,11000,\fry180)\t(11000,12000,\fry360)\t(20000,22000,\fry720)\t(30000,32000,\fry1080)\t(40000,42000,\fry1440)\t(50000,52000,\fry1800)}人{\b0}人{\b0}影{\b0}视\N{\fs11\fsp-1}Y{\b0}Y{\b0}e{\b0}T{\b0}s{\b0}.{\b0}c{\b0}o{\b0}m
+Dialogue: 0,0:05:05.82,0:06:05.82,Default,NTP,0000,0000,0000,,{\an6\pos(35,18)}{\alpha&HD1\fn方正黑体_GBK\fs16\b1\bord0\shad0\4c&H00000&\fscx8\fscy10\p1\c&HECB000&}{\fry-90\t(0,1000,\fry0)\t(10000,11000,\fry180)\t(11000,12000,\fry360)\t(20000,22000,\fry720)\t(30000,32000,\fry1080)\t(40000,42000,\fry1440)\t(50000,52000,\fry1800)}m 325 0 l 355 0 l 332 47 l 354 47 l 399 136 l 369 136 l 328 53 l 288 136 l 257 136 l 325 0 m 467 0 l 497 0 l 474 47 l 496 47 l 541 136 l 511 136 l 470 53 l 430 136 l 399 136 l 467 0 m 545 1 l 583 1 l 583 14 l 568 14 l 568 19 l 583 19 l 583 30 l 568 30 l 568 34 l 599 34 l 599 30 l 583 30 l 583 19 l 599 19 l 599 14 l 583 14 l 583 1 l 611 1 b 616 1 622 6 622 10 l 622 36 l 652 0 l 678 0 l 644 41 l 622 41 l 622 47 l 596 47 l 597 54 l 625 54 l 625 68 l 541 68 l 541 54 l 572 54 l 571 47 l 545 47 l 545 1 m 583 72 l 583 85 l 569 85 l 569 90 l 598 90 l 598 85 l 583 85 l 583 72 l 611 72 b 615 72 621 78 621 82 l 653 44 l 678 44 l 644 86 l 621 86 l 621 103 l 597 103 l 597 136 l 570 136 l 564 126 l 562 136 l 542 136 l 548 107 l 568 107 l 565 121 l 571 121 l 571 103 l 547 103 l 547 72 l 583 72 m 600 107 l 620 107 l 624 124 l 653 89 l 679 89 l 642 136 l 615 136 l 618 132 l 606 132 l 600 107 m 689 0 l 716 0 l 721 15 l 732 15 l 732 30 l 718 56 l 731 56 l 735 100 l 721 100 l 717 59 l 714 64 l 714 136 l 693 136 l 693 79 l 676 79 l 707 30 l 679 30 l 679 15 l 694 15 l 689 0 m 738 0 l 804 0 b 807 0 813 6 813 9 l 813 87 l 794 87 l 794 14 l 756 14 l 756 87 l 763 77 l 763 21 l 787 21 l 787 91 l 798 91 l 798 120 l 820 120 l 812 136 l 778 136 l 778 90 l 748 136 l 723 136 l 756 87 l 738 87 l 738 0 m 257 151 l 275 151 l 297 182 l 319 151 l 337 151 l 304 197 l 304 227 l 290 227 l 290 197 l 257 151 m 337 151 l 355 151 l 377 182 l 399 151 l 417 151 l 384 197 l 384 227 l 370 227 l 370 197 l 337 151 m 425 192 l 447 192 b 445 181 427 181 425 192 l 410 192 b 414 162 458 162 462 192 l 462 206 l 425 206 b 425 210 429 212 433 213 l 462 213 l 462 227 l 433 227 b 412 227 408 203 410 192 m 462 151 l 532 151 l 532 165 l 504 165 l 504 227 l 489 227 l 489 165 l 462 165 l 462 151 m 580 172 l 580 186 l 549 186 b 543 186 543 192 549 192 l 565 192 b 589 192 589 227 565 227 l 532 227 l 532 213 l 565 213 b 570 213 570 206 565 206 l 549 206 b 524 206 524 172 549 172 l 580 172 m 592 213 l 606 213 l 606 227 l 592 227 l 592 213 m 639 172 l 665 172 l 665 186 l 639 186 b 623 186 623 213 639 213 l 665 213 l 665 227 l 639 227 b 603 227 603 172 639 172 m 700 184 b 722 184 722 215 700 215 l 700 229 b 740 229 740 170 700 170 b 660 170 660 229 700 229 l 700 215 b 680 215 680 184 700 184 m 737 172 l 782 172 b 803 172 813 177 813 198 l 813 228 l 799 228 l 799 198 b 799 186 793 187 782 187 l 782 228 l 768 228 l 768 187 l 752 187 l 752 228 l 737 228 l 737 172{\p0}
+Dialogue: 0,0:05:08.03,0:05:10.77,Default,NTP,0000,0000,0000,,道格  帮这位首席执行官找到他的钱\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Doug, help the CEO find his money.
+Dialogue: 0,0:05:10.77,0:05:12.91,Default,NTP,0000,0000,0000,,不  不  我们不  我不需要人帮\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}No. No, no. We don't... I don't need help.
+Dialogue: 0,0:05:12.91,0:05:14.57,Default,NTP,0000,0000,0000,,我知道钱在哪里  就在这儿\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I know where it is. It's here.
+Dialogue: 0,0:05:14.57,0:05:15.60,Default,NTP,0000,0000,0000,,全都在这儿\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}It's all here.
+Dialogue: 0,0:05:15.69,0:05:17.45,Default,NTP,0000,0000,0000,,你们收  不知道你们收不收运通卡\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Do you... I don't know... do you accept AmEx?
+Dialogue: 0,0:05:17.45,0:05:18.58,Default,NTP,0000,0000,0000,,你猜对了我确实收\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}You damn right I do.
+Dialogue: 0,0:05:18.58,0:05:20.68,Default,NTP,0000,0000,0000,,给自己划一百美金  摩卡\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Put a hundred on there for yourself, Mocha.
+Dialogue: 0,0:05:20.77,0:05:23.05,Default,NTP,0000,0000,0000,,-你这小帐篷还真贵  -才没有小帐篷\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- Well, that's an expensive boner. - Not a boner.
+Dialogue: 0,0:05:25.85,0:05:27.51,Default,NTP,0000,0000,0000,,多谢你们能来  伙计们\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Thanks for coming in, guys.
+Dialogue: 0,0:05:28.04,0:05:29.96,Default,NTP,0000,0000,0000,,今天内容比较多\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}We have a lot to do, so,
+Dialogue: 0,0:05:30.45,0:05:31.51,Default,NTP,0000,0000,0000,,我们直接开始吧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}let's get started.
+Dialogue: 0,0:05:31.96,0:05:33.01,Default,NTP,0000,0000,0000,,听起来不错\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Sounds great.
+Dialogue: 0,0:05:42.06,0:05:43.60,Default,NTP,0000,0000,0000,,我先开始吗  好吧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Me? OK.
+Dialogue: 0,0:05:45.51,0:05:50.94,Default,NTP,0000,0000,0000,,我们很激动能开始合作  格里高利先生\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Well, we're just really excited to get going, Mr. Gregory.
+Dialogue: 0,0:05:50.94,0:05:53.52,Default,NTP,0000,0000,0000,,是吗  "我们"是指谁\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Yes. Who's "We"?
+Dialogue: 0,0:05:54.10,0:05:57.10,Default,NTP,0000,0000,0000,,我  他  还有房子里那些人\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Myself, him, uh,the guys back at the house.
+Dialogue: 0,0:05:57.10,0:05:58.15,Default,NTP,0000,0000,0000,,那些人\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Guys?
+Dialogue: 0,0:05:59.46,0:06:00.57,Default,NTP,0000,0000,0000,,哪些人\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}What guys?
+Dialogue: 0,0:06:01.78,0:06:03.38,Default,NTP,0000,0000,0000,,这又是谁\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Who is this?
+Dialogue: 0,0:06:03.38,0:06:05.62,Default,NTP,0000,0000,0000,,埃利希·巴赫曼  我是个创业者\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Erlich Bachman. I'm an entrepreneur,
+Dialogue: 0,0:06:05.62,0:06:07.04,Default,NTP,0000,0000,0000,,跟你差不多\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}much like yourself.
+Dialogue: 0,0:06:08.94,0:06:11.17,Default,NTP,0000,0000,0000,,理查德就是住在我的企业孵化器里时\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Richard actually developed Pied Piper
+Dialogue: 0,0:06:11.17,0:06:12.66,Default,NTP,0000,0000,0000,,开发出魔笛手的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}while residing in my incubator,
+Dialogue: 0,0:06:12.66,0:06:14.17,Default,NTP,0000,0000,0000,,所以根据我们的协议\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}so as per our agreement,
+Dialogue: 0,0:06:14.17,0:06:16.53,Default,NTP,0000,0000,0000,,我拥有公司的百分之十\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I own ten percent of the company.
+Dialogue: 0,0:06:16.86,0:06:18.69,Default,NTP,0000,0000,0000,,我花了二十万美金来买百分之五的股权\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'm paying you $200,000 for five percent
+Dialogue: 0,0:06:18.69,0:06:20.16,Default,NTP,0000,0000,0000,,而你给了这家伙两倍\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}yet you're giving this man...
+Dialogue: 0,0:06:20.70,0:06:24.58,Default,NTP,0000,0000,0000,,仅仅因为他给你提供了一张沙发床\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}twice that in exchange for... a futon?
+Dialogue: 0,0:06:24.82,0:06:26.98,Default,NTP,0000,0000,0000,,还有三明治\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}And some sandwiches?
+Dialogue: 0,0:06:26.98,0:06:29.54,Default,NTP,0000,0000,0000,,实际上  先生  我的租客们食物自理\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Actually, sir, my tenants provide their own food...
+Dialogue: 0,0:06:29.55,0:06:31.65,Default,NTP,0000,0000,0000,,其他股权你是怎么分配的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}What other percentages have you apportioned?
+Dialogue: 0,0:06:32.38,0:06:35.63,Default,NTP,0000,0000,0000,,我能看一下你们的资产表  投资分析\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Can I see your cap table, investment deck,
+Dialogue: 0,0:06:35.63,0:06:38.67,Default,NTP,0000,0000,0000,,商业计划书以及你们准备的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}business plan or any other relevant paperwork
+Dialogue: 0,0:06:38.67,0:06:40.81,Default,NTP,0000,0000,0000,,其他相关资料吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}you may have prepared?
+Dialogue: 0,0:06:40.89,0:06:44.26,Default,NTP,0000,0000,0000,,我  我还以为\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I... I just was under the impression that, uh...
+Dialogue: 0,0:06:44.70,0:06:47.09,Default,NTP,0000,0000,0000,,我们只是过来打个招呼\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}we would just be coming by and saying "Hi", you know,
+Dialogue: 0,0:06:47.10,0:06:48.85,Default,NTP,0000,0000,0000,,还有拿支票的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}uh, to pick up the check.
+Dialogue: 0,0:06:49.16,0:06:52.55,Default,NTP,0000,0000,0000,,我不知道那些东西也该交了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}And, uh, I just didn't know that any of that stuff was due yet.
+Dialogue: 0,0:06:52.55,0:06:53.60,Default,NTP,0000,0000,0000,,该交\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}"Due"?
+Dialogue: 0,0:06:56.81,0:06:58.49,Default,NTP,0000,0000,0000,,这里不是大学  理查德\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}This is not college, Richard.
+Dialogue: 0,0:06:58.49,0:07:01.54,Default,NTP,0000,0000,0000,,我不会给你发课程安排\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I am not going to be giving you a course syllabus.
+Dialogue: 0,0:07:01.63,0:07:05.55,Default,NTP,0000,0000,0000,,你为了保住魔笛手拒绝了一千万美金\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}You turned down ten million dollars to keep Pied Piper.
+Dialogue: 0,0:07:05.67,0:07:07.84,Default,NTP,0000,0000,0000,,你是为了什么拒绝那笔钱的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}What did you give up that money for?
+Dialogue: 0,0:07:07.84,0:07:10.01,Default,NTP,0000,0000,0000,,这公司到底是什么\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}What is this company?
+Dialogue: 0,0:07:10.64,0:07:11.91,Default,NTP,0000,0000,0000,,我到底买了什么\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}What did I buy?
+Dialogue: 0,0:07:11.91,0:07:14.90,Default,NTP,0000,0000,0000,,-你买了算法  -不\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- You bought the algorithm, which... - No.
+Dialogue: 0,0:07:15.89,0:07:19.25,Default,NTP,0000,0000,0000,,算法是公司的产品\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}The algorithm is the product of the company.
+Dialogue: 0,0:07:19.25,0:07:20.25,Default,NTP,0000,0000,0000,,这个我知道\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I know that.
+Dialogue: 0,0:07:20.25,0:07:22.75,Default,NTP,0000,0000,0000,,我问的是公司本身\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}What I'm asking about is the company itself.
+Dialogue: 0,0:07:22.75,0:07:25.43,Default,NTP,0000,0000,0000,,公司有什么人  他们是做什么的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Who is it? What do they do?
+Dialogue: 0,0:07:25.62,0:07:27.00,Default,NTP,0000,0000,0000,,都是必不可少的吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Are they essential?
+Dialogue: 0,0:07:27.36,0:07:29.87,Default,NTP,0000,0000,0000,,还是说你就随便分点股权给他们\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Or do you just throw a percentage at them
+Dialogue: 0,0:07:29.87,0:07:31.00,Default,NTP,0000,0000,0000,,就跟你给这个\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}like you did with this...
+Dialogue: 0,0:07:36.10,0:07:39.91,Default,NTP,0000,0000,0000,,这些都需要弄清楚\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}This all must be worked out.
+Dialogue: 0,0:07:40.08,0:07:41.09,Default,NTP,0000,0000,0000,,马上做\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Now.
+Dialogue: 0,0:07:43.16,0:07:45.69,Default,NTP,0000,0000,0000,,你说你会指导我们的时候\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}When you said you'd guide us
+Dialogue: 0,0:07:45.69,0:07:47.68,Default,NTP,0000,0000,0000,,我还以为这些就是\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}through some of the stuff I thought that this was
+Dialogue: 0,0:07:47.68,0:07:49.68,Default,NTP,0000,0000,0000,,你要指导我们的东西\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}the stuff you'd be guiding us through.
+Dialogue: 0,0:07:49.68,0:07:53.44,Default,NTP,0000,0000,0000,,在你给出能让我指导的东西之前\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I cannot guide you until you give me...
+Dialogue: 0,0:07:54.53,0:07:56.11,Default,NTP,0000,0000,0000,,我没办法指导你\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}something to guide.
+Dialogue: 0,0:07:59.16,0:08:01.09,Default,NTP,0000,0000,0000,,这次会面糟糕透顶\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}This is going very poorly.
+Dialogue: 0,0:08:01.32,0:08:04.01,Default,NTP,0000,0000,0000,,-我知道  -他根本不知道自己在干嘛\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- I know that. - He doesn't seem to know what he's doing.
+Dialogue: 0,0:08:08.98,0:08:11.31,Default,NTP,0000,0000,0000,,你刚刚是从一个空杯子里喝了一口水吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Did you just take a sip from an empty cup?
+Dialogue: 0,0:08:12.72,0:08:13.39,Default,NTP,0000,0000,0000,,没错\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Yes.
+Dialogue: 0,0:08:13.39,0:08:14.70,Default,NTP,0000,0000,0000,,你为什么要那么做\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Why did you do that?
+Dialogue: 0,0:08:15.90,0:08:19.16,Default,NTP,0000,0000,0000,,-就是找点事做  -四十八小时后再来\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- Just something to do. - Come back in 48 hours
+Dialogue: 0,0:08:19.16,0:08:20.91,Default,NTP,0000,0000,0000,,拿出一份无懈可击的商业计划书\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}with an airtight business plan,
+Dialogue: 0,0:08:20.91,0:08:23.56,Default,NTP,0000,0000,0000,,一个清晰的市场战略\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}a clear go-to-market strategy,
+Dialogue: 0,0:08:23.57,0:08:27.92,Default,NTP,0000,0000,0000,,以及三年损益报表  不然别想拿支票\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}and three year summary P&L or there will be no check.
+Dialogue: 0,0:08:32.12,0:08:33.17,Default,NTP,0000,0000,0000,,就这样吧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}That's it.
+Dialogue: 0,0:08:34.17,0:08:35.73,Default,NTP,0000,0000,0000,,多谢你们能来\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Well, thanks for coming in, guys.
+Dialogue: 0,0:08:39.22,0:08:41.68,Default,NTP,0000,0000,0000,,你的办公室里有饮水喷头吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Are there any water fountains in your offices?
+Dialogue: 0,0:08:42.40,0:08:43.54,Default,NTP,0000,0000,0000,,应该有吧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I assume.
+Dialogue: 0,0:08:43.54,0:08:44.97,Default,NTP,0000,0000,0000,,有一个能找到附近饮水喷头的应用\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I own ten percent of an app
+Dialogue: 0,0:08:44.97,0:08:47.20,Default,NTP,0000,0000,0000,,我拥有它百分之十的份额\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}that locates all nearby water fountains.
+Dialogue: 0,0:08:47.20,0:08:48.58,Default,NTP,0000,0000,0000,,我会很高兴就此与你讨论一下\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'd be happy to discuss it with you.
+Dialogue: 0,0:08:48.58,0:08:50.67,Default,NTP,0000,0000,0000,,再见  先生们\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Good day, gentlemen.
+Dialogue: 0,0:08:51.78,0:08:52.89,Default,NTP,0000,0000,0000,,你抽大麻吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}You smoke weed?
+Dialogue: 0,0:08:57.79,0:08:59.12,Default,NTP,0000,0000,0000,,你在里面弄得我很尴尬\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}You really embarrassed me in there.
+Dialogue: 0,0:08:59.12,0:09:01.64,Default,NTP,0000,0000,0000,,在今天之前你压根没提过商业计划书\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}You didn't say shit about any business plan before today.
+Dialogue: 0,0:09:01.64,0:09:02.68,Default,NTP,0000,0000,0000,,他也没说过\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}And neither did he.
+Dialogue: 0,0:09:02.68,0:09:04.38,Default,NTP,0000,0000,0000,,他坐在那里简直一副混蛋像\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}And he was kind of being an asshole back there.
+Dialogue: 0,0:09:04.38,0:09:05.87,Default,NTP,0000,0000,0000,,没错  这就是为什么他能成为亿万富翁\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Yeah, that's why he's a billionaire.
+Dialogue: 0,0:09:05.82,0:10:05.82,Default,NTP,0000,0000,0000,,{\an9}{\alpha&FF\bord0\shad0\b0\c&HECB000&\fn方正兰亭粗黑_GBK\fs15}{\fry-90\t(0,1000,\fry0)\t(10000,11000,\fry180)\t(11000,12000,\fry360)\t(20000,22000,\fry720)\t(30000,32000,\fry1080)\t(40000,42000,\fry1440)\t(50000,52000,\fry1800)}人{\b0}人{\b0}影{\b0}视\N{\fs11\fsp-1}Y{\b0}Y{\b0}e{\b0}T{\b0}s{\b0}.{\b0}c{\b0}o{\b0}m
+Dialogue: 0,0:09:05.82,0:10:05.82,Default,NTP,0000,0000,0000,,{\an6\pos(345,18)}{\alpha&HD1\fn方正黑体_GBK\fs16\b1\bord0\shad0\4c&H00000&\fscx8\fscy10\p1\c&HECB000&}{\fry-90\t(0,1000,\fry0)\t(10000,11000,\fry180)\t(11000,12000,\fry360)\t(20000,22000,\fry720)\t(30000,32000,\fry1080)\t(40000,42000,\fry1440)\t(50000,52000,\fry1800)}m 325 0 l 355 0 l 332 47 l 354 47 l 399 136 l 369 136 l 328 53 l 288 136 l 257 136 l 325 0 m 467 0 l 497 0 l 474 47 l 496 47 l 541 136 l 511 136 l 470 53 l 430 136 l 399 136 l 467 0 m 545 1 l 583 1 l 583 14 l 568 14 l 568 19 l 583 19 l 583 30 l 568 30 l 568 34 l 599 34 l 599 30 l 583 30 l 583 19 l 599 19 l 599 14 l 583 14 l 583 1 l 611 1 b 616 1 622 6 622 10 l 622 36 l 652 0 l 678 0 l 644 41 l 622 41 l 622 47 l 596 47 l 597 54 l 625 54 l 625 68 l 541 68 l 541 54 l 572 54 l 571 47 l 545 47 l 545 1 m 583 72 l 583 85 l 569 85 l 569 90 l 598 90 l 598 85 l 583 85 l 583 72 l 611 72 b 615 72 621 78 621 82 l 653 44 l 678 44 l 644 86 l 621 86 l 621 103 l 597 103 l 597 136 l 570 136 l 564 126 l 562 136 l 542 136 l 548 107 l 568 107 l 565 121 l 571 121 l 571 103 l 547 103 l 547 72 l 583 72 m 600 107 l 620 107 l 624 124 l 653 89 l 679 89 l 642 136 l 615 136 l 618 132 l 606 132 l 600 107 m 689 0 l 716 0 l 721 15 l 732 15 l 732 30 l 718 56 l 731 56 l 735 100 l 721 100 l 717 59 l 714 64 l 714 136 l 693 136 l 693 79 l 676 79 l 707 30 l 679 30 l 679 15 l 694 15 l 689 0 m 738 0 l 804 0 b 807 0 813 6 813 9 l 813 87 l 794 87 l 794 14 l 756 14 l 756 87 l 763 77 l 763 21 l 787 21 l 787 91 l 798 91 l 798 120 l 820 120 l 812 136 l 778 136 l 778 90 l 748 136 l 723 136 l 756 87 l 738 87 l 738 0 m 257 151 l 275 151 l 297 182 l 319 151 l 337 151 l 304 197 l 304 227 l 290 227 l 290 197 l 257 151 m 337 151 l 355 151 l 377 182 l 399 151 l 417 151 l 384 197 l 384 227 l 370 227 l 370 197 l 337 151 m 425 192 l 447 192 b 445 181 427 181 425 192 l 410 192 b 414 162 458 162 462 192 l 462 206 l 425 206 b 425 210 429 212 433 213 l 462 213 l 462 227 l 433 227 b 412 227 408 203 410 192 m 462 151 l 532 151 l 532 165 l 504 165 l 504 227 l 489 227 l 489 165 l 462 165 l 462 151 m 580 172 l 580 186 l 549 186 b 543 186 543 192 549 192 l 565 192 b 589 192 589 227 565 227 l 532 227 l 532 213 l 565 213 b 570 213 570 206 565 206 l 549 206 b 524 206 524 172 549 172 l 580 172 m 592 213 l 606 213 l 606 227 l 592 227 l 592 213 m 639 172 l 665 172 l 665 186 l 639 186 b 623 186 623 213 639 213 l 665 213 l 665 227 l 639 227 b 603 227 603 172 639 172 m 700 184 b 722 184 722 215 700 215 l 700 229 b 740 229 740 170 700 170 b 660 170 660 229 700 229 l 700 215 b 680 215 680 184 700 184 m 737 172 l 782 172 b 803 172 813 177 813 198 l 813 228 l 799 228 l 799 198 b 799 186 793 187 782 187 l 782 228 l 768 228 l 768 187 l 752 187 l 752 228 l 737 228 l 737 172{\p0}
+Dialogue: 0,0:09:05.87,0:09:07.68,Default,NTP,0000,0000,0000,,因为他知道要如何做一个混蛋\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}'Cause he knows how and when to be an asshole.
+Dialogue: 0,0:09:07.68,0:09:08.83,Default,NTP,0000,0000,0000,,这也是你需要做的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}That's what you need to be like.
+Dialogue: 0,0:09:08.83,0:09:10.59,Default,NTP,0000,0000,0000,,-真的  理查德  -随你怎么说\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- You do, Richard. - Whatever.
+Dialogue: 0,0:09:10.59,0:09:11.78,Default,NTP,0000,0000,0000,,如果你继续这样管理不善\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}If you continue to mismanage
+Dialogue: 0,0:09:11.78,0:09:14.04,Default,NTP,0000,0000,0000,,随便给出公司百分之十的股份\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}this company giving ten percent to whoever...
+Dialogue: 0,0:09:14.04,0:09:16.87,Default,NTP,0000,0000,0000,,当然我那部分股权你是要不回去了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Obviously, you know, we can't go back on my shares.
+Dialogue: 0,0:09:16.87,0:09:19.27,Default,NTP,0000,0000,0000,,已经板上钉钉了  但这以后你就得注意\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}That ship has sailed but from here on out.
+Dialogue: 0,0:09:19.27,0:09:20.87,Default,NTP,0000,0000,0000,,你现在就是个混蛋\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Now you're being an asshole.
+Dialogue: 0,0:09:20.87,0:09:22.60,Default,NTP,0000,0000,0000,,你说的好像这是什么坏事\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}You say that like it's a bad thing.
+Dialogue: 0,0:09:22.60,0:09:24.05,Default,NTP,0000,0000,0000,,理查德  如果你不当这个混蛋\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Richard, if you're not an asshole,
+Dialogue: 0,0:09:24.05,0:09:26.87,Default,NTP,0000,0000,0000,,就会产生混蛋空缺\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}it creates this kind of asshole vacuum and that
+Dialogue: 0,0:09:26.87,0:09:29.58,Default,NTP,0000,0000,0000,,然后被其他混蛋填补  比如贾里德\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}void is filled by other assholes, like Jared.
+Dialogue: 0,0:09:29.59,0:09:31.72,Default,NTP,0000,0000,0000,,我是说  你都打算把公司股份分给他了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I mean, you almost gave him shares.
+Dialogue: 0,0:09:31.92,0:09:34.45,Default,NTP,0000,0000,0000,,你必须得完全改变自己  理查德\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}You need to completely change who you are, Richard.
+Dialogue: 0,0:09:34.45,0:09:37.40,Default,NTP,0000,0000,0000,,你必须得进行"日耳曼"转变\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}A complete Teutonic shift has to happen.
+Dialogue: 0,0:09:34.45,0:09:37.40,Default,NTP,0000,0000,0000,,{\an8}{\fn方正黑体简体\fs18\b1\bord1\shad1\3c&H2F2F2F&}[奥巴马在一次讲话中错把tectonic  说成Teutonic]
+Dialogue: 0,0:09:37.59,0:09:38.83,Default,NTP,0000,0000,0000,,是结构\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Tectonic.
+Dialogue: 0,0:09:39.49,0:09:40.06,Default,NTP,0000,0000,0000,,什么\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}What?
+Dialogue: 0,0:09:40.06,0:09:43.74,Default,NTP,0000,0000,0000,,"结构性转变变"指的才是地壳运动\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1} A "Tectonic" shift is the earth's crust moving around.
+Dialogue: 0,0:09:43.74,0:09:45.91,Default,NTP,0000,0000,0000,,而你刚才说的是"日耳曼"\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}"Teutonic", which is what you just said,
+Dialogue: 0,0:09:45.91,0:09:48.56,Default,NTP,0000,0000,0000,,是一个总和罗马打仗的古老德国部落  \N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}is an ancient Germanic tribe that fought the Romans.
+Dialogue: 0,0:09:49.92,0:09:51.44,Default,NTP,0000,0000,0000,,他起源于斯堪的纳维亚...\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}They were originally from Scandinavia...
+Dialogue: 0,0:09:51.44,0:09:53.59,Default,NTP,0000,0000,0000,,闭嘴  闭嘴\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Stop it! Stop it.
+Dialogue: 0,0:09:54.17,0:09:56.47,Default,NTP,0000,0000,0000,,你现在只是一个彻头彻尾的工具\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}You're being a complete tool right now.
+Dialogue: 0,0:09:56.47,0:09:59.30,Default,NTP,0000,0000,0000,,我要你变成个彻头彻尾的混蛋\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I need you to be a complete asshole.
+Dialogue: 0,0:09:59.34,0:10:00.62,Default,NTP,0000,0000,0000,,明白这两者有什么不同了吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Do you understand the difference?
+Dialogue: 0,0:10:00.63,0:10:02.99,Default,NTP,0000,0000,0000,,如果你不当个混蛋  这个公司就完了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}If you're not an asshole, this company dies.
+Dialogue: 0,0:10:03.00,0:10:04.86,Default,NTP,0000,0000,0000,,埃利希  我只有48小时时间\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Erlich, I have 48 hours.
+Dialogue: 0,0:10:05.04,0:10:07.12,Default,NTP,0000,0000,0000,,你到底打不打算帮我写这个商业计划\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Are you going to help me with this business plan or not?
+Dialogue: 0,0:10:07.65,0:10:11.38,Default,NTP,0000,0000,0000,,我相信你  理查德  所以我不帮你\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I believe in you, Richard. That's why I'm not.
+Dialogue: 0,0:10:14.17,0:10:17.09,Default,NTP,0000,0000,0000,,{\an8}{\fn方正黑体简体\fs18\b1\bord1\shad1\3c&H2F2F2F&}维基百科\N商业计划
+Dialogue: 0,0:10:15.36,0:10:18.54,Default,NTP,0000,0000,0000,,为了支持新企业而写的商业计划\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}"Business plans that are created in support of new ventures
+Dialogue: 0,0:10:18.54,0:10:22.16,Default,NTP,0000,0000,0000,,会对已有企业产生深远影响\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}are to implement profound changes in existing venture."
+Dialogue: 0,0:10:34.83,0:10:37.11,Default,NTP,0000,0000,0000,,你好  我是理查德·亨德里克斯\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Hi, this is Richard Hendricks.
+Dialogue: 0,0:10:37.57,0:10:38.81,Default,NTP,0000,0000,0000,,你现在有时间吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Is now a good time?
+Dialogue: 0,0:10:40.19,0:10:41.82,Default,NTP,0000,0000,0000,,我需要你的帮助\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Uh, I need some help.
+Dialogue: 0,0:10:46.33,0:10:48.41,Default,NTP,0000,0000,0000,,门口那辆雪佛兰是谁的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Who's Chevy Volt is that out front?
+Dialogue: 0,0:10:48.42,0:10:49.90,Default,NTP,0000,0000,0000,,贾里德·邓恩的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Uh, Jared Dunn's.
+Dialogue: 0,0:10:49.90,0:10:52.09,Default,NTP,0000,0000,0000,,什么  为什么  他为什么会在这里\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}What? Why? Why is he here?
+Dialogue: 0,0:10:52.09,0:10:53.95,Default,NTP,0000,0000,0000,,如你所知\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Well, because as you know,
+Dialogue: 0,0:10:53.95,0:10:56.10,Default,NTP,0000,0000,0000,,我需要些如何写商业计划书的建议\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I need some advice on the business plan.
+Dialogue: 0,0:10:56.19,0:10:57.29,Default,NTP,0000,0000,0000,,你把他拉进来了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}You're cutting him in?
+Dialogue: 0,0:11:02.20,0:11:05.85,Default,NTP,0000,0000,0000,,早上好  咦  奇怪\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Good morning. Whoops, that was weird.
+Dialogue: 0,0:11:05.85,0:11:08.10,Default,NTP,0000,0000,0000,,不知道我刚才为什么那么做\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I don't know why I did that.
+Dialogue: 0,0:11:08.10,0:11:10.84,Default,NTP,0000,0000,0000,,你身上有一种...帝王般的气质\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}You kind of have a... like a king-ish feeling to you.
+Dialogue: 0,0:11:10.84,0:11:13.81,Default,NTP,0000,0000,0000,,就像是...来自瓦哈拉的北欧神话英雄\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}You're like a... like a Norse hero from Valhalla.
+Dialogue: 0,0:11:10.84,0:11:13.81,Default,NTP,0000,0000,0000,,{\an8}{\fn方正黑体简体\fs18\b1\bord1\shad1\3c&H2F2F2F&}[瓦哈拉  北欧神话中死亡之神奥丁款待阵亡将士英灵的殿堂]
+Dialogue: 0,0:11:13.81,0:11:15.00,Default,NTP,0000,0000,0000,,别拍我马屁\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Don't pander to me.
+Dialogue: 0,0:11:15.00,0:11:17.80,Default,NTP,0000,0000,0000,,彼得·格里高利明确说过要削减成本[直译为减肥]\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Peter Gregory said specifically to trim the fat.
+Dialogue: 0,0:11:17.80,0:11:19.27,Default,NTP,0000,0000,0000,,他们其实成因为我太瘦了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}They actually tried to diagnose me
+Dialogue: 0,0:11:19.27,0:11:22.27,Default,NTP,0000,0000,0000,,准备要说我浪费粮食\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}with a wasting disease because of my slender frame.
+Dialogue: 0,0:11:22.39,0:11:27.11,Default,NTP,0000,0000,0000,,我已经写完了吸引用户的战略\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}So, um, I ironed out our customer acquisition strategy,
+Dialogue: 0,0:11:27.11,0:11:31.09,Default,NTP,0000,0000,0000,,整理了我们的财政状况  做了贴现估值\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}and I wrapped our financials, I did a DCF valuation.
+Dialogue: 0,0:11:27.11,0:11:31.09,Default,NTP,0000,0000,0000,,{\an8}{\fn方正黑体简体\fs18\b1\bord1\shad1\3c&H2F2F2F&}[贴现 指将未来的货币转换成当前货币的实际价值]
+Dialogue: 0,0:11:31.09,0:11:32.83,Default,NTP,0000,0000,0000,,大多数风投人都算不明白\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Most VC's can't even do that math,
+Dialogue: 0,0:11:32.83,0:11:35.39,Default,NTP,0000,0000,0000,,但直觉告诉我彼得不是这种人\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}but something tells me Peter is different.
+Dialogue: 0,0:11:35.70,0:11:38.20,Default,NTP,0000,0000,0000,,下一步我们应当与组员们一对一交流\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I think we can jump into the one-on-ones with each team member
+Dialogue: 0,0:11:38.20,0:11:40.50,Default,NTP,0000,0000,0000,,-看看如何合理分配股权  -好的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- to see if I can defend our cap table. - OK.
+Dialogue: 0,0:11:40.50,0:11:42.57,Default,NTP,0000,0000,0000,,但在此之前  如果你不介意的话\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Um, but first, if you don't mind,
+Dialogue: 0,0:11:42.57,0:11:43.95,Default,NTP,0000,0000,0000,,我想去一下洗手间\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'd like to use the restroom.
+Dialogue: 0,0:11:44.22,0:11:46.58,Default,NTP,0000,0000,0000,,去呗  去洗手间不需要请求批准的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Yeah. You don't have to ask permission to do that.
+Dialogue: 0,0:11:46.77,0:11:48.53,Default,NTP,0000,0000,0000,,难道你自从到这儿之后就没去过\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Why, have you not gone since you've been here?
+Dialogue: 0,0:11:48.94,0:11:50.03,Default,NTP,0000,0000,0000,,是的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I have not.
+Dialogue: 0,0:11:52.45,0:11:55.16,Default,NTP,0000,0000,0000,,好吧...快去吧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Well... well, go. I mean, go.
+Dialogue: 0,0:11:56.16,0:11:57.77,Default,NTP,0000,0000,0000,,丹波克  我知道你本来在阿斯彭\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Denpok, I know you were in Aspen,
+Dialogue: 0,0:11:57.77,0:12:00.82,Default,NTP,0000,0000,0000,,谢谢你过来  请坐\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}thank you for coming. Please, have a seat.
+Dialogue: 0,0:12:02.67,0:12:04.76,Default,NTP,0000,0000,0000,,这个夏天我不准备坐下\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'm not sitting this summer.
+Dialogue: 0,0:12:04.88,0:12:07.55,Default,NTP,0000,0000,0000,,当然  真是难以置信\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Of course. Incredible.
+Dialogue: 0,0:12:11.42,0:12:13.42,Default,NTP,0000,0000,0000,,你为何事所恼  盖文\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}What's weighing on you, Gavin?
+Dialogue: 0,0:12:13.88,0:12:16.28,Default,NTP,0000,0000,0000,,贾里德·邓恩今天辞职加入了魔笛手\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Jared Dunn quit today to join Pied Piper.
+Dialogue: 0,0:12:16.28,0:12:18.28,Default,NTP,0000,0000,0000,,我恨理查德·亨德里克斯\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I hate Richard Hendricks,
+Dialogue: 0,0:12:18.28,0:12:20.29,Default,NTP,0000,0000,0000,,那个魔笛手的小杂种\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}that little Pied Piper prick.
+Dialogue: 0,0:12:21.70,0:12:23.84,Default,NTP,0000,0000,0000,,这...这是错的吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Is... is that wrong?
+Dialogue: 0,0:12:23.91,0:12:27.27,Default,NTP,0000,0000,0000,,恨意若在平凡人手中  也许是错的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}In the hands of a lesser person, perhaps.
+Dialogue: 0,0:12:27.84,0:12:30.31,Default,NTP,0000,0000,0000,,但若掌握在有智慧的人手里\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}But in the hands of the enlightened,
+Dialogue: 0,0:12:30.66,0:12:33.91,Default,NTP,0000,0000,0000,,恨意可以作为工具  带来巨大改变\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}hate can be a tool for great change.
+Dialogue: 0,0:12:35.10,0:12:36.67,Default,NTP,0000,0000,0000,,你还是如此睿智\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}You're right once again.
+Dialogue: 0,0:12:41.61,0:12:45.52,Default,NTP,0000,0000,0000,,音响系统  播放约翰·列侬的《想象》\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}AUDIOUS, play John Lennon's "Imagine."
+Dialogue: 0,0:12:45.61,0:12:49.76,Default,NTP,0000,0000,0000,,提示  小屋中的约翰·韦恩  未找到\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Cueing, John Wayne in a mansion. Not found.
+Dialogue: 0,0:12:49.76,0:12:51.83,Default,NTP,0000,0000,0000,,-妈的  -指令无效\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- Fuck!- Invalid command.
+Dialogue: 0,0:12:51.83,0:12:52.80,Default,NTP,0000,0000,0000,,-妈的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- Fuck!
+Dialogue: 0,0:12:52.84,0:12:57.18,Default,NTP,0000,0000,0000,,使用你的愤怒  门徒  使用它\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Use the anger, chela. Use it.
+Dialogue: 0,0:13:02.01,0:13:04.24,Default,NTP,0000,0000,0000,,谢谢你来与我们谈话  吉尔弗约尔\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Uh, thanks for sitting down like this, Gilfoyle.
+Dialogue: 0,0:13:04.24,0:13:06.32,Default,NTP,0000,0000,0000,,我们都知道这有点奇怪\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}We know it's kind of a little weird.
+Dialogue: 0,0:13:07.26,0:13:09.49,Default,NTP,0000,0000,0000,,那么...你能大概给我介绍一下\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}So, um... can you kind of catch me up on
+Dialogue: 0,0:13:09.49,0:13:12.25,Default,NTP,0000,0000,0000,,你觉得你在公司里一个什么样的角色呢\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}what you see as your role in the company?
+Dialogue: 0,0:13:12.25,0:13:13.26,Default,NTP,0000,0000,0000,,你是做什么的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}What do you do?
+Dialogue: 0,0:13:13.64,0:13:14.86,Default,NTP,0000,0000,0000,,我是做什么的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}What do I do?
+Dialogue: 0,0:13:17.42,0:13:20.43,Default,NTP,0000,0000,0000,,系统架构  网络及安全\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}System architecture. Networking and security.
+Dialogue: 0,0:13:21.42,0:13:23.58,Default,NTP,0000,0000,0000,,在这方面这屋里没人能比得上我\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}No one in this house can touch me on that.
+Dialogue: 0,0:13:23.58,0:13:25.44,Default,NTP,0000,0000,0000,,很好  多谢赐教\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}OK, that's good to know.
+Dialogue: 0,0:13:25.46,0:13:27.00,Default,NTP,0000,0000,0000,,但有人会对此表示感激吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}But does anyone appreciate that?
+Dialogue: 0,0:13:27.00,0:13:30.11,Default,NTP,0000,0000,0000,,当你在莎拉劳伦斯学院忙着辅修性别研究\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}While you were busy minoring in gender studies
+Dialogue: 0,0:13:27.00,0:13:30.11,Default,NTP,0000,0000,0000,,{\an8}{\fn方正黑体简体\fs18\b1\bord1\shad1\3c&H2F2F2F&}[美国纽约州著名文理学院]
+Dialogue: 0,0:13:30.11,0:13:32.09,Default,NTP,0000,0000,0000,,哼着小曲的时候\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}and singing a capella at Sarah Lawrence,
+Dialogue: 0,0:13:32.10,0:13:34.86,Default,NTP,0000,0000,0000,,我在获取美国国家安全局服务器的根权限\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I was gaining root access to NSA servers.
+Dialogue: 0,0:13:35.33,0:13:38.59,Default,NTP,0000,0000,0000,,点下鼠标就能发起第二次伊朗伊斯兰革命\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I was one click away from starting a second Iranian revolution.
+Dialogue: 0,0:13:35.33,0:13:38.59,Default,NTP,0000,0000,0000,,{\an8}{\fn方正黑体简体\fs18\b1\bord1\shad1\3c&H2F2F2F&}[伊朗伊斯兰革命  又称1979年革命\N伊朗君主政体被推翻  成立了伊斯兰共和国]
+Dialogue: 0,0:13:38.59,0:13:39.71,Default,NTP,0000,0000,0000,,事实上我读的是瓦萨学院\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I actually went to Vassar.
+Dialogue: 0,0:13:38.59,0:13:39.71,Default,NTP,0000,0000,0000,,{\an8}{\fn方正黑体简体\fs18\b1\bord1\shad1\3c&H2F2F2F&}[瓦萨学院  美国纽约州另一所著名文理学院]
+Dialogue: 0,0:13:39.71,0:13:41.24,Default,NTP,0000,0000,0000,,我能阻止跨站脚本攻击\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I prevent cross-site scripting,
+Dialogue: 0,0:13:41.24,0:13:43.52,Default,NTP,0000,0000,0000,,我监视着分布式拒绝服务攻击\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I monitor for DDOS attacks,
+Dialogue: 0,0:13:43.53,0:13:47.42,Default,NTP,0000,0000,0000,,紧急的数据库回滚和错误的事件处理\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}emergency database rollbacks, and faulty transaction handlings.
+Dialogue: 0,0:13:47.42,0:13:48.96,Default,NTP,0000,0000,0000,,互联网  听说过吧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}The Internet... heard of it?
+Dialogue: 0,0:13:48.96,0:13:51.47,Default,NTP,0000,0000,0000,,每分钟传输千兆字节的数据\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}...transfers half a petabyte of data every minute.
+Dialogue: 0,0:13:51.47,0:13:54.17,Default,NTP,0000,0000,0000,,你知道那是如何实现的吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Do you have any idea how that happens?
+Dialogue: 0,0:13:54.17,0:13:56.81,Default,NTP,0000,0000,0000,,你每天在线看的那些小黄片\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}All those YouPorn ones and zeroes streaming directly
+Dialogue: 0,0:13:56.81,0:13:59.17,Default,NTP,0000,0000,0000,,是如何到达你那个小破智能手机里的呢\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}to your shitty, little smart phone day after day?
+Dialogue: 0,0:13:59.17,0:14:01.83,Default,NTP,0000,0000,0000,,还有那些无法在12秒内下到最新\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Every dipshit who shits his pants if he can't get
+Dialogue: 0,0:14:01.83,0:14:04.41,Default,NTP,0000,0000,0000,,史奇雷克斯新电子混音曲就要尿了的傻蛋\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}the new dubstep Skrillex remix in under 12 seconds?
+Dialogue: 0,0:14:04.41,0:14:07.08,Default,NTP,0000,0000,0000,,那并不是魔法  那是天赋与汗水\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}It's not magic, it's talent and sweat.
+Dialogue: 0,0:14:05.82,0:15:05.82,Default,NTP,0000,0000,0000,,{\an7}{\alpha&FF\bord0\shad0\b0\c&HECB000&\fn方正兰亭粗黑_GBK\fs15}{\fry-90\t(0,1000,\fry0)\t(10000,11000,\fry180)\t(11000,12000,\fry360)\t(20000,22000,\fry720)\t(30000,32000,\fry1080)\t(40000,42000,\fry1440)\t(50000,52000,\fry1800)}人{\b0}人{\b0}影{\b0}视\N{\fs11\fsp-1}Y{\b0}Y{\b0}e{\b0}T{\b0}s{\b0}.{\b0}c{\b0}o{\b0}m
+Dialogue: 0,0:14:05.82,0:15:05.82,Default,NTP,0000,0000,0000,,{\an6\pos(35,18)}{\alpha&HD1\fn方正黑体_GBK\fs16\b1\bord0\shad0\4c&H00000&\fscx8\fscy10\p1\c&HECB000&}{\fry-90\t(0,1000,\fry0)\t(10000,11000,\fry180)\t(11000,12000,\fry360)\t(20000,22000,\fry720)\t(30000,32000,\fry1080)\t(40000,42000,\fry1440)\t(50000,52000,\fry1800)}m 325 0 l 355 0 l 332 47 l 354 47 l 399 136 l 369 136 l 328 53 l 288 136 l 257 136 l 325 0 m 467 0 l 497 0 l 474 47 l 496 47 l 541 136 l 511 136 l 470 53 l 430 136 l 399 136 l 467 0 m 545 1 l 583 1 l 583 14 l 568 14 l 568 19 l 583 19 l 583 30 l 568 30 l 568 34 l 599 34 l 599 30 l 583 30 l 583 19 l 599 19 l 599 14 l 583 14 l 583 1 l 611 1 b 616 1 622 6 622 10 l 622 36 l 652 0 l 678 0 l 644 41 l 622 41 l 622 47 l 596 47 l 597 54 l 625 54 l 625 68 l 541 68 l 541 54 l 572 54 l 571 47 l 545 47 l 545 1 m 583 72 l 583 85 l 569 85 l 569 90 l 598 90 l 598 85 l 583 85 l 583 72 l 611 72 b 615 72 621 78 621 82 l 653 44 l 678 44 l 644 86 l 621 86 l 621 103 l 597 103 l 597 136 l 570 136 l 564 126 l 562 136 l 542 136 l 548 107 l 568 107 l 565 121 l 571 121 l 571 103 l 547 103 l 547 72 l 583 72 m 600 107 l 620 107 l 624 124 l 653 89 l 679 89 l 642 136 l 615 136 l 618 132 l 606 132 l 600 107 m 689 0 l 716 0 l 721 15 l 732 15 l 732 30 l 718 56 l 731 56 l 735 100 l 721 100 l 717 59 l 714 64 l 714 136 l 693 136 l 693 79 l 676 79 l 707 30 l 679 30 l 679 15 l 694 15 l 689 0 m 738 0 l 804 0 b 807 0 813 6 813 9 l 813 87 l 794 87 l 794 14 l 756 14 l 756 87 l 763 77 l 763 21 l 787 21 l 787 91 l 798 91 l 798 120 l 820 120 l 812 136 l 778 136 l 778 90 l 748 136 l 723 136 l 756 87 l 738 87 l 738 0 m 257 151 l 275 151 l 297 182 l 319 151 l 337 151 l 304 197 l 304 227 l 290 227 l 290 197 l 257 151 m 337 151 l 355 151 l 377 182 l 399 151 l 417 151 l 384 197 l 384 227 l 370 227 l 370 197 l 337 151 m 425 192 l 447 192 b 445 181 427 181 425 192 l 410 192 b 414 162 458 162 462 192 l 462 206 l 425 206 b 425 210 429 212 433 213 l 462 213 l 462 227 l 433 227 b 412 227 408 203 410 192 m 462 151 l 532 151 l 532 165 l 504 165 l 504 227 l 489 227 l 489 165 l 462 165 l 462 151 m 580 172 l 580 186 l 549 186 b 543 186 543 192 549 192 l 565 192 b 589 192 589 227 565 227 l 532 227 l 532 213 l 565 213 b 570 213 570 206 565 206 l 549 206 b 524 206 524 172 549 172 l 580 172 m 592 213 l 606 213 l 606 227 l 592 227 l 592 213 m 639 172 l 665 172 l 665 186 l 639 186 b 623 186 623 213 639 213 l 665 213 l 665 227 l 639 227 b 603 227 603 172 639 172 m 700 184 b 722 184 722 215 700 215 l 700 229 b 740 229 740 170 700 170 b 660 170 660 229 700 229 l 700 215 b 680 215 680 184 700 184 m 737 172 l 782 172 b 803 172 813 177 813 198 l 813 228 l 799 228 l 799 198 b 799 186 793 187 782 187 l 782 228 l 768 228 l 768 187 l 752 187 l 752 228 l 737 228 l 737 172{\p0}
+Dialogue: 0,0:14:07.36,0:14:09.01,Default,NTP,0000,0000,0000,,我这样的人保证了你的数据包\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}People like me, ensuring your packets
+Dialogue: 0,0:14:09.01,0:14:12.59,Default,NTP,0000,0000,0000,,完好无损的送达  所以我是做什么的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}get delivered, un-sniffed. So what do I do?
+Dialogue: 0,0:14:12.71,0:14:15.18,Default,NTP,0000,0000,0000,,我保证了整个公司不会因为\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I make sure that one bad config on one key component
+Dialogue: 0,0:14:15.18,0:14:17.53,Default,NTP,0000,0000,0000,,核心组件中的一个错误设置而毁于一旦\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}doesn't bankrupt the entire fucking company.
+Dialogue: 0,0:14:17.53,0:14:19.25,Default,NTP,0000,0000,0000,,我他妈就是干这个的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}That's what the fuck I do.
+Dialogue: 0,0:14:20.62,0:14:22.64,Default,NTP,0000,0000,0000,,我基本也是这么跟他说的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}That's basically what I told him.
+Dialogue: 0,0:14:22.64,0:14:24.31,Default,NTP,0000,0000,0000,,听着  无论如何\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Listen, wherever we end up here...
+Dialogue: 0,0:14:25.93,0:14:27.09,Default,NTP,0000,0000,0000,,我只是想说我认为\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}...I just wanna say that I feel
+Dialogue: 0,0:14:27.09,0:14:29.30,Default,NTP,0000,0000,0000,,我应当比迪尼希获得更多股份\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I should get more equity than Dinesh.
+Dialogue: 0,0:14:29.50,0:14:31.17,Default,NTP,0000,0000,0000,,我知道吉尔弗约尔肯定过来跟你们\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I know Gilfoyle probably came in here
+Dialogue: 0,0:14:31.17,0:14:33.12,Default,NTP,0000,0000,0000,,说了一堆技术术语\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}and puked out a bunch of tech specs,
+Dialogue: 0,0:14:33.12,0:14:35.67,Default,NTP,0000,0000,0000,,但其实四分之三都是狗屁\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}three-fourths of which are total horse-shit.
+Dialogue: 0,0:14:35.90,0:14:38.29,Default,NTP,0000,0000,0000,,他提到伊朗革命了吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Did he bring up the Iranian Revolution thing?
+Dialogue: 0,0:14:38.85,0:14:40.56,Default,NTP,0000,0000,0000,,那些都毫无意义\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Yeah, those words mean nothing.
+Dialogue: 0,0:14:40.73,0:14:42.05,Default,NTP,0000,0000,0000,,但事实是\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}But here's a fact:
+Dialogue: 0,0:14:42.13,0:14:45.12,Default,NTP,0000,0000,0000,,我是这些小丑里面唯一会用Java语言的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'm the only one of these clowns that can code in Java.
+Dialogue: 0,0:14:45.25,0:14:47.97,Default,NTP,0000,0000,0000,,我用的是性能稳定启动快速且能够\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}And I write sleek performant low-overhead Scala code
+Dialogue: 0,0:14:45.25,0:14:51.06,Default,NTP,0000,0000,0000,,{\an8}{\fn方正黑体简体\fs18\b1\bord1\shad1\3c&H2F2F2F&}[Scala语言  基于Java平台的多范式编程语言  集成面向对象编程和函数式编程的各种特性]
+Dialogue: 0,0:14:47.97,0:14:51.06,Default,NTP,0000,0000,0000,,在任何环境下运行的的Scala语言\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}with higher order functions that will run on anything.
+Dialogue: 0,0:14:51.06,0:14:54.66,Default,NTP,0000,0000,0000,,句号  讲完了  也就是说\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Period. End of sentence. So basically,
+Dialogue: 0,0:14:54.69,0:14:56.62,Default,NTP,0000,0000,0000,,我认为我的股份要能够反映出\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I think whatever equity I get,
+Dialogue: 0,0:14:56.82,0:14:59.76,Default,NTP,0000,0000,0000,,我的贡献比吉尔弗约尔大这个事实\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}it should reflect that I contribute more than Gilfoyle.
+Dialogue: 0,0:15:01.91,0:15:04.39,Default,NTP,0000,0000,0000,,-这感觉怪怪的  -对啊  我知道\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- This sounds weird. - I know, right? It's...
+Dialogue: 0,0:15:04.69,0:15:07.11,Default,NTP,0000,0000,0000,,-每个人都要做的  -吉尔弗约尔做了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- Everybody's been doing it. - Gilfoyle did this?
+Dialogue: 0,0:15:07.45,0:15:09.41,Default,NTP,0000,0000,0000,,这只是个形式  让我更多的了解你们\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}It's just a formality, to get me caught up.
+Dialogue: 0,0:15:10.15,0:15:12.82,Default,NTP,0000,0000,0000,,你之于魔笛手团队的价值是什么\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}So what makes you of value to the Pied Piper team?
+Dialogue: 0,0:15:13.67,0:15:16.26,Default,NTP,0000,0000,0000,,编程\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Um... Programming.
+Dialogue: 0,0:15:16.26,0:15:17.83,Default,NTP,0000,0000,0000,,也许吧  我很会写代码\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I guess... pretty good at code,
+Dialogue: 0,0:15:18.51,0:15:21.61,Default,NTP,0000,0000,0000,,开发算法  诸如此类\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}develop algorithms... so forth.
+Dialogue: 0,0:15:21.69,0:15:23.95,Default,NTP,0000,0000,0000,,与理查德发明的算法不同是吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Different from the type of algorithm Richard created?
+Dialogue: 0,0:15:24.79,0:15:26.93,Default,NTP,0000,0000,0000,,是啊  不同在于没他的好\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Well, yeah. Like, not as good.
+Dialogue: 0,0:15:27.77,0:15:30.16,Default,NTP,0000,0000,0000,,理查德是十倍速  我也就勉强一倍速\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Richard's a 10X-er, I'm, like, barely an X-er.
+Dialogue: 0,0:15:31.98,0:15:32.80,Default,NTP,0000,0000,0000,,我很逊\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I kinda suck.
+Dialogue: 0,0:15:33.44,0:15:34.94,Default,NTP,0000,0000,0000,,你被轰了  接下来\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Smoked you. And now...
+Dialogue: 0,0:15:35.30,0:15:37.93,Default,NTP,0000,0000,0000,,-别太过分  -来个蘑菇章\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- Don't be a dick. - Mushroom stamp!
+Dialogue: 0,0:15:37.94,0:15:41.36,Default,NTP,0000,0000,0000,,-真讨厌  -盖好了  记得给你妈看噢\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- You're being a dick. - There you go. Show that to your mom.
+Dialogue: 0,0:15:41.36,0:15:43.92,Default,NTP,0000,0000,0000,,蘑菇章  好梗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Mushroom stamp! That's great.
+Dialogue: 0,0:15:45.75,0:15:48.91,Default,NTP,0000,0000,0000,,你们认为贾里德怎么样  混蛋一个对吧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Hey, what do you guys think about this Jared? He's shit, right?
+Dialogue: 0,0:15:49.11,0:15:50.57,Default,NTP,0000,0000,0000,,不  他其实挺厉害的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}No, he's pretty sharp.
+Dialogue: 0,0:15:50.58,0:15:52.77,Default,NTP,0000,0000,0000,,是啊  他能做我们做不了的事\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Yeah, he does shit that no one else in the house can do.
+Dialogue: 0,0:15:52.77,0:15:54.00,Default,NTP,0000,0000,0000,,是啊  但他总装得自己好像无所不能\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Yeah, but he's a know it all.
+Dialogue: 0,0:15:54.00,0:15:55.74,Default,NTP,0000,0000,0000,,我们的小庙装不下他\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I don't think there's room in here for him.
+Dialogue: 0,0:15:55.79,0:15:58.07,Default,NTP,0000,0000,0000,,等理查德甩掉大头以后就装得下了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Well, there will be after Richard gets rid of Big Head.
+Dialogue: 0,0:15:58.07,0:16:00.03,Default,NTP,0000,0000,0000,,等等  理查德要甩掉大头  为什么\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Wait, Richard's getting rid of Big Head? Why?
+Dialogue: 0,0:16:00.04,0:16:01.52,Default,NTP,0000,0000,0000,,听着  我们都爱大头\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Listen, we all love Big Head.
+Dialogue: 0,0:16:01.52,0:16:04.07,Default,NTP,0000,0000,0000,,但事实是他编程没有我好\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}But, the truth is he's not as good of a coder as I am,
+Dialogue: 0,0:16:04.07,0:16:06.32,Default,NTP,0000,0000,0000,,搭建系统没有吉尔弗约尔强\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}not as good at system architecture as Gilfoyle,
+Dialogue: 0,0:16:06.35,0:16:09.14,Default,NTP,0000,0000,0000,,犯浑没有你厉害  无意冒犯\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}not as good at being a prick as you, no offense.
+Dialogue: 0,0:16:09.14,0:16:12.10,Default,NTP,0000,0000,0000,,他所有事都不在行  没什么贡献\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}He's a lightweight at everything. Brings nothing to the table.
+Dialogue: 0,0:16:12.10,0:16:15.20,Default,NTP,0000,0000,0000,,让他分一杯羹就像在侮辱我们\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Him getting points would be a big "Fuck you" to all of us.
+Dialogue: 0,0:16:15.52,0:16:19.84,Default,NTP,0000,0000,0000,,-但他是个好人  -人好  但没用\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- But he's a great guy. - Great guy. But useless.
+Dialogue: 0,0:16:20.26,0:16:24.62,Default,NTP,0000,0000,0000,,是啊  他是个好人  不像那个贾里德\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Yeah, he is a great guy. Not like that Jared.
+Dialogue: 0,0:16:25.42,0:16:26.98,Default,NTP,0000,0000,0000,,这点我们倒是可以达成一致\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}At least we can all agree on that.
+Dialogue: 0,0:16:28.50,0:16:29.54,Default,NTP,0000,0000,0000,,我也不知道\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Yeah, I don't know.
+Dialogue: 0,0:16:30.30,0:16:32.98,Default,NTP,0000,0000,0000,,我和理查德好像一直是共同进退\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Me and Richard have just always kinda like been in this together, you know?
+Dialogue: 0,0:16:33.08,0:16:34.81,Default,NTP,0000,0000,0000,,共同进退  但要说明的是\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Together, right. But to be clear,
+Dialogue: 0,0:16:34.81,0:16:37.64,Default,NTP,0000,0000,0000,,理查德自己发明的那个算法  对吧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Richard created the algorithm on his own, yes?
+Dialogue: 0,0:16:37.74,0:16:39.25,Default,NTP,0000,0000,0000,,对啊  跟我没有任何关系\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Oh, yeah, I had nothing to do with that.
+Dialogue: 0,0:16:41.15,0:16:43.13,Default,NTP,0000,0000,0000,,-他是我最好的朋友  -那倒是真的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- He's my best friend. - That's true.
+Dialogue: 0,0:16:43.86,0:16:46.60,Default,NTP,0000,0000,0000,,确实  你们的基情很明显\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Yes. The camaraderie is quite apparent.
+Dialogue: 0,0:16:46.60,0:16:49.98,Default,NTP,0000,0000,0000,,但彼得·格里高利要的是一个精简\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}But Peter Gregory demanded a lean,
+Dialogue: 0,0:16:49.98,0:16:51.85,Default,NTP,0000,0000,0000,,无情的商业计划\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}ruthless business plan.
+Dialogue: 0,0:16:51.85,0:16:52.79,Default,NTP,0000,0000,0000,,我想微软的首席执行官\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}And I don't think that
+Dialogue: 0,0:16:52.79,0:16:56.12,Default,NTP,0000,0000,0000,,不会需要给好朋友开工资\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}the CEO of Microsoft has a paid best friend.
+Dialogue: 0,0:16:56.43,0:16:59.27,Default,NTP,0000,0000,0000,,谢尔盖·布林既有  拉里啥都不会\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Sergey Brin does. Larry doesn't do shit.
+Dialogue: 0,0:16:56.43,0:16:59.27,Default,NTP,0000,0000,0000,,{\an8}{\fn方正黑体简体\fs18\b1\bord1\shad1\3c&H2F2F2F&}两人均为谷歌创始人
+Dialogue: 0,0:16:59.28,0:17:00.05,Default,NTP,0000,0000,0000,,你看\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}See?
+Dialogue: 0,0:17:01.66,0:17:03.32,Default,NTP,0000,0000,0000,,如果大头就好像一个\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}What if Big Head is sort of like
+Dialogue: 0,0:17:03.48,0:17:06.71,Default,NTP,0000,0000,0000,,流动人员呢  就像个多面手\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}a floating utility player? Kinda like a jack of all trades.
+Dialogue: 0,0:17:07.77,0:17:12.52,Default,NTP,0000,0000,0000,,但他自己也承认  他更像是个无为大师\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}But by his own admission, he's really more like a master of none.
+Dialogue: 0,0:17:12.52,0:17:14.20,Default,NTP,0000,0000,0000,,确实是  确实是\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}That's true. That is true.
+Dialogue: 0,0:17:14.20,0:17:15.72,Default,NTP,0000,0000,0000,,通常人们不会用日后可能\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Which is not something you'd generally
+Dialogue: 0,0:17:15.72,0:17:18.70,Default,NTP,0000,0000,0000,,估值达数十亿美元的公司的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}reward with several points in what may some day be
+Dialogue: 0,0:17:18.70,0:17:20.65,Default,NTP,0000,0000,0000,,股权去奖赏这样一个人\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}a multi-billion dollar company.
+Dialogue: 0,0:17:21.39,0:17:23.67,Default,NTP,0000,0000,0000,,彼得·格里高利绝不会同意的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}This will never fly with Peter Gregory.
+Dialogue: 0,0:17:25.34,0:17:27.41,Default,NTP,0000,0000,0000,,我现在可不想当理查德\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I would not want to be Richard right now.
+Dialogue: 0,0:17:28.11,0:17:30.04,Default,NTP,0000,0000,0000,,要告诉大头他被开掉了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Having to tell Big Head that he's out.
+Dialogue: 0,0:17:30.39,0:17:31.83,Default,NTP,0000,0000,0000,,听起来肯定很恶毒\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}This is gonna sound super mean,
+Dialogue: 0,0:17:31.83,0:17:33.38,Default,NTP,0000,0000,0000,,但有一天晚上他在睡觉\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}but the other night he was sleeping,
+Dialogue: 0,0:17:33.39,0:17:34.70,Default,NTP,0000,0000,0000,,我盯着他的脸\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I was just staring at his face.
+Dialogue: 0,0:17:34.70,0:17:37.81,Default,NTP,0000,0000,0000,,我能想到的只有  他太没用了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}All I could think was, "He's utterly useless."
+Dialogue: 0,0:17:38.28,0:17:40.63,Default,NTP,0000,0000,0000,,大头是个毫无用处的人\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Big Head is a man with zero purpose.
+Dialogue: 0,0:17:43.18,0:17:46.66,Default,NTP,0000,0000,0000,,-你好  大头  -你好\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- Oh, hi. Hi, Big Head. - Hey.
+Dialogue: 0,0:17:46.71,0:17:47.69,Default,NTP,0000,0000,0000,,进展如何\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}How's it going?
+Dialogue: 0,0:17:48.38,0:17:51.24,Default,NTP,0000,0000,0000,,现在看来  很不错\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}It's... super good... right now.
+Dialogue: 0,0:17:51.24,0:17:54.17,Default,NTP,0000,0000,0000,,我现在要去很快速的骑个车\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Um, I'm just going to maybe go for a bike ride real fast
+Dialogue: 0,0:17:54.17,0:17:58.04,Default,NTP,0000,0000,0000,,清理一下思绪\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}and clear my... head.
+Dialogue: 0,0:17:58.25,0:18:00.20,Default,NTP,0000,0000,0000,,回头  见\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'll see... you.
+Dialogue: 0,0:18:00.23,0:18:02.02,Default,NTP,0000,0000,0000,,-一路平安  -好好享受\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- Bike safe. - Yeah, enjoy it.
+Dialogue: 0,0:18:02.15,0:18:04.33,Default,NTP,0000,0000,0000,,真好啊  各位  他都听见了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}That was nice, guys. He heard everything.
+Dialogue: 0,0:18:04.67,0:18:06.08,Default,NTP,0000,0000,0000,,那也不代表我们说错了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}That doesn't make it not true.
+Dialogue: 0,0:18:06.26,0:18:09.26,Default,NTP,0000,0000,0000,,我说  理查德  对魔笛手来说\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I mean, come on, Richard. As far as Pied Piper is concerned,
+Dialogue: 0,0:18:09.26,0:18:11.93,Default,NTP,0000,0000,0000,,他就和质量效应3的多结局一样毫无意义\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}he's as pointless as Mass Effect 3's multiple endings.
+Dialogue: 0,0:18:11.93,0:18:14.74,Default,NTP,0000,0000,0000,,他对公司来说毫无用处  我们都知道这一点\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I mean, he's a completely useless appendage and we all know it.
+Dialogue: 0,0:18:17.18,0:18:19.88,Default,NTP,0000,0000,0000,,-你好  伙计  -忘了拿水壶了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- Oh, hey, man. - Forgot my water bottle.
+Dialogue: 0,0:18:23.95,0:18:26.07,Default,NTP,0000,0000,0000,,我去拿一下水壶  然后\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Just gonna grab it, and then
+Dialogue: 0,0:18:26.35,0:18:29.21,Default,NTP,0000,0000,0000,,再走出去一遍\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}probably walk right back through one more time.
+Dialogue: 0,0:18:30.36,0:18:34.11,Default,NTP,0000,0000,0000,,质量效应3  这话太重了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I mean, Mass Effect 3? Harsh.
+Dialogue: 0,0:18:34.11,0:18:35.96,Default,NTP,0000,0000,0000,,我也没想让他听到  但这是事实\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I didn't mean for him to hear it but it was true.
+Dialogue: 0,0:18:35.96,0:18:37.56,Default,NTP,0000,0000,0000,,我们一直都在说他人有多好\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I mean, we all called him a
+Dialogue: 0,0:18:37.56,0:18:39.64,Default,NTP,0000,0000,0000,,但是他一次都没听到过\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}great guy but he didn't overhear any of that.
+Dialogue: 0,0:18:41.24,0:18:42.59,Default,NTP,0000,0000,0000,,已经12个小时了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}It's been 12 hours.
+Dialogue: 0,0:18:43.28,0:18:45.38,Default,NTP,0000,0000,0000,,老天  他还是不接电话\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Goddamn. He's still not answering.
+Dialogue: 0,0:18:46.26,0:18:48.74,Default,NTP,0000,0000,0000,,我有点担心他了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'm actually kind of worried about him.
+Dialogue: 0,0:18:48.75,0:18:51.97,Default,NTP,0000,0000,0000,,如果他真的走了  是说那种走了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}You know, if he's gone, like, really truly gone,
+Dialogue: 0,0:18:52.70,0:18:55.11,Default,NTP,0000,0000,0000,,某种程度上来说也算是解决你的问题了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}in a way that kind of solves your problem.
+Dialogue: 0,0:18:55.42,0:18:57.21,Default,NTP,0000,0000,0000,,我是说  如果他死了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I mean, like, if he's dead...
+Dialogue: 0,0:18:57.21,0:18:59.21,Default,NTP,0000,0000,0000,,你的意思是大头有可能死了吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Are you trying to say that Big Head might be dead?
+Dialogue: 0,0:18:59.23,0:19:01.15,Default,NTP,0000,0000,0000,,这可帮不了什么  这能帮得了什么\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}That doesn't help at all. How is that helping?
+Dialogue: 0,0:19:01.15,0:19:02.38,Default,NTP,0000,0000,0000,,我只是说\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'm just saying that that's
+Dialogue: 0,0:19:02.38,0:19:04.17,Default,NTP,0000,0000,0000,,这是一种可能而已\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}a possible thing that could've happened to him.
+Dialogue: 0,0:19:04.17,0:19:06.86,Default,NTP,0000,0000,0000,,谁都有一死  至少这个情况下\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}It could happen to anybody. And in this case,
+Dialogue: 0,0:19:05.82,0:20:05.82,Default,NTP,0000,0000,0000,,{\an9}{\alpha&FF\bord0\shad0\b0\c&HECB000&\fn方正兰亭粗黑_GBK\fs15}{\fry-90\t(0,1000,\fry0)\t(10000,11000,\fry180)\t(11000,12000,\fry360)\t(20000,22000,\fry720)\t(30000,32000,\fry1080)\t(40000,42000,\fry1440)\t(50000,52000,\fry1800)}人{\b0}人{\b0}影{\b0}视\N{\fs11\fsp-1}Y{\b0}Y{\b0}e{\b0}T{\b0}s{\b0}.{\b0}c{\b0}o{\b0}m
+Dialogue: 0,0:19:05.82,0:20:05.82,Default,NTP,0000,0000,0000,,{\an6\pos(345,18)}{\alpha&HD1\fn方正黑体_GBK\fs16\b1\bord0\shad0\4c&H00000&\fscx8\fscy10\p1\c&HECB000&}{\fry-90\t(0,1000,\fry0)\t(10000,11000,\fry180)\t(11000,12000,\fry360)\t(20000,22000,\fry720)\t(30000,32000,\fry1080)\t(40000,42000,\fry1440)\t(50000,52000,\fry1800)}m 325 0 l 355 0 l 332 47 l 354 47 l 399 136 l 369 136 l 328 53 l 288 136 l 257 136 l 325 0 m 467 0 l 497 0 l 474 47 l 496 47 l 541 136 l 511 136 l 470 53 l 430 136 l 399 136 l 467 0 m 545 1 l 583 1 l 583 14 l 568 14 l 568 19 l 583 19 l 583 30 l 568 30 l 568 34 l 599 34 l 599 30 l 583 30 l 583 19 l 599 19 l 599 14 l 583 14 l 583 1 l 611 1 b 616 1 622 6 622 10 l 622 36 l 652 0 l 678 0 l 644 41 l 622 41 l 622 47 l 596 47 l 597 54 l 625 54 l 625 68 l 541 68 l 541 54 l 572 54 l 571 47 l 545 47 l 545 1 m 583 72 l 583 85 l 569 85 l 569 90 l 598 90 l 598 85 l 583 85 l 583 72 l 611 72 b 615 72 621 78 621 82 l 653 44 l 678 44 l 644 86 l 621 86 l 621 103 l 597 103 l 597 136 l 570 136 l 564 126 l 562 136 l 542 136 l 548 107 l 568 107 l 565 121 l 571 121 l 571 103 l 547 103 l 547 72 l 583 72 m 600 107 l 620 107 l 624 124 l 653 89 l 679 89 l 642 136 l 615 136 l 618 132 l 606 132 l 600 107 m 689 0 l 716 0 l 721 15 l 732 15 l 732 30 l 718 56 l 731 56 l 735 100 l 721 100 l 717 59 l 714 64 l 714 136 l 693 136 l 693 79 l 676 79 l 707 30 l 679 30 l 679 15 l 694 15 l 689 0 m 738 0 l 804 0 b 807 0 813 6 813 9 l 813 87 l 794 87 l 794 14 l 756 14 l 756 87 l 763 77 l 763 21 l 787 21 l 787 91 l 798 91 l 798 120 l 820 120 l 812 136 l 778 136 l 778 90 l 748 136 l 723 136 l 756 87 l 738 87 l 738 0 m 257 151 l 275 151 l 297 182 l 319 151 l 337 151 l 304 197 l 304 227 l 290 227 l 290 197 l 257 151 m 337 151 l 355 151 l 377 182 l 399 151 l 417 151 l 384 197 l 384 227 l 370 227 l 370 197 l 337 151 m 425 192 l 447 192 b 445 181 427 181 425 192 l 410 192 b 414 162 458 162 462 192 l 462 206 l 425 206 b 425 210 429 212 433 213 l 462 213 l 462 227 l 433 227 b 412 227 408 203 410 192 m 462 151 l 532 151 l 532 165 l 504 165 l 504 227 l 489 227 l 489 165 l 462 165 l 462 151 m 580 172 l 580 186 l 549 186 b 543 186 543 192 549 192 l 565 192 b 589 192 589 227 565 227 l 532 227 l 532 213 l 565 213 b 570 213 570 206 565 206 l 549 206 b 524 206 524 172 549 172 l 580 172 m 592 213 l 606 213 l 606 227 l 592 227 l 592 213 m 639 172 l 665 172 l 665 186 l 639 186 b 623 186 623 213 639 213 l 665 213 l 665 227 l 639 227 b 603 227 603 172 639 172 m 700 184 b 722 184 722 215 700 215 l 700 229 b 740 229 740 170 700 170 b 660 170 660 229 700 229 l 700 215 b 680 215 680 184 700 184 m 737 172 l 782 172 b 803 172 813 177 813 198 l 813 228 l 799 228 l 799 198 b 799 186 793 187 782 187 l 782 228 l 768 228 l 768 187 l 752 187 l 752 228 l 737 228 l 737 172{\p0}
+Dialogue: 0,0:19:06.86,0:19:09.00,Default,NTP,0000,0000,0000,,还能有点正面作用\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}at least something good came out of it.
+Dialogue: 0,0:19:09.00,0:19:10.38,Default,NTP,0000,0000,0000,,什么正面作用\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}What's the good part?
+Dialogue: 0,0:19:10.38,0:19:12.27,Default,NTP,0000,0000,0000,,你不需要再尴尬的和他谈话了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}You don't have to have an awkward conversation.
+Dialogue: 0,0:19:12.27,0:19:14.21,Default,NTP,0000,0000,0000,,你这么说很恐怖  我们是不是该去找找他\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}That's scary. Should we go look for him?
+Dialogue: 0,0:19:14.38,0:19:17.83,Default,NTP,0000,0000,0000,,我和他们的想法一致  贾里德就是不适合这里\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I mean, I agree with these guys. Jared's just not working out.
+Dialogue: 0,0:19:18.79,0:19:21.33,Default,NTP,0000,0000,0000,,-什么  -理查德\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- What? - Um, Richard...
+Dialogue: 0,0:19:21.64,0:19:24.12,Default,NTP,0000,0000,0000,,我不想太独断\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I, uh, don't wanna be too assertive here
+Dialogue: 0,0:19:24.12,0:19:27.27,Default,NTP,0000,0000,0000,,关于这份商业规划我需要你的看法\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}but I could use your input on a few things for the business plan.
+Dialogue: 0,0:19:27.27,0:19:29.03,Default,NTP,0000,0000,0000,,里奇  你试过了  再给他个电话\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Richie, you tried your best. Just call him,
+Dialogue: 0,0:19:29.03,0:19:30.78,Default,NTP,0000,0000,0000,,留条留言  告诉他他被开掉了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}leave a message, say he's out.
+Dialogue: 0,0:19:30.95,0:19:32.70,Default,NTP,0000,0000,0000,,不  混蛋才这么做\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}No, that's an asshole move.
+Dialogue: 0,0:19:32.70,0:19:35.78,Default,NTP,0000,0000,0000,,是啊  忘了吗  你需要做这个混蛋\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Yeah, remember? You need to be an asshole.
+Dialogue: 0,0:19:36.52,0:19:39.75,Default,NTP,0000,0000,0000,,我很抱歉刚才说他可能死了之类的话\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I feel bad about saying that thing about him being dead.
+Dialogue: 0,0:19:39.75,0:19:41.01,Default,NTP,0000,0000,0000,,我不是有心的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}That's not who I am.
+Dialogue: 0,0:19:44.26,0:19:46.58,Default,NTP,0000,0000,0000,,-等等  这是什么  -这不可能啊\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- Wait, what is that? - That's impossible.
+Dialogue: 0,0:19:47.91,0:19:49.36,Default,NTP,0000,0000,0000,,乳报还没上线呢\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Nip Alert isn't live yet.
+Dialogue: 0,0:19:49.38,0:19:51.09,Default,NTP,0000,0000,0000,,也许他在做测试\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Maybe he's demoing it for someone.
+Dialogue: 0,0:19:52.12,0:19:54.29,Default,NTP,0000,0000,0000,,{\an4}{\fn方正黑体简体\fs18\b1\bord1\shad1\3c&H2F2F2F&}摩卡奇诺7986\N注册时间：今天\N上次提醒：刚刚\N提醒次数：1次\N城市：加州  圣何塞\N距离：26.88公里
+Dialogue: 0,0:19:53.40,0:19:54.21,Default,NTP,0000,0000,0000,,摩卡奇诺\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}"Mochacino."
+Dialogue: 0,0:19:54.50,0:19:56.82,Default,NTP,0000,0000,0000,,他居然骑车去了圣何塞\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}He rode his bike to San Jose?
+Dialogue: 0,0:19:56.82,0:19:58.11,Default,NTP,0000,0000,0000,,贾里德  能不能借你的车用一下\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Jared, can I borrow your car?
+Dialogue: 0,0:19:58.11,0:19:59.69,Default,NTP,0000,0000,0000,,-当然  -我也有车\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- Sure. - I have a car.
+Dialogue: 0,0:20:00.41,0:20:02.05,Default,NTP,0000,0000,0000,,我的车怎么了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}What... what's wrong with my car?
+Dialogue: 0,0:20:02.05,0:20:03.63,Default,NTP,0000,0000,0000,,我要  我也不知道\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I just have... I don't know.
+Dialogue: 0,0:20:03.90,0:20:05.66,Default,NTP,0000,0000,0000,,好吧  记得要混蛋一点\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}All right, well, remember to be an asshole.
+Dialogue: 0,0:20:08.48,0:20:10.99,Default,NTP,0000,0000,0000,,像个真正的混蛋\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}A real asshole.
+Dialogue: 0,0:20:17.29,0:20:18.72,Default,NTP,0000,0000,0000,,你好  我是理查德·亨德里克斯\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Hi, I'm Richard Hendricks.
+Dialogue: 0,0:20:18.72,0:20:21.00,Default,NTP,0000,0000,0000,,你在我家跳过舞\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}You did a dance... the dancing at my house.
+Dialogue: 0,0:20:21.00,0:20:22.14,Default,NTP,0000,0000,0000,,接你的人到了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Your ride's here.
+Dialogue: 0,0:20:22.89,0:20:24.19,Default,NTP,0000,0000,0000,,你好  伙计\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Oh, hey, man.
+Dialogue: 0,0:20:24.51,0:20:26.13,Default,NTP,0000,0000,0000,,蘑菇章\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Mushroom stamp!
+Dialogue: 0,0:20:26.13,0:20:27.59,Default,NTP,0000,0000,0000,,别啊  伙计  别\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}No, come on, dude, not...
+Dialogue: 0,0:20:31.13,0:20:33.53,Default,NTP,0000,0000,0000,,我只是想靠电脑过活\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I just wanted to work with computers and get paid for it.
+Dialogue: 0,0:20:33.53,0:20:34.52,Default,NTP,0000,0000,0000,,我不想和我的室友\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I didn't want end up fighting
+Dialogue: 0,0:20:34.52,0:20:36.79,Default,NTP,0000,0000,0000,,争那几个百分点\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}with my roommates over percentage points.
+Dialogue: 0,0:20:36.81,0:20:38.21,Default,NTP,0000,0000,0000,,你要放弃了吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}So you're just gonna give up?
+Dialogue: 0,0:20:38.28,0:20:41.19,Default,NTP,0000,0000,0000,,放弃什么  这又不是我家\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}On what? This isn't home.
+Dialogue: 0,0:20:41.69,0:20:43.53,Default,NTP,0000,0000,0000,,不管我多努力  这都不是我家\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}As much as I've tried, it's just not.
+Dialogue: 0,0:20:43.85,0:20:44.76,Default,NTP,0000,0000,0000,,如果我当时没拿摩卡奇诺的名片\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I mean, what would've I have
+Dialogue: 0,0:20:44.76,0:20:46.85,Default,NTP,0000,0000,0000,,谁知道我会干出点什么呢\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}even done if I didn't have Mochacino's card?
+Dialogue: 0,0:20:47.11,0:20:50.85,Default,NTP,0000,0000,0000,,我又能去哪儿  真是可悲\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Where would I have gone? It's fucking pathetic.
+Dialogue: 0,0:20:51.09,0:20:52.71,Default,NTP,0000,0000,0000,,摩卡奇诺看起来还挺喜欢你的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Well, Mochacino seemed to like you.
+Dialogue: 0,0:20:52.71,0:20:54.40,Default,NTP,0000,0000,0000,,她让你进她家了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}She let you into her apartment.
+Dialogue: 0,0:20:54.50,0:20:56.13,Default,NTP,0000,0000,0000,,我拿自行车换的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I had to give her my bike.
+Dialogue: 0,0:20:56.21,0:20:58.48,Default,NTP,0000,0000,0000,,她就和谷里其他人一样\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}She's just like everyone else in this goddamn valley.
+Dialogue: 0,0:20:58.48,0:21:01.57,Default,NTP,0000,0000,0000,,只要不亏就行  操他大爷的  我不干了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Watching the bottom line. Fuck it, dude. I'm done here.
+Dialogue: 0,0:21:02.24,0:21:03.46,Default,NTP,0000,0000,0000,,那乳报怎么办\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}What about Nip Alert?
+Dialogue: 0,0:21:04.37,0:21:06.00,Default,NTP,0000,0000,0000,,摩卡奇诺靠露奶讨生活\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Mochacino shows her tits for a living
+Dialogue: 0,0:21:06.00,0:21:08.74,Default,NTP,0000,0000,0000,,但是连她都不愿意用那玩意\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}and even she was uncomfortable using it.
+Dialogue: 0,0:21:08.74,0:21:12.90,Default,NTP,0000,0000,0000,,她说这是性别歧视  她说得对  确实很变态\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}She said it was sexist. She's right. It's actually perverted.
+Dialogue: 0,0:21:13.13,0:21:16.43,Default,NTP,0000,0000,0000,,我开发了个变态  性别歧视  毫无用处的程序\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I made a perverted, sexist, useless thing.
+Dialogue: 0,0:21:18.98,0:21:20.83,Default,NTP,0000,0000,0000,,他们都没说错  伙计\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}And, you know, everybody's right, man,
+Dialogue: 0,0:21:21.43,0:21:23.42,Default,NTP,0000,0000,0000,,我在魔笛手毫无用处\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}there's nothing for me to do on Pied Piper.
+Dialogue: 0,0:21:23.68,0:21:26.95,Default,NTP,0000,0000,0000,,再给我点时间  我们可以给你找个位置\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I think over time, maybe we could redefine your role.
+Dialogue: 0,0:21:26.95,0:21:29.54,Default,NTP,0000,0000,0000,,何必呢  伙计  除非\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Come on, dude. Unless you can
+Dialogue: 0,0:21:29.54,0:21:31.51,Default,NTP,0000,0000,0000,,你现在能告诉我我能为魔笛手做些什么\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}tell me right now what I can do for Pied Piper
+Dialogue: 0,0:21:31.51,0:21:34.57,Default,NTP,0000,0000,0000,,而这是别人做不了的  不然我就走了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}that no one else can, I'm gone.
+Dialogue: 0,0:21:38.23,0:21:39.12,Default,NTP,0000,0000,0000,,我就知道\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Yeah.
+Dialogue: 0,0:21:40.04,0:21:42.80,Default,NTP,0000,0000,0000,,我现在去互利拿上我的东西\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'm going to go get the stuff out of my cube at Hooli
+Dialogue: 0,0:21:42.80,0:21:45.47,Default,NTP,0000,0000,0000,,然后就离开这里\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}and then I'm getting the hell out of this town.
+Dialogue: 0,0:21:49.17,0:21:50.34,Default,NTP,0000,0000,0000,,那这是告别了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}So this is goodbye then?
+Dialogue: 0,0:21:53.14,0:21:54.82,Default,NTP,0000,0000,0000,,我还是会回房子里  伙计\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I mean, I'll see you back at the house, man.
+Dialogue: 0,0:21:54.82,0:21:57.30,Default,NTP,0000,0000,0000,,我还得去打包东西\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I gotta, like, pack and stuff.
+Dialogue: 0,0:21:57.30,0:21:58.40,Default,NTP,0000,0000,0000,,当然\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Totally.
+Dialogue: 0,0:21:58.74,0:22:01.76,Default,NTP,0000,0000,0000,,我乘火车回去  需要思考下\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'm going to take the train I think, just... do some thinking...
+Dialogue: 0,0:22:01.76,0:22:03.22,Default,NTP,0000,0000,0000,,好的  回见\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}OK, all right, see ya.
+Dialogue: 0,0:22:05.54,0:22:08.49,Default,NTP,0000,0000,0000,,-火车站在这边  -我刚想跟你说\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- The train is this way... I just... - Oh. I was gonna say.
+Dialogue: 0,0:22:08.75,0:22:09.60,Default,NTP,0000,0000,0000,,大头\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Big Head...
+Dialogue: 0,0:22:11.42,0:22:13.07,Default,NTP,0000,0000,0000,,不管你有什么狗屁话要说\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Whatever shit you're about to dump on my head,
+Dialogue: 0,0:22:13.07,0:22:15.23,Default,NTP,0000,0000,0000,,闭嘴吧  我没那心情\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}you can save it, OK? I'm not in the mood.
+Dialogue: 0,0:22:15.25,0:22:16.53,Default,NTP,0000,0000,0000,,伙计  我只是想告诉你\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Dude, I just wanted to tell you
+Dialogue: 0,0:22:16.53,0:22:18.43,Default,NTP,0000,0000,0000,,盖文·贝尔森要找你谈谈\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}that Gavin Belson wants to talk to you about something.
+Dialogue: 0,0:22:18.43,0:22:21.85,Default,NTP,0000,0000,0000,,-好吧  操你大爷的  -不  我是认真的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- Oh, OK. Fuck you. - No. Seriously.
+Dialogue: 0,0:22:22.10,0:22:25.53,Default,NTP,0000,0000,0000,,盖文·贝尔森说他想找尼尔森·大头弟谈谈\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Gavin Belson said he wants to speak to Nelson Bighetti?
+Dialogue: 0,0:22:25.86,0:22:27.77,Default,NTP,0000,0000,0000,,是啊  我刚才就说了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Yeah, that's what I just said.
+Dialogue: 0,0:22:29.49,0:22:30.43,Default,NTP,0000,0000,0000,,走啊\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Come on.
+Dialogue: 0,0:22:33.04,0:22:34.38,Default,NTP,0000,0000,0000,,好吧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Ok.
+Dialogue: 0,0:22:39.98,0:22:41.20,Default,NTP,0000,0000,0000,,我醒着  没睡着\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'm awake! I'm awake.
+Dialogue: 0,0:22:42.48,0:22:44.91,Default,NTP,0000,0000,0000,,-什么  -不  我睡着了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- What? - No, no, I wasn't.
+Dialogue: 0,0:22:44.91,0:22:45.71,Default,NTP,0000,0000,0000,,我刚才在打盹\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I was sleeping.
+Dialogue: 0,0:22:45.71,0:22:49.42,Default,NTP,0000,0000,0000,,很抱歉我睡着了还为此撒了谎\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'm sorry for sleeping and for lying about it.
+Dialogue: 0,0:22:49.42,0:22:51.36,Default,NTP,0000,0000,0000,,为二者致歉  很不应该\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}For both. No good.
+Dialogue: 0,0:22:51.41,0:22:54.56,Default,NTP,0000,0000,0000,,怎么回事  你把大头解雇了吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}What happened? Did you fire Big Head?
+Dialogue: 0,0:22:54.94,0:22:57.50,Default,NTP,0000,0000,0000,,没有  还没  我也说不清  算是吧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Uh, no. Not yet. I don't know. Sort of.
+Dialogue: 0,0:22:57.50,0:23:00.40,Default,NTP,0000,0000,0000,,那我到底应不应该把他算在资产表里\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}So do I include him in the cap table or not?
+Dialogue: 0,0:23:00.40,0:23:02.06,Default,NTP,0000,0000,0000,,已经差不多准备好了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}It's basically good to go.
+Dialogue: 0,0:23:02.32,0:23:03.80,Default,NTP,0000,0000,0000,,不用  他已经被解雇了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Uh... no, he's out.
+Dialogue: 0,0:23:03.80,0:23:06.21,Default,NTP,0000,0000,0000,,等等  我也不知道\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Uh, wait... I don't know.
+Dialogue: 0,0:23:06.21,0:23:09.15,Default,NTP,0000,0000,0000,,实际上我得先去睡会  好吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Actually, I just need to close my eyes for a little bit. OK?
+Dialogue: 0,0:23:09.15,0:23:12.49,Default,NTP,0000,0000,0000,,理查德  还剩四小时就要做报告了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Richard, it's t-minus four hours until presentation time.
+Dialogue: 0,0:23:12.50,0:23:14.03,Default,NTP,0000,0000,0000,,你到底炒不炒大头\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Are you gonna fire Big Head or not?
+Dialogue: 0,0:23:14.03,0:23:17.85,Default,NTP,0000,0000,0000,,我不知道  我太累了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I don't know. Uh... I'm just very tired.
+Dialogue: 0,0:23:17.86,0:23:20.46,Default,NTP,0000,0000,0000,,好吗  我得去喝口水\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}OK? I'm just gonna go get some water...
+Dialogue: 0,0:23:20.46,0:23:22.83,Default,NTP,0000,0000,0000,,理查德  别他妈唧唧歪歪的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Richard, stop being a fucking pussy
+Dialogue: 0,0:23:22.83,0:23:24.67,Default,NTP,0000,0000,0000,,得有点混蛋样\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}and start being an asshole.
+Dialogue: 0,0:23:31.63,0:23:34.16,Default,NTP,0000,0000,0000,,好吧  你想让我混蛋一点\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Fine! You want me to be an asshole,
+Dialogue: 0,0:23:34.16,0:23:35.45,Default,NTP,0000,0000,0000,,那我就混蛋给你看\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'll be an asshole.
+Dialogue: 0,0:23:35.46,0:23:36.96,Default,NTP,0000,0000,0000,,我要很混账地对待你\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'll be an asshole to you and
+Dialogue: 0,0:23:36.96,0:23:38.36,Default,NTP,0000,0000,0000,,你  你还有你\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}you and you and you
+Dialogue: 0,0:23:38.36,0:23:40.24,Default,NTP,0000,0000,0000,,还有那个该死的彼得·格里高利\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}and Peter-fucking-Gregory!
+Dialogue: 0,0:23:40.77,0:23:43.56,Default,NTP,0000,0000,0000,,满意了吗  去你们的  大头留下\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}OK? Fuck all of you. Big Head stays!
+Dialogue: 0,0:23:43.79,0:23:45.22,Default,NTP,0000,0000,0000,,如果我想卖公司的话\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}You know, if I wanted to be a sell out
+Dialogue: 0,0:23:45.22,0:23:46.54,Default,NTP,0000,0000,0000,,我早就那么干了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'd have done that already.
+Dialogue: 0,0:23:46.54,0:23:47.74,Default,NTP,0000,0000,0000,,我现在就能口袋里装着一千万\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'd be on a beach somewhere
+Dialogue: 0,0:23:47.74,0:23:49.49,Default,NTP,0000,0000,0000,,去海滩逍遥自在了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}with ten million dollars in my pocket.
+Dialogue: 0,0:23:49.49,0:23:52.46,Default,NTP,0000,0000,0000,,当然装不进我口袋  是在银行账户里\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Not in my pocket, in a bank account.
+Dialogue: 0,0:23:52.47,0:23:54.53,Default,NTP,0000,0000,0000,,好吗  这是我的公司\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}OK? This is my company.
+Dialogue: 0,0:23:54.53,0:23:56.63,Default,NTP,0000,0000,0000,,由我做决定并听我指挥\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}It was my idea and we do what I say.
+Dialogue: 0,0:23:56.63,0:23:58.02,Default,NTP,0000,0000,0000,,我的决定就是  贾里德\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}And what I say is, Jared,
+Dialogue: 0,0:23:58.02,0:23:59.56,Default,NTP,0000,0000,0000,,把大头加到商业规划里\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}put Big Head in the business plan.
+Dialogue: 0,0:23:59.56,0:24:01.54,Default,NTP,0000,0000,0000,,他分得的股份跟其他人一样\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}He gets the same amount of shares as everybody else.
+Dialogue: 0,0:24:01.54,0:24:04.24,Default,NTP,0000,0000,0000,,大头  你不用卷铺盖走人了  伙计\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Big Head, you're not going home, man.
+Dialogue: 0,0:24:04.65,0:24:06.15,Default,NTP,0000,0000,0000,,你说得没错  我不用\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}You're right. I'm not.
+Dialogue: 0,0:24:05.82,0:25:05.82,Default,NTP,0000,0000,0000,,{\an7}{\alpha&FF\bord0\shad0\b0\c&HECB000&\fn方正兰亭粗黑_GBK\fs15}{\fry-90\t(0,1000,\fry0)\t(10000,11000,\fry180)\t(11000,12000,\fry360)\t(20000,22000,\fry720)\t(30000,32000,\fry1080)\t(40000,42000,\fry1440)\t(50000,52000,\fry1800)}人{\b0}人{\b0}影{\b0}视\N{\fs11\fsp-1}Y{\b0}Y{\b0}e{\b0}T{\b0}s{\b0}.{\b0}c{\b0}o{\b0}m
+Dialogue: 0,0:24:05.82,0:25:05.82,Default,NTP,0000,0000,0000,,{\an6\pos(35,18)}{\alpha&HD1\fn方正黑体_GBK\fs16\b1\bord0\shad0\4c&H00000&\fscx8\fscy10\p1\c&HECB000&}{\fry-90\t(0,1000,\fry0)\t(10000,11000,\fry180)\t(11000,12000,\fry360)\t(20000,22000,\fry720)\t(30000,32000,\fry1080)\t(40000,42000,\fry1440)\t(50000,52000,\fry1800)}m 325 0 l 355 0 l 332 47 l 354 47 l 399 136 l 369 136 l 328 53 l 288 136 l 257 136 l 325 0 m 467 0 l 497 0 l 474 47 l 496 47 l 541 136 l 511 136 l 470 53 l 430 136 l 399 136 l 467 0 m 545 1 l 583 1 l 583 14 l 568 14 l 568 19 l 583 19 l 583 30 l 568 30 l 568 34 l 599 34 l 599 30 l 583 30 l 583 19 l 599 19 l 599 14 l 583 14 l 583 1 l 611 1 b 616 1 622 6 622 10 l 622 36 l 652 0 l 678 0 l 644 41 l 622 41 l 622 47 l 596 47 l 597 54 l 625 54 l 625 68 l 541 68 l 541 54 l 572 54 l 571 47 l 545 47 l 545 1 m 583 72 l 583 85 l 569 85 l 569 90 l 598 90 l 598 85 l 583 85 l 583 72 l 611 72 b 615 72 621 78 621 82 l 653 44 l 678 44 l 644 86 l 621 86 l 621 103 l 597 103 l 597 136 l 570 136 l 564 126 l 562 136 l 542 136 l 548 107 l 568 107 l 565 121 l 571 121 l 571 103 l 547 103 l 547 72 l 583 72 m 600 107 l 620 107 l 624 124 l 653 89 l 679 89 l 642 136 l 615 136 l 618 132 l 606 132 l 600 107 m 689 0 l 716 0 l 721 15 l 732 15 l 732 30 l 718 56 l 731 56 l 735 100 l 721 100 l 717 59 l 714 64 l 714 136 l 693 136 l 693 79 l 676 79 l 707 30 l 679 30 l 679 15 l 694 15 l 689 0 m 738 0 l 804 0 b 807 0 813 6 813 9 l 813 87 l 794 87 l 794 14 l 756 14 l 756 87 l 763 77 l 763 21 l 787 21 l 787 91 l 798 91 l 798 120 l 820 120 l 812 136 l 778 136 l 778 90 l 748 136 l 723 136 l 756 87 l 738 87 l 738 0 m 257 151 l 275 151 l 297 182 l 319 151 l 337 151 l 304 197 l 304 227 l 290 227 l 290 197 l 257 151 m 337 151 l 355 151 l 377 182 l 399 151 l 417 151 l 384 197 l 384 227 l 370 227 l 370 197 l 337 151 m 425 192 l 447 192 b 445 181 427 181 425 192 l 410 192 b 414 162 458 162 462 192 l 462 206 l 425 206 b 425 210 429 212 433 213 l 462 213 l 462 227 l 433 227 b 412 227 408 203 410 192 m 462 151 l 532 151 l 532 165 l 504 165 l 504 227 l 489 227 l 489 165 l 462 165 l 462 151 m 580 172 l 580 186 l 549 186 b 543 186 543 192 549 192 l 565 192 b 589 192 589 227 565 227 l 532 227 l 532 213 l 565 213 b 570 213 570 206 565 206 l 549 206 b 524 206 524 172 549 172 l 580 172 m 592 213 l 606 213 l 606 227 l 592 227 l 592 213 m 639 172 l 665 172 l 665 186 l 639 186 b 623 186 623 213 639 213 l 665 213 l 665 227 l 639 227 b 603 227 603 172 639 172 m 700 184 b 722 184 722 215 700 215 l 700 229 b 740 229 740 170 700 170 b 660 170 660 229 700 229 l 700 215 b 680 215 680 184 700 184 m 737 172 l 782 172 b 803 172 813 177 813 198 l 813 228 l 799 228 l 799 198 b 799 186 793 187 782 187 l 782 228 l 768 228 l 768 187 l 752 187 l 752 228 l 737 228 l 737 172{\p0}
+Dialogue: 0,0:24:06.63,0:24:09.35,Default,NTP,0000,0000,0000,,盖文·贝尔森刚刚为了把我挖走\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Gavin Belson just offered me a huge promotion
+Dialogue: 0,0:24:09.35,0:24:13.06,Default,NTP,0000,0000,0000,,给我提供了年薪六十万的升职机会\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}for 600 grand a year to steal me away from you guys.
+Dialogue: 0,0:24:13.30,0:24:14.05,Default,NTP,0000,0000,0000,,-什么  -没错\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- What? - Yeah.
+Dialogue: 0,0:24:14.05,0:24:16.32,Default,NTP,0000,0000,0000,,作为报复  因为你挖走了贾里德\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}For revenge. Because you took Jared.
+Dialogue: 0,0:24:17.43,0:24:19.27,Default,NTP,0000,0000,0000,,所以你就是怨恨之副总了\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}So you're like the V.P. of spite?
+Dialogue: 0,0:24:19.27,0:24:21.13,Default,NTP,0000,0000,0000,,但你得帮我个忙  理查德\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}But you have to do me a favor, Richard,
+Dialogue: 0,0:24:21.13,0:24:23.06,Default,NTP,0000,0000,0000,,如果你以后撞见盖文\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}if you run into Gavin ever
+Dialogue: 0,0:24:23.06,0:24:25.03,Default,NTP,0000,0000,0000,,一定要装作对此很难过  好吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}you have to act really upset about it, you know?
+Dialogue: 0,0:24:25.03,0:24:27.54,Default,NTP,0000,0000,0000,,但我确实很难过\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Oh, but I am upset.
+Dialogue: 0,0:24:28.39,0:24:30.44,Default,NTP,0000,0000,0000,,好吗  真他妈操蛋\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}OK? What the fuck? I kind
+Dialogue: 0,0:24:30.45,0:24:32.32,Default,NTP,0000,0000,0000,,我为了你和所有人都翻脸了  伙计\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}of just went out on a limb for you here, man.
+Dialogue: 0,0:24:32.87,0:24:35.17,Default,NTP,0000,0000,0000,,抱歉  伙计  但对我来说机会难得\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Sorry, man, but this is huge for me.
+Dialogue: 0,0:24:35.48,0:24:37.51,Default,NTP,0000,0000,0000,,我准备搬出去自己住\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I'm going to move out, get my own place.
+Dialogue: 0,0:24:37.67,0:24:42.18,Default,NTP,0000,0000,0000,,鉴于这个消息  大头的股权归谁\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}In light of this new information, who gets Big Head's equity?
+Dialogue: 0,0:24:42.18,0:24:44.39,Default,NTP,0000,0000,0000,,我能拿一半他的股份吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Should I get half of his shares...?
+Dialogue: 0,0:24:44.39,0:24:46.05,Default,NTP,0000,0000,0000,,是我的  归我\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I do. I get it.
+Dialogue: 0,0:24:46.41,0:24:47.76,Default,NTP,0000,0000,0000,,好吗  全归我\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}OK? I get all of it!
+Dialogue: 0,0:24:49.86,0:24:50.64,Default,NTP,0000,0000,0000,,大头  伙计\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Big Head, man,
+Dialogue: 0,0:24:50.64,0:24:53.27,Default,NTP,0000,0000,0000,,恭喜你得到这份工作  真心的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}congratulations on the job, really.
+Dialogue: 0,0:24:53.27,0:24:54.35,Default,NTP,0000,0000,0000,,但失陪下\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}But if you'll excuse me,
+Dialogue: 0,0:24:54.35,0:24:57.80,Default,NTP,0000,0000,0000,,我得去最终确定这个操蛋的商业规划\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I have to go lock down a motherfucking business plan.
+Dialogue: 0,0:24:57.80,0:24:58.87,Default,NTP,0000,0000,0000,,贾里德  你跟我来\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Jared, you're with me.
+Dialogue: 0,0:25:04.10,0:25:08.48,Default,NTP,0000,0000,0000,,-真够混蛋的  -没错  真是个混蛋\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- What an asshole. - Yeah. What an asshole.
+Dialogue: 0,0:25:14.46,0:25:15.47,Default,NTP,0000,0000,0000,,下一位\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Next.
+Dialogue: 0,0:25:17.02,0:25:19.80,Default,NTP,0000,0000,0000,,你好  存钱吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Hi. Deposit?
+Dialogue: 0,0:25:20.24,0:25:23.87,Default,NTP,0000,0000,0000,,{\an8}{\fn方正黑体简体\fs18\b1\bord1\shad1\3c&H2F2F2F&}支付给  魔笛手股份有限公司\N5%公司股份\N彼得·格里高利
+Dialogue: 0,0:25:24.59,0:25:27.53,Default,NTP,0000,0000,0000,,彼得·格里高利支付的二十万美元吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Two hundred thousand dollars from Peter Gregory?
+Dialogue: 0,0:25:34.40,0:25:35.53,Default,NTP,0000,0000,0000,,抱歉\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Sorry.
+Dialogue: 0,0:25:37.55,0:25:38.46,Default,NTP,0000,0000,0000,,喂\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Hello?
+Dialogue: 0,0:25:38.60,0:25:40.68,Default,NTP,0000,0000,0000,,伙计  他们正在分解你的代码\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Dude, they're taking your code apart.
+Dialogue: 0,0:25:41.15,0:25:42.07,Default,NTP,0000,0000,0000,,什么\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}What?
+Dialogue: 0,0:25:42.17,0:25:43.62,Default,NTP,0000,0000,0000,,你给那帮码仔队权限\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Did you give those brogrammer guys
+Dialogue: 0,0:25:43.62,0:25:45.45,Default,NTP,0000,0000,0000,,下载播放器了吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}access to a player download or something?
+Dialogue: 0,0:25:46.19,0:25:48.93,Default,NTP,0000,0000,0000,,妈的  他们可能破解了源程序\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Oh shit. They probably hacked the prototype
+Dialogue: 0,0:25:48.93,0:25:50.90,Default,NTP,0000,0000,0000,,反编译了压缩库\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}and decompiled the compression library...
+Dialogue: 0,0:25:51.60,0:25:53.29,Default,NTP,0000,0000,0000,,他们已经都搞定了  伙计\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Well, they've got it now, man.
+Dialogue: 0,0:25:54.00,0:25:55.55,Default,NTP,0000,0000,0000,,他们准备逆向生成一个版本\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}They're gonna reverse-engineer a version
+Dialogue: 0,0:25:55.55,0:25:58.02,Default,NTP,0000,0000,0000,,与你的尽可能相似  但又不会侵权\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}as close as they can without getting sued.
+Dialogue: 0,0:25:58.16,0:25:59.69,Default,NTP,0000,0000,0000,,等下  你确定吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Wait, wait, are you sure about this?
+Dialogue: 0,0:25:59.69,0:26:01.77,Default,NTP,0000,0000,0000,,当然了  伙计  盖文想要抢占你的市场\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Yeah, dude, Gavin wants to beat you to market.
+Dialogue: 0,0:26:01.77,0:26:03.22,Default,NTP,0000,0000,0000,,他要确保硅谷的其他投资者\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}He wants to make sure no other investor
+Dialogue: 0,0:26:03.22,0:26:04.97,Default,NTP,0000,0000,0000,,一个子都不会付给你\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}in the Valley offers you a dime.
+Dialogue: 0,0:26:05.60,0:26:06.68,Default,NTP,0000,0000,0000,,这可不妙\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}That is not good.
+Dialogue: 0,0:26:06.68,0:26:09.62,Default,NTP,0000,0000,0000,,他们叫它'纽核力'  鬼知道是什么意思\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}They're calling it Nucleus, whatever the fuck that means.
+Dialogue: 0,0:26:09.96,0:26:11.17,Default,NTP,0000,0000,0000,,妈的  抱歉伙计\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Shit. Sorry, dude,
+Dialogue: 0,0:26:11.17,0:26:13.96,Default,NTP,0000,0000,0000,,我不能再跟你说了  回聊\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I can't be talking to you like this. Later.
+Dialogue: 0,0:26:14.15,0:26:15.00,Default,NTP,0000,0000,0000,,好吧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Yeah.
+Dialogue: 0,0:26:16.71,0:26:17.70,Default,NTP,0000,0000,0000,,纽核力\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}"Nucleus"?
+Dialogue: 0,0:26:18.40,0:26:19.17,Default,NTP,0000,0000,0000,,打扰下\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Excuse me.
+Dialogue: 0,0:26:19.17,0:26:22.65,Default,NTP,0000,0000,0000,,这张支票是付给'魔笛手股份有限公司'的\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}This check is made out to "Pied Piper Incorporated."
+Dialogue: 0,0:26:22.65,0:26:23.81,Default,NTP,0000,0000,0000,,{\an8}{\fn方正黑体简体\fs18\b1\bord1\shad1\3c&H2F2F2F&}[美国申请雇主识别码的表格]
+Dialogue: 0,0:26:22.65,0:26:23.81,Default,NTP,0000,0000,0000,,你带SS-4表格了吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Do you have an SS-4?
+Dialogue: 0,0:26:24.41,0:26:25.19,Default,NTP,0000,0000,0000,,什么东西\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}A what?
+Dialogue: 0,0:26:25.19,0:26:28.14,Default,NTP,0000,0000,0000,,魔笛手这个公司在国税局注册过吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Is "Pied Piper" a corporation registered with the IRS?
+Dialogue: 0,0:26:28.14,0:26:30.21,Default,NTP,0000,0000,0000,,我不能把它存入个人账户\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I can't deposit that into a personal account.
+Dialogue: 0,0:26:30.25,0:26:32.14,Default,NTP,0000,0000,0000,,我不知道\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}I don't know.
+Dialogue: 0,0:26:32.14,0:26:35.16,Default,NTP,0000,0000,0000,,这个你能帮我搞定吗\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Um... is that something maybe you could help me with?
+Dialogue: 0,0:26:35.31,0:26:36.45,Default,NTP,0000,0000,0000,,不行  先生\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}No, sir.
+Dialogue: 0,0:26:38.84,0:26:39.94,Default,NTP,0000,0000,0000,,哥们  搞什么\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Buddy, come on.
+Dialogue: 0,0:26:41.10,0:26:43.32,Default,NTP,0000,0000,0000,,好吧  好\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Uh-huh. Yeah, yeah.
+Dialogue: 0,0:26:43.42,0:26:45.26,Default,NTP,0000,0000,0000,,-谢谢你  -抱歉  好吧\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}- Thank you. - Sorry. OK.
+Dialogue: 0,0:26:47.33,0:26:48.59,Default,NTP,0000,0000,0000,,下一位\N{\fn微软雅黑}{\b0}{\fs14}{\3c&H000000&}{\shad1}Next.
+Dialogue: 0,0:26:55.63,0:28:00.11,Default,YYeTsLogo,0000,0000,0000,,{\fe134\an2\i0\u0\s0\fsp0\fr0\4c&H00000&\b1\fs16\fn方正黑体_GBK}{\bord0\shad0\fscx11\fscy14.5\p1\c&HCE8F00&\pos(70,258)\fad(500,500)}m 20 0 l 209 0 b 218 0 229 11 229 20 l 229 209 b 229 218 218 228 209 228 l 20 228 b 11 228 0 218 0 209 l 0 20 b 0 11 11 0 20 0{\p0}
+Dialogue: 0,0:26:55.63,0:28:00.11,Default,YYeTsLogo,0000,0000,0000,,{\fe134\an2\i0\u0\s0\fsp0\fr0\4c&H00000&\b1\fs16\fn方正黑体_GBK}{\bord0\shad0\fscx11\fscy14\p1\c&HF6DBA1&\pos(70,258)\fad(500,500)}m 115 64 l 115 35 l 171 0 l 177 0 l 133 46 l 143 52 l 179 0 l 184 0 l 159 63 l 229 107 l 229 182 l 145 96 l 135 122 l 207 227 l 137 227 l 115 172 l 115 93 l 126 76 l 115 64 l 104 76 l 115 93 l 115 172 l 93 227 l 23 227 l 95 122 l 84 96 l 0 182 l 0 107 l 70 63 l 45 0 l 50 0 l 87 52 l 97 46 l 52 0 l 59 0 l 115 35{\p0}
+Dialogue: 0,0:26:55.63,0:28:00.11,Default,YYeTsLogo,0000,0000,0000,,{\fe134\an2\i0\u0\s0\fsp0\fr0\4c&H00000&\b1\fs16\fn方正黑体_GBK}{\bord0\shad0\fscx15\fscy18\p1\1a&H3D&\c&HFFFFFF&\blur10\pos(60,248)\fad(500,500)}m 71 60 b 71 0 161 0 161 60 b 161 120 71 120 71 60{\p0}
+Dialogue: 0,0:26:55.63,0:28:00.11,Default,YYeTsLogo,0000,0000,0000,,{\fe134\an2\i0\u0\s0\fsp0\fr0\4c&H00000&\b1\fs16\fn方正黑体_GBK}{\bord0\shad0\fscx11\fscy14\p1\c&HECB000&\pos(86,258)\fad(500,500)}m 325 0 l 355 0 l 332 47 l 354 47 l 399 136 l 369 136 l 328 53 l 288 136 l 257 136 l 325 0 m 467 0 l 497 0 l 474 47 l 496 47 l 541 136 l 511 136 l 470 53 l 430 136 l 399 136 l 467 0 m 545 1 l 583 1 l 583 14 l 568 14 l 568 19 l 583 19 l 583 30 l 568 30 l 568 34 l 599 34 l 599 30 l 583 30 l 583 19 l 599 19 l 599 14 l 583 14 l 583 1 l 611 1 b 616 1 622 6 622 10 l 622 36 l 652 0 l 678 0 l 644 41 l 622 41 l 622 47 l 596 47 l 597 54 l 625 54 l 625 68 l 541 68 l 541 54 l 572 54 l 571 47 l 545 47 l 545 1 m 583 72 l 583 85 l 569 85 l 569 90 l 598 90 l 598 85 l 583 85 l 583 72 l 611 72 b 615 72 621 78 621 82 l 653 44 l 678 44 l 644 86 l 621 86 l 621 103 l 597 103 l 597 136 l 570 136 l 564 126 l 562 136 l 542 136 l 548 107 l 568 107 l 565 121 l 571 121 l 571 103 l 547 103 l 547 72 l 583 72 m 600 107 l 620 107 l 624 124 l 653 89 l 679 89 l 642 136 l 615 136 l 618 132 l 606 132 l 600 107 m 689 0 l 716 0 l 721 15 l 732 15 l 732 30 l 718 56 l 731 56 l 735 100 l 721 100 l 717 59 l 714 64 l 714 136 l 693 136 l 693 79 l 676 79 l 707 30 l 679 30 l 679 15 l 694 15 l 689 0 m 738 0 l 804 0 b 807 0 813 6 813 9 l 813 87 l 794 87 l 794 14 l 756 14 l 756 87 l 763 77 l 763 21 l 787 21 l 787 91 l 798 91 l 798 120 l 820 120 l 812 136 l 778 136 l 778 90 l 748 136 l 723 136 l 756 87 l 738 87 l 738 0 m 257 151 l 275 151 l 297 182 l 319 151 l 337 151 l 304 197 l 304 227 l 290 227 l 290 197 l 257 151 m 337 151 l 355 151 l 377 182 l 399 151 l 417 151 l 384 197 l 384 227 l 370 227 l 370 197 l 337 151 m 425 192 l 447 192 b 445 181 427 181 425 192 l 410 192 b 414 162 458 162 462 192 l 462 206 l 425 206 b 425 210 429 212 433 213 l 462 213 l 462 227 l 433 227 b 412 227 408 203 410 192 m 462 151 l 532 151 l 532 165 l 504 165 l 504 227 l 489 227 l 489 165 l 462 165 l 462 151 m 580 172 l 580 186 l 549 186 b 543 186 543 192 549 192 l 565 192 b 589 192 589 227 565 227 l 532 227 l 532 213 l 565 213 b 570 213 570 206 565 206 l 549 206 b 524 206 524 172 549 172 l 580 172 m 592 213 l 606 213 l 606 227 l 592 227 l 592 213 m 639 172 l 665 172 l 665 186 l 639 186 b 623 186 623 213 639 213 l 665 213 l 665 227 l 639 227 b 603 227 603 172 639 172 m 700 184 b 722 184 722 215 700 215 l 700 229 b 740 229 740 170 700 170 b 660 170 660 229 700 229 l 700 215 b 680 215 680 184 700 184 m 737 172 l 782 172 b 803 172 813 177 813 198 l 813 228 l 799 228 l 799 198 b 799 186 793 187 782 187 l 782 228 l 768 228 l 768 187 l 752 187 l 752 228 l 737 228 l 737 172{\p0}
+Dialogue: 0,0:27:00.05,0:28:00.11,Default,YYeTsLogo,0000,0000,0000,,{\fe134\an5\i0\u0\s0\fscx100\fscy100\fsp0\fr0\4c&H00000&}{\fs18\fn方正准圆简体\b1\bord0\shad0\pos(240,242)\fad(500,500)}本字幕由人人影视字幕组翻译\N禁止用作任何商业盈利行为
