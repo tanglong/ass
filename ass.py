@@ -28,7 +28,7 @@ def displaymatch(match):
     print('<Match: %r, groups=%r>' % (match.group(), match.group(1)))
 
 re_package = re.compile(r"Dialogue:(.*,){1,}(\{.*?\}){0,}(.*?)(\{.*?\}(\\N){0,1}){1,}(.*)")
-#re_package = re.compile(r"Dialogue:(.*,){1,}(\{.*?\}){0,}(.*?)(\{.*?\}(\\N){0,1})(.*)")
+re_package2 = re.compile(r"Dialogue:(.*,){1,}(\{.*?\}){0,}(.*?)(\\N){1,}(.*)")
 
 
 file_name_re = re.compile(r"(.*)\.ass")
@@ -47,9 +47,17 @@ for root, dir, files in os.walk("."):
                 for line in src:
                     match = re_package.search(line)
                     if match is None:
-                        continue
-                    str1 = match.group(3)
-                    dest.write('%s%s\n' % ('\t', str1.rstrip('\n')))
-                    str2 = match.group(6)
-                    dest.write('%s%s\n' % ('\t', str2.rstrip('\n')))
+                        match = re_package2.search(line)
+                        if match is None:
+                            continue
+                        else:
+                            str1 = match.group(3)
+                            dest.write('%s%s\n' % ('\t', str1.rstrip('\n')))
+                            str2 = match.group(5)
+                            dest.write('%s%s\n' % ('\t', str2.rstrip('\n')))
+                    else:
+                        str1 = match.group(3)
+                        dest.write('%s%s\n' % ('\t', str1.rstrip('\n')))
+                        str2 = match.group(6)
+                        dest.write('%s%s\n' % ('\t', str2.rstrip('\n')))
 
