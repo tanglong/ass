@@ -27,8 +27,9 @@ def displaymatch(match):
         return None
     print('<Match: %r, groups=%r>' % (match.group(), match.group(1)))
 
-#re_package = re.compile(r"Dialogue(.*,)*(.*)(\{.*\},)*(.*)")
-re_package = re.compile(r"Dialogue(.*,)*(.*)(\{.*\}){1}(.*)$")
+re_package = re.compile(r"Dialogue:(.*,){1,}(\{.*?\}){0,}(.*?)(\{.*?\}(\\N){0,1}){1,}(.*)")
+#re_package = re.compile(r"Dialogue:(.*,){1,}(\{.*?\}){0,}(.*?)(\{.*?\}(\\N){0,1})(.*)")
+
 
 file_name_re = re.compile(r"(.*)\.ass")
 
@@ -44,16 +45,11 @@ for root, dir, files in os.walk("."):
         with open(name, 'r') as src:
             with open(newfilename, 'w') as dest:
                 for line in src:
-                    print(1111)
                     match = re_package.search(line)
                     if match is None:
-                        print(3333)
                         continue
-                    print(22222)
-                    str1 = match.group(2)
-                    print(str1)
+                    str1 = match.group(3)
                     dest.write('%s%s\n' % ('\t', str1.rstrip('\n')))
-                    str2 = match.group(4)
+                    str2 = match.group(6)
                     dest.write('%s%s\n' % ('\t', str2.rstrip('\n')))
-                    print(str2)
 

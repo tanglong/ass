@@ -120,8 +120,8 @@
 	think about this:
 	一只左轮手枪只能装六发子弹  而非八发\N
 	A revolver holds six bullets, not eight.
-	所以他并非一时冲动\N{\fe238}{\fn黑体}{\fs14}{\b1}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I submit that this was not a hot-blooded crime of passion.\N
-	改编自斯蒂芬·金的短篇小说《丽塔海华丝及萧山克监狱的救赎》
+	所以他并非一时冲动\N
+	I submit that this was not a hot-blooded crime of passion.\N{\fe238}{\fn黑体}{\fs14}{\b1}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}改编自斯蒂芬·金的短篇小说《丽塔海华丝及萧山克监狱的救赎》
 	冲动并不可宽恕  但可理解\N
 	That at least could be understood, if not condoned.
 	然而...\N
