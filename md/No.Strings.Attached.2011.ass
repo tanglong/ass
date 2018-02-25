@@ -1,0 +1,1518 @@
+﻿[Script Info]
+;本字幕文件用 SrtEdit MPC播放版 Version 5.2 编辑制作
+;Unicode SrtEdit Copyright(C) 2005-2009 袁卫国
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 0
+PlayResY: 0
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Narrow,16,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,3,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:07.17,0:01:10.83,Default,,0000,0000,0000,,{\fn黑体\fs24}(15年前){\r}
+Dialogue: 0,0:01:38.47,0:01:41.67,Default,,0000,0000,0000,,{\fn黑体\fs24}嗯…我的射箭术挺不错的{\r}\NSo... l'm pretty good at archery.
+Dialogue: 0,0:01:43.74,0:01:46.47,Default,,0000,0000,0000,,{\fn黑体\fs24}假如你有时光机{\r}\NThat'll be useful if you ever have a time machine
+Dialogue: 0,0:01:46.61,0:01:50.74,Default,,0000,0000,0000,,{\fn黑体\fs24}让你回到中古时期 这对你会很有用{\r}\Nand your time machine breaks, and you're stuck in the Medieval Ages.
+Dialogue: 0,0:01:50.88,0:01:53.65,Default,,0000,0000,0000,,{\fn黑体\fs24}你很搞笑，好怪哦{\r}\NYou're funny. lt's weird.
+Dialogue: 0,0:01:53.78,0:01:56.48,Default,,0000,0000,0000,,{\fn黑体\fs24}是啊，我很怪{\r}\NYeah. l'm weird.
+Dialogue: 0,0:01:56.62,0:01:58.61,Default,,0000,0000,0000,,{\fn黑体\fs24}我也是{\r}\NMe too.
+Dialogue: 0,0:01:58.76,0:02:02.89,Default,,0000,0000,0000,,{\fn黑体\fs24}才怪大家都喜欢你 你爸又超有名{\r}\NYeah, right. Everyone loves you and your dad's like famous, or something.
+Dialogue: 0,0:02:04.19,0:02:08.10,Default,,0000,0000,0000,,{\fn黑体\fs24}我爸妈要离婚 所以我才会参加夏令营{\r}\NMy parents are getting a divorce, that's why l had to go to camp, so...
+Dialogue: 0,0:02:12.67,0:02:15.33,Default,,0000,0000,0000,,{\fn黑体\fs24}你在哭吗？ 没有{\r}\N- Are you crying? - No.
+Dialogue: 0,0:02:17.51,0:02:19.10,Default,,0000,0000,0000,,{\fn黑体\fs24}天啊{\r}\NJesus.
+Dialogue: 0,0:02:25.48,0:02:29.82,Default,,0000,0000,0000,,{\fn黑体\fs24}听好…我不是感情丰富的女生{\r}\NLook... l'm not really an affectionate person.
+Dialogue: 0,0:02:35.23,0:02:37.72,Default,,0000,0000,0000,,{\fn黑体\fs24}情侣注定不会永远在一起{\r}\NPeople aren't meant to be together forever.
+Dialogue: 0,0:02:38.80,0:02:40.66,Default,,0000,0000,0000,,{\fn黑体\fs24}你真的这么想？{\r}\NYou think so?
+Dialogue: 0,0:02:40.80,0:02:42.42,Default,,0000,0000,0000,,{\fn黑体\fs24}真的{\r}\NYeah.
+Dialogue: 0,0:02:45.90,0:02:48.13,Default,,0000,0000,0000,,{\fn黑体\fs24}我能摸你那里吗？{\r}\NCan l finger you?
+Dialogue: 0,0:02:48.27,0:02:49.43,Default,,0000,0000,0000,,{\fn黑体\fs24}不行{\r}\NNo.
+Dialogue: 0,0:02:49.57,0:02:50.77,Default,,0000,0000,0000,,{\fn黑体\fs24}好吧{\r}\NOK.
+Dialogue: 0,0:02:58.88,0:03:02.58,Default,,0000,0000,0000,,{\fn黑体\fs24}(5年前){\r}
+Dialogue: 0,0:03:19.30,0:03:21.74,Default,,0000,0000,0000,,- Come on, baby, l got ya! - Don't drop me!
+Dialogue: 0,0:03:33.18,0:03:34.62,Default,,0000,0000,0000,,Hey! Hey!
+Dialogue: 0,0:03:34.75,0:03:36.34,Default,,0000,0000,0000,,{\fn黑体\fs24}派翠丝！{\r}\NPatrice!
+Dialogue: 0,0:03:36.49,0:03:41.22,Default,,0000,0000,0000,,{\fn黑体\fs24}欧麦尬！我说这是睡衣派对{\r}\NOh, my God! l told you that this was a pajama party.
+Dialogue: 0,0:03:41.36,0:03:43.72,Default,,0000,0000,0000,,{\fn黑体\fs24}但是你穿的是什么？{\r}\NWhat are you wearing? What is this?
+Dialogue: 0,0:03:43.86,0:03:47.32,Default,,0000,0000,0000,,{\fn黑体\fs24}你真的穿了连身睡衣？ 搞什么？{\r}\NYou're wearing actual long johns? What?!
+Dialogue: 0,0:03:47.46,0:03:49.43,Default,,0000,0000,0000,,{\fn黑体\fs24}这是兄弟会派对{\r}\NThis is a frat party.
+Dialogue: 0,0:03:49.57,0:03:52.19,Default,,0000,0000,0000,,{\fn黑体\fs24}你要喝醉才会性感火辣{\r}\NYou just have to be drunk and look hot.
+Dialogue: 0,0:03:52.34,0:03:54.24,Default,,0000,0000,0000,,{\fn黑体\fs24}学着点儿吧{\r}\NWatch and learn.
+Dialogue: 0,0:03:54.81,0:03:55.31,Default,,0000,0000,0000,,{\fn黑体\fs24}(婊子){\r}
+Dialogue: 0,0:03:55.31,0:03:58.50,Default,,0000,0000,0000,,Hey. Hey!
+Dialogue: 0,0:03:58.64,0:04:01.24,Default,,0000,0000,0000,,{\fn黑体\fs24}我醉到超high的！{\r}\Nl'm so drunk!
+Dialogue: 0,0:04:06.62,0:04:09.55,Default,,0000,0000,0000,,Drink! Drink! Drink...!
+Dialogue: 0,0:04:13.12,0:04:14.72,Default,,0000,0000,0000,,{\fn黑体\fs24}你认识那个女生吗？{\r}\NHey, do you know that girl?
+Dialogue: 0,0:04:14.86,0:04:16.19,Default,,0000,0000,0000,,{\fn黑体\fs24}那个性感拓荒者？{\r}\NThe sexy pioneer?
+Dialogue: 0,0:04:21.06,0:04:22.73,Default,,0000,0000,0000,,{\fn黑体\fs24}我想我认识她{\r}\Nl think l know her.
+Dialogue: 0,0:04:25.24,0:04:28.40,Default,,0000,0000,0000,,{\fn黑体\fs24}我会和拓荒者上床，肯定会{\r}\Nl'd have sex with a pioneer. For sure.
+Dialogue: 0,0:04:28.54,0:04:30.47,Default,,0000,0000,0000,,{\fn黑体\fs24}尤其是迷路的拓荒者{\r}\NA hungry pioneer lost on the trail.
+Dialogue: 0,0:04:32.41,0:04:35.87,Default,,0000,0000,0000,,{\fn黑体\fs24}我认识你吗？ 嗨，夏令营的亚当法兰克林{\r}\N- Do l know you? - Hi, Adam Franklin of Camp Weehawken.
+Dialogue: 0,0:04:36.01,0:04:38.31,Default,,0000,0000,0000,,{\fn黑体\fs24}我是艾玛柯兹曼 你那时候想摸我那里{\r}\Nl'm Emma Kurtzman. You tried to finger me?
+Dialogue: 0,0:04:40.65,0:04:42.81,Default,,0000,0000,0000,,{\fn黑体\fs24}对哦，哇塞！{\r}\NYeah. Wow! Do you go here? Why...?
+Dialogue: 0,0:04:42.95,0:04:47.22,Default,,0000,0000,0000,,{\fn黑体\fs24}你也念这间大学吗？ 不，我念麻省理工学院{\r}\N- What are you doing at a party of frat? - No. l go to MlT,
+Dialogue: 0,0:04:47.36,0:04:50.55,Default,,0000,0000,0000,,{\fn黑体\fs24}但家里有事，我在这里长大{\r}\Nbut l have this family thing, and l grew up in Ann Arbor.
+Dialogue: 0,0:04:50.69,0:04:53.86,Default,,0000,0000,0000,,{\fn黑体\fs24}麻省理工学院？ 你长大后比我聪明好多{\r}\NMlT? Wow. So you grew up to be a lot smarter than me.
+Dialogue: 0,0:04:54.00,0:04:56.86,Default,,0000,0000,0000,,{\fn黑体\fs24}有时候我的颈肩很酸{\r}\NYeah, sometimes my neck gets sore.
+Dialogue: 0,0:04:57.00,0:05:00.46,Default,,0000,0000,0000,,{\fn黑体\fs24}为什么？ 我的脑容量太大了{\r}\N- Why? - 'Cause my brain's so big.
+Dialogue: 0,0:05:05.54,0:05:08.27,Default,,0000,0000,0000,,{\fn黑体\fs24}我同意，没有用，算了{\r}\Nl agree, it didn't work. Drop it.
+Dialogue: 0,0:05:10.08,0:05:11.71,Default,,0000,0000,0000,,{\fn黑体\fs24}我喜欢你{\r}\Nl like you.
+Dialogue: 0,0:05:11.85,0:05:14.61,Default,,0000,0000,0000,,{\fn黑体\fs24}为什么？你根本就不了解我{\r}\NWhat? Why? You don't even know me.
+Dialogue: 0,0:05:16.15,0:05:17.28,Default,,0000,0000,0000,,{\fn黑体\fs24}我就是喜欢你{\r}\Nl like you.
+Dialogue: 0,0:05:20.06,0:05:23.65,Default,,0000,0000,0000,,{\fn黑体\fs24}我明天得参加一场很蠢的场合 想跟我一起去吗？{\r}\Nl have to go to this stupid thing tomorrow. You wanna come with me?
+Dialogue: 0,0:05:25.76,0:05:29.36,Default,,0000,0000,0000,,{\fn黑体\fs24}好啊，我跟你一起去{\r}\NYeah, sure. l'll come with you.
+Dialogue: 0,0:05:29.50,0:05:31.87,Default,,0000,0000,0000,,{\fn黑体\fs24}什么场合？ 很蠢的场合{\r}\N- What is it? - Some stupid thing.
+Dialogue: 0,0:05:35.17,0:05:37.40,Default,,0000,0000,0000,,{\fn黑体\fs24}我最后想和大家分享{\r}\Nl wanted to leave you with something David said to me
+Dialogue: 0,0:05:37.54,0:05:39.44,Default,,0000,0000,0000,,{\fn黑体\fs24}大卫几乎每天都跟我说的话{\r}\Nalmost every day at the lab.
+Dialogue: 0,0:05:39.58,0:05:41.48,Default,,0000,0000,0000,,{\fn黑体\fs24}他引用爱因斯坦{\r}\Nlt's Einstein.
+Dialogue: 0,0:05:41.61,0:05:44.05,Default,,0000,0000,0000,,{\fn黑体\fs24}人有两种过生活的方式{\r}\N''There are only two ways to live your life.
+Dialogue: 0,0:05:44.18,0:05:47.08,Default,,0000,0000,0000,,{\fn黑体\fs24}一种是假设没有奇迹{\r}\NOne, as if nothing is a miracle.
+Dialogue: 0,0:05:47.22,0:05:50.74,Default,,0000,0000,0000,,{\fn黑体\fs24}另一种是一切都是奇迹{\r}\NThe other, as if everything is a miracle.''
+Dialogue: 0,0:05:50.89,0:05:55.45,Default,,0000,0000,0000,,{\fn黑体\fs24}对大卫来说 最大的奇迹就是他的家人{\r}\NFor David, there was no bigger miracle than his family.
+Dialogue: 0,0:05:55.59,0:05:59.55,Default,,0000,0000,0000,,{\fn黑体\fs24}他的女儿艾玛和凯蒂 还有他的太太珊卓{\r}\NHis daughters, Emma and Katie, and his wife, Sandra.
+Dialogue: 0,0:06:06.97,0:06:08.03,Default,,0000,0000,0000,,Mom?
+Dialogue: 0,0:06:08.17,0:06:10.16,Default,,0000,0000,0000,,{\fn黑体\fs24}妈…这是亚当{\r}\Nl want you to meet Adam.
+Dialogue: 0,0:06:13.41,0:06:14.40,Default,,0000,0000,0000,,{\fn黑体\fs24}很遗憾{\r}\Nl'm so sorry.
+Dialogue: 0,0:06:14.54,0:06:17.34,Default,,0000,0000,0000,,{\fn黑体\fs24}我老妹凯蒂和她情人凯文{\r}\NAnd this is my sister, Katie, and her lover, Kevin.
+Dialogue: 0,0:06:17.48,0:06:20.75,Default,,0000,0000,0000,,{\fn黑体\fs24}是男友，也是我的知己{\r}\NBoyfriend. And my best friend.
+Dialogue: 0,0:06:21.82,0:06:26.12,Default,,0000,0000,0000,,{\fn黑体\fs24}谢谢你 我不知道你交了男友{\r}\NOh, well... thank you. l didn't know you were dating someone, Emma.
+Dialogue: 0,0:06:26.26,0:06:27.31,Default,,0000,0000,0000,,{\fn黑体\fs24}并没有{\r}\NOh, l'm not.
+Dialogue: 0,0:06:27.46,0:06:30.09,Default,,0000,0000,0000,,{\fn黑体\fs24}我只是14岁跟他发生过一夜情{\r}\Nl just had a one-night stand with him when l was 14.
+Dialogue: 0,0:06:32.20,0:06:34.56,Default,,0000,0000,0000,,{\fn黑体\fs24}很感人的葬礼{\r}\Nlt was a really nice funeral.
+Dialogue: 0,0:06:59.99,0:07:01.62,Default,,0000,0000,0000,,{\fn黑体\fs24}很遗憾{\r}\Nl'm sorry.
+Dialogue: 0,0:07:10.13,0:07:11.96,Default,,0000,0000,0000,,{\fn黑体\fs24}很高兴你留下来{\r}\Nl'm glad you stayed.
+Dialogue: 0,0:07:13.64,0:07:15.47,Default,,0000,0000,0000,,{\fn黑体\fs24}我也是{\r}\NMe too.
+Dialogue: 0,0:07:18.64,0:07:20.61,Default,,0000,0000,0000,,{\fn黑体\fs24}我再打给你{\r}\NSo, l'll call you, or something...
+Dialogue: 0,0:07:20.74,0:07:22.37,Default,,0000,0000,0000,,{\fn黑体\fs24}亚当，你人很好{\r}\NAdam, you're wonderful.
+Dialogue: 0,0:07:23.48,0:07:26.04,Default,,0000,0000,0000,,{\fn黑体\fs24}幸运的话，你再也不会见到我{\r}\Nlf you're lucky, you're never gonna see me again.
+Dialogue: 0,0:07:41.77,0:07:45.03,Default,,0000,0000,0000,,{\fn黑体\fs24}(1年前){\r}
+Dialogue: 0,0:07:53.84,0:07:55.14,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:08:00.42,0:08:01.61,Default,,0000,0000,0000,,Hey.
+Dialogue: 0,0:08:01.75,0:08:06.15,Default,,0000,0000,0000,,{\fn黑体\fs24}我们是不是…？我们是大学同学{\r}\NDid we...? Yes, we did. We went to college together.
+Dialogue: 0,0:08:06.29,0:08:07.88,Default,,0000,0000,0000,,{\fn黑体\fs24}你有一对同志爸爸{\r}\NYou have two gay dads.
+Dialogue: 0,0:08:08.02,0:08:10.02,Default,,0000,0000,0000,,{\fn黑体\fs24}我是有一对同志爸爸的家伙{\r}\NYeah, l'm the man with the two gay dads.
+Dialogue: 0,0:08:10.16,0:08:12.86,Default,,0000,0000,0000,,{\fn黑体\fs24}我大二那年他们帮我搬家{\r}\NThey helped me move my boxes sophomore year.
+Dialogue: 0,0:08:13.00,0:08:15.83,Default,,0000,0000,0000,,{\fn黑体\fs24}他们超赞，我爱他们 但我是超级异性恋{\r}\NThey're the best. l love them. l'm super straight, though.
+Dialogue: 0,0:08:15.97,0:08:18.16,Default,,0000,0000,0000,,{\fn黑体\fs24}好吧{\r}\N- So, yeah. - OK.
+Dialogue: 0,0:08:18.30,0:08:19.46,Default,,0000,0000,0000,,{\fn黑体\fs24}派翠丝，对吧？{\r}\N- You're Patrice, right? - Yes.
+Dialogue: 0,0:08:19.60,0:08:21.33,Default,,0000,0000,0000,,{\fn黑体\fs24}我是伊莱，我和…亚当！{\r}\NYeah, Eli. l'm with... Adam!
+Dialogue: 0,0:08:23.21,0:08:24.80,Default,,0000,0000,0000,,{\fn黑体\fs24}我马上回来{\r}\Nl'll be right back.
+Dialogue: 0,0:08:27.34,0:08:28.78,Default,,0000,0000,0000,,{\fn黑体\fs24}买一些德式爆米花{\r}\NPick up some of that kettle corn.
+Dialogue: 0,0:08:28.91,0:08:30.38,Default,,0000,0000,0000,,{\fn黑体\fs24}是派翠丝耶{\r}\N- lt's Patrice. - Hey!
+Dialogue: 0,0:08:30.51,0:08:33.57,Default,,0000,0000,0000,,- Patrice! Hey! - How are you?
+Dialogue: 0,0:08:33.72,0:08:35.12,Default,,0000,0000,0000,,- Weird. - Wow.
+Dialogue: 0,0:08:35.25,0:08:37.95,Default,,0000,0000,0000,,{\fn黑体\fs24}我好久没见到你…{\r}\Nl haven't seen you in... wow.
+Dialogue: 0,0:08:38.09,0:08:39.52,Default,,0000,0000,0000,,{\fn黑体\fs24}你好吗？ 很好{\r}\N- How are you? - Good.
+Dialogue: 0,0:08:39.66,0:08:40.65,Default,,0000,0000,0000,,{\fn黑体\fs24}亚当{\r}\NAdam.
+Dialogue: 0,0:08:43.16,0:08:44.52,Default,,0000,0000,0000,,{\fn黑体\fs24}艾玛{\r}\NEmma.
+Dialogue: 0,0:08:44.66,0:08:46.19,Default,,0000,0000,0000,,{\fn黑体\fs24}这是大团圆吗？{\r}\NWhat is this, the Peach Pit?
+Dialogue: 0,0:08:46.33,0:08:50.36,Default,,0000,0000,0000,,{\fn黑体\fs24}我说的是《飞越比佛利》 对，你也是超级异性恋{\r}\N- And, yeah, that was a 90210 reference. - Yeah, you're super straight.
+Dialogue: 0,0:08:51.67,0:08:54.14,Default,,0000,0000,0000,,{\fn黑体\fs24}你怎么会在这里？ 我刚搬来{\r}\N- What are you doing here? - l just moved here a week ago.
+Dialogue: 0,0:08:54.27,0:08:57.24,Default,,0000,0000,0000,,{\fn黑体\fs24}我在西木教学医院当住院医师{\r}\Nl'm doing my residency at the Westwood Teaching Hospital.
+Dialogue: 0,0:08:57.37,0:08:59.71,Default,,0000,0000,0000,,{\fn黑体\fs24}凡娜莎，这是艾玛{\r}\N- Hi. - Vanessa, this is Emma.
+Dialogue: 0,0:09:00.94,0:09:04.47,Default,,0000,0000,0000,,{\fn黑体\fs24}艾玛，凡娜莎 嗨，你好吗？{\r}\N- Emma, Vanessa. - Hi. How do you do?
+Dialogue: 0,0:09:05.15,0:09:06.58,Default,,0000,0000,0000,,{\fn黑体\fs24}这是我们的朋友派翠丝{\r}\NThis is our friend, Patrice.
+Dialogue: 0,0:09:06.72,0:09:09.38,Default,,0000,0000,0000,,{\fn黑体\fs24}你好吗？ 让我想想看{\r}\N- Hi. How do you do? - How do l what?
+Dialogue: 0,0:09:09.52,0:09:11.15,Default,,0000,0000,0000,,- Hi. - Hi.
+Dialogue: 0,0:09:11.29,0:09:13.15,Default,,0000,0000,0000,,{\fn黑体\fs24}你看起来好漂亮{\r}\NHi, you look nice.
+Dialogue: 0,0:09:13.29,0:09:15.09,Default,,0000,0000,0000,,{\fn黑体\fs24}很高兴认识你{\r}\Nlt's nice to meet you.
+Dialogue: 0,0:09:15.59,0:09:18.96,Default,,0000,0000,0000,,{\fn黑体\fs24}你记得我老妹凯蒂吧 她才刚毕业{\r}\NYou remember my sister, Katie. She's just finishing school here.
+Dialogue: 0,0:09:19.10,0:09:22.09,Default,,0000,0000,0000,,{\fn黑体\fs24}好久不见， 自从…{\r}\NYeah. l haven't seen you guys since...
+Dialogue: 0,0:09:22.23,0:09:24.20,Default,,0000,0000,0000,,{\fn黑体\fs24}爸爸的葬礼{\r}\N- Yeah, Dad's funeral. - Dad's funeral.
+Dialogue: 0,0:09:24.73,0:09:26.83,Default,,0000,0000,0000,,{\fn黑体\fs24}喔，真可怜{\r}\NSad.
+Dialogue: 0,0:09:28.54,0:09:30.84,Default,,0000,0000,0000,,{\fn黑体\fs24}好了，我们该走了{\r}\NOK. Well, we should head out, so...
+Dialogue: 0,0:09:30.97,0:09:32.84,Default,,0000,0000,0000,,{\fn黑体\fs24}我们也该走了{\r}\NYeah, we should, too. You know...
+Dialogue: 0,0:09:32.98,0:09:35.44,Default,,0000,0000,0000,,{\fn黑体\fs24}我们应该聚聚，把号码给我{\r}\NBut we should hang out. Let me just... l'll get your number.
+Dialogue: 0,0:09:35.58,0:09:38.21,Default,,0000,0000,0000,,{\fn黑体\fs24}把手机给我，我直接输入{\r}\NYeah, just give me your phone. l'll put it in there.
+Dialogue: 0,0:09:38.35,0:09:40.71,Default,,0000,0000,0000,,{\fn黑体\fs24}好，这样更简单{\r}\NYeah, that's probably easier.
+Dialogue: 0,0:09:46.16,0:09:48.39,Default,,0000,0000,0000,,{\fn黑体\fs24}我们真的得走了，所以…{\r}\NWe really have to be somewhere now, so...
+Dialogue: 0,0:09:48.53,0:09:50.49,Default,,0000,0000,0000,,{\fn黑体\fs24}我们该…{\r}\NYeah. We should...
+Dialogue: 0,0:09:50.63,0:09:53.10,Default,,0000,0000,0000,,{\fn黑体\fs24}没问题，没问题{\r}\NTotally. Totally.
+Dialogue: 0,0:09:53.23,0:09:56.79,Default,,0000,0000,0000,,{\fn黑体\fs24}很高兴能碰面和见到你们{\r}\NAll right, well, good to hang out. - Good seeing you guys. Have fun. - Yeah.
+Dialogue: 0,0:09:56.93,0:09:59.90,Default,,0000,0000,0000,,{\fn黑体\fs24}保重 保重了，各位{\r}\N- Take care. - Take care, ladies.
+Dialogue: 0,0:10:04.77,0:10:07.44,Default,,0000,0000,0000,,{\fn黑体\fs24}我是女五，我有你的钥匙{\r}
+Dialogue: 0,0:10:07.58,0:10:09.94,Default,,0000,0000,0000,,{\fn黑体\fs24}你说我是你的最爱{\r}
+Dialogue: 0,0:10:10.91,0:10:11.90,Default,,0000,0000,0000,,{\fn黑体\fs24}她爱我{\r}
+Dialogue: 0,0:10:12.05,0:10:13.21,Default,,0000,0000,0000,,{\fn黑体\fs24}(现在){\r}
+Dialogue: 0,0:10:13.35,0:10:16.29,Default,,0000,0000,0000,,{\fn黑体\fs24}她把爱心刻在树上{\r}
+Dialogue: 0,0:10:16.99,0:10:20.15,Default,,0000,0000,0000,,{\fn黑体\fs24}女生当家 我们应该积极争取我们想要的{\r}
+Dialogue: 0,0:10:20.29,0:10:22.19,Default,,0000,0000,0000,,{\fn黑体\fs24}不只这么多{\r}
+Dialogue: 0,0:10:23.29,0:10:26.56,Default,,0000,0000,0000,,{\fn黑体\fs24}男生走吧，不必看这场秀{\r}
+Dialogue: 0,0:10:26.70,0:10:28.43,Default,,0000,0000,0000,,{\fn黑体\fs24}我们早就看过{\r}
+Dialogue: 0,0:10:28.57,0:10:30.23,Default,,0000,0000,0000,,{\fn黑体\fs24}不只这么多{\r}
+Dialogue: 0,0:10:30.37,0:10:33.56,Default,,0000,0000,0000,,{\fn黑体\fs24}对你不好的男孩要他干嘛？{\r}
+Dialogue: 0,0:10:33.70,0:10:36.57,Default,,0000,0000,0000,,{\fn黑体\fs24}对你不好的男孩要他干嘛？{\r}
+Dialogue: 0,0:10:36.71,0:10:40.14,Default,,0000,0000,0000,,{\fn黑体\fs24}害你等整晚的男孩要他干嘛？{\r}
+Dialogue: 0,0:10:40.28,0:10:44.34,Default,,0000,0000,0000,,{\fn黑体\fs24}明明开开心心，干嘛垂头丧气{\r}
+Dialogue: 0,0:10:52.19,0:10:53.66,Default,,0000,0000,0000,,{\fn黑体\fs24}卡！{\r}\NAnd cut!
+Dialogue: 0,0:10:53.79,0:10:55.31,Default,,0000,0000,0000,,{\fn黑体\fs24}棒呆了{\r}\N- Great. - That's good.
+Dialogue: 0,0:10:55.46,0:10:57.36,Default,,0000,0000,0000,,- OK! Yeah! - Great. Great.
+Dialogue: 0,0:10:57.49,0:11:01.49,Default,,0000,0000,0000,,{\fn黑体\fs24}大伙儿，再来一次 休息5分钟{\r}\NOK, guys, we're gonna do this again. All right? Five minutes.
+Dialogue: 0,0:11:01.63,0:11:03.33,Default,,0000,0000,0000,,- All right, let's... - Good job.
+Dialogue: 0,0:11:03.47,0:11:04.63,Default,,0000,0000,0000,,{\fn黑体\fs24}干得好，干得好{\r}\N- Great job. Great job... - Wait. What are, people...?
+Dialogue: 0,0:11:06.50,0:11:10.80,Default,,0000,0000,0000,,{\fn黑体\fs24}班吉，演得好 酷，谢了{\r}\N- Hey, Benji! Good scene. - Cool. Thanks.
+Dialogue: 0,0:11:10.94,0:11:13.10,Default,,0000,0000,0000,,{\fn黑体\fs24}你超帅的！{\r}\NYou looked great!
+Dialogue: 0,0:11:13.24,0:11:16.74,Default,,0000,0000,0000,,{\fn黑体\fs24}莎莉，我教你要欲擒故纵{\r}\NSari. l told you to play hard to get.
+Dialogue: 0,0:11:16.88,0:11:19.14,Default,,0000,0000,0000,,{\fn黑体\fs24}可是我超好把的耶！{\r}\Nl'm incredibly easy to get!
+Dialogue: 0,0:11:20.62,0:11:21.95,Default,,0000,0000,0000,,{\fn黑体\fs24}亚当{\r}\NAdam.
+Dialogue: 0,0:11:22.59,0:11:24.45,Default,,0000,0000,0000,,{\fn黑体\fs24}你刚才要问我什么？{\r}\NYou were gonna ask me something before the break.
+Dialogue: 0,0:11:24.59,0:11:25.99,Default,,0000,0000,0000,,{\fn黑体\fs24}什么事？{\r}\N- What was it? - Yeah, l...
+Dialogue: 0,0:11:26.12,0:11:28.42,Default,,0000,0000,0000,,{\fn黑体\fs24}靠，到底是什么事？{\r}\NWait, wait, wait. Fuck, fuckety-fuck. What was it? Stop.
+Dialogue: 0,0:11:28.56,0:11:31.05,Default,,0000,0000,0000,,{\fn黑体\fs24}你要提早收工去见你爸{\r}\NYou wanted to know if you could get off early to see your dad,
+Dialogue: 0,0:11:31.19,0:11:33.22,Default,,0000,0000,0000,,{\fn黑体\fs24}没问题，OK的{\r}\N- which is, yeah, totally fine. - Thank you.
+Dialogue: 0,0:11:33.36,0:11:36.30,Default,,0000,0000,0000,,{\fn黑体\fs24}跟你爸说我超爱他的影集{\r}\NBy the way, tell your dad, it's like my favorite show ever.
+Dialogue: 0,0:11:36.43,0:11:39.10,Default,,0000,0000,0000,,{\fn黑体\fs24}我有过DVD，弄丢了又买过 棒呆了{\r}\NLove it, own it, lost it, bought it again. lt's so great.
+Dialogue: 0,0:11:39.24,0:11:40.70,Default,,0000,0000,0000,,{\fn黑体\fs24}“我的老天爷！”{\r}\N''Great Scott!''
+Dialogue: 0,0:11:41.94,0:11:44.87,Default,,0000,0000,0000,,{\fn黑体\fs24}你一定成天听到这句话 其实并没有{\r}\N- You probably hear that all the time. - Not that much.
+Dialogue: 0,0:11:45.01,0:11:46.44,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:11:47.98,0:11:49.10,Default,,0000,0000,0000,,{\fn黑体\fs24}查克！{\r}\NChuck!
+Dialogue: 0,0:11:49.25,0:11:53.55,Default,,0000,0000,0000,,{\fn黑体\fs24}再拍自己的鸡鸡我就没收手机{\r}\NChuck! lf l catch you taking pictures of your dick one more time, l'm gonna take that thing away.
+Dialogue: 0,0:12:06.00,0:12:07.90,Default,,0000,0000,0000,,{\fn黑体\fs24}您好，我能效劳吗？{\r}\NHe//o. How can / he/p you?
+Dialogue: 0,0:12:08.03,0:12:11.87,Default,,0000,0000,0000,,{\fn黑体\fs24}菲利普，我是亚当 嗨，请进{\r}\N- Hey, Philippe, it's Adam. - Hi. Come in.
+Dialogue: 0,0:12:30.19,0:12:31.41,Default,,0000,0000,0000,,{\fn黑体\fs24}嗨，爸{\r}\N- Hey, Dad. - Hey.
+Dialogue: 0,0:12:33.62,0:12:34.89,Default,,0000,0000,0000,,{\fn黑体\fs24}你看看{\r}\NCheck it out.
+Dialogue: 0,0:12:35.02,0:12:37.36,Default,,0000,0000,0000,,{\fn黑体\fs24}活力瑜珈和蛙人操{\r}\NVinyasa yoga and the Army Ranger workout.
+Dialogue: 0,0:12:37.49,0:12:41.02,Default,,0000,0000,0000,,{\fn黑体\fs24}我合在一起做 哇，猴塞雷{\r}\N- l combined them! - Wow. That's very impressive.
+Dialogue: 0,0:12:41.16,0:12:43.66,Default,,0000,0000,0000,,{\fn黑体\fs24}我可能会拍DVD，活力蛙人操{\r}\Nl'm gonna do a video, l think. Vinyasa Power.
+Dialogue: 0,0:12:43.80,0:12:45.79,Default,,0000,0000,0000,,{\fn黑体\fs24}看得出你的肌肉都练到哪里{\r}\Nl can almost see where your muscles go.
+Dialogue: 0,0:12:46.94,0:12:49.96,Default,,0000,0000,0000,,{\fn黑体\fs24}很好笑，揍我{\r}\NVery funny. Hit me.
+Dialogue: 0,0:12:50.11,0:12:52.20,Default,,0000,0000,0000,,{\fn黑体\fs24}不，我不想让你受伤{\r}\NNo, l'm not gonna hit you. l don't want to hurt you.
+Dialogue: 0,0:12:52.34,0:12:56.14,Default,,0000,0000,0000,,{\fn黑体\fs24}不会啦 用力揍我一拳{\r}\NYou're not gonna hurt me. Come on, hit me. Give me your best shot.
+Dialogue: 0,0:12:56.78,0:12:58.54,Default,,0000,0000,0000,,{\fn黑体\fs24}快点，免得我得疝气{\r}\NCome on, quick, before l get a hernia!
+Dialogue: 0,0:12:58.68,0:12:59.74,Default,,0000,0000,0000,,{\fn黑体\fs24}不要{\r}\NNo.
+Dialogue: 0,0:13:02.82,0:13:06.19,Default,,0000,0000,0000,,{\fn黑体\fs24}你说的对，那就哈草吧{\r}\NYou're right. Let's smoke some weed.
+Dialogue: 0,0:13:06.32,0:13:07.31,Default,,0000,0000,0000,,{\fn黑体\fs24}(我的老天爷！){\r}
+Dialogue: 0,0:13:07.46,0:13:10.86,Default,,0000,0000,0000,,{\fn黑体\fs24}这是上等货 经纪人替我弄了张医疗大麻卡{\r}\NThis is really good stuff. My agent got me one of those medical marijuana cards.
+Dialogue: 0,0:13:10.99,0:13:12.69,Default,,0000,0000,0000,,{\fn黑体\fs24}很高兴他们这么尽职{\r}\Nlt's nice to see they're supporting your career.
+Dialogue: 0,0:13:12.83,0:13:16.06,Default,,0000,0000,0000,,{\fn黑体\fs24}那部影集录得怎样？{\r}\NYeah. So, how's the show going?
+Dialogue: 0,0:13:16.20,0:13:20.60,Default,,0000,0000,0000,,{\fn黑体\fs24}很棒，关于一群高中生 又唱又跳又玩部落格{\r}\Nl mean, great. l mean, it's about high-schoolers who sing and dance and blog.
+Dialogue: 0,0:13:21.87,0:13:24.34,Default,,0000,0000,0000,,{\fn黑体\fs24}至少你在编剧，这很重要{\r}\NAt least you're writing, that's what's important.
+Dialogue: 0,0:13:24.47,0:13:27.00,Default,,0000,0000,0000,,{\fn黑体\fs24}不，我只是助理制作人{\r}\NNo. l'm an assistant.
+Dialogue: 0,0:13:29.01,0:13:31.64,Default,,0000,0000,0000,,{\fn黑体\fs24}至少他们看过你的剧本{\r}\NWell, but... at least they've seen your writing.
+Dialogue: 0,0:13:31.78,0:13:34.27,Default,,0000,0000,0000,,{\fn黑体\fs24}还没有{\r}\NNot yet.
+Dialogue: 0,0:13:34.42,0:13:35.82,Default,,0000,0000,0000,,{\fn黑体\fs24}其实…{\r}\NActually...
+Dialogue: 0,0:13:37.65,0:13:41.11,Default,,0000,0000,0000,,{\fn黑体\fs24}我写了一集，想请你给点意见{\r}\Nl wanted to get your opinion on this episode that l wrote.
+Dialogue: 0,0:13:41.26,0:13:43.23,Default,,0000,0000,0000,,{\fn黑体\fs24}这只是初稿{\r}\NKind of a sample.
+Dialogue: 0,0:13:45.73,0:13:47.79,Default,,0000,0000,0000,,{\fn黑体\fs24}做的好！儿子{\r}\NThat's my boy.
+Dialogue: 0,0:13:47.93,0:13:50.70,Default,,0000,0000,0000,,{\fn黑体\fs24}我会先看然后打些电话{\r}\Nl'll take a look at it, sure. And then l'll call somebody.
+Dialogue: 0,0:13:50.90,0:13:55.74,Default,,0000,0000,0000,,{\fn黑体\fs24}不，不要打电话 看完了告诉我你觉得怎样{\r}\NNo. Do not call anyone. Just read it and tell me what you think.
+Dialogue: 0,0:13:55.87,0:13:57.17,Default,,0000,0000,0000,,{\fn黑体\fs24}好吧{\r}\NOK.
+Dialogue: 0,0:13:58.91,0:14:00.93,Default,,0000,0000,0000,,{\fn黑体\fs24}所以…{\r}\NSo...
+Dialogue: 0,0:14:01.08,0:14:02.44,Default,,0000,0000,0000,,{\fn黑体\fs24}你有没有在炒饭？{\r}\NAre you having sex?
+Dialogue: 0,0:14:03.78,0:14:06.04,Default,,0000,0000,0000,,{\fn黑体\fs24}有，我有在炒饭{\r}\NYes. l'm having sex.
+Dialogue: 0,0:14:06.18,0:14:09.05,Default,,0000,0000,0000,,{\fn黑体\fs24}你有任何疑问{\r}\N'Cause if you want any pointers, you know...
+Dialogue: 0,0:14:09.19,0:14:14.59,Default,,0000,0000,0000,,{\fn黑体\fs24}我很乐意教你 离过两次婚的好处是学会口交{\r}\N...l can help you out. lf there's one thing you learn after two failed marriages, it's how to eat kitty.
+Dialogue: 0,0:14:14.72,0:14:18.16,Default,,0000,0000,0000,,{\fn黑体\fs24}你有女友吗？ 没有{\r}\N- Anyone special? - No.
+Dialogue: 0,0:14:18.29,0:14:20.39,Default,,0000,0000,0000,,{\fn黑体\fs24}自从和凡娜莎分手后就没有{\r}\Nl mean, not since Vanessa.
+Dialogue: 0,0:14:20.53,0:14:23.33,Default,,0000,0000,0000,,{\fn黑体\fs24}一年了，你该交新的女友{\r}\Nlt's been a year. lt's time to move on.
+Dialogue: 0,0:14:23.47,0:14:25.30,Default,,0000,0000,0000,,{\fn黑体\fs24}才过了8个月{\r}\Nlt's been eight months, Dad.
+Dialogue: 0,0:14:25.44,0:14:28.56,Default,,0000,0000,0000,,{\fn黑体\fs24}你到底想跟我谈什么？{\r}\NWhat did you want to talk to me about, anyway?
+Dialogue: 0,0:14:30.27,0:14:33.97,Default,,0000,0000,0000,,{\fn黑体\fs24}你有养狗吗？ 斑斑！过来！{\r}\N- You got a dog? Seriously, that's... - Freckles! Come!
+Dialogue: 0,0:14:38.41,0:14:40.64,Default,,0000,0000,0000,,{\fn黑体\fs24}你还没告诉他？{\r}\NYou didn't tell him yet?
+Dialogue: 0,0:14:40.78,0:14:42.27,Default,,0000,0000,0000,,{\fn黑体\fs24}该死！{\r}\NDamn!
+Dialogue: 0,0:14:44.45,0:14:45.92,Default,,0000,0000,0000,,l...
+Dialogue: 0,0:14:47.29,0:14:51.02,Default,,0000,0000,0000,,{\fn黑体\fs24}我想告诉你，我正要告诉你{\r}\NAdam, l wanted to tell you. l was just about to tell you.
+Dialogue: 0,0:14:51.16,0:14:52.35,Default,,0000,0000,0000,,{\fn黑体\fs24}多久？{\r}\NHow long?
+Dialogue: 0,0:14:52.50,0:14:54.76,Default,,0000,0000,0000,,{\fn黑体\fs24}什么？ 多久了？{\r}\N- Well... - How long?
+Dialogue: 0,0:14:54.90,0:14:56.87,Default,,0000,0000,0000,,{\fn黑体\fs24}不久，我…{\r}\NNot long. l...
+Dialogue: 0,0:14:58.17,0:15:01.43,Default,,0000,0000,0000,,{\fn黑体\fs24}她需要地方住，房东又是大烂人{\r}\NShe needed a place to stay because, you know, her landlord is such a D-bag.
+Dialogue: 0,0:15:01.57,0:15:04.56,Default,,0000,0000,0000,,{\fn黑体\fs24}我在圣诞节派对遇到她{\r}\NChristmas. l ran into her at a party.
+Dialogue: 0,0:15:04.71,0:15:07.18,Default,,0000,0000,0000,,{\fn黑体\fs24}我们开始聊天，聊的都是你{\r}\NWe got to talking. About you, mostly.
+Dialogue: 0,0:15:12.05,0:15:13.81,Default,,0000,0000,0000,,{\fn黑体\fs24}看起来很软！{\r}\Nlt looked so soft!
+Dialogue: 0,0:15:14.48,0:15:16.95,Default,,0000,0000,0000,,{\fn黑体\fs24}并不软{\r}\Nlt's not. God!
+Dialogue: 0,0:15:17.09,0:15:18.71,Default,,0000,0000,0000,,{\fn黑体\fs24}天啊，好痛哦{\r}\NOh, that really hurt. Damn.
+Dialogue: 0,0:15:21.62,0:15:24.53,Default,,0000,0000,0000,,{\fn黑体\fs24}你在上我的前女友？{\r}\NYou're fucking my ex-girlfriend?
+Dialogue: 0,0:15:26.20,0:15:27.63,Default,,0000,0000,0000,,{\fn黑体\fs24}没错，可是…{\r}\NWell, yeah, but...
+Dialogue: 0,0:15:31.70,0:15:34.97,Default,,0000,0000,0000,,{\fn黑体\fs24}她超辣的 我知道她有多辣{\r}\N- She's just so hot. - l know how hot she is.
+Dialogue: 0,0:15:35.10,0:15:38.16,Default,,0000,0000,0000,,{\fn黑体\fs24}你们人真好 去你的！{\r}\N- That's really sweet. Thanks, guys. - Fuck you!
+Dialogue: 0,0:15:38.31,0:15:41.51,Default,,0000,0000,0000,,{\fn黑体\fs24}亚当，我不是个好爸爸{\r}\NAdam. All right, l'm not the perfect dad.
+Dialogue: 0,0:15:41.64,0:15:44.77,Default,,0000,0000,0000,,{\fn黑体\fs24}但我也不能向爱情说不呀{\r}\NBut the worst thing you can do in life is to say no to love.
+Dialogue: 0,0:15:45.68,0:15:48.85,Default,,0000,0000,0000,,{\fn黑体\fs24}我觉得她真的很爱我{\r}\NAnd l think she really loves me.
+Dialogue: 0,0:15:48.99,0:15:51.45,Default,,0000,0000,0000,,{\fn黑体\fs24}别这样，亚当{\r}\NDon't. Adam.
+Dialogue: 0,0:15:54.02,0:15:55.89,Default,,0000,0000,0000,,{\fn黑体\fs24}我的同志爸爸最棒的是什么？{\r}\NHey, you know the best part about my gay dads?
+Dialogue: 0,0:15:56.03,0:15:57.01,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:15:57.16,0:15:59.19,Default,,0000,0000,0000,,{\fn黑体\fs24}他们绝不会替我前女友口交{\r}\NThey're never gonna eat out my ex-girlfriends.
+Dialogue: 0,0:15:59.33,0:16:00.99,Default,,0000,0000,0000,,{\fn黑体\fs24}那倒是{\r}\NThat's true.
+Dialogue: 0,0:16:01.13,0:16:04.73,Default,,0000,0000,0000,,{\fn黑体\fs24}我听说… 你和你爸变成表兄弟了{\r}\NHey, l heard. You and your dad are tunnel buddies, huh?
+Dialogue: 0,0:16:04.87,0:16:08.77,Default,,0000,0000,0000,,{\fn黑体\fs24}瓦勒斯！ 她为了你爸甩掉你{\r}\N- Wow, Wallace! - She chose your dad over you, man.
+Dialogue: 0,0:16:08.91,0:16:11.64,Default,,0000,0000,0000,,{\fn黑体\fs24}就好像用卡匣代替iPod{\r}\NThat's like trading an iPod for a 8 track.
+Dialogue: 0,0:16:12.61,0:16:15.87,Default,,0000,0000,0000,,{\fn黑体\fs24}你得报一箭之仇 找他的前女友炒饭{\r}\NYou need to get even. Go have sex with one of his ex-girlfriends.
+Dialogue: 0,0:16:16.01,0:16:18.14,Default,,0000,0000,0000,,{\fn黑体\fs24}他在高潮的时候会不会大叫{\r}\NHey, you think when he's busting a nut,
+Dialogue: 0,0:16:18.28,0:16:22.72,Default,,0000,0000,0000,,{\fn黑体\fs24}“我的老天爷！” 不会吗？{\r}\Nhe's like, ''Great Scott''? No?
+Dialogue: 0,0:16:22.85,0:16:26.52,Default,,0000,0000,0000,,{\fn黑体\fs24}能不能聊别的？什么都行{\r}\NWait. Can we talk about something else? Like, literally, anything else?
+Dialogue: 0,0:16:26.66,0:16:28.59,Default,,0000,0000,0000,,{\fn黑体\fs24}当然可以{\r}\N- Yeah. - Of course. Yeah.
+Dialogue: 0,0:16:28.73,0:16:32.18,Default,,0000,0000,0000,,{\fn黑体\fs24}我的老天爷{\r}\N- Great Scott. - OK.
+Dialogue: 0,0:16:33.33,0:16:36.92,Default,,0000,0000,0000,,{\fn黑体\fs24}够了，我豁出去了 豁出去什么？{\r}\N- That's it. l'm going for it. - Going for what?
+Dialogue: 0,0:16:37.07,0:16:38.90,Default,,0000,0000,0000,,{\fn黑体\fs24}我要打给手机里的每个女生{\r}\Nl'm gonna call every girl in my phone
+Dialogue: 0,0:16:39.04,0:16:40.59,Default,,0000,0000,0000,,{\fn黑体\fs24}直到有一个肯跟我炒饭{\r}\Nuntil someone agrees to have sex with me.
+Dialogue: 0,0:16:40.74,0:16:45.41,Default,,0000,0000,0000,,{\fn黑体\fs24}超屌的，我敬你 这是个自我毁灭的计划{\r}\N- That's strong. Toast to that. - Toast. That is a terrible, self-destructive plan,
+Dialogue: 0,0:16:45.54,0:16:47.41,Default,,0000,0000,0000,,{\fn黑体\fs24}但我们百分百支持你{\r}\Nand we're behind you a hundred percent.
+Dialogue: 0,0:16:51.18,0:16:52.94,Default,,0000,0000,0000,,{\fn黑体\fs24}你也好吗？{\r}\NWell, hello to you!
+Dialogue: 0,0:16:56.39,0:16:58.38,Default,,0000,0000,0000,,{\fn黑体\fs24}我可以赶去俄亥俄州{\r}\NYeah, l can come to Ohio.
+Dialogue: 0,0:16:59.72,0:17:01.82,Default,,0000,0000,0000,,{\fn黑体\fs24}俄亥俄州？不行啦{\r}\NOhio? No, you can't.
+Dialogue: 0,0:17:03.03,0:17:04.43,Default,,0000,0000,0000,,{\fn黑体\fs24}我搭计程车{\r}\Nl'll take a cab.
+Dialogue: 0,0:17:05.16,0:17:07.13,Default,,0000,0000,0000,,{\fn黑体\fs24}好，我去找你{\r}\NNo, it's fine. l'll come to you.
+Dialogue: 0,0:17:07.26,0:17:08.79,Default,,0000,0000,0000,,{\fn黑体\fs24}哪间医院？{\r}\NWhat hospital?
+Dialogue: 0,0:17:09.93,0:17:12.63,Default,,0000,0000,0000,,{\fn黑体\fs24}我现在只需要有人陪{\r}\Nl just really need to be with someone right now.
+Dialogue: 0,0:17:13.47,0:17:17.13,Default,,0000,0000,0000,,{\fn黑体\fs24}我在想你能不能让我上你{\r}\NHey, l was wondering... Do you have someplace l could put my boner?
+Dialogue: 0,0:17:18.88,0:17:22.21,Default,,0000,0000,0000,,{\fn黑体\fs24}我们可以玩抱抱就行{\r}\NNo, it's just... we could just snuggle or something.
+Dialogue: 0,0:17:22.35,0:17:25.01,Default,,0000,0000,0000,,{\fn黑体\fs24}你几岁啦？{\r}\NWhat? Well, how old are you?
+Dialogue: 0,0:17:26.35,0:17:27.68,Default,,0000,0000,0000,,- Oh... - OK.
+Dialogue: 0,0:17:29.39,0:17:31.75,Default,,0000,0000,0000,,{\fn黑体\fs24}我行！我行！{\r}\Nl got it! l got it.
+Dialogue: 0,0:17:31.89,0:17:34.72,Default,,0000,0000,0000,,{\fn黑体\fs24}我行啦{\r}\Nl got it. l got it.
+Dialogue: 0,0:17:34.86,0:17:36.35,Default,,0000,0000,0000,,l got it!
+Dialogue: 0,0:18:05.89,0:18:08.02,Default,,0000,0000,0000,,{\fn黑体\fs24}你不记得我的名字了，对吧？{\r}\NYou don't remember my name, do you?
+Dialogue: 0,0:18:13.76,0:18:15.32,Default,,0000,0000,0000,,{\fn黑体\fs24}没关系{\r}\Nlt's OK.
+Dialogue: 0,0:18:15.47,0:18:19.63,Default,,0000,0000,0000,,{\fn黑体\fs24}我叫希拉 你看起来需要喝咖啡{\r}\Nlt's Shira, and you look like you could use some coffee.
+Dialogue: 0,0:18:21.57,0:18:24.34,Default,,0000,0000,0000,,{\fn黑体\fs24}好，咖啡很好{\r}\NYes. Coffee's good.
+Dialogue: 0,0:18:30.88,0:18:32.51,Default,,0000,0000,0000,,{\fn黑体\fs24}我的…{\r}\Nl got...
+Dialogue: 0,0:18:33.22,0:18:34.84,Default,,0000,0000,0000,,{\fn黑体\fs24}我的裤子咧？{\r}\NWhere are my pants?
+Dialogue: 0,0:18:36.12,0:18:38.55,Default,,0000,0000,0000,,{\fn黑体\fs24}不知道，可能在任何地方，来{\r}\Nl don't know. They could be anywhere. Here's your coffee.
+Dialogue: 0,0:18:38.69,0:18:40.35,Default,,0000,0000,0000,,{\fn黑体\fs24}谢谢你{\r}\NThank you.
+Dialogue: 0,0:18:48.63,0:18:50.50,Default,,0000,0000,0000,,{\fn黑体\fs24}你昨晚开不开心？{\r}\NDid you have a good time last night?
+Dialogue: 0,0:18:51.60,0:18:54.87,Default,,0000,0000,0000,,{\fn黑体\fs24}还好啦，没什么特别的{\r}\Nlt was all right. Nothing special.
+Dialogue: 0,0:18:59.18,0:19:03.08,Default,,0000,0000,0000,,{\fn黑体\fs24}听好，我要你知道{\r}\NListen, l want you to know that...
+Dialogue: 0,0:19:04.91,0:19:06.35,Default,,0000,0000,0000,,{\fn黑体\fs24}我很尊重你{\r}\N...l respect you.
+Dialogue: 0,0:19:06.48,0:19:08.38,Default,,0000,0000,0000,,{\fn黑体\fs24}谢谢你{\r}\NThank you.
+Dialogue: 0,0:19:08.52,0:19:12.72,Default,,0000,0000,0000,,{\fn黑体\fs24}通常我都会记得… 跟我那个的人的名字{\r}\NNormally, l would remember the name of someone that l've...
+Dialogue: 0,0:19:12.86,0:19:14.98,Default,,0000,0000,0000,,{\fn黑体\fs24}什么？我的天{\r}\NWhat? Oh, my God.
+Dialogue: 0,0:19:15.12,0:19:18.46,Default,,0000,0000,0000,,{\fn黑体\fs24}你以为我们炒过饭 拜托，并没有，好吗？{\r}\NDid you think we had sex? Oh, my God, we did not have sex.
+Dialogue: 0,0:19:18.59,0:19:21.59,Default,,0000,0000,0000,,{\fn黑体\fs24}亚当，你把袜子留在我房间{\r}\NHey, Adam. You left your socks in my room.
+Dialogue: 0,0:19:23.17,0:19:25.46,Default,,0000,0000,0000,,{\fn黑体\fs24}有吗？ 有{\r}\N- Did l? - You did.
+Dialogue: 0,0:19:26.57,0:19:29.30,Default,,0000,0000,0000,,{\fn黑体\fs24}我有没有把裤子留在你房间？{\r}\NDid l, by chance, leave my pants in your room?
+Dialogue: 0,0:19:29.44,0:19:32.17,Default,,0000,0000,0000,,{\fn黑体\fs24}没，我见到你的时候 你就没穿裤子{\r}\NNo. When we met, you weren't wearing pants.
+Dialogue: 0,0:19:32.31,0:19:35.54,Default,,0000,0000,0000,,{\fn黑体\fs24}别再逗他了啦，大伙儿{\r}\NStop teasing him, you guys.
+Dialogue: 0,0:19:35.68,0:19:38.11,Default,,0000,0000,0000,,{\fn黑体\fs24}派翠丝，我认识你{\r}\N- Patrice. Hey, l know you. - Hey.
+Dialogue: 0,0:19:38.25,0:19:40.27,Default,,0000,0000,0000,,- Yeah. - OK.
+Dialogue: 0,0:19:41.48,0:19:42.78,Default,,0000,0000,0000,,{\fn黑体\fs24}昨晚发生什么事？{\r}\NWhat happened last night?
+Dialogue: 0,0:19:43.92,0:19:48.65,Default,,0000,0000,0000,,{\fn黑体\fs24}我们有没有…？ 我们有炒饭，而且我很爽{\r}\N- Did we do it? - We had sex. Yeah. l really liked it.
+Dialogue: 0,0:19:49.99,0:19:55.76,Default,,0000,0000,0000,,{\fn黑体\fs24}我不知道我的身体能承受那种痛{\r}\Nl didn't know that my body could handle that much pain.
+Dialogue: 0,0:19:55.90,0:19:58.39,Default,,0000,0000,0000,,{\fn黑体\fs24}可是我喜欢{\r}\NAnd that l would like it.
+Dialogue: 0,0:19:59.07,0:20:00.33,Default,,0000,0000,0000,,{\fn黑体\fs24}你醒啦！{\r}\NYou're up.
+Dialogue: 0,0:20:01.30,0:20:03.10,Default,,0000,0000,0000,,{\fn黑体\fs24}艾玛{\r}\NEmma.
+Dialogue: 0,0:20:03.24,0:20:04.97,Default,,0000,0000,0000,,{\fn黑体\fs24}你也住在这里？ 对{\r}\N- You live here? - Yep.
+Dialogue: 0,0:20:05.91,0:20:07.47,Default,,0000,0000,0000,,{\fn黑体\fs24}感觉好一点吗？{\r}\NYou feeling any better?
+Dialogue: 0,0:20:09.28,0:20:12.27,Default,,0000,0000,0000,,{\fn黑体\fs24}我昨晚有没有在这里跟谁炒饭？{\r}\NDid l have sex with anyone in this apartment last night?
+Dialogue: 0,0:20:12.42,0:20:14.41,Default,,0000,0000,0000,,{\fn黑体\fs24}并没有{\r}\NNo, you didn't.
+Dialogue: 0,0:20:14.55,0:20:16.85,Default,,0000,0000,0000,,{\fn黑体\fs24}没有，抱歉 你没有{\r}\N- No. Sorry. - You didn't.
+Dialogue: 0,0:20:16.99,0:20:20.39,Default,,0000,0000,0000,,{\fn黑体\fs24}谢谢你们哦，很好笑{\r}\NThank you. Yeah, that's... that's funny.
+Dialogue: 0,0:20:20.52,0:20:23.58,Default,,0000,0000,0000,,{\fn黑体\fs24}让我们嘲笑宿醉的溜鸟侠{\r}\NLet's make fun of the hung-over naked guy.
+Dialogue: 0,0:20:23.73,0:20:27.59,Default,,0000,0000,0000,,{\fn黑体\fs24}我有你的裤子，想要就跟我来{\r}\NBut l do have your pants, so if you want them, come with me.
+Dialogue: 0,0:20:28.73,0:20:30.96,Default,,0000,0000,0000,,{\fn黑体\fs24}好，谢谢你{\r}\NYes. Thank you.
+Dialogue: 0,0:20:33.37,0:20:35.56,Default,,0000,0000,0000,,{\fn黑体\fs24}别害臊，我们都是医生{\r}\NYou don't have to feel embarrassed, because we're all doctors,
+Dialogue: 0,0:20:35.71,0:20:39.90,Default,,0000,0000,0000,,{\fn黑体\fs24}每个礼拜都得看几百根阴茎{\r}\Nso we see literally hundreds of penises a week.
+Dialogue: 0,0:20:40.04,0:20:41.13,Default,,0000,0000,0000,,{\fn黑体\fs24}我看过几千根{\r}\Nl see thousands.
+Dialogue: 0,0:20:41.28,0:20:43.64,Default,,0000,0000,0000,,{\fn黑体\fs24}我昨天才从宝特瓶拔出一根{\r}\Nl just pulled a penis out of a VitaminWater yesterday.
+Dialogue: 0,0:20:43.78,0:20:45.84,Default,,0000,0000,0000,,{\fn黑体\fs24}大家都看习惯了{\r}\N- So, we are cool with penises here. - OK.
+Dialogue: 0,0:20:45.98,0:20:47.38,Default,,0000,0000,0000,,{\fn黑体\fs24}我们是专业医师{\r}\NWe're professionals.
+Dialogue: 0,0:20:47.52,0:20:48.61,Default,,0000,0000,0000,,Well...
+Dialogue: 0,0:20:50.65,0:20:52.09,Default,,0000,0000,0000,,{\fn黑体\fs24}幸会了{\r}\Nlt has been a pleasure.
+Dialogue: 0,0:20:56.13,0:20:57.52,Default,,0000,0000,0000,,{\fn黑体\fs24}好翘的屁股{\r}\NBravo.
+Dialogue: 0,0:20:57.66,0:21:00.63,Default,,0000,0000,0000,,{\fn黑体\fs24}超翘的{\r}\N- Nice. - Bravo, bravo.
+Dialogue: 0,0:21:02.37,0:21:04.33,Default,,0000,0000,0000,,{\fn黑体\fs24}没错，我绝对是同志{\r}\NYep, l'm definitely gay.
+Dialogue: 0,0:21:04.47,0:21:06.87,Default,,0000,0000,0000,,{\fn黑体\fs24}我怎么会跑来这里？{\r}\NSo, how did l get here?
+Dialogue: 0,0:21:07.00,0:21:09.44,Default,,0000,0000,0000,,{\fn黑体\fs24}你传简讯给我说是紧急事件{\r}\NYou texted me that it was an emergency,
+Dialogue: 0,0:21:09.57,0:21:12.70,Default,,0000,0000,0000,,{\fn黑体\fs24}我把地址传给你 然后你就跑来{\r}\Nand then l texted you my address, and then you came over.
+Dialogue: 0,0:21:12.84,0:21:16.37,Default,,0000,0000,0000,,{\fn黑体\fs24}我猜你以为你回家了{\r}\NAnd l think you thought you were at home,
+Dialogue: 0,0:21:16.51,0:21:18.61,Default,,0000,0000,0000,,{\fn黑体\fs24}因为你开始脱衣服{\r}\Nbecause you started taking off all your clothes.
+Dialogue: 0,0:21:18.75,0:21:19.74,Default,,0000,0000,0000,,{\fn黑体\fs24}噢，天啊{\r}\NOh, God.
+Dialogue: 0,0:21:19.88,0:21:22.11,Default,,0000,0000,0000,,{\fn黑体\fs24}你的裤子 谢了{\r}\N- Here are your pants. - Thank you.
+Dialogue: 0,0:21:30.16,0:21:31.99,Default,,0000,0000,0000,,{\fn黑体\fs24}所以…{\r}\NSo...
+Dialogue: 0,0:21:32.13,0:21:36.29,Default,,0000,0000,0000,,{\fn黑体\fs24}我只是昏睡在沙发上？{\r}\N- Did l just pass out on your couch? - No.
+Dialogue: 0,0:21:36.43,0:21:42.44,Default,,0000,0000,0000,,{\fn黑体\fs24}没有，你还干了一件事 有点像是…一种舞{\r}\NNo, then you did this thing. lt was... ...like a dance?
+Dialogue: 0,0:21:42.57,0:21:44.87,Default,,0000,0000,0000,,{\fn黑体\fs24}一种舞？ 是啊，像这样{\r}\N- Dance? - Yeah, like...
+Dialogue: 0,0:21:48.58,0:21:50.60,Default,,0000,0000,0000,,{\fn黑体\fs24}我在你面前摇晃我的老二？ 对{\r}\N- l shook my dick at you? - Yeah.
+Dialogue: 0,0:21:50.75,0:21:53.18,Default,,0000,0000,0000,,{\fn黑体\fs24}靠，真是对不起{\r}\NOh, shit. l'm sorry.
+Dialogue: 0,0:21:53.32,0:21:55.61,Default,,0000,0000,0000,,{\fn黑体\fs24}其实…还蛮刺激的{\r}\NNo, no, it was... it was exciting.
+Dialogue: 0,0:21:55.75,0:21:57.88,Default,,0000,0000,0000,,{\fn黑体\fs24}你一边摇晃一边欢呼{\r}\Nlt was like you were cheering while you were doing it.
+Dialogue: 0,0:21:58.02,0:22:01.42,Default,,0000,0000,0000,,{\fn黑体\fs24}“喔耶，看看我的老二”{\r}\NYou were like, ''Look at my dick!''
+Dialogue: 0,0:22:03.89,0:22:06.49,Default,,0000,0000,0000,,{\fn黑体\fs24}你有看吗？ 当然有{\r}\N- Did you look at it? - Yeah, l looked.
+Dialogue: 0,0:22:06.63,0:22:10.29,Default,,0000,0000,0000,,{\fn黑体\fs24}挺不赖的 你的老二很不错{\r}\Nlt was nice. You have a really nice penis.
+Dialogue: 0,0:22:11.30,0:22:13.70,Default,,0000,0000,0000,,{\fn黑体\fs24}不错？ 挺自由自在的{\r}\N- Nice? - lt seems kind of like carefree.
+Dialogue: 0,0:22:13.84,0:22:15.24,Default,,0000,0000,0000,,- Yeah? - Yeah.
+Dialogue: 0,0:22:15.37,0:22:19.14,Default,,0000,0000,0000,,{\fn黑体\fs24}老天爷 我不知道该从何说起，我爸…{\r}\NJesus. l don't know where to start. My dad's...
+Dialogue: 0,0:22:19.91,0:22:23.24,Default,,0000,0000,0000,,{\fn黑体\fs24}我爸在和我前女友交往{\r}\NMy dad's dating my ex-girlfriend.
+Dialogue: 0,0:22:23.38,0:22:25.37,Default,,0000,0000,0000,,{\fn黑体\fs24}你昨晚跟我说了{\r}\NYou told me about it last night.
+Dialogue: 0,0:22:25.51,0:22:27.14,Default,,0000,0000,0000,,{\fn黑体\fs24}我是不是很有魅力？{\r}\NDid l tell you like in a charming way?
+Dialogue: 0,0:22:27.28,0:22:29.72,Default,,0000,0000,0000,,{\fn黑体\fs24}我是不是又迷人又搞笑{\r}\NWas l like charming and funny when l told you?
+Dialogue: 0,0:22:29.85,0:22:34.19,Default,,0000,0000,0000,,{\fn黑体\fs24}是，你光着屁股大哭特哭{\r}\NYeah. You were... ...naked and crying.
+Dialogue: 0,0:22:36.49,0:22:38.52,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:22:38.66,0:22:40.29,Default,,0000,0000,0000,,{\fn黑体\fs24}我真是一团糟{\r}\Nl'm a mess.
+Dialogue: 0,0:22:44.63,0:22:46.10,Default,,0000,0000,0000,,Hey.
+Dialogue: 0,0:22:48.34,0:22:49.83,Default,,0000,0000,0000,,{\fn黑体\fs24}不会有事的{\r}\Nlt's gonna be OK.
+Dialogue: 0,0:22:53.71,0:22:55.04,Default,,0000,0000,0000,,{\fn黑体\fs24}谢了{\r}\NThanks.
+Dialogue: 0,0:22:58.31,0:22:59.71,Default,,0000,0000,0000,,{\fn黑体\fs24}我是说真的{\r}\NSeriously.
+Dialogue: 0,0:23:01.25,0:23:02.74,Default,,0000,0000,0000,,{\fn黑体\fs24}谢谢你{\r}\NThank you.
+Dialogue: 0,0:23:03.75,0:23:08.16,Default,,0000,0000,0000,,{\fn黑体\fs24}我该准备出门了，我不想迟到{\r}\Nl should probably get ready now. l don't want to be late.
+Dialogue: 0,0:23:08.29,0:23:12.28,Default,,0000,0000,0000,,{\fn黑体\fs24}好…你不想迟到{\r}\NYeah, it's... You don't want to be late.
+Dialogue: 0,0:23:12.43,0:23:14.83,Default,,0000,0000,0000,,{\fn黑体\fs24}对，那样不好{\r}\NNo, that would be bad.
+Dialogue: 0,0:23:40.46,0:23:41.58,Default,,0000,0000,0000,,{\fn黑体\fs24}保险套？{\r}\NCondom?
+Dialogue: 0,0:23:41.72,0:23:43.49,Default,,0000,0000,0000,,{\fn黑体\fs24}我有保险套{\r}\N- Condom. Get a condom. - l know. Condoms.
+Dialogue: 0,0:23:43.63,0:23:45.53,Default,,0000,0000,0000,,- OK. - Condoms.
+Dialogue: 0,0:23:50.90,0:23:51.89,Default,,0000,0000,0000,,{\fn黑体\fs24}有了{\r}\NGot it.
+Dialogue: 0,0:23:52.77,0:23:53.63,Default,,0000,0000,0000,,{\fn黑体\fs24}快点{\r}\N- Got it. - Hurry.
+Dialogue: 0,0:23:58.44,0:23:59.60,Default,,0000,0000,0000,,{\fn黑体\fs24}需要帮忙吗？{\r}\NYou need help?
+Dialogue: 0,0:24:00.48,0:24:02.67,Default,,0000,0000,0000,,{\fn黑体\fs24}我能搞定{\r}\N- l got it. - OK.
+Dialogue: 0,0:24:02.81,0:24:04.47,Default,,0000,0000,0000,,{\fn黑体\fs24}好了{\r}\NHere we go.
+Dialogue: 0,0:24:04.61,0:24:05.94,Default,,0000,0000,0000,,{\fn黑体\fs24}你还穿着…{\r}\NOh, you got your...
+Dialogue: 0,0:24:06.08,0:24:07.78,Default,,0000,0000,0000,,{\fn黑体\fs24}让我来…{\r}\N- Yep. - Let me just...
+Dialogue: 0,0:24:27.44,0:24:29.20,Default,,0000,0000,0000,,- Hey. - Yeah.
+Dialogue: 0,0:24:29.34,0:24:31.27,Default,,0000,0000,0000,,{\fn黑体\fs24}我们在炒饭耶 我知道{\r}\N- We're having sex. - l know.
+Dialogue: 0,0:24:39.28,0:24:41.34,Default,,0000,0000,0000,,{\fn黑体\fs24}我们10分钟后要到医院{\r}\NEmma, we have to be in the hospital in ten minutes.
+Dialogue: 0,0:24:42.42,0:24:43.75,Default,,0000,0000,0000,,{\fn黑体\fs24}好啦！{\r}\NOK.
+Dialogue: 0,0:24:47.26,0:24:51.19,Default,,0000,0000,0000,,{\fn黑体\fs24}你只有45秒的时间达到高潮{\r}\NYou have 45 seconds to pull your shit together, OK?
+Dialogue: 0,0:24:51.33,0:24:53.69,Default,,0000,0000,0000,,{\fn黑体\fs24}我一定会比你快 很好{\r}\N- l'm way ahead of you. - Fine.
+Dialogue: 0,0:24:53.83,0:24:55.66,Default,,0000,0000,0000,,{\fn黑体\fs24}很好{\r}\NFine.
+Dialogue: 0,0:25:29.16,0:25:32.36,Default,,0000,0000,0000,,{\fn黑体\fs24}找到了 太好了{\r}\N- Found it! - Oh, great.
+Dialogue: 0,0:25:32.50,0:25:33.80,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:25:35.37,0:25:38.67,Default,,0000,0000,0000,,{\fn黑体\fs24}我们不要告诉任何人{\r}\NSo, we're not gonna tell anyone about this, OK?
+Dialogue: 0,0:25:39.68,0:25:41.61,Default,,0000,0000,0000,,{\fn黑体\fs24}这样比较简单{\r}\N- Yeah. Of course. - lt's just easier that way.
+Dialogue: 0,0:25:41.74,0:25:44.44,Default,,0000,0000,0000,,{\fn黑体\fs24}当然 很好{\r}\N- Definitely. - Good.
+Dialogue: 0,0:25:48.48,0:25:50.51,Default,,0000,0000,0000,,{\fn黑体\fs24}艾玛！该走了！{\r}\NEmma, time to go!
+Dialogue: 0,0:25:51.32,0:25:53.38,Default,,0000,0000,0000,,{\fn黑体\fs24}来了！{\r}\NComing!
+Dialogue: 0,0:25:54.02,0:25:55.51,Default,,0000,0000,0000,,- All right? - ls this...?
+Dialogue: 0,0:25:55.66,0:25:58.06,Default,,0000,0000,0000,,{\fn黑体\fs24}这样看起来像是炒过饭吗？{\r}\N- No. - lt looks like something happened.
+Dialogue: 0,0:26:02.80,0:26:04.39,Default,,0000,0000,0000,,{\fn黑体\fs24}帐单给我，我买单{\r}\Nl'm gonna get the bill. l'll pay for it.
+Dialogue: 0,0:26:04.53,0:26:05.52,Default,,0000,0000,0000,,{\fn黑体\fs24}谢谢你{\r}\NThank you.
+Dialogue: 0,0:26:05.67,0:26:07.90,Default,,0000,0000,0000,,- Hey. - Hey.
+Dialogue: 0,0:26:13.94,0:26:15.31,Default,,0000,0000,0000,,Hi.
+Dialogue: 0,0:26:18.25,0:26:22.38,Default,,0000,0000,0000,,{\fn黑体\fs24}我只想在传简讯之后打给你{\r}\Nl just wanted to follow up that text with a phone call.
+Dialogue: 0,0:26:22.52,0:26:24.92,Default,,0000,0000,0000,,{\fn黑体\fs24}看看你想不想再聚一聚{\r}\NWanted to see if you wanted to hang out again.
+Dialogue: 0,0:26:25.05,0:26:26.35,Default,,0000,0000,0000,,{\fn黑体\fs24}我饿死了{\r}\Nl'm starving.
+Dialogue: 0,0:26:27.42,0:26:31.79,Default,,0000,0000,0000,,{\fn黑体\fs24}怪了，你出现在我在的餐馆前面{\r}\NThat's weird. You just pulled up in front of the restaurant that l'm eating at.
+Dialogue: 0,0:26:33.20,0:26:34.56,Default,,0000,0000,0000,,Hey.
+Dialogue: 0,0:26:36.07,0:26:37.43,Default,,0000,0000,0000,,Hi.
+Dialogue: 0,0:26:38.43,0:26:41.30,Default,,0000,0000,0000,,{\fn黑体\fs24}嗨，我是山姆 我们是同事{\r}\N- Hey. l'm Sam. - We work together at the hospital.
+Dialogue: 0,0:26:41.44,0:26:43.34,Default,,0000,0000,0000,,{\fn黑体\fs24}只有15分钟买午餐{\r}\NWe have like 15 minutes to get food, so...
+Dialogue: 0,0:26:43.47,0:26:45.53,Default,,0000,0000,0000,,{\fn黑体\fs24}我有车，她只是利用我{\r}\NShe's just using me for my car.
+Dialogue: 0,0:26:45.67,0:26:48.40,Default,,0000,0000,0000,,{\fn黑体\fs24}你是个医生？ 还不是，希望就快是了{\r}\N- You're a doctor? - Not yet. Fingers crossed.
+Dialogue: 0,0:26:48.54,0:26:52.04,Default,,0000,0000,0000,,{\fn黑体\fs24}棒呆了，好样的{\r}\NAwesome. That's awesome for you.
+Dialogue: 0,0:26:52.68,0:26:53.71,Default,,0000,0000,0000,,{\fn黑体\fs24}嗨，伊莱{\r}\N- Hey, Eli. - Hey.
+Dialogue: 0,0:26:54.38,0:26:56.61,Default,,0000,0000,0000,,{\fn黑体\fs24}我们很赶，很高兴见到你{\r}\NWell, we're kind of in a rush, so it was good seeing you.
+Dialogue: 0,0:26:56.75,0:26:58.28,Default,,0000,0000,0000,,{\fn黑体\fs24}幸会了{\r}\N- Nice to meet you. - Nice meeting you.
+Dialogue: 0,0:26:59.19,0:27:01.09,Default,,0000,0000,0000,,{\fn黑体\fs24}你今天很美{\r}\NYou look beautiful today.
+Dialogue: 0,0:27:04.79,0:27:06.32,Default,,0000,0000,0000,,{\fn黑体\fs24}幸会了{\r}\NNice meeting you.
+Dialogue: 0,0:27:11.50,0:27:13.37,Default,,0000,0000,0000,,{\fn黑体\fs24}你这五八蛋{\r}\NYou piece of shit.
+Dialogue: 0,0:27:13.50,0:27:17.60,Default,,0000,0000,0000,,{\fn黑体\fs24}怎么了？ 什么怎么了？我问你{\r}\N- What? - ''What?'' Let me ask you.
+Dialogue: 0,0:27:18.84,0:27:20.31,Default,,0000,0000,0000,,{\fn黑体\fs24}你是不是跟艾玛上了床？{\r}\NDid you have sex with Emma?
+Dialogue: 0,0:27:21.38,0:27:23.11,Default,,0000,0000,0000,,{\fn黑体\fs24}没有{\r}\NNo.
+Dialogue: 0,0:27:23.81,0:27:26.80,Default,,0000,0000,0000,,{\fn黑体\fs24}你有没有跟艾玛炒饭？{\r}\NDid you have sex with Emma?
+Dialogue: 0,0:27:28.18,0:27:29.24,Default,,0000,0000,0000,,{\fn黑体\fs24}有{\r}\NYes.
+Dialogue: 0,0:27:29.62,0:27:30.81,Default,,0000,0000,0000,,{\fn黑体\fs24}可是我不该告诉任何人{\r}\N- l'm not supposed to tell anyone. - Yes! Wow!
+Dialogue: 0,0:27:36.16,0:27:38.85,Default,,0000,0000,0000,,{\fn黑体\fs24}我打给她，她没回电 只传了简讯{\r}\Nl called her, but she didn't call me back. She sent me a text.
+Dialogue: 0,0:27:38.99,0:27:41.62,Default,,0000,0000,0000,,{\fn黑体\fs24}她写什么？ “嗨”{\r}\N- All right. Well, what'd she text you? - ''Hi.''
+Dialogue: 0,0:27:42.80,0:27:45.82,Default,,0000,0000,0000,,{\fn黑体\fs24}只有“嗨”？没别的？{\r}\N- Just ''Hi''? - ''Hi.'' With nothing else? Just ''H-i''?
+Dialogue: 0,0:27:45.97,0:27:47.73,Default,,0000,0000,0000,,{\fn黑体\fs24}我该怎么回应？{\r}\Nl don't know. What do l do with that? l don't know.
+Dialogue: 0,0:27:47.87,0:27:49.30,Default,,0000,0000,0000,,{\fn黑体\fs24}情况不妙{\r}\NThat's not good.
+Dialogue: 0,0:27:49.44,0:27:51.34,Default,,0000,0000,0000,,{\fn黑体\fs24}你得赶快抽身，结束了{\r}\NYou just gotta walk away, pal. lt's over.
+Dialogue: 0,0:27:51.47,0:27:53.81,Default,,0000,0000,0000,,{\fn黑体\fs24}她对你没兴趣 真的吗？{\r}\N- She's not into it. - Shit. Seriously?
+Dialogue: 0,0:27:53.94,0:27:56.31,Default,,0000,0000,0000,,{\fn黑体\fs24}很高兴见到你们 回头见{\r}\N- Good seeing you guys. - See you later.
+Dialogue: 0,0:28:02.82,0:28:05.58,Default,,0000,0000,0000,,{\fn黑体\fs24}你真以为她是利用他的车？{\r}\NYou really think she's just using him for his car?
+Dialogue: 0,0:28:05.72,0:28:08.99,Default,,0000,0000,0000,,{\fn黑体\fs24}才怪，他想在油电车里上她{\r}\NNo, Adam, l don't. l think he wants to fuck her in his Prius.
+Dialogue: 0,0:28:09.53,0:28:13.02,Default,,0000,0000,0000,,{\fn黑体\fs24}因为在油电车里面做爱超环保的{\r}\NAnd the thing about fucking in a Prius is that you don't have to feel guilty afterwards.
+Dialogue: 0,0:28:14.40,0:28:16.96,Default,,0000,0000,0000,,{\fn黑体\fs24}因为可以节能减碳{\r}\N- 'Cause of the carbon footprint. - Yeah.
+Dialogue: 0,0:28:21.10,0:28:24.40,Default,,0000,0000,0000,,{\fn黑体\fs24}梅医师前几天跟我说话 不是吧，他说什么？{\r}\N- Metzner talked to me the other day. - Shut up. What did he say?
+Dialogue: 0,0:28:24.54,0:28:28.03,Default,,0000,0000,0000,,{\fn黑体\fs24}“你做错了”，超棒的{\r}\NHe was like, ''No, you're doing that wrong.'' lt was amazing.
+Dialogue: 0,0:28:29.55,0:28:31.10,Default,,0000,0000,0000,,{\fn黑体\fs24}艾玛{\r}\NEmma.
+Dialogue: 0,0:28:33.78,0:28:35.61,Default,,0000,0000,0000,,{\fn黑体\fs24}你跑来干嘛？{\r}\NWhat are you doing here?
+Dialogue: 0,0:28:35.75,0:28:39.98,Default,,0000,0000,0000,,{\fn黑体\fs24}你没回电，我就自己跑来{\r}\NHi. You didn't call me back, so l thought l'd come here.
+Dialogue: 0,0:28:40.66,0:28:42.12,Default,,0000,0000,0000,,{\fn黑体\fs24}送你的{\r}\Nlt's for you.
+Dialogue: 0,0:28:43.43,0:28:46.79,Default,,0000,0000,0000,,{\fn黑体\fs24}恭喜？恭喜什么？跟你炒饭？{\r}\N''Congrats''? For what? Having sex with you?
+Dialogue: 0,0:28:46.93,0:28:52.27,Default,,0000,0000,0000,,{\fn黑体\fs24}对，你干得很好 我觉得应该送你气球{\r}\NYeah. You did a good job, so... l thought you deserved a balloon.
+Dialogue: 0,0:28:53.04,0:28:54.94,Default,,0000,0000,0000,,{\fn黑体\fs24}我在工作耶 好吧{\r}\N- l'm working. - OK.
+Dialogue: 0,0:28:56.14,0:28:58.90,Default,,0000,0000,0000,,{\fn黑体\fs24}你干嘛不回我电话？{\r}\NSo, what's up with not calling me back?
+Dialogue: 0,0:28:59.68,0:29:02.11,Default,,0000,0000,0000,,{\fn黑体\fs24}我不太会这种事 什么事？聊天？{\r}\N- l'm not good at this stuff. - At what, talking?
+Dialogue: 0,0:29:02.24,0:29:05.15,Default,,0000,0000,0000,,{\fn黑体\fs24}对，聊天，沟通 谈恋爱之类的{\r}\NYeah, talking. Communicating. Relationship stuff.
+Dialogue: 0,0:29:05.28,0:29:07.98,Default,,0000,0000,0000,,{\fn黑体\fs24}是这样的{\r}\Nlt's just... This is...
+Dialogue: 0,0:29:08.12,0:29:09.58,Default,,0000,0000,0000,,{\fn黑体\fs24}要是我们谈恋爱{\r}\Nlf we were in a relationship,
+Dialogue: 0,0:29:09.72,0:29:12.74,Default,,0000,0000,0000,,{\fn黑体\fs24}我就会变得很古怪很可怕{\r}\Nl'd become a weird, scary version of myself, and...
+Dialogue: 0,0:29:13.42,0:29:16.08,Default,,0000,0000,0000,,{\fn黑体\fs24}我的喉咙会缩紧跳动{\r}\NMy throat starts constricting, the walls start throbbing.
+Dialogue: 0,0:29:16.23,0:29:19.56,Default,,0000,0000,0000,,{\fn黑体\fs24}就像花生酱过敏症 感情的花生酱过敏症{\r}\Nlt's like a peanut allergy, like... an emotional peanut allergy.
+Dialogue: 0,0:29:20.10,0:29:23.33,Default,,0000,0000,0000,,{\fn黑体\fs24}我也不能跟你交往 你不是我爸的菜{\r}\NWell, l can't date you, either. 'Cause you're not my dad's type, so...
+Dialogue: 0,0:29:23.47,0:29:25.49,Default,,0000,0000,0000,,{\fn黑体\fs24}艾玛，巡房 嗨，亚当{\r}\NEmma, rounds. Hey, Adam.
+Dialogue: 0,0:29:25.63,0:29:28.54,Default,,0000,0000,0000,,{\fn黑体\fs24}我该走了{\r}\N- What's up? - Look, l should probably go.
+Dialogue: 0,0:29:30.47,0:29:32.60,Default,,0000,0000,0000,,{\fn黑体\fs24}谢谢你，我们只是朋友{\r}\NThank you. We'll be friends, right?
+Dialogue: 0,0:29:32.74,0:29:34.40,Default,,0000,0000,0000,,{\fn黑体\fs24}对，普通朋友{\r}\NYeah, friends.
+Dialogue: 0,0:29:35.24,0:29:37.37,Default,,0000,0000,0000,,{\fn黑体\fs24}我们的身高差太多{\r}\NWith the height difference?
+Dialogue: 0,0:29:37.51,0:29:40.31,Default,,0000,0000,0000,,{\fn黑体\fs24}他站在我旁边好像要绑架我{\r}\NWe stand next to each other, it looks like he's kidnapping me.
+Dialogue: 0,0:29:40.45,0:29:42.31,Default,,0000,0000,0000,,{\fn黑体\fs24}干嘛？ 你老是这样{\r}\N- What? - You always do this.
+Dialogue: 0,0:29:42.45,0:29:45.51,Default,,0000,0000,0000,,{\fn黑体\fs24}故意挑喜欢你的男生的毛病{\r}\NYou always find something wrong with everybody who likes you.
+Dialogue: 0,0:29:45.65,0:29:47.78,Default,,0000,0000,0000,,{\fn黑体\fs24}我交往过的男生才真正有毛病{\r}\NAnd l date guys who have real problems.
+Dialogue: 0,0:29:47.92,0:29:50.22,Default,,0000,0000,0000,,{\fn黑体\fs24}有一个偷走我的信用卡{\r}\Nl date guys who steal my credit card,
+Dialogue: 0,0:29:50.36,0:29:53.09,Default,,0000,0000,0000,,{\fn黑体\fs24}然后怪我没把信用卡收好{\r}\Nand then they tell me it's my fault because l left it out.
+Dialogue: 0,0:29:53.23,0:29:55.70,Default,,0000,0000,0000,,{\fn黑体\fs24}你却找到完美的男生{\r}\NYou find these perfect guys,
+Dialogue: 0,0:29:55.83,0:29:59.43,Default,,0000,0000,0000,,{\fn黑体\fs24}然后说:行不通，他太快乐了{\r}\Nand then you're like, ''lt'll never work, he's too happy.''
+Dialogue: 0,0:29:59.57,0:30:01.70,Default,,0000,0000,0000,,{\fn黑体\fs24}怎样，梅医师？{\r}\NWhat's up, Dr. Metzner?
+Dialogue: 0,0:30:02.74,0:30:06.23,Default,,0000,0000,0000,,{\fn黑体\fs24}我跟梅大医师说“怎样”？{\r}\NDid l just say ''What's up'' to Stephen Metzner?
+Dialogue: 0,0:30:06.38,0:30:08.81,Default,,0000,0000,0000,,{\fn黑体\fs24}真是惨不忍睹{\r}\NThat was really hard to watch.
+Dialogue: 0,0:30:08.94,0:30:13.40,Default,,0000,0000,0000,,{\fn黑体\fs24}我知道我应该想要谈恋爱{\r}\NLook, l know l'm supposed to want to be in a relationship.
+Dialogue: 0,0:30:13.55,0:30:17.28,Default,,0000,0000,0000,,{\fn黑体\fs24}不过到头来我只会心碎 留下一堆他的旧T恤{\r}\NBut l'd just end up with a broken heart and a bunch of his old T-shirts.
+Dialogue: 0,0:30:17.42,0:30:19.89,Default,,0000,0000,0000,,{\fn黑体\fs24}逻辑上来说… 你在干嘛？{\r}\N- Just from a purely logical aspect... - What are you doing?
+Dialogue: 0,0:30:20.02,0:30:22.51,Default,,0000,0000,0000,,{\fn黑体\fs24}传简讯给他 当然了{\r}\N- l'm texting him. - Of course you are.
+Dialogue: 0,0:30:22.66,0:30:25.25,Default,,0000,0000,0000,,{\fn黑体\fs24}你有女生问题，我很同情你{\r}
+Dialogue: 0,0:30:25.39,0:30:29.16,Default,,0000,0000,0000,,{\fn黑体\fs24}我有99个问题，不包括女生{\r}
+Dialogue: 0,0:30:37.71,0:30:40.07,Default,,0000,0000,0000,,{\fn黑体\fs24}你不该送她气球{\r}\NYou know, you shouldn't have gotten her a balloon actually.
+Dialogue: 0,0:30:40.21,0:30:42.27,Default,,0000,0000,0000,,{\fn黑体\fs24}你是“天外奇迹”的老头吗？{\r}\NWho do you think you are, the old guy from Up?
+Dialogue: 0,0:30:42.41,0:30:44.24,Default,,0000,0000,0000,,{\fn黑体\fs24}你叫我送她气球{\r}\NYou told me to get her a balloon.
+Dialogue: 0,0:30:44.38,0:30:48.08,Default,,0000,0000,0000,,{\fn黑体\fs24}我没想到你真的会送，逊毙了{\r}\NWell, l didn't think you'd actually do it. lt's a terrible idea.
+Dialogue: 0,0:30:48.22,0:30:51.84,Default,,0000,0000,0000,,{\fn黑体\fs24}没人知道这件事，别说出去 不会啦{\r}\NListen. Hey, nobody knows about this, - so don't say anything to anyone. OK? - All right, l won't.
+Dialogue: 0,0:30:54.09,0:30:55.92,Default,,0000,0000,0000,,{\fn黑体\fs24}艾玛传的简讯 上面写什么？{\r}\N- lt's from Emma. - What's it say?
+Dialogue: 0,0:30:56.06,0:30:59.59,Default,,0000,0000,0000,,{\fn黑体\fs24}“你在哪里？” 你写什么？{\r}\N- ''Where are you?'' - What are you writing?
+Dialogue: 0,0:31:00.93,0:31:03.83,Default,,0000,0000,0000,,{\fn黑体\fs24}“嗨，你好”和一个眯眼{\r}\N''Hi, how are you doing?'' and then a winky face.
+Dialogue: 0,0:31:03.97,0:31:05.99,Default,,0000,0000,0000,,{\fn黑体\fs24}亚当，过了晚上10点了{\r}\NNo, Adam, it's after 10pm.
+Dialogue: 0,0:31:06.13,0:31:08.19,Default,,0000,0000,0000,,{\fn黑体\fs24}“你在哪里？”的意思是:{\r}\NCome on, the ''Where are you?'' text is like saying:
+Dialogue: 0,0:31:08.34,0:31:10.43,Default,,0000,0000,0000,,{\fn黑体\fs24}我想炒饭{\r}\N''Hey, l want to have sex with you,
+Dialogue: 0,0:31:10.57,0:31:12.37,Default,,0000,0000,0000,,{\fn黑体\fs24}但是我得知道你有多醉{\r}\Nbut l just need to know how drunk you are.''
+Dialogue: 0,0:31:12.51,0:31:14.20,Default,,0000,0000,0000,,Hey.
+Dialogue: 0,0:31:14.34,0:31:16.61,Default,,0000,0000,0000,,{\fn黑体\fs24}你上了艾玛然后送她气球？{\r}\NDid you fuck Emma and then bring her a balloon?
+Dialogue: 0,0:31:16.75,0:31:18.68,Default,,0000,0000,0000,,{\fn黑体\fs24}什么？你告诉他？{\r}\NWhat? Did you tell him?
+Dialogue: 0,0:31:18.81,0:31:20.25,Default,,0000,0000,0000,,{\fn黑体\fs24}没！有！{\r}\NNo! Yes!
+Dialogue: 0,0:31:21.12,0:31:24.42,Default,,0000,0000,0000,,{\fn黑体\fs24}你不能告诉任何人 她传简讯给他: “你在哪里？”{\r}\N- You can't tell anyone. - She just texted him, ''Where are you?''
+Dialogue: 0,0:31:24.55,0:31:25.88,Default,,0000,0000,0000,,{\fn黑体\fs24}她想要炒饭{\r}\NOh, she wants the dick.
+Dialogue: 0,0:31:26.79,0:31:30.12,Default,,0000,0000,0000,,{\fn黑体\fs24}亚当，你得Man一点 一定要有威严{\r}\NAdam, you want to come back strong here. Go from a position of power.
+Dialogue: 0,0:31:30.26,0:31:34.03,Default,,0000,0000,0000,,{\fn黑体\fs24}回传说: “我在哪里？我在你“那里””{\r}\NSomething like, ''Where am l? Why don't you check your underpants.''
+Dialogue: 0,0:31:34.16,0:31:36.06,Default,,0000,0000,0000,,{\fn黑体\fs24}对，别这样写{\r}\N- Yeah. Don't write that. - Yeah!
+Dialogue: 0,0:31:36.20,0:31:39.26,Default,,0000,0000,0000,,{\fn黑体\fs24}我才不会咧 我喜欢吓人{\r}\N- l would never write that. - See, l like to be kind of scary.
+Dialogue: 0,0:31:39.40,0:31:42.20,Default,,0000,0000,0000,,{\fn黑体\fs24}像是“砰，我的老二来了”{\r}\NLike, ''Boo! Here comes my dick.''
+Dialogue: 0,0:31:42.84,0:31:45.33,Default,,0000,0000,0000,,{\fn黑体\fs24}你和女生炒完饭送她气球？{\r}\NDid you have sex with some girl and give her a balloon?
+Dialogue: 0,0:31:46.34,0:31:49.78,Default,,0000,0000,0000,,{\fn黑体\fs24}你能不能不要告诉每个人呀？{\r}\NCan we not tell everyone?
+Dialogue: 0,0:31:49.91,0:31:52.07,Default,,0000,0000,0000,,{\fn黑体\fs24}我道歉{\r}\Nl apologize.
+Dialogue: 0,0:31:52.21,0:31:54.01,Default,,0000,0000,0000,,{\fn黑体\fs24}你回传什么？{\r}\NSo, what'd you write back?
+Dialogue: 0,0:31:54.82,0:31:56.15,Default,,0000,0000,0000,,{\fn黑体\fs24}“嗨”{\r}\N''Hi.''
+Dialogue: 0,0:32:02.19,0:32:04.42,Default,,0000,0000,0000,,{\fn黑体\fs24}这样还行 不错，很好{\r}\N- Yeah, that could work. - Yeah, it's not bad. ''Hi'' is fine.
+Dialogue: 0,0:32:06.76,0:32:09.29,Default,,0000,0000,0000,,{\fn黑体\fs24}(你家半小时后){\r}
+Dialogue: 0,0:32:14.47,0:32:16.90,Default,,0000,0000,0000,,{\fn黑体\fs24}你做了很多有趣的动作{\r}\NThere were so many interesting things going on.
+Dialogue: 0,0:32:17.04,0:32:19.74,Default,,0000,0000,0000,,{\fn黑体\fs24}翻转的动作，那算什么？{\r}\N- Yeah. - That flippy thing, what was that?
+Dialogue: 0,0:32:20.61,0:32:23.84,Default,,0000,0000,0000,,{\fn黑体\fs24}不知道，我突然想到就做了{\r}\NSure, l just, l don't know, l had an idea, l just went with it.
+Dialogue: 0,0:32:23.98,0:32:26.61,Default,,0000,0000,0000,,{\fn黑体\fs24}那真的很棒 谢谢你{\r}\N- That was a really good call. - Thank you.
+Dialogue: 0,0:32:32.82,0:32:34.81,Default,,0000,0000,0000,,{\fn黑体\fs24}我们最好不要抱抱{\r}\NWe probably shouldn't snuggle.
+Dialogue: 0,0:32:35.96,0:32:38.69,Default,,0000,0000,0000,,{\fn黑体\fs24}好，感觉不对劲{\r}\NYeah. That just felt wrong.
+Dialogue: 0,0:32:39.59,0:32:41.29,Default,,0000,0000,0000,,{\fn黑体\fs24}我该走了{\r}\Nl should head out.
+Dialogue: 0,0:32:42.06,0:32:44.26,Default,,0000,0000,0000,,{\fn黑体\fs24}这么快？ 是啊{\r}\N- Already? - Yeah.
+Dialogue: 0,0:32:46.00,0:32:47.90,Default,,0000,0000,0000,,{\fn黑体\fs24}你想吃松糕吗？{\r}\NYou want to grab a muffin or something?
+Dialogue: 0,0:32:48.04,0:32:50.63,Default,,0000,0000,0000,,{\fn黑体\fs24}不行，我得工作{\r}\Nl can't. l have to go to work.
+Dialogue: 0,0:32:50.77,0:32:56.14,Default,,0000,0000,0000,,{\fn黑体\fs24}我不想吓到你，不过…{\r}\NOK. You know, l don't want to freak you out, but...
+Dialogue: 0,0:32:56.28,0:32:59.01,Default,,0000,0000,0000,,{\fn黑体\fs24}改天我想跟你在白天约会{\r}\N...l'd love to hang out with you in the daytime sometime.
+Dialogue: 0,0:32:59.72,0:33:02.01,Default,,0000,0000,0000,,{\fn黑体\fs24}不可能，我没时间{\r}\Nlt's not really possible. l have no time.
+Dialogue: 0,0:33:02.75,0:33:06.52,Default,,0000,0000,0000,,{\fn黑体\fs24}我每周工作80小时 轮班36小时{\r}\Nl work 80 hours a week, doing 26-hour shifts.
+Dialogue: 0,0:33:08.32,0:33:11.22,Default,,0000,0000,0000,,{\fn黑体\fs24}我需要的是半夜两点跟我上床{\r}\NWhat l need is someone who's gonna be in my bed at 2am,
+Dialogue: 0,0:33:11.36,0:33:14.66,Default,,0000,0000,0000,,{\fn黑体\fs24}不会说谎 也不必跟他吃早餐的男人{\r}\Nwho l don't have to lie to or eat breakfast with.
+Dialogue: 0,0:33:14.80,0:33:17.86,Default,,0000,0000,0000,,{\fn黑体\fs24}我超讨厌吃早餐，还有说谎{\r}\Nl hate breakfast. And lying.
+Dialogue: 0,0:33:18.63,0:33:20.69,Default,,0000,0000,0000,,{\fn黑体\fs24}我也讨厌战争{\r}\Nl also hate war.
+Dialogue: 0,0:33:31.01,0:33:32.81,Default,,0000,0000,0000,,{\fn黑体\fs24}你想这样吗？{\r}\NDo you want to do this?
+Dialogue: 0,0:33:34.02,0:33:35.54,Default,,0000,0000,0000,,{\fn黑体\fs24}怎么样？{\r}\NDo what?
+Dialogue: 0,0:33:36.28,0:33:40.72,Default,,0000,0000,0000,,{\fn黑体\fs24}利用对方做爱做的事 24小时随时待命{\r}\NUse each other for sex, at all hours of the day and night.
+Dialogue: 0,0:33:40.86,0:33:42.52,Default,,0000,0000,0000,,{\fn黑体\fs24}其它的什么都不做{\r}\NNothing else.
+Dialogue: 0,0:33:47.73,0:33:51.53,Default,,0000,0000,0000,,{\fn黑体\fs24}行，我可以 很好{\r}\N- Yeah, l could do that. - Good.
+Dialogue: 0,0:33:55.50,0:33:56.80,Default,,0000,0000,0000,,{\fn黑体\fs24}这一定会很好玩{\r}\Nlt's gonna be fun.
+Dialogue: 0,0:33:56.94,0:33:59.87,Default,,0000,0000,0000,,{\fn黑体\fs24}这一定行不通 为什么？{\r}\N- You know this is never gonna work. - Why not?
+Dialogue: 0,0:34:00.01,0:34:02.81,Default,,0000,0000,0000,,{\fn黑体\fs24}因为你会爱上我{\r}\NBecause clearly you're gonna fall in love with me.
+Dialogue: 0,0:34:02.94,0:34:06.18,Default,,0000,0000,0000,,{\fn黑体\fs24}是吗？ 那就等到{\r}\NOh, really? Well, then we just do this
+Dialogue: 0,0:34:06.31,0:34:09.72,Default,,0000,0000,0000,,{\fn黑体\fs24}其中一个动了感情 然后就停下来{\r}\Nuntil one of us feels something more, and then we stop.
+Dialogue: 0,0:34:10.89,0:34:13.41,Default,,0000,0000,0000,,{\fn黑体\fs24}不会是我 也不会是我{\r}\N- Well, it won't be me. - lt won't be me.
+Dialogue: 0,0:34:17.99,0:34:19.72,Default,,0000,0000,0000,,{\fn黑体\fs24}祝你好运{\r}\NGood luck with that.
+Dialogue: 0,0:34:22.76,0:34:24.23,Default,,0000,0000,0000,,- Hey. - Hey.
+Dialogue: 0,0:34:26.44,0:34:28.06,Default,,0000,0000,0000,,{\fn黑体\fs24}我们是炮友{\r}\NWe're sex friends.
+Dialogue: 0,0:34:28.20,0:34:31.10,Default,,0000,0000,0000,,{\fn黑体\fs24}我们只是饭饭之交{\r}\NJust friends who have sex.
+Dialogue: 0,0:34:31.81,0:34:33.47,Default,,0000,0000,0000,,{\fn黑体\fs24}这是不可能的{\r}\NThat's not possible.
+Dialogue: 0,0:34:51.83,0:34:55.59,Default,,0000,0000,0000,,{\fn黑体\fs24}我要发剧本…要花一个小时{\r}\Nl'm going to distribute these for an hour or so.
+Dialogue: 0,0:35:10.65,0:35:12.20,Default,,0000,0000,0000,,{\fn黑体\fs24}我们应该保持简单{\r}\NListen, we should keep this simple.
+Dialogue: 0,0:35:12.35,0:35:15.32,Default,,0000,0000,0000,,{\fn黑体\fs24}也许应该建立基本规则{\r}\Nl mean, maybe we should establish some ground rules.
+Dialogue: 0,0:35:15.45,0:35:17.61,Default,,0000,0000,0000,,{\fn黑体\fs24}基本规则，好主意{\r}\NGround rules. Good idea.
+Dialogue: 0,0:35:17.75,0:35:21.09,Default,,0000,0000,0000,,{\fn黑体\fs24}可以先从不吵架开始{\r}\NOK, well, we can start with no fighting.
+Dialogue: 0,0:35:21.22,0:35:24.16,Default,,0000,0000,0000,,{\fn黑体\fs24}不说谎 都很好{\r}\N- No lying. - Those are good ones.
+Dialogue: 0,0:35:24.29,0:35:28.19,Default,,0000,0000,0000,,{\fn黑体\fs24}不吃醋，直视对方的眼睛{\r}\NNo jealousy, no staring deeply into each other's eyes.
+Dialogue: 0,0:35:28.33,0:35:31.23,Default,,0000,0000,0000,,{\fn黑体\fs24}别把我列为紧急联络人 反正我人会到{\r}\NDon't list me as your emergency contact. l won't come.
+Dialogue: 0,0:35:31.37,0:35:33.10,Default,,0000,0000,0000,,{\fn黑体\fs24}这不是违反医生职业道德吗？{\r}\Nlsn't that against your Hippocratic oath?
+Dialogue: 0,0:35:33.24,0:35:34.29,Default,,0000,0000,0000,,- Yeah. - Yeah?
+Dialogue: 0,0:35:34.44,0:35:36.46,Default,,0000,0000,0000,,{\fn黑体\fs24}我不会让你死 是吗？{\r}\N- l'd let you die. - Oh, yeah?
+Dialogue: 0,0:35:37.27,0:35:40.04,Default,,0000,0000,0000,,{\fn黑体\fs24}我一小时后回来{\r}\Nl'll be back in like... an hour.
+Dialogue: 0,0:35:40.94,0:35:42.47,Default,,0000,0000,0000,,{\fn黑体\fs24}玩得开心{\r}\NHave fun.
+Dialogue: 0,0:35:42.61,0:35:45.01,Default,,0000,0000,0000,,{\fn黑体\fs24}我只是去买优格{\r}\Nl'm just getting some yogurt.
+Dialogue: 0,0:35:46.52,0:35:49.35,Default,,0000,0000,0000,,{\fn黑体\fs24}天啊，我败犬到想骂人{\r}\NGod, l am single as fuck.
+Dialogue: 0,0:36:00.03,0:36:04.16,Default,,0000,0000,0000,,{\fn黑体\fs24}天啊，它好像直直往我凸过来{\r}\NOh, my God. lt looks like it's coming right at me.
+Dialogue: 0,0:36:05.57,0:36:09.13,Default,,0000,0000,0000,,{\fn黑体\fs24}还有，别说我的老二很可爱{\r}\NHey, one more thing. Don't call my penis cute.
+Dialogue: 0,0:36:09.27,0:36:13.57,Default,,0000,0000,0000,,{\fn黑体\fs24}就算它扮成小熊温柔地看着你{\r}\NEven if it's dressed up like a Care Bear, and it's giving you a Care Stare.
+Dialogue: 0,0:36:13.71,0:36:16.11,Default,,0000,0000,0000,,{\fn黑体\fs24}别打扮你的老二，千万不要{\r}\NDon't dress up your penis. Ever.
+Dialogue: 0,0:36:27.22,0:36:31.66,Default,,0000,0000,0000,,{\fn黑体\fs24}你的保险给付侵入性手术吗？{\r}\NDoes your insurance cover invasive procedures?
+Dialogue: 0,0:36:31.79,0:36:34.23,Default,,0000,0000,0000,,{\fn黑体\fs24}这游戏有点太可怕了{\r}\NOK. OK, this is getting a little too realistic.
+Dialogue: 0,0:36:34.96,0:36:36.12,Default,,0000,0000,0000,,{\fn黑体\fs24}相信我{\r}\NTrust me.
+Dialogue: 0,0:36:46.44,0:36:50.57,Default,,0000,0000,0000,,{\fn黑体\fs24}有人到处在嘿咻 害我不能专心看A片！{\r}\Nl can't focus on my porn with all this real sex going on around me!
+Dialogue: 0,0:37:00.72,0:37:02.38,Default,,0000,0000,0000,,Yes, l'm ready.
+Dialogue: 0,0:37:02.52,0:37:04.46,Default,,0000,0000,0000,,{\fn黑体\fs24}你在干嘛？{\r}\NWhat are you doing?!
+Dialogue: 0,0:37:07.40,0:37:10.30,Default,,0000,0000,0000,,{\fn黑体\fs24}我寄了交友邀请，你会接受吗？{\r}\Nl just friended you. Do you think you're gonna confirm or ignore?
+Dialogue: 0,0:37:10.43,0:37:13.06,Default,,0000,0000,0000,,{\fn黑体\fs24}我一定不会接受{\r}\NOh, l'm gonna confirm. For sure.
+Dialogue: 0,0:37:13.67,0:37:16.23,Default,,0000,0000,0000,,{\fn黑体\fs24}你这么漂亮，当然会啰{\r}\NYeah, look at you. Of course.
+Dialogue: 0,0:37:21.31,0:37:22.97,Default,,0000,0000,0000,,{\fn黑体\fs24}需要帮忙吗？{\r}\NAnytime. Need some help?
+Dialogue: 0,0:37:23.11,0:37:25.88,Default,,0000,0000,0000,,{\fn黑体\fs24}太好了！太好了！{\r}\NOh, beautiful! Beautiful!
+Dialogue: 0,0:37:33.99,0:37:38.02,Default,,0000,0000,0000,,{\fn黑体\fs24}(他的手真的很小){\r}
+Dialogue: 0,0:37:38.63,0:37:40.96,Default,,0000,0000,0000,,...the tomatoes are Australian.
+Dialogue: 0,0:37:49.34,0:37:51.00,Default,,0000,0000,0000,,{\fn黑体\fs24}那算什么？ 什么？{\r}\N- What was that? - What?
+Dialogue: 0,0:37:51.14,0:37:54.94,Default,,0000,0000,0000,,{\fn黑体\fs24}你在吃醋吗？ 那家伙？拜托{\r}\N- Are you being jealous? - Of that guy? Come on.
+Dialogue: 0,0:37:55.08,0:37:57.91,Default,,0000,0000,0000,,{\fn黑体\fs24}就算我喜欢他，我们也会变{\r}\NLook, even if l did like him, it doesn't change what we're doing.
+Dialogue: 0,0:37:58.05,0:38:02.28,Default,,0000,0000,0000,,{\fn黑体\fs24}喔，所以你不喜欢他啰 亚当，我是你女友{\r}\N- Ah, so you like him. - Adam, l'm not yours.
+Dialogue: 0,0:38:02.42,0:38:04.91,Default,,0000,0000,0000,,{\fn黑体\fs24}当然了，我怎么会这么想？{\r}\NNo, of course not. Why would l think that?
+Dialogue: 0,0:38:06.15,0:38:10.25,Default,,0000,0000,0000,,{\fn黑体\fs24}哇，油电车耶，水哦{\r}\NWow. Prius. Nice.
+Dialogue: 0,0:38:10.99,0:38:14.39,Default,,0000,0000,0000,,{\fn黑体\fs24}有点娘，不过很赞 你开什么车？{\r}\N- lt's kind of girly, but nice, huh? - What do you drive?
+Dialogue: 0,0:38:14.53,0:38:18.63,Default,,0000,0000,0000,,{\fn黑体\fs24}老旧的BMW，5系列，那里{\r}\NJust an old BMW. Five series. Right there.
+Dialogue: 0,0:38:18.77,0:38:21.63,Default,,0000,0000,0000,,{\fn黑体\fs24}是喔，我不是自己买的{\r}\NOh, yeah, sure. l actually paid for mine.
+Dialogue: 0,0:38:21.77,0:38:24.36,Default,,0000,0000,0000,,{\fn黑体\fs24}是父母给的{\r}\Nl didn't take it from my parents.
+Dialogue: 0,0:38:24.51,0:38:26.84,Default,,0000,0000,0000,,{\fn黑体\fs24}我也不是自己买的{\r}\NYeah, l paid for mine, too.
+Dialogue: 0,0:38:26.98,0:38:28.67,Default,,0000,0000,0000,,{\fn黑体\fs24}是吗？{\r}\NOh, yeah?
+Dialogue: 0,0:38:30.91,0:38:33.35,Default,,0000,0000,0000,,{\fn黑体\fs24}你的块头很大，有健身吗？{\r}\NYou're a big guy. Do you work out?
+Dialogue: 0,0:38:33.48,0:38:35.88,Default,,0000,0000,0000,,{\fn黑体\fs24}我划{\r}\NOh. l row.
+Dialogue: 0,0:38:36.02,0:38:37.45,Default,,0000,0000,0000,,{\fn黑体\fs24}划船吗？{\r}\NLike boats?
+Dialogue: 0,0:38:37.59,0:38:40.95,Default,,0000,0000,0000,,{\fn黑体\fs24}我在哈佛大学是划船队 哈佛大学！{\r}\N- l rowed crew at Harvard. - Oh, Harvard.
+Dialogue: 0,0:38:41.09,0:38:43.02,Default,,0000,0000,0000,,{\fn黑体\fs24}你算是头儿？是不是这样叫？{\r}\NWhat were you, a cocksman? What do they say?
+Dialogue: 0,0:38:43.02,0:38:44.92,Default,,0000,0000,0000,,{\fn黑体\fs24}我是船长{\r}\N- What do they call it? - Coxswain.
+Dialogue: 0,0:38:45.06,0:38:48.86,Default,,0000,0000,0000,,{\fn黑体\fs24}我很了，你跟艾玛上床{\r}\NNo. You know, l get it, right? That you're sleeping with Emma?
+Dialogue: 0,0:38:49.80,0:38:51.03,Default,,0000,0000,0000,,{\fn黑体\fs24}什么？{\r}\Nl what?
+Dialogue: 0,0:38:51.17,0:38:53.33,Default,,0000,0000,0000,,{\fn黑体\fs24}你和艾玛炒饭，我了了{\r}\NThat you and Emma have sex sometimes. l get it.
+Dialogue: 0,0:38:53.47,0:38:58.04,Default,,0000,0000,0000,,{\fn黑体\fs24}她累了就打给你 你开车过来炒饭…我猜10分钟{\r}\NShe's tired, she calls you up, you drive over, and have sex for, l'm guessing, ten minutes.
+Dialogue: 0,0:38:58.17,0:38:59.50,Default,,0000,0000,0000,,{\fn黑体\fs24}你觉得会持久吗？{\r}\NThink that's gonna last?
+Dialogue: 0,0:39:01.88,0:39:03.84,Default,,0000,0000,0000,,{\fn黑体\fs24}我不知道你在说什么{\r}\Nl don't know what you're talking about.
+Dialogue: 0,0:39:03.98,0:39:06.50,Default,,0000,0000,0000,,{\fn黑体\fs24}才怪，现在是没问题啦{\r}\NSure you do. And that's fine, for now.
+Dialogue: 0,0:39:06.65,0:39:10.02,Default,,0000,0000,0000,,{\fn黑体\fs24}不过我才会每天陪在她身边{\r}\NBut you should just know that l'm gonna be there right next to her every day,
+Dialogue: 0,0:39:10.15,0:39:14.85,Default,,0000,0000,0000,,{\fn黑体\fs24}当个医生…救人济世{\r}\Nusing big words... ...saving people's lives.
+Dialogue: 0,0:39:16.26,0:39:18.23,Default,,0000,0000,0000,,{\fn黑体\fs24}当她厌倦了你就会奔到{\r}\NThen, when she's done having her fun with you, she's gonna
+Dialogue: 0,0:39:18.36,0:39:22.35,Default,,0000,0000,0000,,{\fn黑体\fs24}我怀里 因为我是大人，有真正的工作{\r}\Ncome running to me, because l'm a grownup, and l have a real job.
+Dialogue: 0,0:39:23.06,0:39:26.43,Default,,0000,0000,0000,,{\fn黑体\fs24}我真的能照顾她，了吗？{\r}\Nl can actually take care of her, you know?
+Dialogue: 0,0:39:27.74,0:39:30.00,Default,,0000,0000,0000,,{\fn黑体\fs24}我是她要嫁的男人{\r}\Nl'm the guy she marries, Adam.
+Dialogue: 0,0:39:30.91,0:39:35.07,Default,,0000,0000,0000,,{\fn黑体\fs24}你只能跟她在残障厕所炒饭{\r}\NYou're the guy she fucked a couple of times in the handicapped bathroom.
+Dialogue: 0,0:39:53.33,0:39:57.03,Default,,0000,0000,0000,,{\fn黑体\fs24}这是什么？ 我的脚呀，亚当{\r}\N- What's this? - These are my feet, Adam.
+Dialogue: 0,0:39:57.17,0:40:00.43,Default,,0000,0000,0000,,{\fn黑体\fs24}超难看的 不，这个啦{\r}\N- They're fantastic. - No, this.
+Dialogue: 0,0:40:00.57,0:40:02.73,Default,,0000,0000,0000,,{\fn黑体\fs24}那是你的剧本{\r}\NThat's your script.
+Dialogue: 0,0:40:02.87,0:40:04.67,Default,,0000,0000,0000,,{\fn黑体\fs24}你爸要我拿给你{\r}\NYour dad told me to give it to you.
+Dialogue: 0,0:40:04.81,0:40:07.47,Default,,0000,0000,0000,,{\fn黑体\fs24}他看了，写了些意见{\r}\NYeah, he read it, and he gave you notes, and...
+Dialogue: 0,0:40:08.44,0:40:11.54,Default,,0000,0000,0000,,{\fn黑体\fs24}我会说艾文跟我嗑了魔菇{\r}\Nl'm not saying Alvin and l did mushrooms together,
+Dialogue: 0,0:40:11.68,0:40:13.98,Default,,0000,0000,0000,,{\fn黑体\fs24}但我也不会说有{\r}\Nbut l'm not prepared to say that we didn't.
+Dialogue: 0,0:40:14.12,0:40:16.48,Default,,0000,0000,0000,,{\fn黑体\fs24}我知道你们父子之间没问题{\r}\Nl know that you have issues with your dad, and that's cool,
+Dialogue: 0,0:40:16.62,0:40:19.82,Default,,0000,0000,0000,,{\fn黑体\fs24}但他真的喜欢你，他也喜欢我{\r}\Nbut he really likes you and he definitely likes me,
+Dialogue: 0,0:40:19.95,0:40:22.72,Default,,0000,0000,0000,,{\fn黑体\fs24}我们在脑力激荡，随便瞎掰{\r}\Nand we were just jamming ideas and goofing around
+Dialogue: 0,0:40:22.86,0:40:25.12,Default,,0000,0000,0000,,{\fn黑体\fs24}嗑药嗑到超high的{\r}\Nand tripping our balls off.
+Dialogue: 0,0:40:25.99,0:40:29.86,Default,,0000,0000,0000,,{\fn黑体\fs24}我要你跳得更悍一点{\r}\NHey. So... l really feel like it needs to be more ghetto.
+Dialogue: 0,0:40:30.00,0:40:31.56,Default,,0000,0000,0000,,{\fn黑体\fs24}就像狂客舞{\r}\NYou know, like, more crunk? Can you work it out? Thanks.
+Dialogue: 0,0:40:34.47,0:40:35.90,Default,,0000,0000,0000,,{\fn黑体\fs24}跳得不错{\r}\N- Hey. Nice moves. - Hey.
+Dialogue: 0,0:40:36.04,0:40:38.84,Default,,0000,0000,0000,,{\fn黑体\fs24}我知道你很努力，但不够好{\r}\Nl know you were trying really hard out there, but it just didn't work.
+Dialogue: 0,0:40:38.97,0:40:41.81,Default,,0000,0000,0000,,{\fn黑体\fs24}你能不能…嗯，我…{\r}\NHey, would you ever...? l...
+Dialogue: 0,0:40:41.94,0:40:44.07,Default,,0000,0000,0000,,{\fn黑体\fs24}我写了一集的剧本{\r}\Nl wrote an episode.
+Dialogue: 0,0:40:44.21,0:40:48.01,Default,,0000,0000,0000,,{\fn黑体\fs24}我念大学的时候会创作{\r}\N- l used to write in college, so... - OK.
+Dialogue: 0,0:40:48.15,0:40:52.28,Default,,0000,0000,0000,,{\fn黑体\fs24}我得阻止你 那是你的工作{\r}\Nl'm gonna have to stop you right there. - Not your job. - Yeah.
+Dialogue: 0,0:40:53.32,0:40:56.12,Default,,0000,0000,0000,,{\fn黑体\fs24}我是真的会读东西的怪胎{\r}\NHey. l'm, like, actually one of those freaks who reads things,
+Dialogue: 0,0:40:56.26,0:40:58.69,Default,,0000,0000,0000,,{\fn黑体\fs24}你想给我看没问题{\r}\Nso if you wanted to give it to me, that's cool.
+Dialogue: 0,0:40:58.83,0:41:00.42,Default,,0000,0000,0000,,{\fn黑体\fs24}真的吗？ 真的{\r}\N- Really? - Yeah.
+Dialogue: 0,0:41:00.56,0:41:01.72,Default,,0000,0000,0000,,{\fn黑体\fs24}谢谢你 不客气{\r}\N- Thank you. - Sure.
+Dialogue: 0,0:41:01.86,0:41:04.66,Default,,0000,0000,0000,,{\fn黑体\fs24}梅根有时候会听我的{\r}\NMegan listens to me. Sometimes.
+Dialogue: 0,0:41:05.93,0:41:09.43,Default,,0000,0000,0000,,{\fn黑体\fs24}薇多莉亚！ 拜托，我看到你抽烟{\r}\NVictoria! Seriously? Like, l can see you smoking right there.
+Dialogue: 0,0:41:09.57,0:41:11.97,Default,,0000,0000,0000,,{\fn黑体\fs24}给我熄掉！我不会追你{\r}\NPut it out! l'm not gonna chase you.
+Dialogue: 0,0:41:12.84,0:41:17.51,Default,,0000,0000,0000,,{\fn黑体\fs24}我不会…薇多莉亚！{\r}\Nl'm not gonna... l'm not gonna... Victoria! Hey!
+Dialogue: 0,0:41:22.28,0:41:23.77,Default,,0000,0000,0000,,{\fn黑体\fs24}艾玛！{\r}\NEmma!
+Dialogue: 0,0:41:23.92,0:41:25.89,Default,,0000,0000,0000,,{\fn黑体\fs24}没事吧？我收到你的简讯{\r}\NKatie, is everything OK? l got your message.
+Dialogue: 0,0:41:26.02,0:41:28.78,Default,,0000,0000,0000,,{\fn黑体\fs24}艾玛，我有很棒的消息{\r}\NEmma, l have really good news.
+Dialogue: 0,0:41:28.92,0:41:30.95,Default,,0000,0000,0000,,{\fn黑体\fs24}昨天野餐后发生的{\r}\NOK, it happened yesterday after the picnic,
+Dialogue: 0,0:41:31.09,0:41:33.53,Default,,0000,0000,0000,,{\fn黑体\fs24}但是我想当面告诉你{\r}\Nbut l wanted to tell you in person.
+Dialogue: 0,0:41:35.96,0:41:37.19,Default,,0000,0000,0000,,{\fn黑体\fs24}我的天啊{\r}\NOh, my God.
+Dialogue: 0,0:41:37.33,0:41:39.63,Default,,0000,0000,0000,,{\fn黑体\fs24}我要结婚了！{\r}\Nl'm getting married.
+Dialogue: 0,0:41:39.77,0:41:41.00,Default,,0000,0000,0000,,{\fn黑体\fs24}我要结婚了！{\r}\Nl'm getting married!
+Dialogue: 0,0:41:41.14,0:41:43.50,Default,,0000,0000,0000,,{\fn黑体\fs24}我要结婚了！耶！{\r}\N- You're getting married. - l'm getting married!
+Dialogue: 0,0:41:45.24,0:41:47.90,Default,,0000,0000,0000,,{\fn黑体\fs24}妈超兴奋的{\r}\NMom is so excited.
+Dialogue: 0,0:41:48.04,0:41:50.91,Default,,0000,0000,0000,,{\fn黑体\fs24}她昨晚又哭又叫{\r}\NShe was like screaming and crying last night.
+Dialogue: 0,0:41:51.05,0:41:53.64,Default,,0000,0000,0000,,{\fn黑体\fs24}她要跟骨头飞来帮我挑婚纱{\r}\NAnd she's gonna fly down with Bones and help me shop for the dress.
+Dialogue: 0,0:41:53.78,0:41:57.68,Default,,0000,0000,0000,,{\fn黑体\fs24}骨头？谁是骨头？{\r}\NWith who? ''Bones''? Who's Bones?
+Dialogue: 0,0:41:57.82,0:42:00.38,Default,,0000,0000,0000,,{\fn黑体\fs24}噢，靠 凯蒂，谁是骨头？{\r}\N- Oh, crap. - Katie, who's Bones?
+Dialogue: 0,0:42:01.36,0:42:03.15,Default,,0000,0000,0000,,{\fn黑体\fs24}他是妈的朋友{\r}\NHe's Mom's friend.
+Dialogue: 0,0:42:03.29,0:42:06.45,Default,,0000,0000,0000,,{\fn黑体\fs24}我应该告诉你的，靠{\r}\Nl wasn't supposed to tell you about it. Crap.
+Dialogue: 0,0:42:06.59,0:42:11.05,Default,,0000,0000,0000,,{\fn黑体\fs24}她有了男朋友？他叫骨头？{\r}\NShe has a boyfriend? Named Bones?
+Dialogue: 0,0:42:11.20,0:42:13.83,Default,,0000,0000,0000,,{\fn黑体\fs24}他不是游民吗？ 是啦！{\r}\N- What is he, a drifter? - No.
+Dialogue: 0,0:42:13.97,0:42:15.40,Default,,0000,0000,0000,,{\fn黑体\fs24}她为什么不告诉我？{\r}\NWhy didn't she tell me?
+Dialogue: 0,0:42:16.70,0:42:18.37,Default,,0000,0000,0000,,{\fn黑体\fs24}艾玛{\r}\NWell, Emma...
+Dialogue: 0,0:42:19.54,0:42:22.17,Default,,0000,0000,0000,,{\fn黑体\fs24}你习惯一个人，我和妈像你{\r}\NYou're so good at being alone. Mom and l aren't like that.
+Dialogue: 0,0:42:22.31,0:42:25.40,Default,,0000,0000,0000,,{\fn黑体\fs24}那是什么意思？ 是真的{\r}\N- What's that supposed to mean? - lt just is true.
+Dialogue: 0,0:42:25.55,0:42:28.35,Default,,0000,0000,0000,,{\fn黑体\fs24}听我说，凯蒂{\r}\NLook, Katie.
+Dialogue: 0,0:42:28.48,0:42:31.75,Default,,0000,0000,0000,,{\fn黑体\fs24}你才22岁，你真的要退学…{\r}\NYou're 22. Do you really think you're ready to quit school...?
+Dialogue: 0,0:42:31.89,0:42:34.18,Default,,0000,0000,0000,,{\fn黑体\fs24}我爱他{\r}\Nl love him.
+Dialogue: 0,0:42:40.56,0:42:42.05,Default,,0000,0000,0000,,{\fn黑体\fs24}喝热茶会减缓经痛{\r}\NTea for your 'gina.
+Dialogue: 0,0:42:43.33,0:42:46.27,Default,,0000,0000,0000,,{\fn黑体\fs24}我老妹要结婚了{\r}\NThanks. My sister's getting married.
+Dialogue: 0,0:42:46.40,0:42:48.03,Default,,0000,0000,0000,,{\fn黑体\fs24}我们知道 我们听说了{\r}\N- Yes, we know that. - We heard.
+Dialogue: 0,0:42:48.17,0:42:50.19,Default,,0000,0000,0000,,{\fn黑体\fs24}闭嘴，艾玛{\r}\NOh, shut up, Emma.
+Dialogue: 0,0:42:50.34,0:42:51.74,Default,,0000,0000,0000,,{\fn黑体\fs24}你有吃普拿疼吗？{\r}\NDid you take your Pamprin?
+Dialogue: 0,0:42:51.87,0:42:53.70,Default,,0000,0000,0000,,{\fn黑体\fs24}不要管我 你才不要管我{\r}\N- Leave me alone. - You leave me alone.
+Dialogue: 0,0:42:53.84,0:42:55.74,Default,,0000,0000,0000,,{\fn黑体\fs24}我最爱我们的月经同时来{\r}\Nl love it when we're all on the same cycle.
+Dialogue: 0,0:42:55.88,0:42:57.71,Default,,0000,0000,0000,,{\fn黑体\fs24}这样就能名正言顺吵架{\r}\NWe all get to be passive-aggressive and fight.
+Dialogue: 0,0:42:57.85,0:42:59.78,Default,,0000,0000,0000,,{\fn黑体\fs24}你又不是女人{\r}\NYou are not even a woman.
+Dialogue: 0,0:43:01.32,0:43:02.91,Default,,0000,0000,0000,,{\fn黑体\fs24}哪是谁？{\r}\NWho is that?
+Dialogue: 0,0:43:05.79,0:43:07.05,Default,,0000,0000,0000,,{\fn黑体\fs24}谁？{\r}\NHello?
+Dialogue: 0,0:43:07.19,0:43:09.21,Default,,0000,0000,0000,,{\fn黑体\fs24}我是亚当{\r}\NHey, it's Adam.
+Dialogue: 0,0:43:10.76,0:43:12.19,Default,,0000,0000,0000,,{\fn黑体\fs24}开什么玩笑？{\r}\NAre you kidding me?
+Dialogue: 0,0:43:13.83,0:43:15.06,Default,,0000,0000,0000,,{\fn黑体\fs24}走开{\r}\NGo away.
+Dialogue: 0,0:43:15.83,0:43:17.82,Default,,0000,0000,0000,,{\fn黑体\fs24}我有杯子蛋糕{\r}\Nl've got cupcakes.
+Dialogue: 0,0:43:33.05,0:43:34.21,Default,,0000,0000,0000,,{\fn黑体\fs24}大家好{\r}\NHello, everyone.
+Dialogue: 0,0:43:34.35,0:43:37.81,Default,,0000,0000,0000,,{\fn黑体\fs24}我叫你不要来，这里不安全{\r}\Nl told you not to come. lt's not safe in here.
+Dialogue: 0,0:43:37.95,0:43:40.08,Default,,0000,0000,0000,,{\fn黑体\fs24}有没有红丝绒口味？{\r}\NDo you think that you have red velvet in there?
+Dialogue: 0,0:43:40.22,0:43:41.71,Default,,0000,0000,0000,,{\fn黑体\fs24}也许有{\r}\Nl might.
+Dialogue: 0,0:43:41.86,0:43:45.59,Default,,0000,0000,0000,,{\fn黑体\fs24}咱们看看有什么口味{\r}\NLet's take a look and see what we have here.
+Dialogue: 0,0:43:46.13,0:43:48.65,Default,,0000,0000,0000,,{\fn黑体\fs24}希拉，巧克力蛋糕 快点{\r}\NShira, chocolate. Now.
+Dialogue: 0,0:43:49.30,0:43:52.79,Default,,0000,0000,0000,,{\fn黑体\fs24}我知道这是怎么回事 你们的MC同时来{\r}\Nl understand what's going on. You're all on the same cycle.
+Dialogue: 0,0:43:52.93,0:43:54.90,Default,,0000,0000,0000,,{\fn黑体\fs24}这超令人兴奋的{\r}\NThis is very exciting.
+Dialogue: 0,0:43:55.04,0:43:58.84,Default,,0000,0000,0000,,{\fn黑体\fs24}接下来3到5天 你们的子宫内膜会剥落{\r}\NYour uterine walls will be shedding for the next three to five days.
+Dialogue: 0,0:43:58.97,0:44:01.46,Default,,0000,0000,0000,,{\fn黑体\fs24}你是上网查的吗？{\r}\NNice memorization. Did you Google that?
+Dialogue: 0,0:44:01.61,0:44:03.60,Default,,0000,0000,0000,,{\fn黑体\fs24}也许是{\r}\Nl may have.
+Dialogue: 0,0:44:03.75,0:44:07.51,Default,,0000,0000,0000,,{\fn黑体\fs24}因为你们都是女人 这是很美好的事{\r}\NBecause you're women. And l think that's a beautiful thing.
+Dialogue: 0,0:44:08.88,0:44:11.88,Default,,0000,0000,0000,,{\fn黑体\fs24}我的裤档就像犯罪现场{\r}\Nlt's like a crime scene in my pants.
+Dialogue: 0,0:44:12.02,0:44:15.62,Default,,0000,0000,0000,,{\fn黑体\fs24}我也替你…{\r}\NOh. l also...
+Dialogue: 0,0:44:16.66,0:44:18.56,Default,,0000,0000,0000,,{\fn黑体\fs24}烧了这片光碟{\r}\N...made you this.
+Dialogue: 0,0:44:18.69,0:44:21.09,Default,,0000,0000,0000,,{\fn黑体\fs24}帮助你抚慰子宫{\r}\NTo help soothe your womb.
+Dialogue: 0,0:44:22.53,0:44:24.19,Default,,0000,0000,0000,,{\fn黑体\fs24}这是集锦歌{\r}\Nlt's a mix.
+Dialogue: 0,0:44:24.33,0:44:28.13,Default,,0000,0000,0000,,{\fn黑体\fs24}《顺流》、 《红红酒》{\r}\N''Even Flow,'' ''Red Red Wine.''
+Dialogue: 0,0:44:28.27,0:44:30.10,Default,,0000,0000,0000,,{\fn黑体\fs24}《血腥星期天》？{\r}\N''Sunday Bloody Sunday''?
+Dialogue: 0,0:44:31.01,0:44:32.70,Default,,0000,0000,0000,,Adam.
+Dialogue: 0,0:44:32.84,0:44:34.87,Default,,0000,0000,0000,,{\fn黑体\fs24}你替我录了月经集锦歌？{\r}\NDid you make me a period mix?
+Dialogue: 0,0:44:36.14,0:44:37.74,Default,,0000,0000,0000,,{\fn黑体\fs24}超浪漫的{\r}\NThat's so romantic.
+Dialogue: 0,0:44:37.88,0:44:39.94,Default,,0000,0000,0000,,{\fn黑体\fs24}法兰克辛纳屈{\r}\NFrank Sinatra.
+Dialogue: 0,0:44:40.08,0:44:42.21,Default,,0000,0000,0000,,{\fn黑体\fs24}《我牵住了全世界》{\r}\N''l've Got The World On A String.''
+Dialogue: 0,0:44:42.35,0:44:44.28,Default,,0000,0000,0000,,{\fn黑体\fs24}经典名曲{\r}\Nlt's a classic.
+Dialogue: 0,0:44:46.49,0:44:51.15,Default,,0000,0000,0000,,{\fn黑体\fs24}我一直，一直流爱的血{\r}
+Dialogue: 0,0:44:51.29,0:44:53.42,Default,,0000,0000,0000,,{\fn黑体\fs24}把那鬼东西拿开{\r}\NGet that shit away from me.
+Dialogue: 0,0:44:53.56,0:44:56.29,Default,,0000,0000,0000,,{\fn黑体\fs24}这是浓汤，对你的子宫很好{\r}\NCome on, it's soup. lt's good for your uterus.
+Dialogue: 0,0:44:56.43,0:44:59.20,Default,,0000,0000,0000,,{\fn黑体\fs24}你不喝我就要一直唱{\r}\NJust take it, or l'm gonna keep singing.
+Dialogue: 0,0:45:03.57,0:45:07.97,Default,,0000,0000,0000,,{\fn黑体\fs24}我一直，一直流爱的血{\r}
+Dialogue: 0,0:45:23.22,0:45:24.92,Default,,0000,0000,0000,,{\fn黑体\fs24}噢，靠{\r}\NOh, shit.
+Dialogue: 0,0:45:25.59,0:45:27.25,Default,,0000,0000,0000,,{\fn黑体\fs24}嗯，亚当{\r}\NOh, Adam.
+Dialogue: 0,0:45:28.40,0:45:30.66,Default,,0000,0000,0000,,{\fn黑体\fs24}亚当！{\r}\NAdam.
+Dialogue: 0,0:45:30.80,0:45:32.32,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:45:33.94,0:45:37.67,Default,,0000,0000,0000,,{\fn黑体\fs24}我们睡着了，而且是抱着睡{\r}\NWe fell asleep. We were spooning.
+Dialogue: 0,0:45:39.84,0:45:41.71,Default,,0000,0000,0000,,{\fn黑体\fs24}真的吗？ 真的{\r}\N- We were? - Yeah.
+Dialogue: 0,0:45:41.84,0:45:44.87,Default,,0000,0000,0000,,{\fn黑体\fs24}而且我们穿着衣服{\r}\NAnd we were spooning with our clothes on,
+Dialogue: 0,0:45:45.01,0:45:48.00,Default,,0000,0000,0000,,{\fn黑体\fs24}这比没穿更糟糕十倍{\r}\Nwhich is like ten times worse.
+Dialogue: 0,0:45:48.15,0:45:50.01,Default,,0000,0000,0000,,{\fn黑体\fs24}惨了 是啊{\r}\N- Oh, shit. - Yeah.
+Dialogue: 0,0:45:50.15,0:45:53.61,Default,,0000,0000,0000,,{\fn黑体\fs24}穿着衣服抱着睡觉 太糟糕了{\r}\N- Fully clothed spoon. - This is bad.
+Dialogue: 0,0:45:57.43,0:46:00.76,Default,,0000,0000,0000,,{\fn黑体\fs24}我的错，我不该熬汤给你喝{\r}\NThis is my fault. l should not have made you soup.
+Dialogue: 0,0:46:01.63,0:46:05.33,Default,,0000,0000,0000,,{\fn黑体\fs24}我们该怎么办？ 什么怎么办？{\r}\N- What are we gonna do? - About what?
+Dialogue: 0,0:46:05.47,0:46:08.90,Default,,0000,0000,0000,,{\fn黑体\fs24}也许我们应该…暂时停下来{\r}\NMaybe we should... Maybe we should stop for a while.
+Dialogue: 0,0:46:09.90,0:46:12.60,Default,,0000,0000,0000,,{\fn黑体\fs24}不，我们不能停下来{\r}\NNo, we're not stopping.
+Dialogue: 0,0:46:13.37,0:46:17.14,Default,,0000,0000,0000,,{\fn黑体\fs24}我不晓得耶{\r}\NYeah, well, l don't know.
+Dialogue: 0,0:46:18.95,0:46:20.91,Default,,0000,0000,0000,,{\fn黑体\fs24}去上别的美眉{\r}\NGo hook up with someone else.
+Dialogue: 0,0:46:23.28,0:46:25.65,Default,,0000,0000,0000,,{\fn黑体\fs24}你是说真的？ 对{\r}\N- Are you serious? - Yeah, go...
+Dialogue: 0,0:46:25.79,0:46:28.81,Default,,0000,0000,0000,,{\fn黑体\fs24}去最近的夜店和陌生人做爱{\r}\NGo to the nearest bar and have sex with a stranger.
+Dialogue: 0,0:46:28.96,0:46:31.42,Default,,0000,0000,0000,,{\fn黑体\fs24}你在开玩笑 并没有{\r}\N- You're kidding? - No.
+Dialogue: 0,0:46:37.03,0:46:41.09,Default,,0000,0000,0000,,{\fn黑体\fs24}这太扯了啦 你替我录了月经集锦歌{\r}\N- This is crazy. - You made me a period mix.
+Dialogue: 0,0:46:44.81,0:46:47.47,Default,,0000,0000,0000,,{\fn黑体\fs24}亚当，这是禁忌耶{\r}\NAdam, this is an emergency.
+Dialogue: 0,0:46:47.61,0:46:49.94,Default,,0000,0000,0000,,{\fn黑体\fs24}你要我走？{\r}\N- So you just want me to go? - Yeah.
+Dialogue: 0,0:46:50.08,0:46:52.48,Default,,0000,0000,0000,,{\fn黑体\fs24}随便跟女人做爱？ 对，快去{\r}\N- Just have sex with a random woman? - Yeah, go.
+Dialogue: 0,0:46:52.61,0:46:54.34,Default,,0000,0000,0000,,{\fn黑体\fs24}一个性感的女人？{\r}\NLike a sexual woman?
+Dialogue: 0,0:46:54.48,0:46:56.04,Default,,0000,0000,0000,,{\fn黑体\fs24}对！{\r}\NYes!
+Dialogue: 0,0:46:58.09,0:47:00.61,Default,,0000,0000,0000,,{\fn黑体\fs24}我也会去跟别人上床{\r}\Nl'll go have sex with someone, too.
+Dialogue: 0,0:47:07.53,0:47:09.33,Default,,0000,0000,0000,,{\fn黑体\fs24}好吧{\r}\NOK.
+Dialogue: 0,0:47:11.23,0:47:15.10,Default,,0000,0000,0000,,{\fn黑体\fs24}这对我们俩都好 是啊，好极了{\r}\N- No, this is gonna be good for us. - Yeah. lt's great.
+Dialogue: 0,0:47:20.24,0:47:22.80,Default,,0000,0000,0000,,{\fn黑体\fs24}太好了，干得好{\r}\NGreat. Well done. Well played.
+Dialogue: 0,0:47:23.74,0:47:25.27,Default,,0000,0000,0000,,{\fn黑体\fs24}掰了！{\r}\NBye.
+Dialogue: 0,0:47:27.18,0:47:29.17,Default,,0000,0000,0000,,{\fn黑体\fs24}我有两星期没跟她见面{\r}\Nl haven't seen her in two weeks, so...
+Dialogue: 0,0:47:30.89,0:47:33.88,Default,,0000,0000,0000,,{\fn黑体\fs24}她叫我上别的美眉，怎么办？{\r}\NShe said l should hook up with other people. l mean, what am l supposed to do with that?
+Dialogue: 0,0:47:34.02,0:47:37.42,Default,,0000,0000,0000,,{\fn黑体\fs24}看着我的脸 我不了啦，只是…{\r}\N- Look at my face. - No, l get it. l just...
+Dialogue: 0,0:47:37.56,0:47:39.19,Default,,0000,0000,0000,,{\fn黑体\fs24}我的脸在说什么？{\r}\NLook at my face. What does my face say?
+Dialogue: 0,0:47:39.33,0:47:41.66,Default,,0000,0000,0000,,{\fn黑体\fs24}你过着每个男人的梦想生活{\r}\NYeah, Adam, come on, you're living every man's dreams.
+Dialogue: 0,0:47:41.80,0:47:43.53,Default,,0000,0000,0000,,{\fn黑体\fs24}她要你上别的美眉{\r}\Nl mean, she wants you to hook up with other girls.
+Dialogue: 0,0:47:43.66,0:47:47.77,Default,,0000,0000,0000,,{\fn黑体\fs24}十年后你只能上你老婆{\r}\N- Yes. - Look, in ten years from now, you're gonna be having sex with your wife.
+Dialogue: 0,0:47:47.90,0:47:49.73,Default,,0000,0000,0000,,{\fn黑体\fs24}永远是男上女下{\r}\NAnd it's gonna be in the missionary position.
+Dialogue: 0,0:47:49.87,0:47:52.20,Default,,0000,0000,0000,,{\fn黑体\fs24}而且你们其中一个会睡着{\r}\N- And one of you is going to be asleep. - Yep.
+Dialogue: 0,0:47:52.34,0:47:54.37,Default,,0000,0000,0000,,{\fn黑体\fs24}当你回想到这一刻{\r}\NAnd you're gonna think back to this moment,
+Dialogue: 0,0:47:54.51,0:47:57.31,Default,,0000,0000,0000,,{\fn黑体\fs24}你会哭着打给我{\r}\Nand you're gonna call me up, crying.
+Dialogue: 0,0:47:57.45,0:48:00.88,Default,,0000,0000,0000,,{\fn黑体\fs24}我不会当面笑你 不好意思哦{\r}\NAnd l'm gonna laugh in your face, Adam. l'm sorry, but it's what l'm gonna do.
+Dialogue: 0,0:48:01.02,0:48:02.54,Default,,0000,0000,0000,,{\fn黑体\fs24}但这是好机会{\r}\NThis is a gift right now.
+Dialogue: 0,0:48:02.68,0:48:04.48,Default,,0000,0000,0000,,{\fn黑体\fs24}你甚至不必陪她吃早餐{\r}\NYou don't even have to have breakfast with her.
+Dialogue: 0,0:48:04.62,0:48:07.18,Default,,0000,0000,0000,,{\fn黑体\fs24}我不知道，我了啦{\r}\Nl know. l get that. l just...
+Dialogue: 0,0:48:07.32,0:48:09.15,Default,,0000,0000,0000,,{\fn黑体\fs24}看着我的脸{\r}\NLook at my face.
+Dialogue: 0,0:48:11.03,0:48:13.19,Default,,0000,0000,0000,,{\fn黑体\fs24}你会带亚当到圣诞节派对吗？{\r}\NYou bringing Adam to the Christmas party tonight?
+Dialogue: 0,0:48:13.33,0:48:18.36,Default,,0000,0000,0000,,{\fn黑体\fs24}不会，我们的关系太紧绷 我们各自找到别人才会见面{\r}\NNo. Things were getting too intense, so we decided not to see each other until we hook up with other people.
+Dialogue: 0,0:48:18.50,0:48:23.20,Default,,0000,0000,0000,,{\fn黑体\fs24}太好了，今晚有搞头了{\r}\NOK. Yes. Good. We are getting laid tonight, right?
+Dialogue: 0,0:48:23.34,0:48:25.70,Default,,0000,0000,0000,,{\fn黑体\fs24}就像“寻找新方向” 你是主角{\r}\NThis is gonna be like Sideways, except that you're Paul Giamatti,
+Dialogue: 0,0:48:25.84,0:48:28.00,Default,,0000,0000,0000,,{\fn黑体\fs24}我是有搞头的配角 我不能有搞头？{\r}\N- and l'm the guy that gets laid. - l can't get laid?
+Dialogue: 0,0:48:28.14,0:48:30.80,Default,,0000,0000,0000,,{\fn黑体\fs24}不行，今晚我超火辣的{\r}\NNo. Tonight is about me, Emma. All right? l'm feeling hot.
+Dialogue: 0,0:48:30.95,0:48:34.44,Default,,0000,0000,0000,,{\fn黑体\fs24}我的内裤没洗，只穿丁字裤{\r}\Nl'm feeling good. l am wearing bikini bottoms because my other underwear is dirty.
+Dialogue: 0,0:48:34.58,0:48:37.38,Default,,0000,0000,0000,,{\fn黑体\fs24}我们很性感，你觉得呢？{\r}\NAll right, we're hot. You feel hot?
+Dialogue: 0,0:48:37.52,0:48:39.51,Default,,0000,0000,0000,,{\fn黑体\fs24}没人吐在我身上{\r}\NNo one threw up on me today.
+Dialogue: 0,0:48:39.65,0:48:43.09,Default,,0000,0000,0000,,{\fn黑体\fs24}我们是花痴，超贱的花痴{\r}\NWe're sluts, Emma! We're dirty, dirty, sluts!
+Dialogue: 0,0:48:43.22,0:48:45.66,Default,,0000,0000,0000,,{\fn黑体\fs24}记住，我们是花痴{\r}\N- OK. - Remember, we're sluts!
+Dialogue: 0,0:48:58.87,0:49:00.67,Default,,0000,0000,0000,,{\fn黑体\fs24}您好，先生{\r}\NGood evening, sir.
+Dialogue: 0,0:49:02.81,0:49:05.47,Default,,0000,0000,0000,,{\fn黑体\fs24}不，让我来，我来开门{\r}\NNo, l got that! l got that, pal. That's gonna be me.
+Dialogue: 0,0:49:08.72,0:49:11.74,Default,,0000,0000,0000,,{\fn黑体\fs24}你刚才替我开车门？ 对{\r}\N- Did you just open the car door for me? - Yes, l did.
+Dialogue: 0,0:49:11.89,0:49:14.38,Default,,0000,0000,0000,,{\fn黑体\fs24}没人替我开过车门，再来一次{\r}\NNo one's ever done that for me before. Do it again.
+Dialogue: 0,0:49:14.52,0:49:16.01,Default,,0000,0000,0000,,All right.
+Dialogue: 0,0:49:19.99,0:49:22.33,Default,,0000,0000,0000,,{\fn黑体\fs24}怎样？ 棒呆了{\r}\N- How's that? - lt's amazing.
+Dialogue: 0,0:49:23.50,0:49:24.66,Default,,0000,0000,0000,,{\fn黑体\fs24}我能挽着你的手吗？{\r}\NCan l have your arm?
+Dialogue: 0,0:49:26.83,0:49:29.60,Default,,0000,0000,0000,,{\fn黑体\fs24}告诉家属他们挚爱的亲人死了{\r}\NSo, when l have to tell someone that someone they loved died,
+Dialogue: 0,0:49:29.74,0:49:32.57,Default,,0000,0000,0000,,{\fn黑体\fs24}真的很难，有时候我会笑{\r}\Nit's hard, you know? Sometimes l laugh.
+Dialogue: 0,0:49:32.71,0:49:35.07,Default,,0000,0000,0000,,{\fn黑体\fs24}因为有点尴尬{\r}\NBecause it's kind of weird.
+Dialogue: 0,0:49:35.21,0:49:36.40,Default,,0000,0000,0000,,Very nice.
+Dialogue: 0,0:49:36.54,0:49:40.31,Default,,0000,0000,0000,,{\fn黑体\fs24}想都别想 我不要去跟他讲话{\r}\N- Oh, don't even think about it. - l'm gonna go talk to him.
+Dialogue: 0,0:49:40.45,0:49:42.08,Default,,0000,0000,0000,,{\fn黑体\fs24}艾玛，不{\r}\NEmma, no.
+Dialogue: 0,0:49:42.22,0:49:45.15,Default,,0000,0000,0000,,{\fn黑体\fs24}我要去{\r}\Nl'm gonna do this.
+Dialogue: 0,0:49:45.29,0:49:48.15,Default,,0000,0000,0000,,{\fn黑体\fs24}想想你的事业，别去{\r}\NEmma, think about your career. Do not do this.
+Dialogue: 0,0:49:51.13,0:49:52.52,Default,,0000,0000,0000,,{\fn黑体\fs24}梅医师{\r}\N- Dr. Metzner. - Yes?
+Dialogue: 0,0:49:53.16,0:49:55.03,Default,,0000,0000,0000,,{\fn黑体\fs24}嗨，我是柯艾玛{\r}\NHi. l'm Emma Kurtzman.
+Dialogue: 0,0:49:56.10,0:50:01.97,Default,,0000,0000,0000,,{\fn黑体\fs24}我一直呵呵呵，想要… 找机会跟你聊天{\r}\Nl've been ho, ho, hoping that l'd get the chance to talk to you.
+Dialogue: 0,0:50:04.74,0:50:07.54,Default,,0000,0000,0000,,{\fn黑体\fs24}谁需要饮料？ 龙舌兰！{\r}\N- Does anyone here need a drink? - Patron!
+Dialogue: 0,0:50:08.81,0:50:10.37,Default,,0000,0000,0000,,{\fn黑体\fs24}你们好吗？{\r}\NHow are you guys doing?
+Dialogue: 0,0:50:10.51,0:50:12.91,Default,,0000,0000,0000,,{\fn黑体\fs24}裘伊，加入我们！{\r}\N- Joy, come join us. - Hey, Joy.
+Dialogue: 0,0:50:13.05,0:50:14.45,Default,,0000,0000,0000,,{\fn黑体\fs24}我得工作{\r}\N- What's up? - l have to work.
+Dialogue: 0,0:50:14.58,0:50:15.95,Default,,0000,0000,0000,,{\fn黑体\fs24}不，坐下来{\r}\N- Come on, just sit down for a second. - Sit down.
+Dialogue: 0,0:50:16.08,0:50:17.98,Default,,0000,0000,0000,,{\fn黑体\fs24}来，这里{\r}\N- OK. - Come on. Here. You take that one.
+Dialogue: 0,0:50:18.12,0:50:19.21,Default,,0000,0000,0000,,{\fn黑体\fs24}我们只是在瞎混{\r}\N- We're just hanging. - Thank you.
+Dialogue: 0,0:50:19.35,0:50:21.05,Default,,0000,0000,0000,,{\fn黑体\fs24}去那些客人{\r}\NScrew the customers.
+Dialogue: 0,0:50:21.19,0:50:23.78,Default,,0000,0000,0000,,{\fn黑体\fs24}她超会模仿的{\r}\NShe is so good at impressions.
+Dialogue: 0,0:50:23.92,0:50:26.39,Default,,0000,0000,0000,,{\fn黑体\fs24}来一个模仿吧 对，来一个模仿{\r}\N- Do an impression, then. - Yes, do an impression.
+Dialogue: 0,0:50:26.53,0:50:27.82,Default,,0000,0000,0000,,{\fn黑体\fs24}猜这是谁{\r}\NAll right, guess who this is.
+Dialogue: 0,0:50:30.77,0:50:32.26,Default,,0000,0000,0000,,{\fn黑体\fs24}爸爸！{\r}\NDad!
+Dialogue: 0,0:50:33.30,0:50:35.03,Default,,0000,0000,0000,,{\fn黑体\fs24}爸爸！ 超可爱的啦！{\r}\N- Dad! - Oh, my God, that's so cute.
+Dialogue: 0,0:50:35.17,0:50:36.16,Default,,0000,0000,0000,,{\fn黑体\fs24}我不知道{\r}\N- l don't know. - Come on.
+Dialogue: 0,0:50:36.30,0:50:37.90,Default,,0000,0000,0000,,{\fn黑体\fs24}你在哪里？ 我猜不出来{\r}\N- Where are you? - l don't know.
+Dialogue: 0,0:50:38.04,0:50:41.41,Default,,0000,0000,0000,,{\fn黑体\fs24}你在哪里，爸爸？ 是尼莫{\r}\N- Where are you, Dad? - lt's Nemo.
+Dialogue: 0,0:50:42.04,0:50:43.64,Default,,0000,0000,0000,,- Yes! - Yeah.
+Dialogue: 0,0:50:43.78,0:50:48.12,Default,,0000,0000,0000,,{\fn黑体\fs24}尼莫，我怎么会猜不到 你怎么会猜到？{\r}\N- Nemo. - Amazing. l don't know why l didn't get that. How did you know that?
+Dialogue: 0,0:50:48.25,0:50:50.95,Default,,0000,0000,0000,,{\fn黑体\fs24}“海底总动员”我看了一千次{\r}\N'Cause l've seen it a thousand times. That's how.
+Dialogue: 0,0:50:51.09,0:50:53.92,Default,,0000,0000,0000,,{\fn黑体\fs24}茱儿芭莉摩 我不确定我够不够醉{\r}\N- Drew Barrymore. - l don't know if l'm drunk enough.
+Dialogue: 0,0:50:54.06,0:50:55.72,Default,,0000,0000,0000,,{\fn黑体\fs24}你模仿不了茱儿芭莉摩{\r}\N- Come on. - You can't do Drew Barrymore.
+Dialogue: 0,0:50:55.86,0:50:57.79,Default,,0000,0000,0000,,{\fn黑体\fs24}她当然可以{\r}\NOh, but she can.
+Dialogue: 0,0:50:57.93,0:51:03.63,Default,,0000,0000,0000,,{\fn黑体\fs24}佳节愉快 我有演“婚礼歌手”哦{\r}\NHappy holidays. l was in The Wedding Singer.
+Dialogue: 0,0:51:03.76,0:51:05.16,Default,,0000,0000,0000,,{\fn黑体\fs24}我只会这些了{\r}\NThat's it. That's all l have.
+Dialogue: 0,0:51:05.30,0:51:07.49,Default,,0000,0000,0000,,{\fn黑体\fs24}你模仿茱儿芭莉摩超不像的{\r}\NThat was kind of an amazing Drew Barrymore.
+Dialogue: 0,0:51:07.64,0:51:09.54,Default,,0000,0000,0000,,{\fn黑体\fs24}你连长得都很不像她{\r}\NYou kind of even looked like her when you did it.
+Dialogue: 0,0:51:09.67,0:51:12.61,Default,,0000,0000,0000,,{\fn黑体\fs24}裘伊，我超爱你{\r}\NOh, my God, Joy. l love you so much.
+Dialogue: 0,0:51:14.34,0:51:15.43,Default,,0000,0000,0000,,{\fn黑体\fs24}真的吗？{\r}\NYou do?
+Dialogue: 0,0:51:16.34,0:51:17.71,Default,,0000,0000,0000,,{\fn黑体\fs24}真的{\r}\NYeah.
+Dialogue: 0,0:51:17.85,0:51:21.87,Default,,0000,0000,0000,,{\fn黑体\fs24}丽莎，我爱你{\r}\NLisa... ...l love you.
+Dialogue: 0,0:51:22.02,0:51:24.88,Default,,0000,0000,0000,,{\fn黑体\fs24}等等 我是真的很爱你{\r}\N- Wait. - l'm seriously in love with you.
+Dialogue: 0,0:51:25.02,0:51:26.78,Default,,0000,0000,0000,,{\fn黑体\fs24}你怎么不早点告诉我{\r}\NWait. Why didn't you tell me sooner?
+Dialogue: 0,0:51:26.92,0:51:30.36,Default,,0000,0000,0000,,{\fn黑体\fs24}我鼓不起勇气 天啊，这太棒了{\r}\N- l didn't have the courage. - Oh, my God. This is amazing.
+Dialogue: 0,0:51:30.49,0:51:34.45,Default,,0000,0000,0000,,{\fn黑体\fs24}你超美的 你的眼睛好漂亮{\r}\N- God, you look so beautiful. - And your eyes are so pretty.
+Dialogue: 0,0:51:34.60,0:51:37.46,Default,,0000,0000,0000,,- Have you got...? - Let's do this.
+Dialogue: 0,0:51:37.60,0:51:39.62,Default,,0000,0000,0000,,{\fn黑体\fs24}瓦勒斯，替我们拍照{\r}\NWallace, could you take a picture of this?
+Dialogue: 0,0:51:39.77,0:51:42.33,Default,,0000,0000,0000,,{\fn黑体\fs24}用我的手机拍{\r}\NYeah, Wallace, l got a camera right here, if you just wanna...
+Dialogue: 0,0:51:42.47,0:51:45.53,Default,,0000,0000,0000,,{\fn黑体\fs24}没问题，再靠近一点{\r}\NNo problem at all. Just get a little closer, ladies.
+Dialogue: 0,0:51:45.67,0:51:48.70,Default,,0000,0000,0000,,{\fn黑体\fs24}好了，大家笑一个{\r}\NAll right. Everybody smile.
+Dialogue: 0,0:51:48.84,0:51:50.87,Default,,0000,0000,0000,,{\fn黑体\fs24}佳节愉快！{\r}\NHappy ho-lidays!
+Dialogue: 0,0:51:58.29,0:51:59.55,Default,,0000,0000,0000,,Hey, hey!
+Dialogue: 0,0:51:59.69,0:52:03.32,Default,,0000,0000,0000,,{\fn黑体\fs24}圣诞节快乐，我替你拿杯酒{\r}\NMerry Christmas. Happy holidays. Can l get you a dri...?
+Dialogue: 0,0:52:07.43,0:52:09.49,Default,,0000,0000,0000,,{\fn黑体\fs24}你想离开这里吗？{\r}\NYou want to get out of here?
+Dialogue: 0,0:52:10.50,0:52:11.80,Default,,0000,0000,0000,,{\fn黑体\fs24}想，好啊{\r}\NYes. Yeah.
+Dialogue: 0,0:52:11.93,0:52:13.80,Default,,0000,0000,0000,,{\fn黑体\fs24}我去拿我的东西{\r}\Nl'll get my stuff.
+Dialogue: 0,0:52:41.06,0:52:43.55,Default,,0000,0000,0000,,{\fn黑体\fs24}听好，别跟她们上床{\r}\NListen, don't fuck one of those girls.
+Dialogue: 0,0:52:43.70,0:52:47.63,Default,,0000,0000,0000,,{\fn黑体\fs24}她们很坏，不是好东西{\r}\NThey're not... they're not nice. They're not nice girls.
+Dialogue: 0,0:52:48.90,0:52:52.70,Default,,0000,0000,0000,,{\fn黑体\fs24}什么？艾玛？是你吗？{\r}\NWhat? Emma? /s that you?
+Dialogue: 0,0:52:53.87,0:52:55.34,Default,,0000,0000,0000,,{\fn黑体\fs24}凯蒂！{\r}\NKatie!
+Dialogue: 0,0:52:55.48,0:52:58.71,Default,,0000,0000,0000,,{\fn黑体\fs24}你在干嘛？你在哪里？{\r}\NYeah, hi. What are you doing? Where are you?
+Dialogue: 0,0:52:58.85,0:53:01.94,Default,,0000,0000,0000,,{\fn黑体\fs24}我在为医生考试K书{\r}\Nl'm just studying for the doctor test.
+Dialogue: 0,0:53:02.08,0:53:03.57,Default,,0000,0000,0000,,{\fn黑体\fs24}你明天会来，对吧？{\r}\NYou're coming tomorrow, right?
+Dialogue: 0,0:53:03.72,0:53:05.45,Default,,0000,0000,0000,,{\fn黑体\fs24}等一下{\r}\NHold on.
+Dialogue: 0,0:53:06.99,0:53:08.08,Default,,0000,0000,0000,,{\fn黑体\fs24}嗨，亚当{\r}\NHey, Adam.
+Dialogue: 0,0:53:08.22,0:53:09.88,Default,,0000,0000,0000,,{\fn黑体\fs24}我乖乖地听你的命令{\r}\N/ am fo//owing your instructions di/igent/y.
+Dialogue: 0,0:53:10.02,0:53:13.08,Default,,0000,0000,0000,,{\fn黑体\fs24}拿开啦！ 你在跟谁讲话？{\r}\N- Put that away! - Who are you talking to?
+Dialogue: 0,0:53:19.87,0:53:22.03,Default,,0000,0000,0000,,{\fn黑体\fs24}你在吗？你不在，对吧？{\r}\NAre you there? You're not there, are you?
+Dialogue: 0,0:53:24.17,0:53:27.70,Default,,0000,0000,0000,,{\fn黑体\fs24}计程车！计程车！{\r}\NTaxi! Taxi!
+Dialogue: 0,0:53:33.91,0:53:35.51,Default,,0000,0000,0000,,{\fn黑体\fs24}带我到亚当家{\r}\NTake me to Adam's house.
+Dialogue: 0,0:53:35.65,0:53:38.45,Default,,0000,0000,0000,,{\fn黑体\fs24}那在哪里？ 亚当住的地方{\r}\N- OK, ma'am, where's that? - Where Adam lives.
+Dialogue: 0,0:53:38.59,0:53:40.42,Default,,0000,0000,0000,,{\fn黑体\fs24}快走，开车{\r}\N- All right... - Just go. Go.
+Dialogue: 0,0:53:40.55,0:53:42.35,Default,,0000,0000,0000,,{\fn黑体\fs24}好，我这就走{\r}\NOK, l'm going.
+Dialogue: 0,0:53:57.54,0:54:01.30,Default,,0000,0000,0000,,{\fn黑体\fs24}我替女士们调了鸡尾酒{\r}\NGot a cocktail for the ladies.
+Dialogue: 0,0:54:01.44,0:54:03.93,Default,,0000,0000,0000,,{\fn黑体\fs24}我在模仿克里斯多夫华肯{\r}\NThat's my Christopher Walken.
+Dialogue: 0,0:54:04.68,0:54:09.05,Default,,0000,0000,0000,,{\fn黑体\fs24}我把饮料放在这里{\r}\NYeah. l'll just set these over here and...
+Dialogue: 0,0:54:10.42,0:54:13.58,Default,,0000,0000,0000,,{\fn黑体\fs24}然后… 我们可以一起玩3P{\r}\N...then we can all sort of involve ourselves in...
+Dialogue: 0,0:54:13.72,0:54:15.78,Default,,0000,0000,0000,,OK, let's...
+Dialogue: 0,0:54:15.92,0:54:19.09,Default,,0000,0000,0000,,{\fn黑体\fs24}你们玩得很起劲耶{\r}\NWell, you guys are doing a really good job.
+Dialogue: 0,0:54:19.23,0:54:21.22,Default,,0000,0000,0000,,{\fn黑体\fs24}有需要我在这里{\r}\Nl'll just be over here if you need me.
+Dialogue: 0,0:54:21.36,0:54:22.73,Default,,0000,0000,0000,,{\fn黑体\fs24}亚当！{\r}\NAdam!
+Dialogue: 0,0:54:23.50,0:54:26.30,Default,,0000,0000,0000,,{\fn黑体\fs24}亚当法兰克林！{\r}\NAdam Franklin!
+Dialogue: 0,0:54:28.17,0:54:30.60,Default,,0000,0000,0000,,{\fn黑体\fs24}亚当！法兰克林！{\r}\NAdam! Franklin!
+Dialogue: 0,0:54:31.24,0:54:33.00,Default,,0000,0000,0000,,OK.
+Dialogue: 0,0:54:33.14,0:54:35.77,Default,,0000,0000,0000,,{\fn黑体\fs24}你们继续玩吧{\r}\NJust keep up the good work, ladies.
+Dialogue: 0,0:54:43.78,0:54:45.81,Default,,0000,0000,0000,,{\fn黑体\fs24}你在干…？ 你是不是…？{\r}\NWhat are...? What are you...?
+Dialogue: 0,0:54:47.25,0:54:48.59,Default,,0000,0000,0000,,Hey.
+Dialogue: 0,0:54:48.72,0:54:50.82,Default,,0000,0000,0000,,Are you...?
+Dialogue: 0,0:54:50.96,0:54:53.65,Default,,0000,0000,0000,,{\fn黑体\fs24}是，当然是{\r}\NYeah. Oh, yeah.
+Dialogue: 0,0:54:57.13,0:54:59.66,Default,,0000,0000,0000,,{\fn黑体\fs24}怎么回事？{\r}\NWhat's going on?
+Dialogue: 0,0:54:59.80,0:55:02.33,Default,,0000,0000,0000,,{\fn黑体\fs24}这是裘伊 我是裘伊，嗨{\r}\N- This is Joy. - l'm Joy. Hi.
+Dialogue: 0,0:55:03.60,0:55:06.77,Default,,0000,0000,0000,,{\fn黑体\fs24}干得好 亚当？{\r}\N- Good for you. - Adam?
+Dialogue: 0,0:55:08.38,0:55:10.17,Default,,0000,0000,0000,,{\fn黑体\fs24}这是丽莎{\r}\NAnd this is Lisa.
+Dialogue: 0,0:55:11.78,0:55:15.58,Default,,0000,0000,0000,,{\fn黑体\fs24}你真是爱现鬼{\r}\NYou are such an overachiever.
+Dialogue: 0,0:55:15.72,0:55:17.05,Default,,0000,0000,0000,,{\fn黑体\fs24}谢谢{\r}\NThank you.
+Dialogue: 0,0:55:17.18,0:55:18.95,Default,,0000,0000,0000,,{\fn黑体\fs24}我们不需要她，叫她走{\r}\NNo, we don't need her. Make her leave.
+Dialogue: 0,0:55:19.09,0:55:21.75,Default,,0000,0000,0000,,{\fn黑体\fs24}不，你们走{\r}\NNo. You leave.
+Dialogue: 0,0:55:22.69,0:55:25.02,Default,,0000,0000,0000,,{\fn黑体\fs24}你想赶我们走？{\r}\NAre you trying to get rid of us?
+Dialogue: 0,0:55:25.16,0:55:26.82,Default,,0000,0000,0000,,{\fn黑体\fs24}你长得像南瓜，婊子！{\r}\NYou look like a pumpkin, bitch!
+Dialogue: 0,0:55:26.96,0:55:28.05,Default,,0000,0000,0000,,{\fn黑体\fs24}太夸张了{\r}\N- This is amazing. - Oh, you make... Hey!
+Dialogue: 0,0:55:31.13,0:55:33.36,Default,,0000,0000,0000,,{\fn黑体\fs24}好吧，我来处理{\r}\NOK. l got this.
+Dialogue: 0,0:55:33.50,0:55:37.37,Default,,0000,0000,0000,,{\fn黑体\fs24}我会搞定，你们冷静一点{\r}\Nl got this. You just... calm down.
+Dialogue: 0,0:55:40.87,0:55:43.64,Default,,0000,0000,0000,,{\fn黑体\fs24}我们根本就不像南瓜{\r}\NBut we don't look anything like pumpkins.
+Dialogue: 0,0:55:43.78,0:55:47.21,Default,,0000,0000,0000,,{\fn黑体\fs24}我知道，她大概忘了吃药{\r}\Nl know. She probably forgot to take her meds.
+Dialogue: 0,0:55:47.35,0:55:50.61,Default,,0000,0000,0000,,{\fn黑体\fs24}为了安全起见，你们最好快走{\r}\NYou know, for your own safety, you'd better get your stuff and go.
+Dialogue: 0,0:55:50.75,0:55:52.05,Default,,0000,0000,0000,,Thanks.
+Dialogue: 0,0:55:53.02,0:55:58.69,Default,,0000,0000,0000,,{\fn黑体\fs24}小心，她可能躲起来 她超快的，就像一头美洲狮{\r}\NWatch out, though. She could be anywhere. She's quick. Like a puma.
+Dialogue: 0,0:56:01.36,0:56:02.59,Default,,0000,0000,0000,,{\fn黑体\fs24}你很坏耶！{\r}\NYou're so mean!
+Dialogue: 0,0:56:02.73,0:56:07.46,Default,,0000,0000,0000,,{\fn黑体\fs24}铃！铃！南瓜园打来！ 他们要把南瓜叫回去！{\r}\NRing, ring! lt's the pumpkin patch! They want their pumpkins back!
+Dialogue: 0,0:56:07.60,0:56:09.90,Default,,0000,0000,0000,,{\fn黑体\fs24}我们不是南瓜！ 我们是女生！{\r}\N- We're not pumpkins! - We're ladies!
+Dialogue: 0,0:56:10.04,0:56:12.47,Default,,0000,0000,0000,,{\fn黑体\fs24}可是你们全身都是橘色！{\r}\NBut you're so orange.
+Dialogue: 0,0:56:12.61,0:56:15.10,Default,,0000,0000,0000,,{\fn黑体\fs24}快打给仙度瑞拉！{\r}\NHey, someone call Charlie Brown!
+Dialogue: 0,0:56:15.24,0:56:17.73,Default,,0000,0000,0000,,{\fn黑体\fs24}找到南瓜马车了！{\r}\NWe found the Great Pumpkin!
+Dialogue: 0,0:56:17.88,0:56:19.87,Default,,0000,0000,0000,,Ow! Don't! Don't!
+Dialogue: 0,0:56:27.15,0:56:29.62,Default,,0000,0000,0000,,{\fn黑体\fs24}你疯了{\r}\NYou're crazy.
+Dialogue: 0,0:56:29.76,0:56:32.28,Default,,0000,0000,0000,,{\fn黑体\fs24}我觉得自己好像全民情圣{\r}\Nl felt like Flavor Flav.
+Dialogue: 0,0:56:32.43,0:56:37.36,Default,,0000,0000,0000,,{\fn黑体\fs24}我不敢相信你挑了那两个美眉 你在吃醋吗？{\r}\N- l can't believe you chose those girls. - Are you jealous?
+Dialogue: 0,0:56:37.50,0:56:41.30,Default,,0000,0000,0000,,{\fn黑体\fs24}别这样，别突然消失不见{\r}\NDon't do that. Don't just disappear like that on me.
+Dialogue: 0,0:56:41.44,0:56:44.20,Default,,0000,0000,0000,,{\fn黑体\fs24}你叫我不要见你 你该听我的{\r}\N- You told me to. - You shouldn't listen to me.
+Dialogue: 0,0:56:44.34,0:56:46.03,Default,,0000,0000,0000,,{\fn黑体\fs24}好吧，我听就是了{\r}\NFine, l won't.
+Dialogue: 0,0:56:54.18,0:56:57.58,Default,,0000,0000,0000,,{\fn黑体\fs24}你在闻我的头发？ 没有{\r}\N- Did you smell my hair? - No.
+Dialogue: 0,0:57:08.10,0:57:10.03,Default,,0000,0000,0000,,{\fn黑体\fs24}你想跟我谈什么？{\r}\N- What did you want to talk to me about? - Wait. Just hang out here.
+Dialogue: 0,0:57:10.16,0:57:11.65,Default,,0000,0000,0000,,Right here?
+Dialogue: 0,0:57:11.80,0:57:13.20,Default,,0000,0000,0000,,Oh, man.
+Dialogue: 0,0:57:13.77,0:57:15.03,Default,,0000,0000,0000,,{\fn黑体\fs24}惊喜！{\r}\NSurprise!
+Dialogue: 0,0:57:15.17,0:57:17.93,Default,,0000,0000,0000,,{\fn黑体\fs24}生日快乐！{\r}\NHappy birthday!
+Dialogue: 0,0:57:28.35,0:57:31.88,Default,,0000,0000,0000,,{\fn黑体\fs24}光阴似箭、岁月如梭{\r}
+Dialogue: 0,0:57:33.15,0:57:38.06,Default,,0000,0000,0000,,{\fn黑体\fs24}只有一件事能让爹地哭泣{\r}
+Dialogue: 0,0:57:38.79,0:57:41.52,Default,,0000,0000,0000,,{\fn黑体\fs24}因为我好高兴{\r}
+Dialogue: 0,0:57:41.66,0:57:44.86,Default,,0000,0000,0000,,{\fn黑体\fs24}能当你的爸比{\r}
+Dialogue: 0,0:57:45.00,0:57:49.13,Default,,0000,0000,0000,,{\fn黑体\fs24}今天让我告诉你为什么{\r}
+Dialogue: 0,0:57:51.67,0:57:54.37,Default,,0000,0000,0000,,{\fn黑体\fs24}这是你的生日{\r}
+Dialogue: 0,0:57:54.51,0:57:56.98,Default,,0000,0000,0000,,{\fn黑体\fs24}宝贝儿子{\r}
+Dialogue: 0,0:57:57.68,0:58:00.44,Default,,0000,0000,0000,,{\fn黑体\fs24}这是你的生日{\r}
+Dialogue: 0,0:58:00.58,0:58:02.91,Default,,0000,0000,0000,,{\fn黑体\fs24}我的小寿星{\r}
+Dialogue: 0,0:58:03.05,0:58:05.75,Default,,0000,0000,0000,,{\fn黑体\fs24}生日快乐，生日快乐{\r}
+Dialogue: 0,0:58:05.89,0:58:07.95,Default,,0000,0000,0000,,{\fn黑体\fs24}生日快乐，生日快乐{\r}
+Dialogue: 0,0:58:08.09,0:58:11.62,Default,,0000,0000,0000,,{\fn黑体\fs24}祝你生日快乐{\r}
+Dialogue: 0,0:58:11.76,0:58:13.35,Default,,0000,0000,0000,,{\fn黑体\fs24}大家一起唱！{\r}\NEverybody!
+Dialogue: 0,0:58:13.49,0:58:17.43,Default,,0000,0000,0000,,{\fn黑体\fs24}祝你{\r}
+Dialogue: 0,0:58:17.56,0:58:21.26,Default,,0000,0000,0000,,{\fn黑体\fs24}生日快乐{\r}
+Dialogue: 0,0:58:29.04,0:58:31.84,Default,,0000,0000,0000,,{\fn黑体\fs24}吹蜡烛呀！ 生日快乐{\r}\NBlow it out! Blow it out! Oh, Adam, happy birthday.
+Dialogue: 0,0:58:31.98,0:58:34.11,Default,,0000,0000,0000,,{\fn黑体\fs24}我们都以你为荣 许个愿{\r}\N- We're so proud of you. - Make a wish.
+Dialogue: 0,0:58:42.26,0:58:44.72,Default,,0000,0000,0000,,{\fn黑体\fs24}五分钟后开拍{\r}\NGuys, you get a five-minute warning.
+Dialogue: 0,0:58:45.16,0:58:46.49,Default,,0000,0000,0000,,{\fn黑体\fs24}他在厕所{\r}\N- OK? - No, he's ten-one.
+Dialogue: 0,0:58:46.63,0:58:48.60,Default,,0000,0000,0000,,{\fn黑体\fs24}我刚传简讯给他{\r}\Nl already texted him.
+Dialogue: 0,0:58:48.73,0:58:53.67,Default,,0000,0000,0000,,{\fn黑体\fs24}所以…你原谅我了？ 不，我没原谅你{\r}\N- So, all is forgiven? - No. Nothing is forgiven.
+Dialogue: 0,0:58:54.43,0:58:57.16,Default,,0000,0000,0000,,{\fn黑体\fs24}你以为我不觉得很别扭吗？{\r}\NAdam, don't you think it's been weird for me, too?
+Dialogue: 0,0:58:57.30,0:59:00.74,Default,,0000,0000,0000,,{\fn黑体\fs24}知道我儿子和我女友上过床？{\r}\NKnowing that... my own son had sex with my girlfriend?
+Dialogue: 0,0:59:02.28,0:59:04.61,Default,,0000,0000,0000,,{\fn黑体\fs24}但是我克服了，你也该走出来{\r}\NBut l got over it. You should, too.
+Dialogue: 0,0:59:04.75,0:59:06.34,Default,,0000,0000,0000,,{\fn黑体\fs24}对不起！请帮我签名！{\r}\NExcuse me! Can l have your autograph, please?
+Dialogue: 0,0:59:06.48,0:59:07.97,Default,,0000,0000,0000,,{\fn黑体\fs24}我也要 没问题{\r}\N- Mine, too, please. - Certainly.
+Dialogue: 0,0:59:08.12,0:59:10.95,Default,,0000,0000,0000,,{\fn黑体\fs24}我今天请你吃生日大餐{\r}\NListen, let me take you to a nice birthday dinner tonight.
+Dialogue: 0,0:59:11.08,0:59:14.68,Default,,0000,0000,0000,,{\fn黑体\fs24}你、我和凡娜莎 我们有事要告诉你{\r}\NYou, me and Vanessa. We have something we want to talk to you about.
+Dialogue: 0,0:59:14.82,0:59:15.95,Default,,0000,0000,0000,,{\fn黑体\fs24}有事？{\r}\N- Something? - Yeah.
+Dialogue: 0,0:59:16.09,0:59:19.53,Default,,0000,0000,0000,,{\fn黑体\fs24}什么事？ 很重要的事{\r}\N- Like what? - Just something important, OK?
+Dialogue: 0,0:59:19.66,0:59:21.56,Default,,0000,0000,0000,,{\fn黑体\fs24}别这样 八点整，牛排馆{\r}\N- Please don't do this. - 8:20, STK.
+Dialogue: 0,0:59:21.70,0:59:25.06,Default,,0000,0000,0000,,{\fn黑体\fs24}你想带谁来就带谁来{\r}\NAll right? Be there. Bring anyone you want, all right?
+Dialogue: 0,0:59:25.20,0:59:27.60,Default,,0000,0000,0000,,{\fn黑体\fs24}掰了，大伙儿 多谢你肯来{\r}\N- Bye, everyone. Thank you. - Oh, thank you so much for coming.
+Dialogue: 0,0:59:27.73,0:59:29.22,Default,,0000,0000,0000,,{\fn黑体\fs24}真是个荣幸{\r}\Nlt's been an honor.
+Dialogue: 0,0:59:29.37,0:59:32.07,Default,,0000,0000,0000,,{\fn黑体\fs24}我的老天爷！ 好耶！{\r}\N- Great Scott! - Bravo! Bravo!
+Dialogue: 0,0:59:37.14,0:59:38.87,Default,,0000,0000,0000,,{\fn黑体\fs24}搞什么？{\r}\NWhat the fuck?
+Dialogue: 0,0:59:39.75,0:59:42.48,Default,,0000,0000,0000,,- What happened? - Oh, my.
+Dialogue: 0,0:59:42.62,0:59:45.45,Default,,0000,0000,0000,,{\fn黑体\fs24}你没事吧？怎么了？{\r}\NAre you OK? Are you OK? What happened?
+Dialogue: 0,0:59:45.59,0:59:47.75,Default,,0000,0000,0000,,{\fn黑体\fs24}给我！ 那是我的手机！{\r}\N- Give me that! - That's my phone!
+Dialogue: 0,0:59:47.89,0:59:50.79,Default,,0000,0000,0000,,{\fn黑体\fs24}去你的，查克！ 你很有才华，但去你的！{\r}\NFuck you, Chuck! You're very talented, but fuck you!
+Dialogue: 0,0:59:50.92,0:59:52.29,Default,,0000,0000,0000,,{\fn黑体\fs24}快叫医护人员！{\r}\NCan we get a medic, please?
+Dialogue: 0,0:59:52.43,0:59:55.86,Default,,0000,0000,0000,,{\fn黑体\fs24}尽量少用力{\r}\NTry to use it as little as possible.
+Dialogue: 0,0:59:56.00,0:59:59.09,Default,,0000,0000,0000,,{\fn黑体\fs24}暂时别运动或健身 梅医师？{\r}\N- No sports or working out for a while. - Dr. Metzner?
+Dialogue: 0,1:00:01.37,1:00:04.20,Default,,0000,0000,0000,,{\fn黑体\fs24}亚当，怎么了？怎么回事？{\r}\NAdam, what's going on? What happened?
+Dialogue: 0,1:00:04.34,1:00:07.67,Default,,0000,0000,0000,,{\fn黑体\fs24}他打墙壁扭伤了手腕{\r}\NHe sprained his wrist punching a wall.
+Dialogue: 0,1:00:08.71,1:00:10.94,Default,,0000,0000,0000,,{\fn黑体\fs24}你传简讯说你快死了{\r}\NYou texted me that you were dying.
+Dialogue: 0,1:00:11.08,1:00:12.60,Default,,0000,0000,0000,,{\fn黑体\fs24}我快痛死了{\r}\Nlt really hurt.
+Dialogue: 0,1:00:13.15,1:00:16.58,Default,,0000,0000,0000,,{\fn黑体\fs24}我开了氢可酮，很强的止痛药{\r}\Nl gave him some hydrocodone for the night. lt's a very strong painkiller.
+Dialogue: 0,1:00:16.72,1:00:19.15,Default,,0000,0000,0000,,{\fn黑体\fs24}请柯医师开车送你回家{\r}\NYou might want to have Dr. Kurtzman here drive you home.
+Dialogue: 0,1:00:20.79,1:00:24.62,Default,,0000,0000,0000,,{\fn黑体\fs24}这是消炎药的处方笺{\r}\NAnd here is a prescription for an anti-inflammatory.
+Dialogue: 0,1:00:25.96,1:00:27.69,Default,,0000,0000,0000,,{\fn黑体\fs24}你不会有事{\r}\NDon't worry. You're in good hands.
+Dialogue: 0,1:00:27.83,1:00:29.82,Default,,0000,0000,0000,,{\fn黑体\fs24}你女友是个很好的医生{\r}\NYour girlfriend here is a very talented doctor.
+Dialogue: 0,1:00:29.96,1:00:32.52,Default,,0000,0000,0000,,{\fn黑体\fs24}我不是他的女友{\r}\NNo. No, l'm... l'm not his girlfriend.
+Dialogue: 0,1:00:32.67,1:00:34.50,Default,,0000,0000,0000,,{\fn黑体\fs24}她不是我的女友{\r}\NShe is not my girlfriend.
+Dialogue: 0,1:00:34.64,1:00:38.16,Default,,0000,0000,0000,,{\fn黑体\fs24}抱歉，他把你列为紧急联络人{\r}\NOh, sorry. l saw that he listed you as an emergency contact.
+Dialogue: 0,1:00:39.97,1:00:42.81,Default,,0000,0000,0000,,{\fn黑体\fs24}我的错，早日康复{\r}\NMy mistake. Feel better.
+Dialogue: 0,1:00:43.64,1:00:47.21,Default,,0000,0000,0000,,{\fn黑体\fs24}对了，我很喜欢看你爸的节目{\r}\NOh, by the way, l enjoyed your dad's TV show.
+Dialogue: 0,1:00:47.35,1:00:49.65,Default,,0000,0000,0000,,{\fn黑体\fs24}我的老天爷！{\r}\NGreat Scott. That's funny stuff.
+Dialogue: 0,1:00:50.35,1:00:52.34,Default,,0000,0000,0000,,{\fn黑体\fs24}我会转告他的{\r}\Nl'll tell him you said that.
+Dialogue: 0,1:00:57.46,1:01:00.62,Default,,0000,0000,0000,,{\fn黑体\fs24}我爸请我吃晚饭{\r}\NMy dad invited me to dinner,
+Dialogue: 0,1:01:00.76,1:01:02.73,Default,,0000,0000,0000,,{\fn黑体\fs24}他要带凡娜莎一起去{\r}\Nand he's bringing Vanessa.
+Dialogue: 0,1:01:03.76,1:01:06.49,Default,,0000,0000,0000,,{\fn黑体\fs24}你得陪我去 不行{\r}\N- You have to come. - No, l don't.
+Dialogue: 0,1:01:06.63,1:01:08.90,Default,,0000,0000,0000,,{\fn黑体\fs24}我值了14小时的班 我才不去见你父母{\r}\Nl just worked 14 hours. l'm not gonna meet your parents.
+Dialogue: 0,1:01:09.04,1:01:11.94,Default,,0000,0000,0000,,{\fn黑体\fs24}拜托，帮帮忙{\r}\NYou know what? Just help me.
+Dialogue: 0,1:01:13.94,1:01:17.93,Default,,0000,0000,0000,,{\fn黑体\fs24}好强的止痛药，我没有感觉{\r}\NThese are really powerful painkillers. l can't feel anything.
+Dialogue: 0,1:01:20.21,1:01:21.54,Default,,0000,0000,0000,,{\fn黑体\fs24}有感觉吗？{\r}\NFeel that?
+Dialogue: 0,1:01:23.72,1:01:26.05,Default,,0000,0000,0000,,{\fn黑体\fs24}有，有感觉{\r}\NYeah. l felt that.
+Dialogue: 0,1:01:26.19,1:01:28.12,Default,,0000,0000,0000,,{\fn黑体\fs24}生日快乐，亚当{\r}\NHappy birthday, Adam.
+Dialogue: 0,1:01:28.26,1:01:30.62,Default,,0000,0000,0000,,{\fn黑体\fs24}很高兴你能一起来{\r}\Nl'm so glad you guys could join us for dinner.
+Dialogue: 0,1:01:30.76,1:01:33.42,Default,,0000,0000,0000,,{\fn黑体\fs24}请慢用，我马上回来点菜{\r}\NCheers. l'll come right back to take your order.
+Dialogue: 0,1:01:34.39,1:01:38.26,Default,,0000,0000,0000,,{\fn黑体\fs24}你觉得怎样，儿子？{\r}\NSo, how you doing there, kiddo?
+Dialogue: 0,1:01:38.40,1:01:41.86,Default,,0000,0000,0000,,{\fn黑体\fs24}好得很，老爸，多谢关心{\r}\NPerfect, Dad. Thank you for asking.
+Dialogue: 0,1:01:43.10,1:01:44.80,Default,,0000,0000,0000,,{\fn黑体\fs24}你们俩交往了多久？{\r}\NHow long have you two been together?
+Dialogue: 0,1:01:44.94,1:01:46.74,Default,,0000,0000,0000,,{\fn黑体\fs24}我们没有交往{\r}\NOh, we're not.
+Dialogue: 0,1:01:46.87,1:01:50.17,Default,,0000,0000,0000,,{\fn黑体\fs24}我们是饭饭之交 对，没错{\r}\N- We're sex friends. - Yeah. Yes, we are.
+Dialogue: 0,1:01:50.98,1:01:54.44,Default,,0000,0000,0000,,{\fn黑体\fs24}一起炒饭的朋友？ 炮友{\r}\NYeah, friends with benefits? Fuck buddies?
+Dialogue: 0,1:01:55.95,1:01:58.08,Default,,0000,0000,0000,,{\fn黑体\fs24}我的老天爷！{\r}\NGreat Scott!
+Dialogue: 0,1:01:59.02,1:02:03.65,Default,,0000,0000,0000,,{\fn黑体\fs24}我知道你很难受 但我是你的前女友不代表…{\r}\Nl know this might be hard, but just because l'm your ex-girlfriend
+Dialogue: 0,1:02:03.79,1:02:09.42,Default,,0000,0000,0000,,{\fn黑体\fs24}你不能把我当成…妈妈{\r}\Ndoesn't mean that you can't look at me as a kind of... mum?
+Dialogue: 0,1:02:09.56,1:02:11.53,Default,,0000,0000,0000,,{\fn黑体\fs24}天啊 尤其是我们在讨论{\r}\N- Oh, boy. - Especially because, well,
+Dialogue: 0,1:02:11.67,1:02:17.60,Default,,0000,0000,0000,,{\fn黑体\fs24}想要一起创造新生命{\r}\NAlvin and l have been talking about creating new life together.
+Dialogue: 0,1:02:17.74,1:02:19.83,Default,,0000,0000,0000,,{\fn黑体\fs24}我们去参加烧人节{\r}\NYou see, we were at Burning Man.
+Dialogue: 0,1:02:19.97,1:02:22.94,Default,,0000,0000,0000,,{\fn黑体\fs24}我们都精心打扮 我穿了火鸟装{\r}\N- And we were dressed up. - Yeah. l was dressed as a fire bird.
+Dialogue: 0,1:02:23.08,1:02:24.84,Default,,0000,0000,0000,,{\fn黑体\fs24}你穿什么？{\r}\NAnd what were you dressed as?
+Dialogue: 0,1:02:24.98,1:02:28.54,Default,,0000,0000,0000,,{\fn黑体\fs24}什么都没穿 我们在沙漠中{\r}\Nl was naked. And we were just out there in the desert,
+Dialogue: 0,1:02:28.68,1:02:31.38,Default,,0000,0000,0000,,{\fn黑体\fs24}他用沙子把我赤裸裸地埋起来{\r}\Nand he was burying my bare body in the sand.
+Dialogue: 0,1:02:31.52,1:02:34.89,Default,,0000,0000,0000,,{\fn黑体\fs24}对，用我的火鸟啄插她{\r}\NYeah. Pecking at it with my... fire beak.
+Dialogue: 0,1:02:35.02,1:02:36.96,Default,,0000,0000,0000,,{\fn黑体\fs24}然后我就想{\r}\NAnd then l just thought,
+Dialogue: 0,1:02:37.09,1:02:41.29,Default,,0000,0000,0000,,{\fn黑体\fs24}要是这些沙子…{\r}\Nyou know, what if all these grains of sand,
+Dialogue: 0,1:02:41.43,1:02:44.06,Default,,0000,0000,0000,,{\fn黑体\fs24}都是真的宝宝呢？{\r}\Nwere actually babies?
+Dialogue: 0,1:02:44.70,1:02:48.29,Default,,0000,0000,0000,,{\fn黑体\fs24}于是我们… 我们有了很棒的点子{\r}\N- And so we... - We had this wonderful idea.
+Dialogue: 0,1:02:48.44,1:02:52.60,Default,,0000,0000,0000,,{\fn黑体\fs24}我们希望你能祝福我们{\r}\NAnd we... well, we'd like your blessing, Adam.
+Dialogue: 0,1:02:52.74,1:02:56.27,Default,,0000,0000,0000,,{\fn黑体\fs24}你觉得我们一起生小孩怎样？{\r}\NHow do you feel about the two of us having a baby together?
+Dialogue: 0,1:02:58.65,1:02:59.74,Default,,0000,0000,0000,,Adam.
+Dialogue: 0,1:03:02.75,1:03:05.31,Default,,0000,0000,0000,,{\fn黑体\fs24}我没资格说话{\r}\NThis isn't really my place. l mean, who am l?
+Dialogue: 0,1:03:05.45,1:03:07.32,Default,,0000,0000,0000,,{\fn黑体\fs24}我只是有时候和你儿子炒饭{\r}\Nl just have sex with your son sometimes.
+Dialogue: 0,1:03:07.45,1:03:09.12,Default,,0000,0000,0000,,{\fn黑体\fs24}对，没错{\r}\N- But... - Yes, she does.
+Dialogue: 0,1:03:09.66,1:03:15.22,Default,,0000,0000,0000,,{\fn黑体\fs24}但是… 你们没资格把小孩带入这世界{\r}\NBut... there is really no reason for you to bring a child into this world,
+Dialogue: 0,1:03:15.36,1:03:17.96,Default,,0000,0000,0000,,{\fn黑体\fs24}因为你们自己就像小孩{\r}\Nsince you're acting like children already.
+Dialogue: 0,1:03:18.10,1:03:20.33,Default,,0000,0000,0000,,{\fn黑体\fs24}你说话很毒耶{\r}\N- That was really mean. - Yeah.
+Dialogue: 0,1:03:21.30,1:03:23.60,Default,,0000,0000,0000,,{\fn黑体\fs24}我说话是很毒，但你是疯子{\r}\Nl'm mean. But you're fucking crazy.
+Dialogue: 0,1:03:23.74,1:03:25.86,Default,,0000,0000,0000,,{\fn黑体\fs24}如果要我选择亚当或他爸{\r}\N'Cause given the choice between Adam and his dad,
+Dialogue: 0,1:03:26.01,1:03:27.91,Default,,0000,0000,0000,,{\fn黑体\fs24}要我选择亚当或任何人{\r}\Ngiven the choice between Adam and anyone, really,
+Dialogue: 0,1:03:28.04,1:03:30.60,Default,,0000,0000,0000,,{\fn黑体\fs24}我一定会选择亚当{\r}\Nl'd choose Adam, every time.
+Dialogue: 0,1:03:33.11,1:03:36.21,Default,,0000,0000,0000,,{\fn黑体\fs24}你要走了吗？ 好{\r}\N- Do you want to get out of here? - Yep.
+Dialogue: 0,1:03:36.35,1:03:38.34,Default,,0000,0000,0000,,{\fn黑体\fs24}对了{\r}\NFuck this.
+Dialogue: 0,1:03:39.52,1:03:43.65,Default,,0000,0000,0000,,{\fn黑体\fs24}我和他炒饭最爽{\r}\NOh, by the way... ...it's the best sex of my life.
+Dialogue: 0,1:03:47.79,1:03:49.49,Default,,0000,0000,0000,,{\fn黑体\fs24}我的老天爷！{\r}\NGreat Scott!
+Dialogue: 0,1:03:56.64,1:04:00.83,Default,,0000,0000,0000,,{\fn黑体\fs24}我得说，这是最棒的生日晚餐{\r}\Nl have to say, this is probably the best birthday dinner ever.
+Dialogue: 0,1:04:00.97,1:04:02.91,Default,,0000,0000,0000,,{\fn黑体\fs24}我想安排得特别一点{\r}\Nl wanted to make it special.
+Dialogue: 0,1:04:03.04,1:04:04.37,Default,,0000,0000,0000,,{\fn黑体\fs24}是吗？蛋糕咧？{\r}\NYeah? Where's the cake?
+Dialogue: 0,1:04:05.41,1:04:07.38,Default,,0000,0000,0000,,{\fn黑体\fs24}待会儿，宝贝{\r}\NThat comes later, baby.
+Dialogue: 0,1:04:10.92,1:04:12.32,Default,,0000,0000,0000,,- Hey. - What?
+Dialogue: 0,1:04:12.45,1:04:15.91,Default,,0000,0000,0000,,{\fn黑体\fs24}谢谢你在餐馆替我说话{\r}\NThank you for what you did back at the restaurant.
+Dialogue: 0,1:04:34.51,1:04:36.13,Default,,0000,0000,0000,,{\fn黑体\fs24}跟我约一次会{\r}\NGo on a date with me.
+Dialogue: 0,1:04:37.28,1:04:39.07,Default,,0000,0000,0000,,{\fn黑体\fs24}你吃了太多药了{\r}\NYou're heavily sedated.
+Dialogue: 0,1:04:39.21,1:04:42.70,Default,,0000,0000,0000,,{\fn黑体\fs24}来嘛，跟我约一次会{\r}\NCome on, it's... it's one date. Just do it.
+Dialogue: 0,1:04:42.85,1:04:45.78,Default,,0000,0000,0000,,{\fn黑体\fs24}为什么？让我化浓妆装淑女？{\r}\NWhy? So l can wear makeup and act perfect all night?
+Dialogue: 0,1:04:45.92,1:04:47.41,Default,,0000,0000,0000,,{\fn黑体\fs24}对{\r}\NYeah.
+Dialogue: 0,1:04:47.55,1:04:49.85,Default,,0000,0000,0000,,{\fn黑体\fs24}我开车接你，我们可以聊{\r}\Nl'll pick you up, and we can talk about our favorite books
+Dialogue: 0,1:04:49.99,1:04:54.39,Default,,0000,0000,0000,,{\fn黑体\fs24}我们最爱看的书和电视节目{\r}\Nand our favorite TV shows.
+Dialogue: 0,1:04:54.53,1:04:57.05,Default,,0000,0000,0000,,{\fn黑体\fs24}我会买单 你可以隔着{\r}\Nl'll pay for everything, and you can reward me
+Dialogue: 0,1:04:57.20,1:05:00.00,Default,,0000,0000,0000,,{\fn黑体\fs24}牛仔裤磨蹭我的老二{\r}\Nwith an over-the-jeans cock rub.
+Dialogue: 0,1:05:01.13,1:05:02.40,Default,,0000,0000,0000,,{\fn黑体\fs24}就像真的约会{\r}\NLike a real date.
+Dialogue: 0,1:05:02.54,1:05:05.94,Default,,0000,0000,0000,,{\fn黑体\fs24}你真的想要这样？ 这个星期五{\r}\N- ls that really what you want? - This Friday.
+Dialogue: 0,1:05:06.81,1:05:09.91,Default,,0000,0000,0000,,{\fn黑体\fs24}星期五是情人节！ 不行！{\r}\NThis Friday is Valentine's Day. - Yeah. - No.
+Dialogue: 0,1:05:10.04,1:05:12.34,Default,,0000,0000,0000,,{\fn黑体\fs24}不然就家里蹲会有心形气球{\r}\NGo big or go home. There'll be hearts,
+Dialogue: 0,1:05:12.48,1:05:15.07,Default,,0000,0000,0000,,{\fn黑体\fs24}也许会有鲜花{\r}\Nand maybe some flowers.
+Dialogue: 0,1:05:18.52,1:05:19.68,Default,,0000,0000,0000,,{\fn黑体\fs24}一次约会{\r}\NOne date.
+Dialogue: 0,1:05:23.72,1:05:25.32,Default,,0000,0000,0000,,{\fn黑体\fs24}好吧{\r}\NFine.
+Dialogue: 0,1:05:25.46,1:05:27.32,Default,,0000,0000,0000,,{\fn黑体\fs24}什么？ 我跟你约一次会{\r}\N- What? - l'll go on a date with you.
+Dialogue: 0,1:05:28.13,1:05:31.39,Default,,0000,0000,0000,,{\fn黑体\fs24}什么？ 我跟你约一次会{\r}\N- What? - l'll go on a date with you.
+Dialogue: 0,1:05:31.53,1:05:34.13,Default,,0000,0000,0000,,{\fn黑体\fs24}我就知道你是这么说 但不准送花{\r}\N- l thought that's what you said. - But no flowers, OK?
+Dialogue: 0,1:05:54.29,1:05:56.12,Default,,0000,0000,0000,,{\fn黑体\fs24}你超美的{\r}\NYou look amazing.
+Dialogue: 0,1:05:56.26,1:05:58.66,Default,,0000,0000,0000,,{\fn黑体\fs24}谢谢你{\r}\NThank you.
+Dialogue: 0,1:06:02.36,1:06:04.99,Default,,0000,0000,0000,,{\fn黑体\fs24}你说不准送花 这很可爱{\r}\N- You said no flowers. - That's pretty cute.
+Dialogue: 0,1:06:05.13,1:06:06.96,Default,,0000,0000,0000,,{\fn黑体\fs24}这方面我很在行{\r}\NYeah, l'm pretty good at this.
+Dialogue: 0,1:06:08.47,1:06:10.49,Default,,0000,0000,0000,,{\fn黑体\fs24}谢谢你{\r}\NThank you.
+Dialogue: 0,1:06:10.64,1:06:15.01,Default,,0000,0000,0000,,{\fn黑体\fs24}我今天很累，所以… 我只想要…{\r}\Nl've had a really tough day, so, l just won't...
+Dialogue: 0,1:06:15.14,1:06:17.77,Default,,0000,0000,0000,,{\fn黑体\fs24}我保证会愈来愈赞{\r}\Nl promise. lt's about to get better.
+Dialogue: 0,1:06:31.22,1:06:34.59,Default,,0000,0000,0000,,{\fn黑体\fs24}我替你做了情人节卡片 什么？{\r}\N- l made you a Valentine's Day card. - What?
+Dialogue: 0,1:06:37.16,1:06:39.10,Default,,0000,0000,0000,,{\fn黑体\fs24}太完美了{\r}\Nlt's perfect.
+Dialogue: 0,1:06:39.23,1:06:42.69,Default,,0000,0000,0000,,{\fn黑体\fs24}你能念给我听吗？{\r}\NCan you read it for me? ls that weird?
+Dialogue: 0,1:06:44.57,1:06:48.53,Default,,0000,0000,0000,,{\fn黑体\fs24}你让我心室过早收缩{\r}\N''You give me premature ventricular contractions.''
+Dialogue: 0,1:06:49.91,1:06:52.94,Default,,0000,0000,0000,,{\fn黑体\fs24}那是好事吗？ 你让我的心小鹿乱撞{\r}\N- l'm assuming that's a good thing? - You make my heart skip a beat.
+Dialogue: 0,1:06:55.42,1:06:57.85,Default,,0000,0000,0000,,{\fn黑体\fs24}别笑我{\r}\N- Don't make fun of me. - Wow.
+Dialogue: 0,1:06:58.72,1:07:00.85,Default,,0000,0000,0000,,{\fn黑体\fs24}你准备好了吗？ 好了{\r}\N- So, you ready for tonight? - Yeah.
+Dialogue: 0,1:07:02.02,1:07:03.22,Default,,0000,0000,0000,,{\fn黑体\fs24}我很高兴见到你{\r}\Nl'm glad to see you.
+Dialogue: 0,1:07:06.29,1:07:08.78,Default,,0000,0000,0000,,{\fn黑体\fs24}你兴奋吗？ 兴奋{\r}\N- Are you excited? - Yeah.
+Dialogue: 0,1:07:09.90,1:07:11.06,Default,,0000,0000,0000,,{\fn黑体\fs24}大声一点！ 兴奋！{\r}\N- Louder! - Yeah!
+Dialogue: 0,1:07:11.20,1:07:13.53,Default,,0000,0000,0000,,{\fn黑体\fs24}我超兴奋的！{\r}\N- Yeah! - So excited!
+Dialogue: 0,1:07:15.90,1:07:19.13,Default,,0000,0000,0000,,{\fn黑体\fs24}这是行程表 你做了行程表？{\r}\N- Here's our itinerary. - You made me an itinerary?
+Dialogue: 0,1:07:19.27,1:07:22.14,Default,,0000,0000,0000,,{\fn黑体\fs24}很多事要做，要弥补很多时间{\r}\NYeah, we got a lot to do. We got to make up for lost time.
+Dialogue: 0,1:07:23.41,1:07:25.04,Default,,0000,0000,0000,,{\fn黑体\fs24}谷歌地图，水哦{\r}\NGoogle Maps. Nice.
+Dialogue: 0,1:07:25.85,1:07:28.68,Default,,0000,0000,0000,,{\fn黑体\fs24}好吧，我要说实话{\r}\NOK, full disclosure:
+Dialogue: 0,1:07:28.82,1:07:30.98,Default,,0000,0000,0000,,{\fn黑体\fs24}我以前打过{\r}\Nl have played before,
+Dialogue: 0,1:07:31.12,1:07:33.42,Default,,0000,0000,0000,,{\fn黑体\fs24}而且打得不错{\r}\Nand l might be kind of good.
+Dialogue: 0,1:07:33.55,1:07:35.08,Default,,0000,0000,0000,,{\fn黑体\fs24}好漂亮哦 是很漂亮{\r}\N- This is pretty. - lt is pretty.
+Dialogue: 0,1:07:35.22,1:07:37.71,Default,,0000,0000,0000,,{\fn黑体\fs24}而且很好玩{\r}\N- But this... it's just gonna be fun. - OK.
+Dialogue: 0,1:07:38.26,1:07:39.45,Default,,0000,0000,0000,,{\fn黑体\fs24}女士优先{\r}\NLadies first.
+Dialogue: 0,1:07:40.23,1:07:43.99,Default,,0000,0000,0000,,{\fn黑体\fs24}好吧，别期望太高{\r}\NOK. Don't expect too much.
+Dialogue: 0,1:07:48.17,1:07:49.47,Default,,0000,0000,0000,,{\fn黑体\fs24}轻松自然{\r}\NNice and easy.
+Dialogue: 0,1:07:57.81,1:08:01.44,Default,,0000,0000,0000,,{\fn黑体\fs24}好耶，一杆进洞{\r}\N- Yeah. l stuck it in. - Wow.
+Dialogue: 0,1:08:01.58,1:08:03.88,Default,,0000,0000,0000,,{\fn黑体\fs24}这一洞有点难度{\r}\NWell, this hole's a little bit more complicated.
+Dialogue: 0,1:08:04.02,1:08:07.65,Default,,0000,0000,0000,,{\fn黑体\fs24}你得打kiss球，几何要很好{\r}\NYou're gonna have to bank it off there. lt's all about the geometry.
+Dialogue: 0,1:08:07.79,1:08:09.19,Default,,0000,0000,0000,,{\fn黑体\fs24}我是个医生{\r}\Nl'm a doctor.
+Dialogue: 0,1:08:22.80,1:08:24.57,Default,,0000,0000,0000,,{\fn黑体\fs24}又是一杆进洞！{\r}\NThat hole is my bitch!
+Dialogue: 0,1:08:38.82,1:08:41.55,Default,,0000,0000,0000,,Yes! Yes!
+Dialogue: 0,1:08:41.69,1:08:43.28,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,1:08:44.99,1:08:46.15,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,1:08:46.83,1:08:48.82,Default,,0000,0000,0000,,{\fn黑体\fs24}我没有自己的奶昔？{\r}\Nl don't get my own milkshake?
+Dialogue: 0,1:08:48.96,1:08:52.92,Default,,0000,0000,0000,,{\fn黑体\fs24}一杯奶昔，两根吸管 这才算约会{\r}\NNo, it's one milkshake, two straws. That's what makes it special.
+Dialogue: 0,1:08:53.07,1:08:54.86,Default,,0000,0000,0000,,{\fn黑体\fs24}可是我超饿的耶{\r}\NBut l'm so hungry.
+Dialogue: 0,1:08:55.00,1:08:57.73,Default,,0000,0000,0000,,{\fn黑体\fs24}待会再吃饭，你没看行程表？{\r}\NWe have dinner later. Didn't you read the itinerary?
+Dialogue: 0,1:08:57.87,1:09:00.57,Default,,0000,0000,0000,,{\fn黑体\fs24}你的嘴巴比较大耶{\r}\NYou're gonna get more shake, you have a bigger mouth.
+Dialogue: 0,1:09:00.71,1:09:03.51,Default,,0000,0000,0000,,{\fn黑体\fs24}你的嘴巴也不小 简单{\r}\NYou have a pretty big mouth. Oh, easy.
+Dialogue: 0,1:09:08.52,1:09:10.95,Default,,0000,0000,0000,,{\fn黑体\fs24}这算作弊{\r}\NHey! That's cheating.
+Dialogue: 0,1:09:18.42,1:09:19.69,Default,,0000,0000,0000,,{\fn黑体\fs24}抱歉{\r}\NSorry.
+Dialogue: 0,1:09:21.13,1:09:22.36,Default,,0000,0000,0000,,{\fn黑体\fs24}谢了{\r}\NThanks.
+Dialogue: 0,1:09:23.46,1:09:24.83,Default,,0000,0000,0000,,{\fn黑体\fs24}我真的很喜欢你{\r}\Nl really like you.
+Dialogue: 0,1:09:24.96,1:09:26.76,Default,,0000,0000,0000,,{\fn黑体\fs24}我也真的很喜欢你{\r}\Nl really like you.
+Dialogue: 0,1:09:27.40,1:09:29.13,Default,,0000,0000,0000,,{\fn黑体\fs24}我真的觉得…{\r}\Nl actually think that...
+Dialogue: 0,1:09:32.97,1:09:34.53,Default,,0000,0000,0000,,{\fn黑体\fs24}我爱上了…{\r}\N...l'm falling...
+Dialogue: 0,1:09:39.91,1:09:41.54,Default,,0000,0000,0000,,{\fn黑体\fs24}你不如喝完吧{\r}\NYou can have the rest.
+Dialogue: 0,1:10:09.28,1:10:11.64,Default,,0000,0000,0000,,{\fn黑体\fs24}他们要怎么换灯泡呀？{\r}\NHow do they change these lightbulbs?
+Dialogue: 0,1:10:11.78,1:10:13.41,Default,,0000,0000,0000,,{\fn黑体\fs24}一定是场恶梦{\r}\NMust be a nightmare.
+Dialogue: 0,1:10:13.55,1:10:17.41,Default,,0000,0000,0000,,{\fn黑体\fs24}亚当？ 你要穿大衣吗？{\r}\N- Adam? - Oh, here. You want your coat?
+Dialogue: 0,1:10:17.55,1:10:19.21,Default,,0000,0000,0000,,{\fn黑体\fs24}你冷吗？{\r}\N- l can take that. - You cold?
+Dialogue: 0,1:10:23.06,1:10:26.51,Default,,0000,0000,0000,,{\fn黑体\fs24}我办不到，请你载我回医院{\r}\Nl can't do this. Could you please take me back to work?
+Dialogue: 0,1:10:26.66,1:10:29.22,Default,,0000,0000,0000,,{\fn黑体\fs24}不是这样的{\r}\NNo. No, that's not the deal.
+Dialogue: 0,1:10:29.36,1:10:32.02,Default,,0000,0000,0000,,{\fn黑体\fs24}我们说好 我们一边散步{\r}\NThe deal is that we're gonna walk around,
+Dialogue: 0,1:10:32.17,1:10:33.79,Default,,0000,0000,0000,,{\fn黑体\fs24}一边看灯光{\r}\Nand we're gonna look at the twinkly lights, and then...
+Dialogue: 0,1:10:34.70,1:10:36.69,Default,,0000,0000,0000,,{\fn黑体\fs24}你干嘛要搞砸一切？{\r}\NWhy are you messing everything up?
+Dialogue: 0,1:10:37.44,1:10:39.87,Default,,0000,0000,0000,,{\fn黑体\fs24}一般人都这么做{\r}\NThat's what people do, Emma.
+Dialogue: 0,1:10:40.01,1:10:42.03,Default,,0000,0000,0000,,{\fn黑体\fs24}他们互相送花，一起逛美术馆{\r}\NThey buy each other flowers, and they go to museums...
+Dialogue: 0,1:10:42.18,1:10:45.30,Default,,0000,0000,0000,,{\fn黑体\fs24}你了解我 我不信那一套{\r}\NYou know me. This stuff freaks me out.
+Dialogue: 0,1:10:45.45,1:10:46.91,Default,,0000,0000,0000,,{\fn黑体\fs24}那全是假的{\r}\Nlt's fake.
+Dialogue: 0,1:10:48.51,1:10:51.85,Default,,0000,0000,0000,,{\fn黑体\fs24}我们本来那样有什么不对？ 很好呀，我们不必吵架{\r}\NWhat's wrong with what we're doing? lt's working. We don't have to fight...
+Dialogue: 0,1:10:51.99,1:10:54.35,Default,,0000,0000,0000,,{\fn黑体\fs24}也许我想吵架 我不想{\r}\N- Maybe l want to fight. - Yeah, well, l don't.
+Dialogue: 0,1:10:54.49,1:10:57.58,Default,,0000,0000,0000,,{\fn黑体\fs24}你想怎样？对谁都没感觉？{\r}\NWhat are you gonna do? You're never gonna feel anything?
+Dialogue: 0,1:10:57.72,1:10:59.16,Default,,0000,0000,0000,,{\fn黑体\fs24}你要怎么做得到？{\r}\NHow you gonna do that?
+Dialogue: 0,1:10:59.29,1:11:01.85,Default,,0000,0000,0000,,{\fn黑体\fs24}不知道，我会想办法{\r}\Nl don't know. l'll figure it out.
+Dialogue: 0,1:11:05.60,1:11:07.96,Default,,0000,0000,0000,,{\fn黑体\fs24}你脑袋有问题 是吗？{\r}\N- You're so messed up. - Yeah?
+Dialogue: 0,1:11:08.10,1:11:12.63,Default,,0000,0000,0000,,{\fn黑体\fs24}我不需要你来照顾我 我会自己照顾自己{\r}\Nl don't need you to take care of me. l take care of myself.
+Dialogue: 0,1:11:13.34,1:11:15.53,Default,,0000,0000,0000,,{\fn黑体\fs24}我一向都这样{\r}\NThat's what l do.
+Dialogue: 0,1:11:15.68,1:11:20.58,Default,,0000,0000,0000,,{\fn黑体\fs24}你何不找一个不会伤害你的女生{\r}\NWhy don't you go find some other girl who's not gonna hurt you?
+Dialogue: 0,1:11:22.75,1:11:25.12,Default,,0000,0000,0000,,{\fn黑体\fs24}因为我爱你{\r}\NBecause l love you.
+Dialogue: 0,1:11:25.25,1:11:27.55,Default,,0000,0000,0000,,{\fn黑体\fs24}太明显了，我超爱你的{\r}\Nlt's obvious. l completely love you. There.
+Dialogue: 0,1:11:27.69,1:11:29.55,Default,,0000,0000,0000,,{\fn黑体\fs24}你是个孬种{\r}\NOh, yeah. You're such a wimp.
+Dialogue: 0,1:11:29.69,1:11:31.59,Default,,0000,0000,0000,,{\fn黑体\fs24}才不是！ 那就跟我在一起！{\r}\N- l am not a wimp. - Well, then be with me!
+Dialogue: 0,1:11:32.29,1:11:34.85,Default,,0000,0000,0000,,{\fn黑体\fs24}你要跟我打架？{\r}\NOK, you're gonna fight me. Yeah? ls that what you're gonna...?
+Dialogue: 0,1:11:34.99,1:11:39.45,Default,,0000,0000,0000,,{\fn黑体\fs24}你打不过我，你是个侏儒 你就像“魔戒”的咕噜{\r}\NYou can't fight me, you're miniature. You're like a girl Rick Moranis.
+Dialogue: 0,1:11:40.87,1:11:42.60,Default,,0000,0000,0000,,{\fn黑体\fs24}你打起架来像只仓鼠{\r}\NYou fight like a hamster.
+Dialogue: 0,1:11:42.74,1:11:45.07,Default,,0000,0000,0000,,Hey. Hey!
+Dialogue: 0,1:11:45.20,1:11:49.61,Default,,0000,0000,0000,,{\fn黑体\fs24}对不起！你们不能在这里打架{\r}\NExcuse me! Excuse me! You can't do that here.
+Dialogue: 0,1:11:49.74,1:11:52.51,Default,,0000,0000,0000,,{\fn黑体\fs24}好吧，对不起{\r}\NOK. l'm sorry.
+Dialogue: 0,1:12:00.32,1:12:01.81,Default,,0000,0000,0000,,{\fn黑体\fs24}够了，你们出去！{\r}\NAll right, you're out!
+Dialogue: 0,1:12:18.64,1:12:20.40,Default,,0000,0000,0000,,{\fn黑体\fs24}我不能这样继续下去{\r}\Nl can't keep doing this.
+Dialogue: 0,1:12:25.58,1:12:27.60,Default,,0000,0000,0000,,{\fn黑体\fs24}我不会再见你{\r}\Nl'm not gonna see you again.
+Dialogue: 0,1:12:29.12,1:12:30.45,Default,,0000,0000,0000,,{\fn黑体\fs24}我知道{\r}\Nl know.
+Dialogue: 0,1:12:31.52,1:12:33.18,Default,,0000,0000,0000,,{\fn黑体\fs24}这样比较好{\r}\NThat makes sense.
+Dialogue: 0,1:12:40.53,1:12:42.39,Default,,0000,0000,0000,,{\fn黑体\fs24}再见{\r}\NBye.
+Dialogue: 0,1:13:12.93,1:13:16.88,Default,,0000,0000,0000,,{\fn黑体\fs24}你还好吧？ 我很好，谢了{\r}\N- Hey, you OK? - Yeah. l'm fine, thanks.
+Dialogue: 0,1:13:17.03,1:13:21.06,Default,,0000,0000,0000,,{\fn黑体\fs24}一起去喝杯咖啡？ 不，谢了{\r}\N- You wanna go get a coffee? - No, thanks.
+Dialogue: 0,1:13:36.58,1:13:38.55,Default,,0000,0000,0000,,{\fn黑体\fs24}你的厨艺真的很好耶{\r}\NYou're a really good cook.
+Dialogue: 0,1:13:38.68,1:13:40.24,Default,,0000,0000,0000,,{\fn黑体\fs24}我只是乱煮一通{\r}\NOh, this? l just threw it together.
+Dialogue: 0,1:13:41.75,1:13:42.91,Default,,0000,0000,0000,,{\fn黑体\fs24}该死{\r}\NOh, shit.
+Dialogue: 0,1:13:43.86,1:13:44.85,Default,,0000,0000,0000,,{\fn黑体\fs24}嗨，亚当！{\r}\NOh, hey, Adam!
+Dialogue: 0,1:13:46.99,1:13:49.22,Default,,0000,0000,0000,,{\fn黑体\fs24}亚当！你好！{\r}\NAdam. Hello!
+Dialogue: 0,1:13:50.76,1:13:51.99,Default,,0000,0000,0000,,{\fn黑体\fs24}露西{\r}\NLucy.
+Dialogue: 0,1:13:52.13,1:13:53.76,Default,,0000,0000,0000,,{\fn黑体\fs24}我们在吃烛光晚餐{\r}\NYeah, we were just having a romantic night
+Dialogue: 0,1:13:53.90,1:13:55.93,Default,,0000,0000,0000,,{\fn黑体\fs24}你同事就跑来{\r}\Nwhen your friend stopped by from work.
+Dialogue: 0,1:13:56.07,1:14:00.41,Default,,0000,0000,0000,,{\fn黑体\fs24}情人节我通常都在工作 但是这么过很好玩{\r}\NUsually l spend Valentine's Day catching up on work and stuff, but this is like, this is really fun.
+Dialogue: 0,1:14:01.44,1:14:02.87,Default,,0000,0000,0000,,{\fn黑体\fs24}你过得怎么样？{\r}\NHow was your night?
+Dialogue: 0,1:14:03.88,1:14:05.28,Default,,0000,0000,0000,,{\fn黑体\fs24}不怎么样{\r}\NYeah, it wasn't.
+Dialogue: 0,1:14:10.02,1:14:11.78,Default,,0000,0000,0000,,{\fn黑体\fs24}你要到我房间吗？{\r}\NDo you want to go to my room?
+Dialogue: 0,1:14:11.92,1:14:14.05,Default,,0000,0000,0000,,{\fn黑体\fs24}好，要，太好了{\r}\NYes, l do. Perfect.
+Dialogue: 0,1:14:14.69,1:14:16.45,Default,,0000,0000,0000,,{\fn黑体\fs24}抱歉，两位，对不起{\r}\NSorry, gotta go. So sorry.
+Dialogue: 0,1:14:16.59,1:14:19.42,Default,,0000,0000,0000,,{\fn黑体\fs24}我需要餐巾，借我用一下{\r}\NOh, you know what? l need a napkin. Can l just borrow this one?
+Dialogue: 0,1:14:19.56,1:14:23.52,Default,,0000,0000,0000,,{\fn黑体\fs24}抱歉…谢谢你，你很美{\r}\NSorry. Just... quick. Thank you. Beautiful.
+Dialogue: 0,1:14:23.66,1:14:25.63,Default,,0000,0000,0000,,{\fn黑体\fs24}我能跟你聊天超兴奋的{\r}\NSo, l'm really excited to talk to you.
+Dialogue: 0,1:14:25.77,1:14:29.60,Default,,0000,0000,0000,,{\fn黑体\fs24}我从扣缴凭单拿到你的住址{\r}\Nl hope it's OK that l got your address from the W-4.
+Dialogue: 0,1:14:29.74,1:14:30.93,Default,,0000,0000,0000,,{\fn黑体\fs24}有够变态吧？{\r}\N- ls that weird? OK. - No.
+Dialogue: 0,1:14:34.81,1:14:37.67,Default,,0000,0000,0000,,{\fn黑体\fs24}这地方好酷哦{\r}\NOh, wow. This is cool. This is a cool space.
+Dialogue: 0,1:14:37.81,1:14:39.04,Default,,0000,0000,0000,,{\fn黑体\fs24}谢了 很温馨{\r}\N- Thanks. - Cozy.
+Dialogue: 0,1:14:39.18,1:14:41.70,Default,,0000,0000,0000,,{\fn黑体\fs24}我不知道… 抱歉{\r}\Nl didn't know that... l'm sorry about everything.
+Dialogue: 0,1:14:41.85,1:14:44.04,Default,,0000,0000,0000,,{\fn黑体\fs24}你在道歉？你疯了吗？{\r}\NWhat? Oh, my God. You're sorry? Are you crazy?
+Dialogue: 0,1:14:44.18,1:14:47.58,Default,,0000,0000,0000,,{\fn黑体\fs24}我才该道歉，我不请自来耶{\r}\NNo, l'm sorry. l'm the one who's come to your house uninvited.
+Dialogue: 0,1:14:47.72,1:14:50.52,Default,,0000,0000,0000,,{\fn黑体\fs24}超专业的，但我看了剧本{\r}\NSo unprofessional. But l read your script.
+Dialogue: 0,1:14:51.26,1:14:54.25,Default,,0000,0000,0000,,{\fn黑体\fs24}我真的很喜欢 真的吗？{\r}\N- And l love it. l really do. - Really?
+Dialogue: 0,1:14:54.39,1:14:56.29,Default,,0000,0000,0000,,{\fn黑体\fs24}老实说，我知道你会创作{\r}\NYeah, and honestly, like, l didn't think that you could write,
+Dialogue: 0,1:14:56.43,1:14:58.92,Default,,0000,0000,0000,,{\fn黑体\fs24}你太帅了{\r}\Nmainly 'cause you're just... so beautiful.
+Dialogue: 0,1:14:59.07,1:15:03.83,Default,,0000,0000,0000,,{\fn黑体\fs24}老是让我分心 谢谢你…看我的剧本{\r}\N- Seriously, it's distracting for me. - Thank you. For reading it.
+Dialogue: 0,1:15:03.97,1:15:05.10,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,1:15:05.24,1:15:07.76,Default,,0000,0000,0000,,{\fn黑体\fs24}只是青少年在唱歌而已{\r}\Nl mean, it's just teenagers singing about homework.
+Dialogue: 0,1:15:07.91,1:15:09.93,Default,,0000,0000,0000,,{\fn黑体\fs24}对，但是我看了以后就想{\r}\NYeah, yeah, but no, l read it and l was like,
+Dialogue: 0,1:15:10.08,1:15:12.84,Default,,0000,0000,0000,,{\fn黑体\fs24}“我要到他家当面告诉他”{\r}\N''God, l want to, like, drive over there and tell him in person.''
+Dialogue: 0,1:15:12.98,1:15:14.71,Default,,0000,0000,0000,,{\fn黑体\fs24}于是我就来了{\r}\NSo l did. l got in my car, and here l am.
+Dialogue: 0,1:15:14.85,1:15:19.31,Default,,0000,0000,0000,,{\fn黑体\fs24}我真的说出来，听起来是很疯狂{\r}\NYou know, it's just... l know, it sounds crazy, 'cause now that l'm saying it out loud, it does sound crazy.
+Dialogue: 0,1:15:19.45,1:15:22.32,Default,,0000,0000,0000,,{\fn黑体\fs24}并不疯狂，谢谢你看剧本{\r}\Nlt's not crazy. l mean, thank you for reading it.
+Dialogue: 0,1:15:22.46,1:15:24.36,Default,,0000,0000,0000,,{\fn黑体\fs24}我寄给了梅根{\r}\NNo, no, no. l e-mailed it to Megan, and...
+Dialogue: 0,1:15:24.49,1:15:25.75,Default,,0000,0000,0000,,{\fn黑体\fs24}真的假的？ 真的{\r}\N- No shit? - Yeah.
+Dialogue: 0,1:15:25.89,1:15:28.86,Default,,0000,0000,0000,,{\fn黑体\fs24}等着看她会怎么说{\r}\N- And we'll see what she says. - Wow.
+Dialogue: 0,1:15:29.00,1:15:30.49,Default,,0000,0000,0000,,{\fn黑体\fs24}我说她不喜欢就是疯子{\r}\NYeah, l told her she'd be crazy to not like it.
+Dialogue: 0,1:15:30.63,1:15:33.83,Default,,0000,0000,0000,,{\fn黑体\fs24}但她本来就是疯子，谁晓得？{\r}\NBut then again, she is a functioning psychotic, so it's like, who knows?
+Dialogue: 0,1:15:33.97,1:15:36.40,Default,,0000,0000,0000,,{\fn黑体\fs24}这一季结束前多出一集{\r}\NBut there is this extra episode right before the break.
+Dialogue: 0,1:15:36.54,1:15:37.94,Default,,0000,0000,0000,,{\fn黑体\fs24}他们要另请编剧…{\r}\NAnd they are gonna hire a freelancer, so...
+Dialogue: 0,1:15:38.07,1:15:40.44,Default,,0000,0000,0000,,{\fn黑体\fs24}我太多话了{\r}\Nl feel like l'm talking too much about this, but...
+Dialogue: 0,1:15:40.57,1:15:42.51,Default,,0000,0000,0000,,{\fn黑体\fs24}你想不想…？ 什么？{\r}\N- Hey, do you wanna...? - What?
+Dialogue: 0,1:15:42.64,1:15:44.08,Default,,0000,0000,0000,,{\fn黑体\fs24}你想怎样？{\r}\NYeah, sorry. What were you gonna...?
+Dialogue: 0,1:15:45.55,1:15:46.91,Default,,0000,0000,0000,,{\fn黑体\fs24}待久一点{\r}\NJust to hang out.
+Dialogue: 0,1:15:48.01,1:15:50.54,Default,,0000,0000,0000,,{\fn黑体\fs24}太疯狂了，我在猜你想说什么{\r}\NOh. That's crazy. l was like, ''What's he gonna say?''
+Dialogue: 0,1:15:50.68,1:15:53.31,Default,,0000,0000,0000,,{\fn黑体\fs24}结果你这么说，跟我猜的不一样{\r}\Nand then you said that. lt's not what l thought you were gonna say.
+Dialogue: 0,1:15:57.29,1:15:59.38,Default,,0000,0000,0000,,{\fn黑体\fs24}那里有张椅子{\r}\NThat is a chair.
+Dialogue: 0,1:16:02.09,1:16:03.46,Default,,0000,0000,0000,,{\fn黑体\fs24}靠，好呀{\r}\NFuck, yeah.
+Dialogue: 0,1:16:04.70,1:16:06.06,Default,,0000,0000,0000,,{\fn黑体\fs24}我是不是太常骂脏话？{\r}\NDo l curse too much?
+Dialogue: 0,1:16:06.87,1:16:08.49,Default,,0000,0000,0000,,{\fn黑体\fs24}靠，不会呀{\r}\NFuck, no.
+Dialogue: 0,1:16:09.54,1:16:11.30,Default,,0000,0000,0000,,{\fn黑体\fs24}那就好{\r}
+Dialogue: 0,1:16:16.38,1:16:18.67,Default,,0000,0000,0000,,{\fn黑体\fs24}(6星期后){\r}
+Dialogue: 0,1:16:24.28,1:16:27.91,Default,,0000,0000,0000,,Dr. Anseed, three-two-five-one. Dr. Anseed...
+Dialogue: 0,1:16:28.05,1:16:29.78,Default,,0000,0000,0000,,- Hey. - ...three-two-five-one.
+Dialogue: 0,1:16:32.86,1:16:34.52,Default,,0000,0000,0000,,{\fn黑体\fs24}我能说句话吗？{\r}\NCan l say something?
+Dialogue: 0,1:16:34.66,1:16:36.46,Default,,0000,0000,0000,,{\fn黑体\fs24}别误会{\r}\NAnd don't take this the wrong way,
+Dialogue: 0,1:16:36.60,1:16:38.76,Default,,0000,0000,0000,,{\fn黑体\fs24}因为我永远是你朋友{\r}\Nbecause you know l'll be your friend, no matter what.
+Dialogue: 0,1:16:38.90,1:16:41.87,Default,,0000,0000,0000,,{\fn黑体\fs24}但是你最近都超沮丧的{\r}\Nlt's just, you've been kind of depressing to be around lately,
+Dialogue: 0,1:16:42.00,1:16:46.34,Default,,0000,0000,0000,,{\fn黑体\fs24}我可能会尽量避开你{\r}\Nand l might start avoiding you in the hallway, that's all.
+Dialogue: 0,1:16:46.47,1:16:48.30,Default,,0000,0000,0000,,{\fn黑体\fs24}我只想让你知道{\r}\NJust thought you should know.
+Dialogue: 0,1:16:52.85,1:16:54.61,Default,,0000,0000,0000,,{\fn黑体\fs24}我们会错过婚宴试菜{\r}\NSo, we won't be there for the rehearsal dinner,
+Dialogue: 0,1:16:54.75,1:16:57.18,Default,,0000,0000,0000,,{\fn黑体\fs24}不过礼拜六一定会参加婚礼{\r}\Nbut we'll definitely be there for the wedding on Saturday.
+Dialogue: 0,1:16:57.32,1:16:58.48,Default,,0000,0000,0000,,{\fn黑体\fs24}你今晚要做什么？{\r}\NWell, what are you doing tonight?
+Dialogue: 0,1:16:58.62,1:17:02.68,Default,,0000,0000,0000,,{\fn黑体\fs24}亚当写的那一集今晚要录影 伊莱想去看{\r}\NAdam's episode is taping tonight, so Eli wanted to go.
+Dialogue: 0,1:17:02.82,1:17:05.95,Default,,0000,0000,0000,,{\fn黑体\fs24}我不必去啦 不，去吧，玩得开心{\r}\N- l don't have to go. - No. No, go. Have fun, really.
+Dialogue: 0,1:17:06.09,1:17:07.49,Default,,0000,0000,0000,,{\fn黑体\fs24}所以…？{\r}\NDoctors.
+Dialogue: 0,1:17:10.50,1:17:11.49,Default,,0000,0000,0000,,So?
+Dialogue: 0,1:17:11.63,1:17:13.43,Default,,0000,0000,0000,,{\fn黑体\fs24}没关系，星期六见{\r}\NDon't worry about it. l'll see you Saturday.
+Dialogue: 0,1:17:27.18,1:17:29.91,Default,,0000,0000,0000,,{\fn黑体\fs24}他是很棒的情人 天啊{\r}\N- He's an amazing lover. - Oh, boy.
+Dialogue: 0,1:17:30.72,1:17:32.24,Default,,0000,0000,0000,,{\fn黑体\fs24}所以…{\r}\NThat's...
+Dialogue: 0,1:17:32.39,1:17:34.32,Default,,0000,0000,0000,,{\fn黑体\fs24}他的绰号才是骨头{\r}\N...why they call him Bones.
+Dialogue: 0,1:17:38.99,1:17:40.75,Default,,0000,0000,0000,,{\fn黑体\fs24}我有时候会担心你{\r}\NYou know, l worry about you sometimes.
+Dialogue: 0,1:17:41.29,1:17:43.99,Default,,0000,0000,0000,,{\fn黑体\fs24}为什么？因为我没有男伴？{\r}\NWhy? ls this about me not having a date?
+Dialogue: 0,1:17:44.13,1:17:49.00,Default,,0000,0000,0000,,{\fn黑体\fs24}不，我知道你能独立自主 也知道你不会有事{\r}\NNo, no. l know you can dance alone, and l know that you'll be fine.
+Dialogue: 0,1:17:49.14,1:17:51.37,Default,,0000,0000,0000,,{\fn黑体\fs24}你一向都没事{\r}\NYou're always fine.
+Dialogue: 0,1:17:51.50,1:17:54.94,Default,,0000,0000,0000,,{\fn黑体\fs24}所以咧？ 我不知道{\r}\N- So? - l don't know.
+Dialogue: 0,1:17:57.04,1:18:00.24,Default,,0000,0000,0000,,{\fn黑体\fs24}你爸去世以后 我不忍心看你那么痛苦{\r}\NWhen we lost your father, l couldn't stand to see you in pain,
+Dialogue: 0,1:18:00.38,1:18:04.58,Default,,0000,0000,0000,,{\fn黑体\fs24}我猜你应该知道{\r}\Nand... l think you knew that.
+Dialogue: 0,1:18:05.89,1:18:10.22,Default,,0000,0000,0000,,{\fn黑体\fs24}我想你是为了我学会坚强{\r}\NAnd l think that... you got good at being strong for me.
+Dialogue: 0,1:18:12.99,1:18:15.62,Default,,0000,0000,0000,,{\fn黑体\fs24}我只想告诉你，尽管伤心吧{\r}\NBut l'm telling you, be hurt.
+Dialogue: 0,1:18:15.76,1:18:17.73,Default,,0000,0000,0000,,{\fn黑体\fs24}我承受得了{\r}\Nl can take it.
+Dialogue: 0,1:18:20.83,1:18:22.80,Default,,0000,0000,0000,,{\fn黑体\fs24}这世界也承受得了{\r}\NThe world can take it.
+Dialogue: 0,1:18:27.84,1:18:28.97,Default,,0000,0000,0000,,{\fn黑体\fs24}好吧{\r}\NOK.
+Dialogue: 0,1:18:32.18,1:18:33.87,Default,,0000,0000,0000,,{\fn黑体\fs24}这里的风景很美{\r}\NVery pretty here.
+Dialogue: 0,1:18:54.63,1:18:57.33,Default,,0000,0000,0000,,{\fn黑体\fs24}你是我思念{\r}
+Dialogue: 0,1:18:57.47,1:18:59.73,Default,,0000,0000,0000,,{\fn黑体\fs24}和想在一起的人{\r}
+Dialogue: 0,1:19:00.67,1:19:04.04,Default,,0000,0000,0000,,{\fn黑体\fs24}每次你离去{\r}
+Dialogue: 0,1:19:04.18,1:19:06.41,Default,,0000,0000,0000,,{\fn黑体\fs24}我满脑子都是你{\r}
+Dialogue: 0,1:19:06.55,1:19:08.45,Default,,0000,0000,0000,,{\fn黑体\fs24}都是你{\r}
+Dialogue: 0,1:19:08.58,1:19:12.68,Default,,0000,0000,0000,,{\fn黑体\fs24}因为你是我的真爱{\r}
+Dialogue: 0,1:19:12.82,1:19:14.84,Default,,0000,0000,0000,,{\fn黑体\fs24}都是你{\r}
+Dialogue: 0,1:19:14.99,1:19:17.22,Default,,0000,0000,0000,,{\fn黑体\fs24}都是你{\r}
+Dialogue: 0,1:19:17.36,1:19:23.16,Default,,0000,0000,0000,,{\fn黑体\fs24}一直都是你{\r}
+Dialogue: 0,1:19:23.30,1:19:29.29,Default,,0000,0000,0000,,{\fn黑体\fs24}都是你{\r}
+Dialogue: 0,1:19:49.72,1:19:51.95,Default,,0000,0000,0000,,{\fn黑体\fs24}到夜店来玩，那里很热闹{\r}\NSo come by the bar. Great place.
+Dialogue: 0,1:19:52.09,1:19:54.03,Default,,0000,0000,0000,,{\fn黑体\fs24}带朋友来，我会罩你们{\r}\NBring your friends. l will take care of you.
+Dialogue: 0,1:19:54.16,1:19:56.63,Default,,0000,0000,0000,,{\fn黑体\fs24}我的名片，我是老板{\r}\NHere's my business card. l'm the owner. Me.
+Dialogue: 0,1:19:56.76,1:19:58.56,Default,,0000,0000,0000,,{\fn黑体\fs24}一定要来玩，好吗？{\r}\N- So make sure you come by. - Yeah.
+Dialogue: 0,1:19:58.70,1:20:03.13,Default,,0000,0000,0000,,{\fn黑体\fs24}干得好 是啊，干得好{\r}\NAll right? Hey. Great job. - Yeah, great job, man. - Really good, yeah.
+Dialogue: 0,1:20:03.27,1:20:06.07,Default,,0000,0000,0000,,{\fn黑体\fs24}你们喜欢？真的？{\r}\N- You guys liked it? Like really? - Yeah.
+Dialogue: 0,1:20:06.77,1:20:08.97,Default,,0000,0000,0000,,{\fn黑体\fs24}瓦勒斯哭了 不行吗{\r}\N- But Wallace cried. - So?
+Dialogue: 0,1:20:09.11,1:20:11.17,Default,,0000,0000,0000,,{\fn黑体\fs24}让我想起毕业舞会{\r}\Nlt reminded me of my senior prom.
+Dialogue: 0,1:20:11.31,1:20:14.25,Default,,0000,0000,0000,,{\fn黑体\fs24}我的舞伴在舞池替我口交{\r}\Nl got a hand job on the dance floor to ''Who Let The Dogs Out.''
+Dialogue: 0,1:20:15.61,1:20:18.85,Default,,0000,0000,0000,,{\fn黑体\fs24}抱歉，有好消息和坏消息{\r}\NHey. Sorry. OK, so there's good news, bad news.
+Dialogue: 0,1:20:18.98,1:20:21.35,Default,,0000,0000,0000,,{\fn黑体\fs24}坏消息是梅根醉到不行{\r}\NThe bad news is, Megan is remarkably drunk.
+Dialogue: 0,1:20:21.49,1:20:23.42,Default,,0000,0000,0000,,{\fn黑体\fs24}她想扯掉她的衬衫{\r}\NSeriously, she was, like, trying to take her shirt off.
+Dialogue: 0,1:20:23.56,1:20:26.02,Default,,0000,0000,0000,,{\fn黑体\fs24}好消息是她想让你当固定编剧{\r}\NBut the good news is, she wants to put you on staff.
+Dialogue: 0,1:20:26.89,1:20:28.26,Default,,0000,0000,0000,,{\fn黑体\fs24}真的吗？{\r}\N- Really? - So... Yeah.
+Dialogue: 0,1:20:28.39,1:20:30.19,Default,,0000,0000,0000,,{\fn黑体\fs24}棒呆了！{\r}\N- That's amazing. - Yeah, so she... Yeah.
+Dialogue: 0,1:20:30.33,1:20:32.32,Default,,0000,0000,0000,,{\fn黑体\fs24}谢谢你 你是正式的编剧了{\r}\N- Thank you. - So, you're a paid writer.
+Dialogue: 0,1:20:32.46,1:20:34.33,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,1:20:34.47,1:20:37.37,Default,,0000,0000,0000,,{\fn黑体\fs24}天啊，她要站上自助吧台{\r}\NOh, my God. She's getting on the buffet table? That makes...
+Dialogue: 0,1:20:37.50,1:20:38.99,Default,,0000,0000,0000,,Wow.
+Dialogue: 0,1:20:39.14,1:20:40.80,Default,,0000,0000,0000,,{\fn黑体\fs24}你干嘛不试着跟她炒饭？{\r}\NWhy are you not trying to fuck that girl?
+Dialogue: 0,1:20:40.94,1:20:42.00,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,1:20:42.14,1:20:45.58,Default,,0000,0000,0000,,{\fn黑体\fs24}她超辣的，就像火辣的科学家{\r}\NYeah, she's crazy hot, Adam. She's like a sexy scientist.
+Dialogue: 0,1:20:45.71,1:20:48.68,Default,,0000,0000,0000,,{\fn黑体\fs24}你得Man一点放马过去{\r}\NYou need to go over there, man up, you need to go for it.
+Dialogue: 0,1:20:48.81,1:20:51.08,Default,,0000,0000,0000,,{\fn黑体\fs24}我们就看你的了，Man一点！{\r}\NWe're counting on you here, man. Man up, man!
+Dialogue: 0,1:20:51.22,1:20:54.45,Default,,0000,0000,0000,,{\fn黑体\fs24}去吧！Man一点！ Man一点？{\r}\N- Go for it! Man up! - You keep saying ''Man up.''
+Dialogue: 0,1:20:54.59,1:20:56.99,Default,,0000,0000,0000,,{\fn黑体\fs24}你刚才哭了耶 我很感动嘛{\r}\N- You cried during the show. - l liked the show.
+Dialogue: 0,1:20:58.59,1:21:00.02,Default,,0000,0000,0000,,{\fn黑体\fs24}你吃过蛋糕吗？{\r}
+Dialogue: 0,1:21:00.16,1:21:03.65,Default,,0000,0000,0000,,{\fn黑体\fs24}吃过，还…还好啦{\r}\NYeah. - lt was very good. - lt was OK.
+Dialogue: 0,1:21:03.80,1:21:05.89,Default,,0000,0000,0000,,{\fn黑体\fs24}我得…等一下{\r}\NYou know, l have to... One minute.
+Dialogue: 0,1:21:10.24,1:21:11.86,Default,,0000,0000,0000,,{\fn黑体\fs24}凯蒂？{\r}\NKatie?
+Dialogue: 0,1:21:12.00,1:21:14.47,Default,,0000,0000,0000,,{\fn黑体\fs24}伴娘有大麻{\r}\NThe bridesmaids had pot.
+Dialogue: 0,1:21:14.61,1:21:16.77,Default,,0000,0000,0000,,{\fn黑体\fs24}天啊，我超饿的！{\r}\NOh, my God, l'm so hungry.
+Dialogue: 0,1:21:17.74,1:21:20.01,Default,,0000,0000,0000,,{\fn黑体\fs24}你还好吧？{\r}\NAre you OK?
+Dialogue: 0,1:21:20.15,1:21:24.34,Default,,0000,0000,0000,,{\fn黑体\fs24}我很好，只是…{\r}\Nl'm fine, l just... You know, l just...
+Dialogue: 0,1:21:24.48,1:21:26.64,Default,,0000,0000,0000,,{\fn黑体\fs24}天啊，我超爱凯文的{\r}\NOh, God, l just love Kevin.
+Dialogue: 0,1:21:26.79,1:21:29.55,Default,,0000,0000,0000,,{\fn黑体\fs24}我超爱凯文{\r}\Nl just love Kevin so much, you know?
+Dialogue: 0,1:21:29.69,1:21:33.49,Default,,0000,0000,0000,,{\fn黑体\fs24}你一定觉得很傻 不，不会{\r}\N- l know you think it's stupid. - No. No, l don't.
+Dialogue: 0,1:21:33.63,1:21:35.75,Default,,0000,0000,0000,,{\fn黑体\fs24}不会吗？ 不会{\r}\N- You don't? - No.
+Dialogue: 0,1:21:40.80,1:21:42.43,Default,,0000,0000,0000,,{\fn黑体\fs24}我没办法不想他{\r}\Nl can't stop thinking about him.
+Dialogue: 0,1:21:42.57,1:21:45.87,Default,,0000,0000,0000,,{\fn黑体\fs24}谁？亚当？{\r}\NWho? Adam?
+Dialogue: 0,1:21:48.71,1:21:52.70,Default,,0000,0000,0000,,{\fn黑体\fs24}我们结束了，我也在找男人{\r}\NYeah. l know it's over, and l'm looking.
+Dialogue: 0,1:21:52.85,1:21:56.25,Default,,0000,0000,0000,,{\fn黑体\fs24}只是没有人像他那么…{\r}\Nlt's just no one is as...
+Dialogue: 0,1:21:56.38,1:21:58.48,Default,,0000,0000,0000,,{\fn黑体\fs24}那么高？ 他超高的{\r}\N- Tall? - He's so tall.
+Dialogue: 0,1:21:58.98,1:22:01.25,Default,,0000,0000,0000,,{\fn黑体\fs24}而且他一直都很…{\r}\N- So tall... - And he's so, like...
+Dialogue: 0,1:22:01.39,1:22:04.95,Default,,0000,0000,0000,,{\fn黑体\fs24}开心？ 随时都很开心，超讨厌的{\r}\N- Happy? - Annoyingly happy, all the time.
+Dialogue: 0,1:22:06.03,1:22:09.52,Default,,0000,0000,0000,,{\fn黑体\fs24}不过他有一颗…{\r}\NBut he has this...
+Dialogue: 0,1:22:11.13,1:22:13.06,Default,,0000,0000,0000,,{\fn黑体\fs24}他有一颗最善良的心{\r}\NHe has the best heart.
+Dialogue: 0,1:22:17.54,1:22:18.70,Default,,0000,0000,0000,,{\fn黑体\fs24}打给他 什么？{\r}\N- Call him. - What? No.
+Dialogue: 0,1:22:19.74,1:22:21.04,Default,,0000,0000,0000,,{\fn黑体\fs24}我才不要打给他{\r}\Nl can't just call him.
+Dialogue: 0,1:22:21.17,1:22:23.16,Default,,0000,0000,0000,,{\fn黑体\fs24}我太high了，别跟我吵{\r}\Nl'm too stoned. Don't argue with me.
+Dialogue: 0,1:22:23.31,1:22:24.74,Default,,0000,0000,0000,,{\fn黑体\fs24}他不要我打给他{\r}\NHe doesn't want me to call him.
+Dialogue: 0,1:22:24.88,1:22:26.64,Default,,0000,0000,0000,,{\fn黑体\fs24}我是新娘，你得听我的话{\r}\Nl'm the bride. You have to do what l say.
+Dialogue: 0,1:22:26.78,1:22:29.15,Default,,0000,0000,0000,,{\fn黑体\fs24}我们有几个月没说话{\r}\N- We haven't talked in months. - l'm the bride, it's my day.
+Dialogue: 0,1:22:29.28,1:22:30.71,Default,,0000,0000,0000,,{\fn黑体\fs24}今天我最大！{\r}\Nlt's my day!
+Dialogue: 0,1:22:31.98,1:22:33.47,Default,,0000,0000,0000,,{\fn黑体\fs24}嗨，亚当！{\r}\NHey, Adam!
+Dialogue: 0,1:22:34.12,1:22:35.42,Default,,0000,0000,0000,,{\fn黑体\fs24}天啊{\r}\NOh, God.
+Dialogue: 0,1:22:35.99,1:22:38.48,Default,,0000,0000,0000,,{\fn黑体\fs24}你超赞的，你自己知道吗？{\r}\NYou're so dope. Did you know that about yourself?
+Dialogue: 0,1:22:38.62,1:22:40.32,Default,,0000,0000,0000,,{\fn黑体\fs24}妈妈要坐计程车回家{\r}\NMama needs to get a cab home, so...
+Dialogue: 0,1:22:40.46,1:22:42.55,Default,,0000,0000,0000,,{\fn黑体\fs24}我的手机在办公室{\r}\N- Yeah. - Shoot, l left my phone in my office...
+Dialogue: 0,1:22:42.70,1:22:44.19,Default,,0000,0000,0000,,{\fn黑体\fs24}等一下{\r}\Nl got it, l got it. Hang on. Here.
+Dialogue: 0,1:22:44.33,1:22:45.82,Default,,0000,0000,0000,,{\fn黑体\fs24}你要打电话？{\r}\N- Do you want to call and just...? - Yeah.
+Dialogue: 0,1:22:45.97,1:22:47.83,Default,,0000,0000,0000,,{\fn黑体\fs24}你在干嘛？{\r}\NWhat are you doing?
+Dialogue: 0,1:22:47.97,1:22:51.49,Default,,0000,0000,0000,,{\fn黑体\fs24}查克！查克！给我滚开！{\r}\NChuck! Chuck! Will you please fuck off? Please?
+Dialogue: 0,1:22:51.64,1:22:53.16,Default,,0000,0000,0000,,{\fn黑体\fs24}我不想走{\r}\N- l don't want to go. - Yeah, all right.
+Dialogue: 0,1:22:53.31,1:22:57.64,Default,,0000,0000,0000,,{\fn黑体\fs24}我不想回家 是谁？{\r}\Nl don't want to go home. - l don't want to go home. - Who is it?
+Dialogue: 0,1:22:58.71,1:23:02.24,Default,,0000,0000,0000,,{\fn黑体\fs24}“别打给她”打来了 你要接吗？{\r}\N''Do Not Call Her'' is calling. Do you want to take it?
+Dialogue: 0,1:23:03.75,1:23:04.94,Default,,0000,0000,0000,,l want your face.
+Dialogue: 0,1:23:17.20,1:23:18.25,Default,,0000,0000,0000,,{\fn黑体\fs24}喂？{\r}\NHe//o?
+Dialogue: 0,1:23:18.40,1:23:20.66,Default,,0000,0000,0000,,Hi.
+Dialogue: 0,1:23:20.80,1:23:25.93,Default,,0000,0000,0000,,{\fn黑体\fs24}我是艾玛，夏令营的柯艾玛{\r}\Nlt's Emma. Kurtzman. From Camp Weehawken.
+Dialogue: 0,1:23:29.17,1:23:33.27,Default,,0000,0000,0000,,{\fn黑体\fs24}是，什么事？{\r}\NYes... What is it?
+Dialogue: 0,1:23:34.08,1:23:38.85,Default,,0000,0000,0000,,{\fn黑体\fs24}我妹明天要在圣塔芭芭拉结婚{\r}\NSo, my sister is getting married in Santa Barbara tomorrow, and...
+Dialogue: 0,1:23:40.22,1:23:43.48,Default,,0000,0000,0000,,{\fn黑体\fs24}听说你的节目今晚录影，恭喜了{\r}\N/ don't know. / heard your show is tonight. Congratu/ations.
+Dialogue: 0,1:23:43.62,1:23:45.61,Default,,0000,0000,0000,,{\fn黑体\fs24}谢谢你{\r}\NThank you.
+Dialogue: 0,1:23:47.79,1:23:51.25,Default,,0000,0000,0000,,{\fn黑体\fs24}我知道这很突然，我只是…{\r}\Nl know this is random. l just...
+Dialogue: 0,1:23:52.20,1:23:55.63,Default,,0000,0000,0000,,{\fn黑体\fs24}我很想你，我超哈你的{\r}\Nl miss you. l miss you so much.
+Dialogue: 0,1:23:56.74,1:23:58.00,Default,,0000,0000,0000,,{\fn黑体\fs24}好吧{\r}\NOK.
+Dialogue: 0,1:24:00.01,1:24:01.84,Default,,0000,0000,0000,,{\fn黑体\fs24}我不知道该说什么{\r}\Nl don't know what to say.
+Dialogue: 0,1:24:02.51,1:24:05.67,Default,,0000,0000,0000,,{\fn黑体\fs24}你去参加你妹的婚礼{\r}\NYou're... You're calling me because you're at your sister's wedding,
+Dialogue: 0,1:24:05.81,1:24:07.47,Default,,0000,0000,0000,,{\fn黑体\fs24}她很开心{\r}\Nand she looks happy, and...
+Dialogue: 0,1:24:07.61,1:24:11.45,Default,,0000,0000,0000,,{\fn黑体\fs24}大家都很开心 只有你不开心{\r}\N...everyone is happy, and you're not.
+Dialogue: 0,1:24:13.09,1:24:17.55,Default,,0000,0000,0000,,{\fn黑体\fs24}我以为…我不知道在想什么…{\r}\Nl thought... l don't know what l thought. l just...
+Dialogue: 0,1:24:17.69,1:24:20.95,Default,,0000,0000,0000,,{\fn黑体\fs24}我猜我只想听到你的声音{\r}\Nl... l guess l wanted to hear your voice.
+Dialogue: 0,1:24:22.16,1:24:24.89,Default,,0000,0000,0000,,{\fn黑体\fs24}我知道我们分手了{\r}\N- l mean, l know we broke up, but... - Emma.
+Dialogue: 0,1:24:26.13,1:24:30.16,Default,,0000,0000,0000,,{\fn黑体\fs24}我们没有分手 我们根本没有交往{\r}\NWe didn't break up. We never started.
+Dialogue: 0,1:24:32.27,1:24:34.87,Default,,0000,0000,0000,,{\fn黑体\fs24}我得走了，我在工作{\r}\N/ gotta go. /'m sti// at work, so...
+Dialogue: 0,1:24:36.14,1:24:40.54,Default,,0000,0000,0000,,{\fn黑体\fs24}玩得开心点 替我向你妹妹说声恭喜{\r}\NHave fun at the wedding, and tell your sister congratulations.
+Dialogue: 0,1:24:41.65,1:24:42.88,Default,,0000,0000,0000,,{\fn黑体\fs24}掰了{\r}\NBye.
+Dialogue: 0,1:24:51.69,1:24:54.12,Default,,0000,0000,0000,,{\fn黑体\fs24}靠{\r}\NOh, fuck.
+Dialogue: 0,1:25:02.20,1:25:03.19,Default,,0000,0000,0000,,{\fn黑体\fs24}我得…{\r}\Nl have to...
+Dialogue: 0,1:25:03.34,1:25:04.67,Default,,0000,0000,0000,,{\fn黑体\fs24}去吧{\r}\N- Go. - Now.
+Dialogue: 0,1:25:10.98,1:25:14.24,Default,,0000,0000,0000,,{\fn黑体\fs24}我能不能…？ 当然可以{\r}\N- Hey. Can l? - Hey. Of course.
+Dialogue: 0,1:25:15.35,1:25:16.91,Default,,0000,0000,0000,,{\fn黑体\fs24}一切还好吧？{\r}\Nls everything OK? Are you...?
+Dialogue: 0,1:25:17.05,1:25:18.61,Default,,0000,0000,0000,,{\fn黑体\fs24}还好{\r}\NYeah.
+Dialogue: 0,1:25:18.75,1:25:21.55,Default,,0000,0000,0000,,{\fn黑体\fs24}很好！ 那就好{\r}\N- Yeah. Yes. - Yeah. Good.
+Dialogue: 0,1:25:21.69,1:25:24.28,Default,,0000,0000,0000,,{\fn黑体\fs24}太不可思议了{\r}\N- This is amazing. - Yeah.
+Dialogue: 0,1:25:24.42,1:25:26.12,Default,,0000,0000,0000,,{\fn黑体\fs24}谢谢你…替我做的一切{\r}\NThank you for this. This...
+Dialogue: 0,1:25:26.26,1:25:28.62,Default,,0000,0000,0000,,{\fn黑体\fs24}这全是你的功劳{\r}\N- What? - This was all you.
+Dialogue: 0,1:25:28.76,1:25:32.06,Default,,0000,0000,0000,,{\fn黑体\fs24}什么？没啦 没有你我就不会成功{\r}\N- What? No, l mean... - No, l'm not here without you.
+Dialogue: 0,1:25:32.20,1:25:37.64,Default,,0000,0000,0000,,{\fn黑体\fs24}才不是，是你自己很有才华{\r}\NThat's... That's not true. lt's all you. lt's all you. This was all you.
+Dialogue: 0,1:25:39.81,1:25:42.71,Default,,0000,0000,0000,,{\fn黑体\fs24}等一下，如果你来不及赶回来 参加婚礼，我会杀了你{\r}\NHey, wait! lf you don't make it back for my wedding, l'll kill you.
+Dialogue: 0,1:25:43.31,1:25:44.50,Default,,0000,0000,0000,,{\fn黑体\fs24}小心开车{\r}\NBye. Drive safe.
+Dialogue: 0,1:26:40.83,1:26:43.32,Default,,0000,0000,0000,,No, but that was you, and it felt poignant
+Dialogue: 0,1:26:43.47,1:26:44.83,Default,,0000,0000,0000,,that, of course, the song was ''lt Was You.''
+Dialogue: 0,1:26:44.97,1:26:47.77,Default,,0000,0000,0000,,- When Benji and Sari did the kiss... - They committed to it.
+Dialogue: 0,1:26:47.91,1:26:50.60,Default,,0000,0000,0000,,{\fn黑体\fs24}这首歌能重新混音吗？{\r}\NThat's what hit. Do you think they could remix the song?
+Dialogue: 0,1:26:50.74,1:26:53.94,Default,,0000,0000,0000,,{\fn黑体\fs24}梅根想上我的腿{\r}\NHow drunk was Megan? She tried to hump my leg.
+Dialogue: 0,1:26:54.08,1:26:55.81,Default,,0000,0000,0000,,{\fn黑体\fs24}你不知道太多她的事了{\r}\NYou have no idea, the stories that l could tell you.
+Dialogue: 0,1:26:55.95,1:26:59.28,Default,,0000,0000,0000,,{\fn黑体\fs24}她真的想跨上我的腿{\r}\N- No, she really tried to like mount it. - Yeah, l know.
+Dialogue: 0,1:27:02.29,1:27:03.91,Default,,0000,0000,0000,,Yeah, l got it.
+Dialogue: 0,1:27:06.43,1:27:08.15,Default,,0000,0000,0000,,Ornery thing.
+Dialogue: 0,1:27:26.18,1:27:29.01,Default,,0000,0000,0000,,{\fn黑体\fs24}怎样？找到他吗？{\r}\NHey. How'd it go? Did you find him?
+Dialogue: 0,1:27:29.85,1:27:34.05,Default,,0000,0000,0000,,{\fn黑体\fs24}他跟一个女的在一起，他的女友{\r}\NYeah. He was with... with a girl. lt was his girlfriend.
+Dialogue: 0,1:27:35.05,1:27:37.42,Default,,0000,0000,0000,,{\fn黑体\fs24}我躲在草丛里{\r}\NAnd l was in a bush.
+Dialogue: 0,1:27:37.56,1:27:39.02,Default,,0000,0000,0000,,- Oh. - Yeah.
+Dialogue: 0,1:27:39.16,1:27:40.65,Default,,0000,0000,0000,,{\fn黑体\fs24}讨厌{\r}\NCrap.
+Dialogue: 0,1:27:43.00,1:27:45.49,Default,,0000,0000,0000,,{\fn黑体\fs24}你还在吗？ 在{\r}\N- Are you sti// there? - Yeah.
+Dialogue: 0,1:27:45.63,1:27:47.57,Default,,0000,0000,0000,,{\fn黑体\fs24}上车，马上开走{\r}\NOK, get in your car and drive away.
+Dialogue: 0,1:27:47.70,1:27:49.63,Default,,0000,0000,0000,,{\fn黑体\fs24}你身上有多少钱？{\r}\NAnd how much money do you have on you?
+Dialogue: 0,1:27:52.64,1:27:54.47,Default,,0000,0000,0000,,{\fn黑体\fs24}十块钱{\r}\NLike ten bucks.
+Dialogue: 0,1:27:54.64,1:27:57.58,Default,,0000,0000,0000,,{\fn黑体\fs24}一盒50粒甜甜圈洞是$5.79{\r}\NOK. The box of 50 doughnut holes is $5.79.
+Dialogue: 0,1:27:58.74,1:28:01.11,Default,,0000,0000,0000,,{\fn黑体\fs24}你会需要两盒{\r}\NYou're gonna need two boxes.
+Dialogue: 0,1:28:01.25,1:28:02.74,Default,,0000,0000,0000,,{\fn黑体\fs24}我失去他了{\r}\Nl lost him.
+Dialogue: 0,1:28:02.88,1:28:04.11,Default,,0000,0000,0000,,{\fn黑体\fs24}真是遗憾{\r}\N- /'m so sorry. - Yeah.
+Dialogue: 0,1:28:06.55,1:28:07.78,Default,,0000,0000,0000,,{\fn黑体\fs24}我爱你{\r}\N- / /ove you. - l know.
+Dialogue: 0,1:28:12.86,1:28:15.26,Default,,0000,0000,0000,,{\fn黑体\fs24}我知道 我11岁那年去看心理医生{\r}\NSo, then when l was, like, 1 1 , l was in therapy
+Dialogue: 0,1:28:15.39,1:28:18.39,Default,,0000,0000,0000,,{\fn黑体\fs24}因为我不停地咬头发{\r}\Nbecause l was, like, obsessively biting my hair,
+Dialogue: 0,1:28:18.53,1:28:21.23,Default,,0000,0000,0000,,{\fn黑体\fs24}3个月后医生就挂了{\r}\Nand then three months in, my therapist died.
+Dialogue: 0,1:28:21.37,1:28:22.99,Default,,0000,0000,0000,,{\fn黑体\fs24}我真的很难过{\r}\N- l know, so that was kind of a bummer. - Whoa.
+Dialogue: 0,1:28:23.14,1:28:26.04,Default,,0000,0000,0000,,{\fn黑体\fs24}所以我讨厌搭飞机{\r}\NBut, yeah. That's why l hate planes.
+Dialogue: 0,1:28:27.57,1:28:28.63,Default,,0000,0000,0000,,Thanks.
+Dialogue: 0,1:28:28.77,1:28:30.64,Default,,0000,0000,0000,,{\fn黑体\fs24}这就是我的故事 干杯{\r}\N- So, that's that story. - Cheers.
+Dialogue: 0,1:28:30.78,1:28:32.27,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,1:28:39.22,1:28:40.31,Default,,0000,0000,0000,,{\fn黑体\fs24}对不起{\r}\N- l'm so sorry. - No...
+Dialogue: 0,1:28:40.45,1:28:42.44,Default,,0000,0000,0000,,{\fn黑体\fs24}我太笨手笨脚了{\r}\N- That was such a fail on my part. - lt's OK...
+Dialogue: 0,1:28:42.59,1:28:43.88,Default,,0000,0000,0000,,{\fn黑体\fs24}等一下{\r}\N- Wait, let me... - lt's fine.
+Dialogue: 0,1:28:44.69,1:28:46.12,Default,,0000,0000,0000,,{\fn黑体\fs24}我可以做得更好{\r}\NWe can... l can do better than that.
+Dialogue: 0,1:28:46.26,1:28:48.32,Default,,0000,0000,0000,,{\fn黑体\fs24}重新再来 欧麦尬{\r}\N- Can we try again? - Sure. Mulligan.
+Dialogue: 0,1:28:48.46,1:28:50.19,Default,,0000,0000,0000,,- Let's... Why don't we...? - OK.
+Dialogue: 0,1:28:50.33,1:28:51.69,Default,,0000,0000,0000,,All right.
+Dialogue: 0,1:28:58.24,1:29:01.21,Default,,0000,0000,0000,,{\fn黑体\fs24}真的发生了{\r}\NOh, my God. This is happening. ls this really happening?
+Dialogue: 0,1:29:01.94,1:29:04.37,Default,,0000,0000,0000,,{\fn黑体\fs24}我真的在跟你亲嘴耶{\r}\NOh, my God. You're touching me. This is so happening.
+Dialogue: 0,1:29:04.51,1:29:06.77,Default,,0000,0000,0000,,{\fn黑体\fs24}也许你不必什么都说出来{\r}\NMaybe we don't need to talk about everything.
+Dialogue: 0,1:29:06.91,1:29:10.58,Default,,0000,0000,0000,,{\fn黑体\fs24}好，很好，酷{\r}\NOh. OK, great. OK. Cool.
+Dialogue: 0,1:29:12.82,1:29:14.98,Default,,0000,0000,0000,,{\fn黑体\fs24}你确定你真的要这样？{\r}\NWait. Are you sure that you want to do this, though?
+Dialogue: 0,1:29:16.42,1:29:18.45,Default,,0000,0000,0000,,{\fn黑体\fs24}我确定{\r}\NYes. Yeah.
+Dialogue: 0,1:29:18.59,1:29:20.58,Default,,0000,0000,0000,,{\fn黑体\fs24}我们可以先讨论{\r}\NOK, 'cause, like, we can just talk about it, if you want...
+Dialogue: 0,1:29:20.73,1:29:24.16,Default,,0000,0000,0000,,{\fn黑体\fs24}不用讨论{\r}\N- Let's not talk about it. - Oh, OK. OK.
+Dialogue: 0,1:29:24.30,1:29:28.43,Default,,0000,0000,0000,,{\fn黑体\fs24}我要自己脱，还是你帮我脱？{\r}\NWait. Should l take my shirt off, or do you want to... Do you want to take it off yourself?
+Dialogue: 0,1:29:28.57,1:29:31.56,Default,,0000,0000,0000,,{\fn黑体\fs24}我帮你脱 我还是自己脱好了{\r}\N- l'll take it off. - You know what? l'll take it off.
+Dialogue: 0,1:29:31.70,1:29:33.07,Default,,0000,0000,0000,,OK.
+Dialogue: 0,1:29:36.81,1:29:38.71,Default,,0000,0000,0000,,{\fn黑体\fs24}幸好我穿了性感胸罩{\r}\NGlad l wore a good bra.
+Dialogue: 0,1:29:40.61,1:29:43.21,Default,,0000,0000,0000,,{\fn黑体\fs24}那是你的手机吗？{\r}\Nls that your phone? Do you wanna...?
+Dialogue: 0,1:29:44.18,1:29:45.24,Default,,0000,0000,0000,,{\fn黑体\fs24}别管它{\r}\NWe'll just ignore it.
+Dialogue: 0,1:29:45.38,1:29:47.41,Default,,0000,0000,0000,,{\fn黑体\fs24}你可以去接{\r}\NYou can just get it.
+Dialogue: 0,1:29:48.25,1:29:50.15,Default,,0000,0000,0000,,{\fn黑体\fs24}没关系{\r}\NNo, it's fine.
+Dialogue: 0,1:29:52.12,1:29:55.49,Default,,0000,0000,0000,,{\fn黑体\fs24}是不是“别打给她”？ 不是{\r}\N- ls it ''Do Not Call Her''? - No.
+Dialogue: 0,1:29:56.26,1:29:57.46,Default,,0000,0000,0000,,{\fn黑体\fs24}我不知道{\r}\Nl don't know.
+Dialogue: 0,1:29:59.33,1:30:01.39,Default,,0000,0000,0000,,{\fn黑体\fs24}等一下，我去…{\r}\NWait. l'll just...
+Dialogue: 0,1:30:01.53,1:30:02.86,Default,,0000,0000,0000,,{\fn黑体\fs24}我把手机关掉{\r}\N- OK. - l'll just shut it off.
+Dialogue: 0,1:30:03.00,1:30:06.06,Default,,0000,0000,0000,,{\fn黑体\fs24}这样比较简单{\r}\NYeah, just... That'll be easier, switch...
+Dialogue: 0,1:30:09.64,1:30:12.20,Default,,0000,0000,0000,,{\fn黑体\fs24}抱歉{\r}\N- Sorry. - Yeah.
+Dialogue: 0,1:30:12.34,1:30:13.90,Default,,0000,0000,0000,,{\fn黑体\fs24}凡娜莎？{\r}\NVanessa?
+Dialogue: 0,1:30:18.85,1:30:21.68,Default,,0000,0000,0000,,{\fn黑体\fs24}我马上来 怎么了？{\r}\N- l'm coming. - You're what?
+Dialogue: 0,1:30:25.12,1:30:28.09,Default,,0000,0000,0000,,{\fn黑体\fs24}我爸出了事，他在医院{\r}\Nlt's my dad. There's an emergency. He's in the hospital.
+Dialogue: 0,1:30:28.23,1:30:31.20,Default,,0000,0000,0000,,{\fn黑体\fs24}天啊，你要我陪你去吗？{\r}\NOh, my God. OK. Do you want me to go with you?
+Dialogue: 0,1:30:31.33,1:30:34.92,Default,,0000,0000,0000,,{\fn黑体\fs24}不，我自己去{\r}\N- No, l'm OK. - OK.
+Dialogue: 0,1:30:35.07,1:30:39.93,Default,,0000,0000,0000,,{\fn黑体\fs24}我晚点再打给你？ 好，我叫车…我自己会回家{\r}\N- Can l call you later? - Yeah. No, l'll get a cab. l'll, like, find my way home. Go. Yeah.
+Dialogue: 0,1:30:40.97,1:30:43.17,Default,,0000,0000,0000,,{\fn黑体\fs24}他们并不知道真相{\r}
+Dialogue: 0,1:30:43.31,1:30:45.90,Default,,0000,0000,0000,,{\fn黑体\fs24}我的心被血管堵塞{\r}
+Dialogue: 0,1:30:46.04,1:30:48.88,Default,,0000,0000,0000,,{\fn黑体\fs24}我一直关紧着心房{\r}
+Dialogue: 0,1:30:50.22,1:30:53.05,Default,,0000,0000,0000,,{\fn黑体\fs24}但你把我的心切开{\r}
+Dialogue: 0,1:30:54.29,1:30:56.55,Default,,0000,0000,0000,,{\fn黑体\fs24}我一直，一直流爱的血{\r}
+Dialogue: 0,1:30:57.36,1:31:01.62,Default,,0000,0000,0000,,{\fn黑体\fs24}我一直，一直流爱的血{\r}
+Dialogue: 0,1:31:04.53,1:31:06.52,Default,,0000,0000,0000,,{\fn黑体\fs24}(打给我！){\r}
+Dialogue: 0,1:31:16.24,1:31:18.47,Default,,0000,0000,0000,,{\fn黑体\fs24}他在哪里？怎么回事？{\r}\NHey. Where is he? What happened?
+Dialogue: 0,1:31:18.61,1:31:20.08,Default,,0000,0000,0000,,OK.
+Dialogue: 0,1:31:20.21,1:31:22.20,Default,,0000,0000,0000,,{\fn黑体\fs24}别抓狂，好吗？{\r}\NDon't freak out, OK?
+Dialogue: 0,1:31:23.58,1:31:25.41,Default,,0000,0000,0000,,{\fn黑体\fs24}你爸服用咳嗽糖浆过量{\r}\NYour dad overdosed on cough syrup.
+Dialogue: 0,1:31:26.12,1:31:28.81,Default,,0000,0000,0000,,{\fn黑体\fs24}什么？ 紫药水{\r}\N- He what? - The Purple Drank.
+Dialogue: 0,1:31:29.62,1:31:31.42,Default,,0000,0000,0000,,{\fn黑体\fs24}紫药水？{\r}\N''The Purple Drank''?
+Dialogue: 0,1:31:31.56,1:31:35.39,Default,,0000,0000,0000,,{\fn黑体\fs24}七喜、咳嗽糖浆加糖果{\r}\Nlt's Seven-Up, cough syrup and a Jolly Rancher.
+Dialogue: 0,1:31:36.70,1:31:39.22,Default,,0000,0000,0000,,{\fn黑体\fs24}他干嘛喝这种玩意儿？{\r}\NWhy would he do that, Vanessa?
+Dialogue: 0,1:31:39.36,1:31:41.49,Default,,0000,0000,0000,,{\fn黑体\fs24}他超爱饶舌歌手小韦恩！{\r}\NBecause he loves Lil Wayne, OK?
+Dialogue: 0,1:31:41.63,1:31:43.60,Default,,0000,0000,0000,,{\fn黑体\fs24}你知道你爸的一切{\r}\NYou don't know everything about your dad.
+Dialogue: 0,1:31:43.74,1:31:47.30,Default,,0000,0000,0000,,{\fn黑体\fs24}你干嘛逼他听小韦恩？{\r}\NWhy are you making him listen to Lil Wayne?
+Dialogue: 0,1:31:47.87,1:31:51.57,Default,,0000,0000,0000,,{\fn黑体\fs24}你应该照顾他 我办不到{\r}\N- You should be taking care of him. - l can't do this. l can't do it.
+Dialogue: 0,1:31:51.71,1:31:54.47,Default,,0000,0000,0000,,{\fn黑体\fs24}我不知道会这么…{\r}\NYou know, l didn't think that it was gonna be so...
+Dialogue: 0,1:31:55.88,1:31:59.25,Default,,0000,0000,0000,,{\fn黑体\fs24}我不想生小孩，我只想玩乐{\r}\Nl don't want to have kids. l... l just... l want to have fun.
+Dialogue: 0,1:32:02.02,1:32:06.48,Default,,0000,0000,0000,,{\fn黑体\fs24}他好老哦 对，他会变得更老{\r}\N- He's so old. - Yeah. He's getting older.
+Dialogue: 0,1:32:07.23,1:32:09.42,Default,,0000,0000,0000,,{\fn黑体\fs24}你得面对这事实{\r}\NAnd you're gonna have to deal with that.
+Dialogue: 0,1:32:10.93,1:32:14.70,Default,,0000,0000,0000,,{\fn黑体\fs24}亚当…老人让我害怕{\r}\NAdam... old people scare me.
+Dialogue: 0,1:32:17.24,1:32:19.43,Default,,0000,0000,0000,,{\fn黑体\fs24}我们去见他，好吗？{\r}\NLet's just go see him, OK?
+Dialogue: 0,1:32:19.57,1:32:22.56,Default,,0000,0000,0000,,{\fn黑体\fs24}不，我不行，我得走了{\r}\NNo, no, no. l can't. l can't. Adam, l can't. l've gotta go.
+Dialogue: 0,1:32:22.71,1:32:26.54,Default,,0000,0000,0000,,{\fn黑体\fs24}我朋友开轰趴，我迟到了{\r}\NMy friend, she's having a party. l'm already so late.
+Dialogue: 0,1:32:28.18,1:32:30.01,Default,,0000,0000,0000,,{\fn黑体\fs24}把斑斑拿去{\r}\NWill you just take Freckles?
+Dialogue: 0,1:32:34.99,1:32:39.55,Default,,0000,0000,0000,,{\fn黑体\fs24}别误会哦，不过你是个大烂人{\r}\NDon't take this the wrong way, but you're a terrible person.
+Dialogue: 0,1:32:39.69,1:32:41.82,Default,,0000,0000,0000,,{\fn黑体\fs24}把斑斑拿去{\r}\NJust take Freckles.
+Dialogue: 0,1:33:12.39,1:33:13.86,Default,,0000,0000,0000,,{\fn黑体\fs24}嗨，爸{\r}\NHey, Dad.
+Dialogue: 0,1:33:16.76,1:33:18.29,Default,,0000,0000,0000,,{\fn黑体\fs24}嗨，儿子{\r}\NHey, kiddo.
+Dialogue: 0,1:33:20.30,1:33:24.26,Default,,0000,0000,0000,,{\fn黑体\fs24}我喝了紫药水不舒服 我听说了{\r}\N- l had a bad trip on The Drank. - Yeah, l heard.
+Dialogue: 0,1:33:28.01,1:33:31.03,Default,,0000,0000,0000,,{\fn黑体\fs24}有人问就说这是导盲犬{\r}\Nlf anybody asks, this is a Seeing Eye dog.
+Dialogue: 0,1:33:34.51,1:33:37.14,Default,,0000,0000,0000,,{\fn黑体\fs24}她人呢？ 她回家了{\r}\N- Where's...? - She went home.
+Dialogue: 0,1:33:38.15,1:33:39.28,Default,,0000,0000,0000,,{\fn黑体\fs24}才怪{\r}\NRight.
+Dialogue: 0,1:33:41.75,1:33:45.28,Default,,0000,0000,0000,,{\fn黑体\fs24}我不爱听小韦恩，听不懂歌词{\r}\Nl really don't like the Little Wayne. Can't understand what he's saying.
+Dialogue: 0,1:33:47.26,1:33:49.89,Default,,0000,0000,0000,,{\fn黑体\fs24}你知道我希望谁在这里？{\r}\NYou know who l wish was here right now?
+Dialogue: 0,1:33:50.03,1:33:51.59,Default,,0000,0000,0000,,{\fn黑体\fs24}你妈{\r}\NYour mom.
+Dialogue: 0,1:33:52.43,1:33:55.52,Default,,0000,0000,0000,,{\fn黑体\fs24}你离开她{\r}\NYeah. Well, you left her, so...
+Dialogue: 0,1:33:58.00,1:33:59.30,Default,,0000,0000,0000,,{\fn黑体\fs24}为什么？{\r}\NWhy?
+Dialogue: 0,1:34:00.41,1:34:03.67,Default,,0000,0000,0000,,{\fn黑体\fs24}当你结婚后又吸古柯碱{\r}\NWhen you're married and you do blow...
+Dialogue: 0,1:34:04.81,1:34:07.94,Default,,0000,0000,0000,,{\fn黑体\fs24}最好离漂亮妹远一点{\r}\N...try to stay away from women who want to fuck you.
+Dialogue: 0,1:34:08.08,1:34:09.67,Default,,0000,0000,0000,,{\fn黑体\fs24}就连恐龙妹也一样{\r}\NEven ugly women.
+Dialogue: 0,1:34:09.81,1:34:13.27,Default,,0000,0000,0000,,{\fn黑体\fs24}吸毒让人盲目，吸毒让人盲目{\r}\NBlow is blind, Adam. Blow is blind.
+Dialogue: 0,1:34:14.29,1:34:15.78,Default,,0000,0000,0000,,{\fn黑体\fs24}你是个大混蛋{\r}\NYou're an asshole.
+Dialogue: 0,1:34:16.66,1:34:18.15,Default,,0000,0000,0000,,{\fn黑体\fs24}但你不是{\r}\NBut you're not.
+Dialogue: 0,1:34:19.26,1:34:24.39,Default,,0000,0000,0000,,{\fn黑体\fs24}你有一颗善良的心 保持它{\r}\NYou got a good heart, Adam. Try to keep it.
+Dialogue: 0,1:34:24.53,1:34:27.83,Default,,0000,0000,0000,,{\fn黑体\fs24}艾玛呢？你们没在一起吗？{\r}\NWhere's that girl, Emma? You guys still together?
+Dialogue: 0,1:34:29.40,1:34:33.50,Default,,0000,0000,0000,,{\fn黑体\fs24}我们从来没有在一起过 对哦，只是朋友{\r}\N- We were never together. - Oh, that's right. Friends...
+Dialogue: 0,1:34:34.81,1:34:37.71,Default,,0000,0000,0000,,{\fn黑体\fs24}炮友？我老了，不知道叫什么{\r}\NSex friends... l'm old. l don't know what you call it.
+Dialogue: 0,1:34:37.84,1:34:39.00,Default,,0000,0000,0000,,{\fn黑体\fs24}但是你喜欢她{\r}\NYou liked her.
+Dialogue: 0,1:34:42.88,1:34:45.01,Default,,0000,0000,0000,,{\fn黑体\fs24}她让我抓狂{\r}\NShe drives me crazy.
+Dialogue: 0,1:34:49.75,1:34:52.99,Default,,0000,0000,0000,,{\fn黑体\fs24}我58岁了，结过3次婚{\r}\Nl'm 58 years old. l've been married three times.
+Dialogue: 0,1:34:53.12,1:34:54.89,Default,,0000,0000,0000,,{\fn黑体\fs24}两次{\r}\NTwice.
+Dialogue: 0,1:34:55.63,1:34:56.99,Default,,0000,0000,0000,,{\fn黑体\fs24}好吧{\r}\NOK.
+Dialogue: 0,1:34:57.13,1:35:01.33,Default,,0000,0000,0000,,{\fn黑体\fs24}我的手机有6张我老二的照片{\r}\Nl've got six pictures of my cock on my phone,
+Dialogue: 0,1:35:01.47,1:35:03.13,Default,,0000,0000,0000,,{\fn黑体\fs24}还有两张别人的老二{\r}\Nand two of someone else's,
+Dialogue: 0,1:35:03.27,1:35:05.40,Default,,0000,0000,0000,,{\fn黑体\fs24}而且我现在还是很high{\r}\Nand l'm still pretty high on the cough syrup,
+Dialogue: 0,1:35:05.54,1:35:07.94,Default,,0000,0000,0000,,{\fn黑体\fs24}你不听也罢，但是…{\r}\Nso you can take this with a grain of salt, but...
+Dialogue: 0,1:35:08.07,1:35:12.01,Default,,0000,0000,0000,,{\fn黑体\fs24}我们不能选择我们爱上的人{\r}\N...we don't pick who we fall in love with.
+Dialogue: 0,1:35:12.14,1:35:14.74,Default,,0000,0000,0000,,{\fn黑体\fs24}爱情没有任何规则{\r}\NAnd it never happens like it should.
+Dialogue: 0,1:35:17.75,1:35:19.05,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,1:35:19.18,1:35:24.75,Default,,0000,0000,0000,,{\fn黑体\fs24}我也许得杀死这只狗 我还没决定怎么杀{\r}\Nl may have to kill this dog. l just haven't decided how.
+Dialogue: 0,1:35:29.53,1:35:31.39,Default,,0000,0000,0000,,{\fn黑体\fs24}睡点觉吧，爸{\r}\NGet some sleep, Dad.
+Dialogue: 0,1:35:33.67,1:35:35.83,Default,,0000,0000,0000,,{\fn黑体\fs24}我一早再打给你{\r}\Nl'll call you in the morning.
+Dialogue: 0,1:35:44.51,1:35:46.60,Default,,0000,0000,0000,,{\fn黑体\fs24}他一早不会打给我{\r}\NHe'll call in the morning.
+Dialogue: 0,1:35:49.05,1:35:50.61,Default,,0000,0000,0000,,{\fn黑体\fs24}不错吧？{\r}\Nlsn't that something?
+Dialogue: 0,1:35:51.88,1:35:53.54,Default,,0000,0000,0000,,{\fn黑体\fs24}我让你很无聊？{\r}\NAm l boring you?
+Dialogue: 0,1:35:53.69,1:35:55.21,Default,,0000,0000,0000,,{\fn黑体\fs24}那就好{\r}\NOh, good.
+Dialogue: 0,1:36:10.54,1:36:12.20,Default,,0000,0000,0000,,{\fn黑体\fs24}亚当！{\r}\NAdam!
+Dialogue: 0,1:36:12.64,1:36:17.73,Default,,0000,0000,0000,,{\fn黑体\fs24}你不能打给我说你很想我{\r}\NHey. You can't call me and tell me that you miss me.
+Dialogue: 0,1:36:17.88,1:36:20.50,Default,,0000,0000,0000,,{\fn黑体\fs24}我不想在电话上讨论{\r}\Nl don't want to have that conversation on the phone.
+Dialogue: 0,1:36:20.65,1:36:24.05,Default,,0000,0000,0000,,{\fn黑体\fs24}你不能传简讯或电子邮件{\r}\NSo you can't text me and you can't e-mail me,
+Dialogue: 0,1:36:24.18,1:36:27.88,Default,,0000,0000,0000,,{\fn黑体\fs24}也不能在我的涂鸦墙留言{\r}\Nand you can't... write on my wall.
+Dialogue: 0,1:36:28.02,1:36:30.89,Default,,0000,0000,0000,,{\fn黑体\fs24}如果你真的很想我 就得成熟一点{\r}\NLike, if you really miss me, you need to grow up
+Dialogue: 0,1:36:31.02,1:36:34.29,Default,,0000,0000,0000,,{\fn黑体\fs24}开车来见我{\r}\Nand get in your car and come and see me.
+Dialogue: 0,1:36:35.09,1:36:36.86,Default,,0000,0000,0000,,{\fn黑体\fs24}我来了{\r}\Nl'm here.
+Dialogue: 0,1:36:44.80,1:36:46.40,Default,,0000,0000,0000,,{\fn黑体\fs24}你怎么知道…{\r}\NHow did... How did you know that...?
+Dialogue: 0,1:36:46.54,1:36:50.37,Default,,0000,0000,0000,,{\fn黑体\fs24}希拉传简讯告诉我，我就来了{\r}\NShira texted me about your dad, so l came here.
+Dialogue: 0,1:36:56.11,1:36:57.10,Default,,0000,0000,0000,,You got...
+Dialogue: 0,1:36:59.35,1:37:00.51,Default,,0000,0000,0000,,{\fn黑体\fs24}你爸怎样？{\r}\NHow is your dad?
+Dialogue: 0,1:37:02.05,1:37:03.75,Default,,0000,0000,0000,,{\fn黑体\fs24}他没事 那就好{\r}\N- He's OK. - Good.
+Dialogue: 0,1:37:05.99,1:37:09.93,Default,,0000,0000,0000,,{\fn黑体\fs24}我知道我不能光是打给你 对，没错{\r}\N- l know l can't just call you. - No. You can't.
+Dialogue: 0,1:37:10.06,1:37:13.96,Default,,0000,0000,0000,,{\fn黑体\fs24}我知道 我伤了你的心，对不起{\r}\Nl know. l hurt you. l'm sorry.
+Dialogue: 0,1:37:15.47,1:37:19.53,Default,,0000,0000,0000,,{\fn黑体\fs24}我浪费太多时间假装我在乎{\r}\Nl don't know why l wasted so much time pretending l didn't care.
+Dialogue: 0,1:37:19.67,1:37:24.20,Default,,0000,0000,0000,,{\fn黑体\fs24}我猜我想像现在这样{\r}\Nl guess l just didn't want to feel like this.
+Dialogue: 0,1:37:24.34,1:37:25.67,Default,,0000,0000,0000,,{\fn黑体\fs24}这么伤心{\r}\Nlt hurts.
+Dialogue: 0,1:37:28.25,1:37:30.77,Default,,0000,0000,0000,,{\fn黑体\fs24}但是我完完全全地爱你{\r}\NBut l love you. l'm totally and completely in love with you,
+Dialogue: 0,1:37:30.92,1:37:34.32,Default,,0000,0000,0000,,{\fn黑体\fs24}就算你觉得太迟了我还是要说{\r}\Nand l don't care if you think it's too late, l'm telling you anyway.
+Dialogue: 0,1:37:40.46,1:37:42.82,Default,,0000,0000,0000,,{\fn黑体\fs24}你能不说些什么？ 等一下{\r}\N- Will you please say something? - Wait.
+Dialogue: 0,1:37:46.10,1:37:47.53,Default,,0000,0000,0000,,{\fn黑体\fs24}你要知道{\r}\NYou should know...
+Dialogue: 0,1:37:50.34,1:37:52.80,Default,,0000,0000,0000,,{\fn黑体\fs24}如果你再靠近一点{\r}\N...if you come any closer,
+Dialogue: 0,1:37:52.94,1:37:55.46,Default,,0000,0000,0000,,{\fn黑体\fs24}我就不会放你走{\r}\Nl'm not letting you go.
+Dialogue: 0,1:38:06.05,1:38:09.61,Default,,0000,0000,0000,,{\fn黑体\fs24}我爱你 很好{\r}\N- l love you. - That's good.
+Dialogue: 0,1:38:18.06,1:38:20.26,Default,,0000,0000,0000,,{\fn黑体\fs24}想陪我参加很蠢的场合吗？{\r}\NYou want to go with me to this stupid thing?
+Dialogue: 0,1:38:20.40,1:38:23.80,Default,,0000,0000,0000,,{\fn黑体\fs24}你老妹的婚礼？{\r}\NYour sister's wedding thing?
+Dialogue: 0,1:38:25.04,1:38:27.20,Default,,0000,0000,0000,,{\fn黑体\fs24}开车过去要多久？{\r}\NHow long do we have till we have to be there?
+Dialogue: 0,1:38:27.34,1:38:29.70,Default,,0000,0000,0000,,{\fn黑体\fs24}两个小时{\r}\NA couple hours.
+Dialogue: 0,1:38:30.61,1:38:34.81,Default,,0000,0000,0000,,{\fn黑体\fs24}你想做什么？ 疯狂的事{\r}\N- What do you want to do? - Something crazy.
+Dialogue: 0,1:38:45.89,1:38:47.92,Default,,0000,0000,0000,,{\fn黑体\fs24}我终于知道你不肯跟我吃早餐{\r}\NNow l know why you never wanted to have breakfast with me.
+Dialogue: 0,1:38:48.06,1:38:49.39,Default,,0000,0000,0000,,What?
+Dialogue: 0,1:38:49.53,1:38:53.49,Default,,0000,0000,0000,,{\fn黑体\fs24}你像只恐龙宝宝 连咬都不咬{\r}\NYou eat like a baby dinosaur. You don't even chew.
+Dialogue: 0,1:38:54.67,1:38:57.23,Default,,0000,0000,0000,,{\fn黑体\fs24}你能习惯吗？{\r}\NDo you think you can get used to it?
+Dialogue: 0,1:38:57.37,1:38:58.39,Default,,0000,0000,0000,,{\fn黑体\fs24}应该可以{\r}\NYeah, l think so.
+Dialogue: 0,1:38:58.54,1:39:01.40,Default,,0000,0000,0000,,{\fn黑体\fs24}很好，我想常常跟你吃早餐{\r}\NGood. l was hoping we could do this a lot more.
+Dialogue: 0,1:39:01.54,1:39:05.17,Default,,0000,0000,0000,,{\fn黑体\fs24}真的吗？ 我在想哦{\r}\NReally? You know, l was thinking...
+Dialogue: 0,1:39:05.31,1:39:08.01,Default,,0000,0000,0000,,{\fn黑体\fs24}我们得建立新的规则{\r}\NWe're gonna have to come up with some new rules.
+Dialogue: 0,1:39:08.15,1:39:11.08,Default,,0000,0000,0000,,{\fn黑体\fs24}我想开始叫你甜心或宝贝{\r}\Nl'd like to start calling you ''honey'' and ''babe.''
+Dialogue: 0,1:39:11.22,1:39:14.28,Default,,0000,0000,0000,,{\fn黑体\fs24}叫宝贝不太好 不好？{\r}\N- l don't know about ''babe.'' - No?
+Dialogue: 0,1:39:15.62,1:39:16.99,Default,,0000,0000,0000,,{\fn黑体\fs24}玩抱抱呢？ 可以{\r}\N- Snuggling? - Oh, yeah.
+Dialogue: 0,1:39:17.12,1:39:21.79,Default,,0000,0000,0000,,{\fn黑体\fs24}我会要牵你的手 哇，进展得太快了吧{\r}\N- l'm gonna hold your hand. - Wow. This is all moving so fast.
+Dialogue: 0,1:39:22.43,1:39:26.02,Default,,0000,0000,0000,,{\fn黑体\fs24}我尿尿的时候都关门{\r}\NAlso, l'd like to leave the door open when l pee.
+Dialogue: 0,1:39:28.43,1:39:29.76,Default,,0000,0000,0000,,{\fn黑体\fs24}不行{\r}\Nl think no.
+Dialogue: 0,1:39:29.90,1:39:34.07,Default,,0000,0000,0000,,{\fn黑体\fs24}我会常常这样 我们的关系会变得很怪{\r}\Nl think l'm gonna do it all the time. lt's gonna get weird.
+Dialogue: 0,1:39:56.39,1:39:58.73,Default,,0000,0000,0000,,{\fn黑体\fs24}谢天谢地我们赶到了{\r}\N- Thank God we're on time. - Yeah.
+Dialogue: 0,1:40:15.88,1:40:17.58,Default,,0000,0000,0000,,{\fn黑体\fs24}现在怎么样？{\r}\NSo what happens now?
+Dialogue: 0,1:40:46.91,1:40:49.74,Default,,0000,0000,0000,,{\fn黑体\fs24}亚当随时都会到 太好了，我饿扁了{\r}\N- Adam should be here any minute. - Good, 'cause l'm starving.
+Dialogue: 0,1:40:49.88,1:40:54.25,Default,,0000,0000,0000,,{\fn黑体\fs24}你跟他说过我们的事了吧{\r}\NSo, you've told him about us.
+Dialogue: 0,1:40:55.69,1:40:57.62,Default,,0000,0000,0000,,{\fn黑体\fs24}还没有{\r}\N- No, not yet. - What?
+Dialogue: 0,1:40:59.06,1:41:00.92,Default,,0000,0000,0000,,{\fn黑体\fs24}我想等他来了再说{\r}\Nl thought l'd wait till he got here.
+Dialogue: 0,1:41:04.10,1:41:06.96,Default,,0000,0000,0000,,{\fn黑体\fs24}那样好吗？ 没问题{\r}\N- And that's a good idea? - Yeah, it'll be fine.
+Dialogue: 0,1:41:07.10,1:41:09.33,Default,,0000,0000,0000,,{\fn黑体\fs24}敬烧人节{\r}\NSo, to Burning Man?
+Dialogue: 0,1:41:09.47,1:41:11.96,Default,,0000,0000,0000,,{\fn黑体\fs24}好不好玩？ 超好玩的{\r}\N- Was that fun, or what? - So fun.
+Dialogue: 0,1:41:12.40,1:41:14.10,Default,,0000,0000,0000,,{\fn黑体\fs24}爸！{\r}\NDad!
+Dialogue: 0,1:41:14.24,1:41:15.83,Default,,0000,0000,0000,,{\fn黑体\fs24}伊莱！{\r}\NEli!
+Dialogue: 0,1:41:15.97,1:41:17.27,Default,,0000,0000,0000,,{\fn黑体\fs24}这就是派翠丝！{\r}\NThis is her! This is Patrice!
+Dialogue: 0,1:41:17.41,1:41:20.34,Default,,0000,0000,0000,,{\fn黑体\fs24}很高兴再见到你们{\r}\NHi, it's so nice to see you again.
+Dialogue: 0,1:41:20.48,1:41:24.78,Default,,0000,0000,0000,,{\fn黑体\fs24}我们已经很爱你了！ 家人抱抱！{\r}\N- We love you already! - Come on, family hug!
+Dialogue: 0,1:42:15.60,1:42:19.16,Default,,0000,0000,0000,,{\fn黑体\fs24}我觉得我还有未开发的地方{\r}\NShira, l feel like there are parts of me that l haven't explored yet.
+Dialogue: 0,1:42:19.30,1:42:22.36,Default,,0000,0000,0000,,{\fn黑体\fs24}我想和别人约会{\r}\NAnd l'm feeling like l want to see other people.
+Dialogue: 0,1:42:22.51,1:42:25.17,Default,,0000,0000,0000,,{\fn黑体\fs24}我以为…这真尴尬{\r}\NOh, l thought... This is embarrassing.
+Dialogue: 0,1:42:25.31,1:42:28.21,Default,,0000,0000,0000,,{\fn黑体\fs24}我已经有跟别人约过会了{\r}\Nl have been seeing other people, Sam.
+Dialogue: 0,1:42:28.35,1:42:30.71,Default,,0000,0000,0000,,{\fn黑体\fs24}真的吗？ 超多人的{\r}\N- You have? - Yeah, a lot of other people.
+Dialogue: 0,1:42:30.85,1:42:32.32,Default,,0000,0000,0000,,{\fn黑体\fs24}多少人？{\r}\NHow many?
+Dialogue: 0,1:42:32.45,1:42:36.58,Default,,0000,0000,0000,,{\fn黑体\fs24}不知道，我一下只想到两个人{\r}\Nl don't know, man. l mean, two that l can think of off the top of my head, but...
+Dialogue: 0,1:42:36.72,1:42:39.09,Default,,0000,0000,0000,,{\fn黑体\fs24}你记得我去度假吗？{\r}\N- You remember when l went to Cabo? - Yeah.
+Dialogue: 0,1:42:39.22,1:42:42.22,Default,,0000,0000,0000,,{\fn黑体\fs24}我一路上都是个荡妇 你在开玩笑吧{\r}\N- l was a very bad girl on that trip. - You're kidding me?
+Dialogue: 0,1:42:42.36,1:42:43.83,Default,,0000,0000,0000,,{\fn黑体\fs24}你做得很好{\r}\NYou're doing great.
+Dialogue: 0,1:42:43.96,1:42:45.69,Default,,0000,0000,0000,,{\fn黑体\fs24}继续用力！{\r}\NKeep pushing.
+Dialogue: 0,1:42:45.83,1:42:46.85,Default,,0000,0000,0000,,{\fn黑体\fs24}噢，天啊{\r}\NOh, God.
+Dialogue: 0,1:42:47.00,1:42:49.36,Default,,0000,0000,0000,,{\fn黑体\fs24}老婆，我有冰块{\r}\Nl've got the ice chips, honey. Here you go.
+Dialogue: 0,1:42:49.50,1:42:52.03,Default,,0000,0000,0000,,{\fn黑体\fs24}我恨你，大笨蛋，滚出去{\r}\NOh, l hate you, you dumb fuck! Get the fuck out...
+Dialogue: 0,1:42:52.17,1:42:55.00,Default,,0000,0000,0000,,{\fn黑体\fs24}给我把冰块吃掉！ 我爱你{\r}\N- You eat the fucking ice chips! - l love you so much.
+Dialogue: 0,1:42:56.97,1:42:59.20,Default,,0000,0000,0000,,{\fn黑体\fs24}来吧，安啦{\r}\NCome on. lt's OK.
+Dialogue: 0,1:47:57.24,1:47:58.23,Default,,0000,0000,0000,,MANDARIN ENGLlSH ESL
+
