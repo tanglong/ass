@@ -1,0 +1,1385 @@
+﻿[Script Info]
+;本字幕文件用 SrtEdit MPC播放版 Version 5.2 编辑制作
+;Unicode SrtEdit Copyright(C) 2005-2009 袁卫国
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1040
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: CHS,Microsoft YaHei,60,&H00FFFFFF,&HFFFFFFFF,&H96000000,&H66000000,0,0,0,0,100,100,2,0,1,1,2,2,0,0,50,134
+Style: ENG,Microsoft YaHei,36,&H0000D8F8,&H000000FF,&H96000000,&H66000000,-1,0,0,0,100,100,0,0,1,1,2,2,0,0,50,134
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.00,0:00:10.00,CHS,,0,0,0,,{\fad(300,300)\c&H00FFFF&}字幕转制｜{\b1\c&HFFFFFF&}天外生物\N{\b0\c&H079FFF&}感谢原字幕制作者
+Dialogue: 0,0:01:36.70,0:01:42.00,CHS,,0,0,0,,{\fad(500,300)\fs120\fsp8\fscx80\shad5\4a&H33&\pos(975,690)}爱在日落黄昏时
+Dialogue: 0,0:01:57.22,0:01:59.59,CHS,,0,0,0,,《此时》\N读者见面会\N作者\N杰西·华莱士
+Dialogue: 0,0:01:59.60,0:02:02.20,CHS,,0,0,0,,你认为这本书算自传式的吗？\N{\rENG}Do you consider the book to be autobiographical?
+Dialogue: 0,0:02:03.64,0:02:05.70,CHS,,0,0,0,,这个…\N{\rENG}Well, I mean...
+Dialogue: 0,0:02:05.88,0:02:08.71,CHS,,0,0,0,,…什么书不是自传式的呢？\N{\rENG}...isn't everything autobiographical?
+Dialogue: 0,0:02:08.88,0:02:13.34,CHS,,0,0,0,,我们都是通过自己那小小的钥匙孔看外面的世界，对吧？\N{\rENG}I mean, we all see the world through our own tiny keyhole, right?
+Dialogue: 0,0:02:13.55,0:02:15.45,CHS,,0,0,0,,我是说，我总想起汤玛斯·沃尔夫说的\N{\rENG}I mean, I always think of Thomas Wolfe.
+Dialogue: 0,0:02:15.65,0:02:20.18,CHS,,0,0,0,,你看过《天使望故乡》那本书前面那短短一页的“致读者”吗？\N{\rENG}Have you ever seen that little one-page " Note to Reader" in the front of Look Homeward, Angel?
+Dialogue: 0,0:02:20.19,0:02:21.22,CHS,,0,0,0,,你知道我在说什么吧？\N{\rENG}Well, you know what I'm talking about?
+Dialogue: 0,0:02:21.99,0:02:26.93,CHS,,0,0,0,,总之，他说我们的生命就是由点点滴滴集合而成的\N{\rENG}Anyway, he says that we are the sum of all the moments of our lives...
+Dialogue: 0,0:02:27.10,0:02:30.90,CHS,,0,0,0,,…而任何人坐下来，写出来的都不过是自己生命中的体验…\N{\rENG}...and that anybody who sits down to write will use the clay of their own life...
+Dialogue: 0,0:02:31.07,0:02:32.59,CHS,,0,0,0,,…谁都无法回避\N{\rENG}...that you can't avoid that.
+Dialogue: 0,0:02:32.77,0:02:37.67,CHS,,0,0,0,,所以当我审视我的人生，我必须得承认，我发现…\N{\rENG}So when I look at my own life,you konw I have to admit, right, that I...
+Dialogue: 0,0:02:37.97,0:02:42.47,CHS,,0,0,0,,我从来没有经历过枪林弹雨或是暴力事件，起码没真正体验过\N{\rENG}I've never been around a bunch of guns or violence, you know, not really.
+Dialogue: 0,0:02:42.68,0:02:46.61,CHS,,0,0,0,,没有什么政治阴谋，也没什么直升机失事\N{\rENG}No political intrigue or a helicopter crash, right?
+Dialogue: 0,0:02:47.25,0:02:51.31,CHS,,0,0,0,,但是我的人生，从我个人观点来看仍然是富有戏剧性的\N{\rENG}But my life, from my own point of view,has been full of drama, right?
+Dialogue: 0,0:02:51.95,0:02:54.42,CHS,,0,0,0,,于是我想也许我也能写本书…\N{\rENG}And so I thought,if I could write a book...
+Dialogue: 0,0:02:54.62,0:02:59.03,CHS,,0,0,0,,…记录下我见到某人时的感觉\N{\rENG}...that could capture what it's like to really meet somebody...
+Dialogue: 0,0:02:59.26,0:03:01.92,CHS,,0,0,0,,我是说，我经历过的最刺激的事情之一\N{\rENG}One of the most exciting things that's happened to me...
+Dialogue: 0,0:03:02.10,0:03:04.40,CHS,,0,0,0,,…就是真正和某人见面，让两个人心灵相通\N{\rENG}...is to meet somebody,make that connection.
+Dialogue: 0,0:03:04.60,0:03:08.63,CHS,,0,0,0,,而如果我能把它表现出来…你明白吗，抓住那一刻的感觉…\N{\rENG}And if I could make that valuable,you know, to capture that...
+Dialogue: 0,0:03:09.31,0:03:12.60,CHS,,0,0,0,,…那就是我的写作意图了，亦或者…\N{\rENG}...that would be the attempt, or....
+Dialogue: 0,0:03:13.14,0:03:15.63,CHS,,0,0,0,,你满意我的回答吗？\N{\rENG}Did I answer your question?
+Dialogue: 0,0:03:16.21,0:03:18.65,CHS,,0,0,0,,我干脆就直说吧…\N{\rENG}I'll try to be more specific.
+Dialogue: 0,0:03:19.12,0:03:21.81,CHS,,0,0,0,,我在火车上遇见一个年轻的法国女郎\N{\rENG}Was there ever a French young woman on a train you met...
+Dialogue: 0,0:03:21.98,0:03:24.32,CHS,,0,0,0,,并和她共度良宵\N{\rENG}...and spent an evening with?
+Dialogue: 0,0:03:28.19,0:03:31.13,CHS,,0,0,0,,这个，对我来说…我是说…\N{\rENG}See, to me, that.... I mean...
+Dialogue: 0,0:03:31.29,0:03:34.73,CHS,,0,0,0,,- …这并不重要，你懂吗？ - 就是说的确有了？\N{\rENG}- ...that's not important, you know?  - So that's a yes?
+Dialogue: 0,0:03:35.67,0:03:39.66,CHS,,0,0,0,,好吧，既然我人在法国，这又是我签名售书的最后一站，那就算有吧\N{\rENG}All right, since I'm in France and this is the last stop of my book tour, yes.
+Dialogue: 0,0:03:40.47,0:03:42.30,CHS,,0,0,0,,谢谢\N{\rENG}Thank you.
+Dialogue: 0,0:03:42.47,0:03:45.87,CHS,,0,0,0,,华莱士先生，这本书的结尾给我们留下了悬念\N{\rENG}Mr. Wallace, the book ends on an ambiguous note.
+Dialogue: 0,0:03:46.04,0:03:47.37,CHS,,0,0,0,,我们不知道\N{\rENG}We don't know.
+Dialogue: 0,0:03:47.58,0:03:50.17,CHS,,0,0,0,,你认为他们六个月之后会重聚吗？\N{\rENG}Do you think they get back together in six months...
+Dialogue: 0,0:03:50.45,0:03:53.81,CHS,,0,0,0,,就像他们彼此承诺的那样？\N{\rENG}...Iike they promise each other?
+Dialogue: 0,0:03:54.45,0:03:56.35,CHS,,0,0,0,,像他们保证的？\N{\rENG}Like they promised?
+Dialogue: 0,0:03:57.95,0:04:00.65,CHS,,0,0,0,,我认为这个问题实际上是，是个…\N{\rENG}I think how you answer that,you know, is....
+Dialogue: 0,0:04:01.49,0:04:04.76,CHS,,0,0,0,,是个很好的测试，看看你到底是喜欢浪漫还是对它嗤之以鼻\N{\rENG}It's a good test, right,if you're a romantic or a cynic.
+Dialogue: 0,0:04:04.99,0:04:08.99,CHS,,0,0,0,,我是说，你认为他们会重聚的，对吧？\N{\rENG}Right? I mean, you think they get back together, right?
+Dialogue: 0,0:04:09.17,0:04:10.69,CHS,,0,0,0,,- 显然你并不这么认为  - 是的\N{\rENG}- You don't, for sure.  - No.
+Dialogue: 0,0:04:10.87,0:04:12.86,CHS,,0,0,0,,还是你希望他们会，不过你无法肯定\N{\rENG}And you hope they do,but you're not sure.
+Dialogue: 0,0:04:13.07,0:04:16.73,CHS,,0,0,0,,- 所以你才问这个问题  - 你认为他们会重聚吗？\N{\rENG}- That's why you're asking the question.  - Do you think they get back together?
+Dialogue: 0,0:04:16.97,0:04:19.07,CHS,,0,0,0,,我是说你们重聚了吗？在现实生活中？\N{\rENG}I mean, did you in real life?
+Dialogue: 0,0:04:20.54,0:04:22.37,CHS,,0,0,0,,现实生活中…？\N{\rENG}Did I in real...?
+Dialogue: 0,0:04:22.75,0:04:25.34,CHS,,0,0,0,,要用我祖父的话来说啊\N{\rENG}Look, in the words of my grandfather, okay:
+Dialogue: 0,0:04:25.51,0:04:28.61,CHS,,0,0,0,,天晓得会不会\N{\rENG}"To answer that would take the piss out of the whole thing."
+Dialogue: 0,0:04:29.52,0:04:33.01,CHS,,0,0,0,,我们的时间只够问最后一个问题了\N{\rENG}We just have the time for one last question.
+Dialogue: 0,0:04:33.22,0:04:34.92,CHS,,0,0,0,,你下一本书将是什么？\N{\rENG}What is your next book?
+Dialogue: 0,0:04:37.53,0:04:40.02,CHS,,0,0,0,,我不知道，老兄，我真的不知道…\N{\rENG}I don't know, man. I don't know.
+Dialogue: 0,0:04:40.26,0:04:43.72,CHS,,0,0,0,,我一直…一直在考虑这个构思…\N{\rENG}I've been...I've been thinking about this....
+Dialogue: 0,0:04:43.90,0:04:46.60,CHS,,0,0,0,,我总是想写本书…\N{\rENG}Well, I always kind of wanted to write a book...
+Dialogue: 0,0:04:46.77,0:04:50.43,CHS,,0,0,0,,…一切都发生在一首流行歌曲那么长时间内\N{\rENG}...that all took place within the space of a pop song.
+Dialogue: 0,0:04:50.64,0:04:53.77,CHS,,0,0,0,,总共大概三到四分钟吧\N{\rENG}Like three or four minutes long,the whole thing.
+Dialogue: 0,0:04:54.01,0:04:57.50,CHS,,0,0,0,,整个故事大概是说有个男人…\N{\rENG}The story, the idea,is that there's this guy, right...
+Dialogue: 0,0:04:57.71,0:05:00.41,CHS,,0,0,0,,…他非常的沮丧，因为…\N{\rENG}...and he's totally depressed.
+Dialogue: 0,0:05:00.62,0:05:04.78,CHS,,0,0,0,,他最大的梦想就是拥有一段轰轰烈烈的爱情，一次冒险…\N{\rENG}His great dream was to be a lover,an adventurer, you know...
+Dialogue: 0,0:05:04.95,0:05:07.72,CHS,,0,0,0,,…比如开着摩托周游南美\N{\rENG}...riding motorcycles through South America.
+Dialogue: 0,0:05:07.92,0:05:10.65,CHS,,0,0,0,,但是事实上他只是坐在大理石桌前吃着龙虾\N{\rENG}And instead he's sitting at a marble table eating lobster.
+Dialogue: 0,0:05:10.83,0:05:13.92,CHS,,0,0,0,,他有份不错的工作，妻子也很漂亮\N{\rENG}He's got a good job and a beautiful wife, right, but that...
+Dialogue: 0,0:05:14.10,0:05:17.46,CHS,,0,0,0,,他应有尽有，但是这并不是他真正想要的…\N{\rENG}Everything that he needs.But that doesn't matter...
+Dialogue: 0,0:05:17.67,0:05:20.64,CHS,,0,0,0,,…因为他真正想要的是为某种理想而战\N{\rENG}...because what he wants is to fight for meaning.
+Dialogue: 0,0:05:20.90,0:05:23.13,CHS,,0,0,0,,你明白吗，快乐来自于过程\N{\rENG}You know? Happiness is in the doing, right?
+Dialogue: 0,0:05:23.34,0:05:25.64,CHS,,0,0,0,,而不是因为你得到了你想要的东西\N{\rENG}Not in the getting what you want.
+Dialogue: 0,0:05:25.84,0:05:29.33,CHS,,0,0,0,,总之，他坐在那里，突然间…\N{\rENG}So he's sitting there,and just that second...
+Dialogue: 0,0:05:29.55,0:05:33.78,CHS,,0,0,0,,…他五岁的小女儿跳上了桌子\N{\rENG}...his little 5-year-old daughter hops up on the table.
+Dialogue: 0,0:05:33.95,0:05:37.25,CHS,,0,0,0,,他知道她该下来，因为她可能会受伤\N{\rENG}And he knows that she should get down, because she could get hurt.
+Dialogue: 0,0:05:37.45,0:05:42.15,CHS,,0,0,0,,但是她正穿着夏日的裙子随着那首歌翩翩起舞\N{\rENG}But she's dancing to this pop song in a summer dress.
+Dialogue: 0,0:05:42.79,0:05:44.78,CHS,,0,0,0,,然后一晃眼\N{\rENG}And he looks down...
+Dialogue: 0,0:05:44.99,0:05:47.49,CHS,,0,0,0,,…突然间，他回到了十六岁\N{\rENG}...and all of a sudden, he's 16.
+Dialogue: 0,0:05:48.33,0:05:53.79,CHS,,0,0,0,,他的高中女友正送他回家\N{\rENG}And his high-school sweetheart is dropping him off at home.
+Dialogue: 0,0:05:53.97,0:05:57.53,CHS,,0,0,0,,而他们刚刚度过了他们的初夜，她很爱他…\N{\rENG}And they just lost their virginity,and she loves him...
+Dialogue: 0,0:05:57.71,0:06:01.67,CHS,,0,0,0,,…而汽车收音机里里播放着的是同样的一首曲子\N{\rENG}...and the same song is playing on the car radio.
+Dialogue: 0,0:06:01.94,0:06:04.88,CHS,,0,0,0,,然后她爬上了车顶，开始在那里跳舞\N{\rENG}And she climbs up and starts dancing on the roof of the car.
+Dialogue: 0,0:06:05.11,0:06:06.64,CHS,,0,0,0,,这一下，他开始很担心她！\N{\rENG}And now he's worried about her.
+Dialogue: 0,0:06:06.82,0:06:11.12,CHS,,0,0,0,,她很美，表情也竟然和她女儿一模一样\N{\rENG}And she's beautiful, with a facial expression just like his daughter's.
+Dialogue: 0,0:06:11.45,0:06:13.62,CHS,,0,0,0,,事实上，这可能就是他为什么会喜欢她的原因\N{\rENG}In fact, maybe that's why he even likes her.
+Dialogue: 0,0:06:13.82,0:06:16.72,CHS,,0,0,0,,你懂吗，他知道他并不是身处回忆之中…\N{\rENG}You see, he knows he's not remembering this dance...
+Dialogue: 0,0:06:16.96,0:06:20.66,CHS,,0,0,0,,…而是他就在那里，他同时出现在人生的两个场景之中\N{\rENG}...he's there. He's there,in both moments, simultaneously.
+Dialogue: 0,0:06:20.86,0:06:24.30,CHS,,0,0,0,,就在这一瞬间，他全部的人生好像都交汇到了一起\N{\rENG}And just for an instant,all his life is just folding in on itself.
+Dialogue: 0,0:06:24.50,0:06:27.20,CHS,,0,0,0,,对他来说，时间明显是个谎言\N{\rENG}And it's obvious to him that time is a lie.
+Dialogue: 0,0:06:29.51,0:06:31.97,CHS,,0,0,0,,因为那一刻将一直延伸下去…\N{\rENG}That it's all happening all the time...
+Dialogue: 0,0:06:32.14,0:06:35.70,CHS,,0,0,0,,…而且每个时刻之内都包含着另一个时刻…\N{\rENG}...and inside every moment is another moment...
+Dialogue: 0,0:06:35.98,0:06:37.81,CHS,,0,0,0,,…一切的一切，都发生在同一瞬间\N{\rENG}...all happening simultaneously.
+Dialogue: 0,0:06:38.01,0:06:41.11,CHS,,0,0,0,,总之，这就是我大概的想法，总之\N{\rENG}Anyway, that's kind of the idea.Anyway.
+Dialogue: 0,0:06:42.42,0:06:44.82,CHS,,0,0,0,,我们的作者很快就得去机场了…\N{\rENG}Our author has to be going to the airport soon...
+Dialogue: 0,0:06:45.02,0:06:47.92,CHS,,0,0,0,,…那么，谢谢各位今天下午光临\N{\rENG}...so thank you all very much for coming over this afternoon.
+Dialogue: 0,0:06:48.16,0:06:51.39,CHS,,0,0,0,,尤其要感谢华莱士先生和我们共度了这么美好的一个下午\N{\rENG}And a special thanks to Mr. Wallace for being with us.
+Dialogue: 0,0:06:51.63,0:06:53.03,CHS,,0,0,0,,谢谢，谢谢\N{\rENG}Thank you. Thank you.
+Dialogue: 0,0:06:53.20,0:06:55.89,CHS,,0,0,0,,希望你出下本书的时候我们还能在这见到你！\N{\rENG}We hope to see you here again with your next book.
+Dialogue: 0,0:06:55.95,0:06:58.05,CHS,,0,0,0,,{\fs45\c&H9AD1DD&}[法语]{\rCHS}感谢大家光临\N{\rENG}Merci a toutes et a tous qu'etre venus.
+Dialogue: 0,0:06:58.05,0:07:01.55,CHS,,0,0,0,,{\fs45\c&H9AD1DD&}[法语]{\rCHS}我们为大家准备了香槟和一些小点心\N{\rENG}Comme vous voyez y a du champagne,y a des petites choses a gagnoter,
+Dialogue: 0,0:07:01.55,0:07:02.55,CHS,,0,0,0,,{\fs45\c&H9AD1DD&}[法语]{\rCHS}请尽情享受吧\N{\rENG}donc servez vous.
+Dialogue: 0,0:07:02.56,0:07:05.87,CHS,,0,0,0,,谢谢各位，我必须在几点之前去机场？\N{\rENG}Thank you all. How much longer before I have to go to the airport?
+Dialogue: 0,0:07:06.04,0:07:07.67,CHS,,0,0,0,,哦，你必须在七点半之前离开？\N{\rENG}Oh, you should leave at 7:30...
+Dialogue: 0,0:07:07.91,0:07:10.44,CHS,,0,0,0,,- 最迟七点半！ - 好\N{\rENG}- Seven-thirty at the very latest.  - Okay.
+Dialogue: 0,0:07:15.35,0:07:18.68,CHS,,0,0,0,,- 嗨  - 你好\N{\rENG}- Hi.  - Hello.
+Dialogue: 0,0:07:21.29,0:07:24.02,CHS,,0,0,0,,- 你还好吗？ - 很好，你呢？\N{\rENG}- How are you?  - Good, and you?
+Dialogue: 0,0:07:25.79,0:07:28.59,CHS,,0,0,0,,挺好，是的，我很好，我…\N{\rENG}I'm good, yeah, I'm great. I'm....
+Dialogue: 0,0:07:29.40,0:07:31.73,CHS,,0,0,0,,你愿意…我是说…去喝杯咖啡什么的吗？\N{\rENG}Do you wanna, maybe,get a cup of coffee?
+Dialogue: 0,0:07:32.47,0:07:34.94,CHS,,0,0,0,,他不是说你要赶飞机吗？\N{\rENG}Didn't he just say you have a plane to catch?
+Dialogue: 0,0:07:35.97,0:07:38.91,CHS,,0,0,0,,是啊…不过时间还早\N{\rENG}Yeah. But, I mean, I have a little time.
+Dialogue: 0,0:07:39.28,0:07:42.57,CHS,,0,0,0,,- 那好吧  - 好吗？好，那，让我…\N{\rENG}- Okay.  - Yeah? All right, well, let me....
+Dialogue: 0,0:07:42.78,0:07:44.87,CHS,,0,0,0,,我在外面等你\N{\rENG}I'll meet you outside. Okay.
+Dialogue: 0,0:07:46.62,0:07:48.98,CHS,,0,0,0,,我出去一下，喝杯咖啡\N{\rENG}Excuse me. I'm just gonna go get a cup of coffee.
+Dialogue: 0,0:07:49.22,0:07:51.45,CHS,,0,0,0,,- 我七点一刻回来  - 这些书你都签了名吗？\N{\rENG}- I'll be back at 7:15.  - Did you sign all these?
+Dialogue: 0,0:07:51.62,0:07:54.25,CHS,,0,0,0,,- 是的，我肯定签了  - 拿着你的司机菲利普的名片…\N{\rENG}- Yeah, I sure did.  - Get your driver Philippe's card...
+Dialogue: 0,0:07:54.46,0:07:56.95,CHS,,0,0,0,,…这样你要是晚了，就用手机给他打电话\N{\rENG}...so you can call his cell if you're running late.
+Dialogue: 0,0:07:57.19,0:07:59.75,CHS,,0,0,0,,我们会把你的包放在车里，这样你就不会晚了\N{\rENG}We'll put your bags in the car so you're not late.
+Dialogue: 0,0:07:59.96,0:08:02.49,CHS,,0,0,0,,- 好的，谢谢你  - {\fs45\c&H9AD1DD&}[法语]{\rCHS}非常感谢\N{\rENG}- All right, thanks for everything.  - Thank you.
+Dialogue: 0,0:08:04.83,0:08:06.80,CHS,,0,0,0,,谁是菲利普？\N{\rENG}Which one's Philippe?
+Dialogue: 0,0:08:06.81,0:08:09.45,CHS,,0,0,0,,{\fs45\c&H9AD1DD&}[法语]{\rCHS}菲利普，把你的名片给他，上面有你的手机号码\N{\rENG}Philippe, passe lui ta carte pour qu'il forme ta numero portable.
+Dialogue: 0,0:08:09.45,0:08:10.45,CHS,,0,0,0,,{\fs45\c&H9AD1DD&}[法语]{\rCHS}谢谢\N{\rENG}Merci.
+Dialogue: 0,0:08:24.75,0:08:28.09,CHS,,0,0,0,,- 真难以置信你会在这里  - 我就住在巴黎\N{\rENG}- I can't believe you're here.  - I live here in Paris.
+Dialogue: 0,0:08:29.49,0:08:32.82,CHS,,0,0,0,,你真的不用多呆几天吗？你不用再和谁谈什么了吗？\N{\rENG}Are you sure you don't have to stay?You're not supposed to talk more?
+Dialogue: 0,0:08:33.03,0:08:35.09,CHS,,0,0,0,,不，他们都开始烦我了，我昨晚整夜都在这里\N{\rENG}They're sick of me.I spent the night here.
+Dialogue: 0,0:08:35.30,0:08:38.63,CHS,,0,0,0,,- 哦，真的吗？ - 是啊，他们楼上有间阁楼\N{\rENG}- You did?  - Yeah, they got a loft upstairs.
+Dialogue: 0,0:08:39.00,0:08:41.37,CHS,,0,0,0,,- 你怎么样？这感觉真奇怪  - 我很好\N{\rENG}- How are you? This is so weird.  - I'm fine.
+Dialogue: 0,0:08:41.60,0:08:45.30,CHS,,0,0,0,,- 见到你真高兴！ - 见到你真高兴！\N{\rENG}- It's good to see you.  - It's good to see you.
+Dialogue: 0,0:08:47.68,0:08:50.11,CHS,,0,0,0,,- 那你想去喝杯咖啡吗？ - 哦，当然\N{\rENG}- So you want to go to a cafe?  - Yeah.
+Dialogue: 0,0:08:50.31,0:08:52.68,CHS,,0,0,0,,那好，那边不远有一家很不错\N{\rENG}Okay. There's one a little further that I like.
+Dialogue: 0,0:08:52.85,0:08:56.75,CHS,,0,0,0,,我刚才见到你的时候我都快傻了\N{\rENG}I thought I was gonna totally lose it in there when I first saw you.
+Dialogue: 0,0:08:56.95,0:08:58.68,CHS,,0,0,0,,你怎么会知道我会来这的呢？\N{\rENG}How did you know I was gonna be here?
+Dialogue: 0,0:08:58.89,0:09:03.29,CHS,,0,0,0,,这是我在巴黎最喜欢的书店了，你可以坐在那里看一天书\N{\rENG}It's my favorite bookstore in Paris.You can sit down for hours and read.
+Dialogue: 0,0:09:03.46,0:09:05.45,CHS,,0,0,0,,我很喜欢这样，那儿是有跳蚤，不过，你知道的…\N{\rENG}I love it. There's fleas,but, you know....
+Dialogue: 0,0:09:05.63,0:09:07.99,CHS,,0,0,0,,我知道，我简直感觉昨晚有只猫睡在我头上\N{\rENG}I know. I think a cat slept on my head last night.
+Dialogue: 0,0:09:08.16,0:09:10.79,CHS,,0,0,0,,我一个月前就书店日历上看到你的照片\N{\rENG}I saw your picture on the calendar about a month ago...
+Dialogue: 0,0:09:10.97,0:09:12.83,CHS,,0,0,0,,知道你会来这里\N{\rENG}...and that you were going to be here.
+Dialogue: 0,0:09:13.27,0:09:16.17,CHS,,0,0,0,,有意思的是，我读了你的书，一小段而已\N{\rENG}It's funny, because I read an article on your book...
+Dialogue: 0,0:09:16.34,0:09:20.33,CHS,,0,0,0,,- 我有种朦朦胧胧的的亲切感  - 朦朦胧胧？是吗？\N{\rENG}- ...and it sounded vaguely familiar.  - Vaguely? Yeah.
+Dialogue: 0,0:09:20.71,0:09:24.54,CHS,,0,0,0,,是的，只不过是在见到你的照片之后才有的，所以…\N{\rENG}But I didn't put it all together until I saw your photo. So....
+Dialogue: 0,0:09:24.71,0:09:26.87,CHS,,0,0,0,,你看过那书了吗？\N{\rENG}Did you have a chance to read it?
+Dialogue: 0,0:09:27.08,0:09:28.52,CHS,,0,0,0,,是的，我…\N{\rENG}Yes, I....
+Dialogue: 0,0:09:28.68,0:09:31.15,CHS,,0,0,0,,你的书让我感到惊喜，你应该体会得到的\N{\rENG}I was really, really surprised,as you can imagine.
+Dialogue: 0,0:09:31.35,0:09:33.98,CHS,,0,0,0,,我是说，我对它爱不释手\N{\rENG}I mean, I had to read it twice, actually.
+Dialogue: 0,0:09:34.19,0:09:36.21,CHS,,0,0,0,,- 是吗？ - 是的\N{\rENG}- Yeah?  - Yeah.
+Dialogue: 0,0:09:36.45,0:09:37.65,CHS,,0,0,0,,{\fs45\c&H9AD1DD&}[法语]{\rCHS}写得马马虎虎？\N{\rENG}Comme ci comme ca?
+Dialogue: 0,0:09:37.66,0:09:40.25,CHS,,0,0,0,,不，我很喜欢，非常浪漫！\N{\rENG}No, I liked it. It's very romantic.
+Dialogue: 0,0:09:40.43,0:09:43.09,CHS,,0,0,0,,我平时不爱看类似的书，但是你写的真好\N{\rENG}I usually don't like that,but it's really well-written.
+Dialogue: 0,0:09:43.33,0:09:46.32,CHS,,0,0,0,,- 写的非常好，祝贺你！ - 好吧，谢谢\N{\rENG}- It's well-written. Congratulations.  - All right. Thank you.
+Dialogue: 0,0:09:46.74,0:09:48.60,CHS,,0,0,0,,- 等等  - 怎么啦？\N{\rENG}- Wait.  - What?
+Dialogue: 0,0:09:48.84,0:09:52.80,CHS,,0,0,0,,在我们出发前，我得问你…\N{\rENG}Before we go anywhere,I have to ask you....
+Dialogue: 0,0:09:53.21,0:09:54.77,CHS,,0,0,0,,没问题，什么事？\N{\rENG}Sure. What?
+Dialogue: 0,0:09:54.94,0:09:57.94,CHS,,0,0,0,,那年十二月，你去维也纳了吗？\N{\rENG}Did you show up in Vienna that December?
+Dialogue: 0,0:09:59.82,0:10:04.18,CHS,,0,0,0,,- 呃，你去了吗？ - 没有，我没能去成，但是…你去了吗？\N{\rENG}- Did you?  - No, I couldn't. But did you?
+Dialogue: 0,0:10:04.35,0:10:07.72,CHS,,0,0,0,,- 我必须要知道，这对我很重要！ - 为什么，既然你都没去？\N{\rENG}- I need to know. It's important to me.  - Why, if you didn't?
+Dialogue: 0,0:10:08.09,0:10:10.08,CHS,,0,0,0,,那，你去了吗？\N{\rENG}Well, did you?
+Dialogue: 0,0:10:10.26,0:10:11.75,CHS,,0,0,0,,没有\N{\rENG}No.
+Dialogue: 0,0:10:13.40,0:10:14.89,CHS,,0,0,0,,哦，谢天谢地你没去！\N{\rENG}Thank God you didn't.
+Dialogue: 0,0:10:15.10,0:10:16.89,CHS,,0,0,0,,- 哦，天啊  - 谢天谢地你没去\N{\rENG}- Oh, my God.  - Thank God you didn't.
+Dialogue: 0,0:10:17.10,0:10:20.59,CHS,,0,0,0,,我是说，幸亏我没去，你也没去，要是我们两个只有一个人去了…\N{\rENG}Thank God I didn't and you didn't.If one of us had showed up alone...
+Dialogue: 0,0:10:20.77,0:10:23.20,CHS,,0,0,0,,- …那简直是糟透了  - 我知道，我知道，我一直担心这个\N{\rENG}- ...that would have sucked.  - I was so concerned.
+Dialogue: 0,0:10:23.37,0:10:27.24,CHS,,0,0,0,,我一直因为没去而内疚，但是我确实没法！我祖母那之前几天过世了\N{\rENG}I felt horrible about not being there,but I couldn't. My grandma died...
+Dialogue: 0,0:10:27.44,0:10:29.71,CHS,,0,0,0,,那天是她下葬的日子，十二月十六日\N{\rENG}...and she was buried that day,December 16th.
+Dialogue: 0,0:10:29.91,0:10:32.47,CHS,,0,0,0,,- 她过世了？就是布达佩斯的那一位？ - 是的，你还记得？\N{\rENG}- The one in Budapest?  - Yes. You remember that?
+Dialogue: 0,0:10:32.72,0:10:35.48,CHS,,0,0,0,,- 当然，我什么都记得  - 噢，对了，你书中还提到了\N{\rENG}- I remember everything.  - Of course, it was in your book.
+Dialogue: 0,0:10:35.65,0:10:38.95,CHS,,0,0,0,,总之，我的确想过去维也纳的\N{\rENG}But anyway, I was about to fly to Vienna, you know...
+Dialogue: 0,0:10:39.15,0:10:43.22,CHS,,0,0,0,,但是噩耗突然传来，我只能去参加葬礼了\N{\rENG}...and we heard the news about her,and of course I had to go to the funeral.
+Dialogue: 0,0:10:43.39,0:10:45.12,CHS,,0,0,0,,是啊，听到这个真让人难过\N{\rENG}Yeah, I'm sorry to hear that.
+Dialogue: 0,0:10:45.29,0:10:49.06,CHS,,0,0,0,,我知道，反正你也没去…\N{\rENG}I know. But you weren't there anyway.
+Dialogue: 0,0:10:49.26,0:10:51.76,CHS,,0,0,0,,等等，你为什么没去？\N{\rENG}Wait. Why weren't you there?
+Dialogue: 0,0:10:51.97,0:10:55.30,CHS,,0,0,0,,我要是能去的话一定会去的，我定了计划，而且我…\N{\rENG}I would have been there if I could have. I made plans....
+Dialogue: 0,0:10:55.50,0:10:57.73,CHS,,0,0,0,,你最好能找到个好一点的理由！\N{\rENG}You better have a good reason.
+Dialogue: 0,0:10:57.94,0:10:59.27,CHS,,0,0,0,,怎么了？\N{\rENG}What?
+Dialogue: 0,0:11:01.38,0:11:02.81,CHS,,0,0,0,,哦，不！\N{\rENG}Oh, no.
+Dialogue: 0,0:11:03.48,0:11:05.50,CHS,,0,0,0,,你去那了，是吗？\N{\rENG}No, you were there, weren't you?
+Dialogue: 0,0:11:05.75,0:11:08.41,CHS,,0,0,0,,哦，不，真糟糕！\N{\rENG}Oh, no, that's terrible!
+Dialogue: 0,0:11:08.62,0:11:10.31,CHS,,0,0,0,,我知道，我笑了，不过我不是有意的！\N{\rENG}I'm laughing, but I don't mean it.
+Dialogue: 0,0:11:10.49,0:11:12.35,CHS,,0,0,0,,你当时生我气了吧，一定是的\N{\rENG}Did you hate me?You must've hated me.
+Dialogue: 0,0:11:12.52,0:11:14.79,CHS,,0,0,0,,- 你一直都在生我的气吧？一定是的  - 没有\N{\rENG}- Have you been hating me all this time?You have.  - No.
+Dialogue: 0,0:11:14.96,0:11:16.29,CHS,,0,0,0,,- 有，你生我气了  - 没有\N{\rENG}- Yes, you have.  - No.
+Dialogue: 0,0:11:16.49,0:11:18.32,CHS,,0,0,0,,但你现在不生气了，对吧？\N{\rENG}But you can't hate me now, right?
+Dialogue: 0,0:11:18.53,0:11:21.66,CHS,,0,0,0,,- 我是说，我祖母…  - 我没生你的气，又不是什么大事\N{\rENG}- I mean, my grandma...  - I don't hate you. It's no big deal.
+Dialogue: 0,0:11:21.90,0:11:24.42,CHS,,0,0,0,,我大老远飞过去，你却放我的鸽子\N{\rENG}I flew all the way over there,you blew the thing off.
+Dialogue: 0,0:11:24.63,0:11:27.69,CHS,,0,0,0,,于是我的人生自此一蹶不振，不过，这又算什么呢\N{\rENG}My life's been a big nosedive since,but it's not a problem.
+Dialogue: 0,0:11:27.94,0:11:30.77,CHS,,0,0,0,,- 我只是开玩笑，开玩笑  - 别这么说，我真无法相信\N{\rENG}- No, I'm kidding.  - Don't say that. I can't believe it.
+Dialogue: 0,0:11:30.97,0:11:33.44,CHS,,0,0,0,,我一定是把你气疯了，我真抱歉\N{\rENG}You must have been so angry with me. I'm so sorry.
+Dialogue: 0,0:11:33.61,0:11:36.13,CHS,,0,0,0,,我真的很想去的，没什么比这个更重要了！\N{\rENG}I really wanted to be there,more than anything in the world.
+Dialogue: 0,0:11:36.31,0:11:39.04,CHS,,0,0,0,,- 不开玩笑了，我发誓…  - 你不能生气啊，我祖母…\N{\rENG}- Honestly, I swear...  - You can't be angry, my grandmother...
+Dialogue: 0,0:11:39.21,0:11:42.88,CHS,,0,0,0,,我懂，我真的想到了，你大概就是被这种事情缠住了\N{\rENG}I know. I honestly thought that something like that might have happened.
+Dialogue: 0,0:11:43.05,0:11:45.14,CHS,,0,0,0,,我确实是非常失望，不过…\N{\rENG}I was definitely bummed, but....
+Dialogue: 0,0:11:45.32,0:11:49.02,CHS,,0,0,0,,我感到最遗憾的还是因为我们没有交换电话号码，或者任何其他个人信息\N{\rENG}Mostly I was mad we hadn't exchanged any phone numbers or any information.
+Dialogue: 0,0:11:49.19,0:11:51.18,CHS,,0,0,0,,瞧瞧我们干的傻事，没法彼此联系\N{\rENG}That was so stupid.No way to get in touch.
+Dialogue: 0,0:11:51.36,0:11:53.69,CHS,,0,0,0,,- 对啊，没法继续下去了  - 我甚至不知道你姓什么\N{\rENG}- Nothing to go on.  - I didn't know your last name.
+Dialogue: 0,0:11:53.86,0:11:57.06,CHS,,0,0,0,,记得吗，我们都担心如果我们开始通信，打电话…\N{\rENG}Remember, we were both afraid if we started writing and calling...
+Dialogue: 0,0:11:57.23,0:12:00.79,CHS,,0,0,0,,- …感觉会不会慢慢的就变淡了  - 是啊，而且肯定不会慢慢变淡\N{\rENG}- ...that it would slowly fade out.  - lt definitely wasn't a slow fade.
+Dialogue: 0,0:12:00.97,0:12:02.20,CHS,,0,0,0,,肯定不会\N{\rENG}No, it sure wasn't.
+Dialogue: 0,0:12:02.37,0:12:04.20,CHS,,0,0,0,,我们都怀念曾经拥有的感觉\N{\rENG}We wanted to pick up where we left off.
+Dialogue: 0,0:12:04.37,0:12:07.74,CHS,,0,0,0,,如果这份感觉可以永存的话，那就再好不过了\N{\rENG}Which would have been fine if it had worked. Oh, well.
+Dialogue: 0,0:12:09.08,0:12:10.64,CHS,,0,0,0,,那么…\N{\rENG}So....
+Dialogue: 0,0:12:11.21,0:12:14.44,CHS,,0,0,0,,- 你在维也纳待了多久？ - 就几天\N{\rENG}- How long were you in Vienna, then?  - Just a couple days.
+Dialogue: 0,0:12:15.28,0:12:18.15,CHS,,0,0,0,,你碰到其他女孩了吗？\N{\rENG}Did you meet another girl?
+Dialogue: 0,0:12:18.35,0:12:20.55,CHS,,0,0,0,,啊，是啊，她叫格蕾岑，她棒极了\N{\rENG}Yeah, her name was Gretchen and she was amazing.
+Dialogue: 0,0:12:20.56,0:12:22.65,CHS,,0,0,0,,- 真的？ - 是啊，事实上，那书是写你们两个的\N{\rENG}- You did?  - The book's really a composite of the two of you.
+Dialogue: 0,0:12:22.65,0:12:27.85,CHS,,0,0,0,,- 真的吗？ - 没这回事，我只是开玩笑！你不会相信的，我甚至还回到火车站过\N{\rENG}- Really?  - No, I'm kidding. You wouldn't believe... I even went back to the train station.
+Dialogue: 0,0:12:28.06,0:12:32.16,CHS,,0,0,0,,我支了个牌子，写了我旅馆的电话号码，以免你来晚了找不到\N{\rENG}I put up signs of my number in the hotel in case you'd been delayed.
+Dialogue: 0,0:12:32.33,0:12:35.00,CHS,,0,0,0,,- 我真是个笨蛋  - 我们这边走，有人打电话给你吗？\N{\rENG}- I was a total dork.  - Let's go this way. Did you get any calls?
+Dialogue: 0,0:12:35.40,0:12:38.40,CHS,,0,0,0,,有几个妓女，拉皮条的\N{\rENG}Just a couple hookers looking for a gig.
+Dialogue: 0,0:12:38.61,0:12:41.17,CHS,,0,0,0,,哦，那真是糟，我是说，你指望让我说什么呢\N{\rENG}No, it was awful, I mean,what do you want me to say?
+Dialogue: 0,0:12:41.34,0:12:42.74,CHS,,0,0,0,,哦，太让人伤心了，我真抱歉！\N{\rENG}It's so sad. I'm so sorry.
+Dialogue: 0,0:12:42.98,0:12:46.04,CHS,,0,0,0,,我就那么转悠了几天，最后，就飞回去了\N{\rENG}I walked around for a couple days.Eventually, I flew home.
+Dialogue: 0,0:12:46.25,0:12:48.51,CHS,,0,0,0,,还欠了我爸两千块\N{\rENG}I owed my dad 2000 bucks...
+Dialogue: 0,0:12:48.72,0:12:50.71,CHS,,0,0,0,,他可是警告我不要碰法国鸡\N{\rENG}...who had warned me about French chicks.
+Dialogue: 0,0:12:50.92,0:12:52.78,CHS,,0,0,0,,他怎么对你形容法国女人的？\N{\rENG}What did he tell you about French women?
+Dialogue: 0,0:12:53.02,0:12:55.08,CHS,,0,0,0,,没什么，他，他从来没有遇见过法国女人\N{\rENG}Nothing. He's never met any French women.
+Dialogue: 0,0:12:55.29,0:12:57.55,CHS,,0,0,0,,他从来没有去过比密西西比河更东的地方\N{\rENG}He's never been east of the Mississippi.
+Dialogue: 0,0:12:57.73,0:13:01.96,CHS,,0,0,0,,那你干嘛不加上一句，“六个月过去了，那个法国婊子还是没出现”\N{\rENG}Why didn't you put, "Six months later,the French bitch didn't show up"?
+Dialogue: 0,0:13:02.13,0:13:03.72,CHS,,0,0,0,,不，可是我差点这么做了\N{\rENG}No, but I did, I did.
+Dialogue: 0,0:13:03.93,0:13:06.87,CHS,,0,0,0,,- 你真的想过？ - 是的，我是说，我让它看起来更有悬念\N{\rENG}- You did?  - Yeah. No. I made it more hopeful.
+Dialogue: 0,0:13:07.07,0:13:09.59,CHS,,0,0,0,,我写了一段虚构的情节，说你最后出现了\N{\rENG}I wrote this fictional version where you do show up.
+Dialogue: 0,0:13:09.81,0:13:12.27,CHS,,0,0,0,,- 哦，你怎么写的？ - 呃…\N{\rENG}- Oh, what happens?  - Well....
+Dialogue: 0,0:13:13.58,0:13:15.20,CHS,,0,0,0,,怎么了？\N{\rENG}What?
+Dialogue: 0,0:13:15.61,0:13:18.60,CHS,,0,0,0,,呃，我们整整做了十天爱，这还没完\N{\rENG}We make love for about 10 days straight,that's one part of it.
+Dialogue: 0,0:13:18.78,0:13:21.58,CHS,,0,0,0,,- 哦，真有意思，一个法国荡妇…  - 没错\N{\rENG}- Interesting. So the French slut, right?  - Yeah, exactly.
+Dialogue: 0,0:13:21.78,0:13:24.27,CHS,,0,0,0,,从那以后，他们开始了解对方\N{\rENG}It's just then they get to know each other better...
+Dialogue: 0,0:13:24.45,0:13:26.44,CHS,,0,0,0,,然后他们意识到彼此并不合适\N{\rENG}...and realize they don't get along at all.
+Dialogue: 0,0:13:26.66,0:13:29.95,CHS,,0,0,0,,- 我喜欢这样，看起来更真实  - 我的编辑可不这么想\N{\rENG}- I like that. It's more real.  - My editor didn't think that way.
+Dialogue: 0,0:13:30.13,0:13:32.25,CHS,,0,0,0,,谁都想相信爱情，为了畅销嘛，对吧？\N{\rENG}Everyone wants to believe in love.It sells.
+Dialogue: 0,0:13:32.43,0:13:34.42,CHS,,0,0,0,,是啊，就是如此，所以…\N{\rENG}Yeah, exactly, so....
+Dialogue: 0,0:13:35.13,0:13:37.72,CHS,,0,0,0,,就是说你一切都好，对吧？\N{\rENG}So things are going well for you,right? I mean....
+Dialogue: 0,0:13:37.93,0:13:41.13,CHS,,0,0,0,,- 我是说，你的书是美国畅销书…  - 只是本小小的畅销书\N{\rENG}- Your book is a bestseller in the U.S.  - It's a tiny bestseller.
+Dialogue: 0,0:13:41.34,0:13:43.33,CHS,,0,0,0,,- 哦，别谦虚啦…  - 好吧，没错，理论上说，是的\N{\rENG}- Oh, come on.  - All right. Officially, yes.
+Dialogue: 0,0:13:43.57,0:13:46.67,CHS,,0,0,0,,可大多数人连莫比·迪克的书都没读过，又怎么会来读我的？\N{\rENG}Most people haven't read Moby Dick.Why should they read my book?
+Dialogue: 0,0:13:46.84,0:13:49.11,CHS,,0,0,0,,我也没读过莫比·迪克的书，可是我就喜欢你的书，所以…\N{\rENG}I haven't read Moby Dick and I liked your book.
+Dialogue: 0,0:13:49.28,0:13:51.58,CHS,,0,0,0,,- 谢谢  - 即使…\N{\rENG}- Thanks.  - Even though...
+Dialogue: 0,0:13:51.78,0:13:54.54,CHS,,0,0,0,,我觉得你把那一晚描绘得太完美了\N{\rENG}...I thought you idealized the night of it.
+Dialogue: 0,0:13:54.75,0:13:56.45,CHS,,0,0,0,,嘿，我说，这可是小说\N{\rENG}Come on, it's officially a fiction, right?
+Dialogue: 0,0:13:56.62,0:13:58.28,CHS,,0,0,0,,- 我本来就得…  - 我知道，我知道\N{\rENG}- I'm supposed to...  - I know, I know.
+Dialogue: 0,0:13:58.49,0:14:01.68,CHS,,0,0,0,,你知道，有些时候，你让我看起来…\N{\rENG}I know. I thought there were times where you made me....
+Dialogue: 0,0:14:01.92,0:14:06.29,CHS,,0,0,0,,呃，我是说她，不，还是我…算啦，管她是谁\N{\rENG}Well, I mean, her, right?No, me. Okay, whatever.
+Dialogue: 0,0:14:06.46,0:14:09.56,CHS,,0,0,0,,- 总之有点神经质！ - 你确实有点啊，不是吗？\N{\rENG}- A little bit neurotic.  - You are a bit like that, aren't you?
+Dialogue: 0,0:14:09.77,0:14:13.00,CHS,,0,0,0,,- 你认为我神经质？ - 没有，这是个玩笑而已！\N{\rENG}- You think I'm neurotic?  - No, no, no. Come on, I'm kidding.
+Dialogue: 0,0:14:13.17,0:14:15.03,CHS,,0,0,0,,我哪那么写了，我才没有呢\N{\rENG}Where did I do that? I didn't do that.
+Dialogue: 0,0:14:15.20,0:14:17.93,CHS,,0,0,0,,我这人就是这样的，你知道的…\N{\rENG}Oh, maybe it's just me, you know....
+Dialogue: 0,0:14:18.11,0:14:21.13,CHS,,0,0,0,,读到一个故事，知道故事是根据自己来写的\N{\rENG}Reading something, knowing the character is storied based on you...
+Dialogue: 0,0:14:21.34,0:14:24.01,CHS,,0,0,0,,这既让人受宠若惊，也让人心神不宁\N{\rENG}...it's both flattering and disturbing at the same time.
+Dialogue: 0,0:14:24.21,0:14:25.70,CHS,,0,0,0,,怎么会让人心神不宁的？\N{\rENG}How is it disturbing?
+Dialogue: 0,0:14:25.95,0:14:30.15,CHS,,0,0,0,,我不知道，只是…成为他人记忆中的一部分\N{\rENG}I don't know. Just being part of someone else's memory.
+Dialogue: 0,0:14:30.32,0:14:32.95,CHS,,0,0,0,,透过你的眼看到我自己\N{\rENG}Seeing myself through your eyes.
+Dialogue: 0,0:14:33.12,0:14:35.52,CHS,,0,0,0,,你写了多久？\N{\rENG}How long did it take you to write it?
+Dialogue: 0,0:14:36.49,0:14:38.29,CHS,,0,0,0,,呃，三四年吧，时断时续的\N{\rENG}Three or four years, on and off.
+Dialogue: 0,0:14:38.49,0:14:41.66,CHS,,0,0,0,,哇，你花了那么长时间就为了写一个晚上发生的事情？\N{\rENG}Wow, that's a really long time to be writing about one night.
+Dialogue: 0,0:14:41.86,0:14:44.53,CHS,,0,0,0,,是啊，我知道，你说的没错\N{\rENG}Yeah, I know. Tell you about it.
+Dialogue: 0,0:14:44.83,0:14:47.30,CHS,,0,0,0,,我总是认为你已经忘记我了\N{\rENG}I always assumed you had forgotten me.
+Dialogue: 0,0:14:47.70,0:14:50.47,CHS,,0,0,0,,没有，我心目中你的印象非常清晰\N{\rENG}No, I had a pretty clear picture of you in my mind.
+Dialogue: 0,0:14:50.67,0:14:53.07,CHS,,0,0,0,,- 我得告诉你件事情，我…  - 怎么了？\N{\rENG}- I have to tell you something. I just....  - What?
+Dialogue: 0,0:14:53.38,0:14:55.62,CHS,,0,0,0,,这么久以来，我一直想和你聊天，你知道吗，而现在…\N{\rENG}I've wanted to talk to you for so long that now...
+Dialogue: 0,0:14:55.62,0:14:56.62,CHS,,0,0,0,,- 是啊，我也是  - 现在梦想成真了\N{\rENG}- Me,too.  - It's just surreal, you know?
+Dialogue: 0,0:14:56.62,0:14:58.55,CHS,,0,0,0,,我却觉得不知道该说什么了\N{\rENG}I feel like everything should be...
+Dialogue: 0,0:14:59.18,0:15:01.62,CHS,,0,0,0,,我懂，我懂，我们还有多长时间？二十分钟又三十秒？\N{\rENG}How long do we have?Twenty minutes and 30 seconds?
+Dialogue: 0,0:15:01.82,0:15:04.12,CHS,,0,0,0,,不，我们有的是时间，我想多和你聊聊\N{\rENG}We got more than that.I wanna know about you.
+Dialogue: 0,0:15:04.32,0:15:06.91,CHS,,0,0,0,,告诉我你在做什么？\N{\rENG}Tell me, what are you doing?What are you up to?
+Dialogue: 0,0:15:07.16,0:15:11.75,CHS,,0,0,0,,呃，从哪开始呢…我为绿十字会工作，那是个环保组织\N{\rENG}Where to start? I work for Green Cross.It's an environmental organization.
+Dialogue: 0,0:15:11.99,0:15:13.33,CHS,,0,0,0,,他们是干嘛的？\N{\rENG}What are they all about?
+Dialogue: 0,0:15:13.53,0:15:16.09,CHS,,0,0,0,,这个嘛，基本上来说，我们会关注一些环境问题\N{\rENG}We basically work on different environment issues...
+Dialogue: 0,0:15:16.26,0:15:18.89,CHS,,0,0,0,,比如净化水质，或者销毁化学武器什么的\N{\rENG}...from clean water to disarmament of chemical weapons.
+Dialogue: 0,0:15:19.07,0:15:21.54,CHS,,0,0,0,,你懂吗，涉及环境的国际法什么的\N{\rENG}International laws that deal with the environment.
+Dialogue: 0,0:15:21.70,0:15:24.07,CHS,,0,0,0,,- 那，你为他们做什么？ - 我们走这边\N{\rENG}- What do you do for them?  - We're going this way.
+Dialogue: 0,0:15:24.51,0:15:25.84,CHS,,0,0,0,,很多事了\N{\rENG}Different things.
+Dialogue: 0,0:15:26.04,0:15:29.91,CHS,,0,0,0,,比如去年，我在印度待了一阵，在一间水处理工厂工作\N{\rENG}Like, last year I was in lndia for quite a while,working on a water-treatment plant.
+Dialogue: 0,0:15:30.71,0:15:34.05,CHS,,0,0,0,,那里的棉纺工业是主要的污染源，所以…\N{\rENG}Well, the cotton industry there is a major source of pollution, so....
+Dialogue: 0,0:15:34.22,0:15:37.15,CHS,,0,0,0,,我是说，听起来你的确做了一些有意义的事情\N{\rENG}I mean, it sounds like you're actually doing something.
+Dialogue: 0,0:15:37.35,0:15:40.79,CHS,,0,0,0,,大多数人，也包括我，只是…你知道吗，无所事事\N{\rENG}Most people, myself included,just sit around and bitch.
+Dialogue: 0,0:15:40.96,0:15:45.62,CHS,,0,0,0,,美国消耗了世界上大多数资源，箱式轿车尤其如此\N{\rENG}You know, how America's consuming all the world's resources, SUVs suck...
+Dialogue: 0,0:15:45.79,0:15:47.19,CHS,,0,0,0,,全球也在变暖…\N{\rENG}...global warming is real...
+Dialogue: 0,0:15:47.40,0:15:50.76,CHS,,0,0,0,,很高兴你不是那种狂妄自大的美国人\N{\rENG}I'm relieved to hear you're not one of those "freedom fries" Americans.
+Dialogue: 0,0:15:50.93,0:15:53.37,CHS,,0,0,0,,不过，你是怎么会去做这个的呢？\N{\rENG}Hey, you know...But how'd you get into that?
+Dialogue: 0,0:15:53.54,0:15:56.80,CHS,,0,0,0,,啊，我政治系毕了业，那时我希望为政府工作\N{\rENG}I came out of political science,hoping to work for the government.
+Dialogue: 0,0:15:57.04,0:15:59.74,CHS,,0,0,0,,- 而我确实也替他们干了一阵，哎，太糟了！ - 不好吗？\N{\rENG}- And I did for a little while. Terrible.  - Not good?
+Dialogue: 0,0:15:59.94,0:16:03.57,CHS,,0,0,0,,是的，不好，我们这边走，总之，我烦透了…\N{\rENG}Yeah, no. anyway, I got really tired... Let's go this way.
+Dialogue: 0,0:16:03.78,0:16:06.08,CHS,,0,0,0,,…与朋友无休止的讨论…\N{\rENG}Having this endless conversation with friends...
+Dialogue: 0,0:16:06.25,0:16:08.48,CHS,,0,0,0,,关于世界怎么会分裂成这样的问题\N{\rENG}...about how the world was falling to pieces.
+Dialogue: 0,0:16:08.72,0:16:11.12,CHS,,0,0,0,,所以我意识到我真正想要做的\N{\rENG}So I decided what I really wanted to do was...
+Dialogue: 0,0:16:11.32,0:16:14.69,CHS,,0,0,0,,就是找到一些可以做好的事情，然后努力做好它们\N{\rENG}...to find things that could be fixed and try to fix them, you know?
+Dialogue: 0,0:16:14.89,0:16:18.62,CHS,,0,0,0,,我一直觉得你会做这种超酷的事情的\N{\rENG}You know, I always thought you'd be doing something cool like that. I did.
+Dialogue: 0,0:16:18.83,0:16:23.76,CHS,,0,0,0,,谢谢！不过我真的很幸运，能找到份自己喜欢的工作\N{\rENG}Thanks. I just feel really, really lucky to be doing a job I like, you know?
+Dialogue: 0,0:16:23.97,0:16:25.43,CHS,,0,0,0,,是啊\N{\rENG}Yeah.
+Dialogue: 0,0:16:25.60,0:16:30.33,CHS,,0,0,0,,你知道吗，事实上我曾经非常彷徨，一会儿认为这个世界已经没救了…\N{\rENG}I actually alternate in between thinking everything is irrevocably screwed up...
+Dialogue: 0,0:16:30.51,0:16:32.80,CHS,,0,0,0,,一会儿又认为很多时候还是有转机的\N{\rENG}...and things might be getting better in ways.
+Dialogue: 0,0:16:33.01,0:16:35.44,CHS,,0,0,0,,转机？为什么要这么悲观呢？\N{\rENG}Better? How could you possibly say that?
+Dialogue: 0,0:16:35.61,0:16:37.41,CHS,,0,0,0,,这个嘛，我只是说，你明白吗，比如…\N{\rENG}Well, I just mean, you know, like....
+Dialogue: 0,0:16:37.58,0:16:41.24,CHS,,0,0,0,,我知道这听起来很奇怪，不过有些事情还是要从好的方面来看\N{\rENG}I know it sounds weird, but there are things to be optimistic about.
+Dialogue: 0,0:16:41.45,0:16:46.15,CHS,,0,0,0,,好啦，我知道你的书畅销，这非常好，我为你感到高兴，不过…\N{\rENG}Okay.... I know your book is selling,which is great, I'm very happy for you.
+Dialogue: 0,0:16:46.35,0:16:49.62,CHS,,0,0,0,,让我告诉你真实的世界，好吗？世界现在是一团糟！\N{\rENG}But let me break the news to you:The world is a mess right now.
+Dialogue: 0,0:16:49.83,0:16:52.32,CHS,,0,0,0,,从西方世界的观点来看来说，世界的确在变好\N{\rENG}From a Western view,things are getting a bit better.
+Dialogue: 0,0:16:52.53,0:16:56.12,CHS,,0,0,0,,我们正把工业重心转移到发展中国家，那里我们能获得便宜的劳动力…\N{\rENG}We're moving industry to developing nations where we can get cheap labor...
+Dialogue: 0,0:16:56.33,0:16:59.60,CHS,,0,0,0,,…而不去管任何环保法律，军火工业蓬勃发展\N{\rENG}...free of any environmental laws.The weapon industry is booming.
+Dialogue: 0,0:16:59.77,0:17:02.74,CHS,,0,0,0,,每年有五百万人因为水质污染而死去，而这些本来是可以避免的\N{\rENG}Five million people die a year from preventable water disease.
+Dialogue: 0,0:17:02.94,0:17:05.93,CHS,,0,0,0,,告诉我，这样的世界还不够糟糕吗？我没有生气，我没有生气\N{\rENG}How is the world getting better?I'm not angry, I'm not angry.
+Dialogue: 0,0:17:06.14,0:17:08.23,CHS,,0,0,0,,不过，说吧，我想知道，我很有兴趣！\N{\rENG}But come on, I want to know.I'm interested.
+Dialogue: 0,0:17:08.44,0:17:11.94,CHS,,0,0,0,,好吧，我知道世界上有很多严重的问题\N{\rENG}I realize that there are a lot of serious problems in the world.
+Dialogue: 0,0:17:12.15,0:17:14.38,CHS,,0,0,0,,- 太好了，谢谢你！ - 我的意思是说\N{\rENG}- Okay. Thank you.  - I mean, I don't even have...
+Dialogue: 0,0:17:14.62,0:17:17.98,CHS,,0,0,0,,- 我在亚洲根本找不到出版商出我的书  - 好啦\N{\rENG}- ...one publisher in the Asian market.  - Okay. All right.
+Dialogue: 0,0:17:18.65,0:17:21.62,CHS,,0,0,0,,- 说“住嘴”！ - 怎么啦？住嘴\N{\rENG}- Say stop.  - What? Stop.
+Dialogue: 0,0:17:21.79,0:17:25.69,CHS,,0,0,0,,听我说，我想说的只是更多的人意识到这一点了，人们正在反击！\N{\rENG}Look, all I'm saying is there's more awareness. People are gonna fight back.
+Dialogue: 0,0:17:25.86,0:17:28.85,CHS,,0,0,0,,世界还是有可能变得更好的，因为更多像你这样的人…\N{\rENG}The world might be getting better because people like you...
+Dialogue: 0,0:17:29.03,0:17:30.66,CHS,,0,0,0,,…学会了说出自己的想法\N{\rENG}...are educated and speaking out.
+Dialogue: 0,0:17:31.13,0:17:34.47,CHS,,0,0,0,,最起码的，那些环保问题\N{\rENG}Even the very notion of conservation,environmental issues...
+Dialogue: 0,0:17:34.67,0:17:37.04,CHS,,0,0,0,,最近才出现在词典里\N{\rENG}...weren't in the vocabulary till fairly recently.
+Dialogue: 0,0:17:37.21,0:17:41.30,CHS,,0,0,0,,而现在他们已经成了规范了，而最后他们都可能被实现\N{\rENG}And they're becoming the norm and eventually might be what's expected.
+Dialogue: 0,0:17:41.51,0:17:44.48,CHS,,0,0,0,,我同意你的看法，但是同时，这也很危险！\N{\rENG}I agree with what you're saying,but at the same time it's dangerous.
+Dialogue: 0,0:17:44.68,0:17:47.31,CHS,,0,0,0,,帝国主义国家会用你这种观点…\N{\rENG}An imperialist country can use that kind of thinking...
+Dialogue: 0,0:17:47.48,0:17:49.64,CHS,,0,0,0,,…来为他们经济上的巧取豪夺找到依据\N{\rENG}...to justify their economic greed.
+Dialogue: 0,0:17:51.09,0:17:55.15,CHS,,0,0,0,,你是在针对某一个帝国主义国家吧，法国佬？\N{\rENG}Is there any particular imperialist country you have in mind, there, Frenchie?
+Dialogue: 0,0:17:55.32,0:17:57.52,CHS,,0,0,0,,- 没，没有  - 没有吗？\N{\rENG}- No, not really.  - No?
+Dialogue: 0,0:17:57.52,0:17:59.96,CHS,,0,0,0,,- {\fs45\c&H9AD1DD&}[法语]{\rCHS}晚上好  - {\fs45\c&H9AD1DD&}[法语]{\rCHS}晚上好\N{\rENG}- Bonsoir!  - Bonsoir!
+Dialogue: 0,0:18:02.93,0:18:06.42,CHS,,0,0,0,,- 你愿意坐那边吗？ - 当然，这真不错\N{\rENG}- So you wanna sit over there?  - Yeah, this is perfect.
+Dialogue: 0,0:18:06.84,0:18:09.57,CHS,,0,0,0,,哦，哇，可能我想说的只是…\N{\rENG}Oh, wow. Maybe what I'm saying is...
+Dialogue: 0,0:18:09.81,0:18:12.71,CHS,,0,0,0,,…世界的命运就像一个人的命运一样\N{\rENG}...the world might be evolving the way a person evolves.
+Dialogue: 0,0:18:12.87,0:18:15.90,CHS,,0,0,0,,我是说，比如我，我在退步了吗？\N{\rENG}Like, I mean, me, for example.Am I getting worse?
+Dialogue: 0,0:18:16.08,0:18:20.28,CHS,,0,0,0,,我在进步吗？我也不知道！当我更年轻的时候，我也更健康…\N{\rENG}Am I improving? I don't know.When I was younger, I was healthier...
+Dialogue: 0,0:18:20.45,0:18:22.94,CHS,,0,0,0,,…但是我充满了危机感，你懂吗？\N{\rENG}...but I was wracked with insecurity,you know?
+Dialogue: 0,0:18:23.59,0:18:25.68,CHS,,0,0,0,,现在，我变老了，遇到的问题也更复杂了\N{\rENG}Now I'm older and my problems are deeper...
+Dialogue: 0,0:18:25.85,0:18:27.72,CHS,,0,0,0,,但是我也更知道怎么来处理它们了\N{\rENG}...but I'm more equipped to handle them.
+Dialogue: 0,0:18:28.46,0:18:30.62,CHS,,0,0,0,,那么，你碰到什么问题了？\N{\rENG}So, what are your problems?
+Dialogue: 0,0:18:32.19,0:18:36.69,CHS,,0,0,0,,现在？没事，我没事，我只是…\N{\rENG}Right now I don't have any.I don't, you know? I'm just...
+Dialogue: 0,0:18:36.87,0:18:38.59,CHS,,0,0,0,,…我真他妈高兴能在这！\N{\rENG}...damn happy to be here.
+Dialogue: 0,0:18:39.03,0:18:40.59,CHS,,0,0,0,,我也一样\N{\rENG}Me too.
+Dialogue: 0,0:18:43.61,0:18:45.87,CHS,,0,0,0,,那，你在巴黎待了多久了？\N{\rENG}So how long have you been in Paris?
+Dialogue: 0,0:18:46.07,0:18:49.48,CHS,,0,0,0,,我昨晚才来，十二天之内我跑了十个城市\N{\rENG}I got in last night.I've done 10 cities in 12 days.
+Dialogue: 0,0:18:49.71,0:18:52.04,CHS,,0,0,0,,我累极了，所以我很高兴一切都结束了\N{\rENG}I'm wrecked. I'm so glad it's over,you know?
+Dialogue: 0,0:18:52.25,0:18:53.71,CHS,,0,0,0,,我已经厌倦了这种推销\N{\rENG}I'm tired of being a huckster.
+Dialogue: 0,0:18:54.28,0:18:55.17,CHS,,0,0,0,,- 嗨  - 你好\N{\rENG}- Hi.  - Hello.
+Dialogue: 0,0:18:55.17,0:18:55.96,CHS,,0,0,0,,{\fs45\c&H9AD1DD&}[法语]{\rCHS}请问您想要点什么？\N{\rENG}Qu'est que je vous sers?
+Dialogue: 0,0:18:55.98,0:18:57.47,CHS,,0,0,0,,你要点什么？\N{\rENG}What do you want?
+Dialogue: 0,0:18:57.72,0:18:58.71,CHS,,0,0,0,,一杯咖啡…\N{\rENG}A cup of coffee.
+Dialogue: 0,0:18:59.15,0:19:03.45,CHS,,0,0,0,,{\fs45\c&H9AD1DD&}[法语]{\rCHS}请给我来一杯咖啡和一片柠檬\N{\rENG}Un cafe et un citron presse,s'il vous plait.
+Dialogue: 0,0:19:03.46,0:19:07.16,CHS,,0,0,0,,天，我爱死这家咖啡馆了，我真希望美国也有这样的地方\N{\rENG}God, I love this cafe. I wish they had places like this in the U.S.
+Dialogue: 0,0:19:07.60,0:19:10.09,CHS,,0,0,0,,是啊，当我住那边的时候，我可想念咖啡馆了\N{\rENG}Yeah, I missed cafes when I was living over there.
+Dialogue: 0,0:19:10.30,0:19:13.17,CHS,,0,0,0,,我是说，我是找到了一些我喜欢的地方，但是那…\N{\rENG}I mean, I find a few places I really liked, but there was...
+Dialogue: 0,0:19:13.40,0:19:17.39,CHS,,0,0,0,,- 你…你在美国呆过？ - 是的，从…九六年到九九年\N{\rENG}- You were living in the U.S.?  - Yes, from '96 to '99.
+Dialogue: 0,0:19:17.61,0:19:19.16,CHS,,0,0,0,,我那时在纽约州立大学上学\N{\rENG}I was studying at NYU.
+Dialogue: 0,0:19:19.57,0:19:22.17,CHS,,0,0,0,,哦，天啊，真难以相信，塞琳！\N{\rENG}Oh, God, don't tell me that, Celine.
+Dialogue: 0,0:19:22.41,0:19:24.44,CHS,,0,0,0,,- 怎么了？ - 没什么，只是…\N{\rENG}- What?  - No, it's just...
+Dialogue: 0,0:19:24.65,0:19:26.34,CHS,,0,0,0,,- 没什么，我是说我…  - 怎么了\N{\rENG}- Nothing, I mean, I...  - What?
+Dialogue: 0,0:19:26.51,0:19:29.92,CHS,,0,0,0,,我从九八年起就住在纽约了，你懂吗，我们那时都在那里！\N{\rENG}I've been living in New York since '98.We were there at the same time.
+Dialogue: 0,0:19:30.09,0:19:31.64,CHS,,0,0,0,,- 纽约？ - 是的\N{\rENG}- In New York?  - Yeah.
+Dialogue: 0,0:19:31.82,0:19:36.52,CHS,,0,0,0,,奇怪的是，事实上有几次我想到过可能会遇见你，\N{\rENG}That's weird. It actually crossed my mind a few times that I might run into you...
+Dialogue: 0,0:19:36.69,0:19:39.02,CHS,,0,0,0,,…但是几率太低了，对吧？而且…\N{\rENG}...but the odds are so slim, right? So....
+Dialogue: 0,0:19:39.63,0:19:41.53,CHS,,0,0,0,,我那时都不知道你住哪个城市\N{\rENG}I didn't even know what city you were in.
+Dialogue: 0,0:19:41.70,0:19:45.19,CHS,,0,0,0,,- 你不是住德克萨斯吗？ - 是的，没错，正是如此，我只是…\N{\rENG}- Weren't you somewhere in Texas?  - Yeah, yeah, definitely. I just...
+Dialogue: 0,0:19:45.43,0:19:48.93,CHS,,0,0,0,,我在那住了很久，我只是…你明白吗，到纽约换换环境\N{\rENG}I was for a long time. I just,you know, wanted to try New York.
+Dialogue: 0,0:19:50.97,0:19:52.63,CHS,,0,0,0,,那你为什么回来了呢？\N{\rENG}What brought you back here?
+Dialogue: 0,0:19:52.84,0:19:54.83,CHS,,0,0,0,,一是我读完了硕士\N{\rENG}I had finished my master's, for one...
+Dialogue: 0,0:19:55.04,0:19:57.27,CHS,,0,0,0,,再来，我的签证到期了\N{\rENG}...and no visa, no more visa.
+Dialogue: 0,0:19:57.48,0:20:01.85,CHS,,0,0,0,,而且，不算这些，我也开始有点妄想狂了，媒体上那么多的暴力事件\N{\rENG}And I was starting to get paranoid.All the violence in the medias:
+Dialogue: 0,0:20:02.02,0:20:05.28,CHS,,0,0,0,,黑帮啦，谋杀啦…尤其是那连环杀手\N{\rENG}Gang violence, murders,especially serial killers....
+Dialogue: 0,0:20:06.92,0:20:08.55,CHS,,0,0,0,,而最后决定性的原因是…\N{\rENG}But the final straw was...
+Dialogue: 0,0:20:08.79,0:20:11.66,CHS,,0,0,0,,…有天晚上我听到外面消防通道上有些动静\N{\rENG}...one night I heard some noise on my fire escape...
+Dialogue: 0,0:20:11.86,0:20:14.42,CHS,,0,0,0,,于是我打了九一一，最后警察终于来了\N{\rENG}...so I called 911,and the cops came eventually.
+Dialogue: 0,0:20:14.63,0:20:18.12,CHS,,0,0,0,,- 大概三小时以后吧  - 是啊，那时候我已经被先奸后杀了\N{\rENG}- Like three hours later.  - Yeah, after I had been raped and killed.
+Dialogue: 0,0:20:18.73,0:20:21.22,CHS,,0,0,0,,没有啦，来的只是一个男一女两个警察\N{\rENG}No, but it was a man and a woman officer.
+Dialogue: 0,0:20:21.47,0:20:23.46,CHS,,0,0,0,,当那个女警到楼下挪警车的时候\N{\rENG}I was explaining what I had heard...
+Dialogue: 0,0:20:23.67,0:20:25.97,CHS,,0,0,0,,我向他解释我听到的声音\N{\rENG}...when the woman had to go move the police car.
+Dialogue: 0,0:20:26.14,0:20:27.84,CHS,,0,0,0,,那时只有那个男警察和我一起\N{\rENG}I was left alone with the male cop.
+Dialogue: 0,0:20:28.01,0:20:32.47,CHS,,0,0,0,,而他立刻问我是不是有枪…我说没有，我当然没有了\N{\rENG}Right away he asked me if I had a gun,and I said, "No, of course not."
+Dialogue: 0,0:20:32.68,0:20:35.55,CHS,,0,0,0,,然后他对我说：“是吗，你最好考虑去买一把”\N{\rENG}And he told me, "Well, you better think about getting one.
+Dialogue: 0,0:20:35.75,0:20:39.08,CHS,,0,0,0,,“这里是美国，不是法国”\N{\rENG}This is america, not France. Okay? "
+Dialogue: 0,0:20:39.25,0:20:42.38,CHS,,0,0,0,,然后我对他说，我完全不懂怎么开枪\N{\rENG}And I said to him, "l have no idea how to shoot a gun...
+Dialogue: 0,0:20:42.59,0:20:45.08,CHS,,0,0,0,,而且，我对枪支也没有兴趣\N{\rENG}...and I have no interest in firearms whatsoever."
+Dialogue: 0,0:20:45.33,0:20:49.09,CHS,,0,0,0,,于是他抽出他的枪，就像这样，然后他说：\N{\rENG}And that's when he pulled out his gun,like this, and he went:
+Dialogue: 0,0:20:49.33,0:20:54.77,CHS,,0,0,0,,“总有一天，你会碰到这么个东西指着你的脸”\N{\rENG}"Well, one day, you're gonna have something like this in your face...
+Dialogue: 0,0:20:55.04,0:20:57.37,CHS,,0,0,0,,“如果你想活的长久点”\N{\rENG}...and if you wanna have a long life...
+Dialogue: 0,0:20:57.97,0:21:01.74,CHS,,0,0,0,,“你就必须决定是不是要干掉他们”\N{\rENG}...you're gonna have to choose between you or them."
+Dialogue: 0,0:21:02.84,0:21:07.21,CHS,,0,0,0,,然后他们就走了，而第二天早上，我就打电话申请持有枪支\N{\rENG}And then they left. And the next morning I called for an application to get a gun.
+Dialogue: 0,0:21:07.42,0:21:09.91,CHS,,0,0,0,,让我拿把枪！我是说，那可真可怕…\N{\rENG}Me with a gun.I mean, that's really scary.
+Dialogue: 0,0:21:10.12,0:21:12.25,CHS,,0,0,0,,但是然后我意识到有些事不对劲\N{\rENG}But then I realized something was wrong.
+Dialogue: 0,0:21:12.49,0:21:16.01,CHS,,0,0,0,,那警察拔枪的举动，还有其他的事…\N{\rENG}The way that cop had pulled his gun out,and everything, right?
+Dialogue: 0,0:21:16.22,0:21:18.06,CHS,,0,0,0,,于是我取消了对枪的预订\N{\rENG}So I canceled my demand for the gun...
+Dialogue: 0,0:21:18.23,0:21:21.35,CHS,,0,0,0,,然后我打电话给警察局，想要对那个警察的行为进行申诉，但是…\N{\rENG}...and I called the police and tried to complain about that cop.
+Dialogue: 0,0:21:21.53,0:21:24.09,CHS,,0,0,0,,- 发生什么事了？ - 要填太多表了\N{\rENG}- What happened with that?  - It was so much paperwork...
+Dialogue: 0,0:21:24.27,0:21:27.10,CHS,,0,0,0,,然后我就怕了，就凭我这种学生签证…\N{\rENG}...and then I got scared,with my shitty student visa...
+Dialogue: 0,0:21:27.27,0:21:29.70,CHS,,0,0,0,,- 你认为你会被遣送出境  - 没错！于是我放弃了…\N{\rENG}- Thought you'd get deported?  - Exactly. I gave up...
+Dialogue: 0,0:21:29.87,0:21:31.63,CHS,,0,0,0,,然后就忘记了整件事\N{\rENG}...and forgot about the whole thing.
+Dialogue: 0,0:21:31.87,0:21:35.43,CHS,,0,0,0,,- 其实，我想我永远也不会忘记的  - 当然了\N{\rENG}- Well, I guess I never forgot.  - Obviously.
+Dialogue: 0,0:21:35.64,0:21:38.20,CHS,,0,0,0,,但是，我真的还是喜欢在那里的日子\N{\rENG}But still, you know,I really enjoyed being there.
+Dialogue: 0,0:21:38.41,0:21:41.54,CHS,,0,0,0,,- 我怀念美国的很多事  - 是吗，比如？\N{\rENG}- There's lots of things I miss in the U.S.  - Yeah? Like what?
+Dialogue: 0,0:21:43.52,0:21:45.08,CHS,,0,0,0,,嗯…\N{\rENG}Well....
+Dialogue: 0,0:21:45.29,0:21:47.78,CHS,,0,0,0,,那里的人们通常都有好心情\N{\rENG}The overall good mood people have there.
+Dialogue: 0,0:21:48.02,0:21:50.08,CHS,,0,0,0,,比如，你知道的，即使有的时候胡乱问候\N{\rENG}Like, even if it can be bullshit sometimes.
+Dialogue: 0,0:21:50.26,0:21:53.06,CHS,,0,0,0,,比如“你好吗？”“很好！”“你好吗？”“很好！”\N{\rENG}Like, "How you doing? " "Great." "How you doing? " "Great!"
+Dialogue: 0,0:21:53.46,0:21:55.59,CHS,,0,0,0,,“祝你今天愉快！”\N{\rENG}"Have a great day!"
+Dialogue: 0,0:21:56.03,0:21:59.63,CHS,,0,0,0,,我也不知道，巴黎人的脾气可不好，你发现了吗？\N{\rENG}I don't know. Parisians can be so grumpy. Have you noticed?
+Dialogue: 0,0:21:59.83,0:22:02.46,CHS,,0,0,0,,没有啊，每个人在我看来都很高兴啊\N{\rENG}No, everybody seems pretty happy to me.
+Dialogue: 0,0:22:03.17,0:22:06.11,CHS,,0,0,0,,- 他们总是不高兴…  - 他们总是不高兴？\N{\rENG}- They're not happy. No.  - They're not happy?
+Dialogue: 0,0:22:06.27,0:22:09.64,CHS,,0,0,0,,不是，他们也高兴，我不知道，我说的只是法国男人，他们快把我逼疯了！\N{\rENG}No, they are. I don't know. I just mean French men. They drive me nuts.
+Dialogue: 0,0:22:09.84,0:22:11.24,CHS,,0,0,0,,怎么回事？他们怎么了？\N{\rENG}What is it? What about them?
+Dialogue: 0,0:22:11.58,0:22:14.57,CHS,,0,0,0,,嗯，他们很好，不深入接触的话非常好\N{\rENG}Well, they're very nice.They're great, you know, to be around.
+Dialogue: 0,0:22:14.78,0:22:16.77,CHS,,0,0,0,,他们喜欢食物，酒，他们做东西很好吃…\N{\rENG}They love food, wine,they're great cooks.
+Dialogue: 0,0:22:16.95,0:22:18.94,CHS,,0,0,0,,但是，不知道，可能我只是运气不好\N{\rENG}But I've had really bad luck with them.
+Dialogue: 0,0:22:19.12,0:22:20.75,CHS,,0,0,0,,怎么这么说？什么意思？\N{\rENG}Why? What do you mean?
+Dialogue: 0,0:22:21.59,0:22:24.58,CHS,,0,0,0,,- 我想他们不是那么…  - 怎么？\N{\rENG}- Well, I guess they're not as...  - What?
+Dialogue: 0,0:22:24.79,0:22:26.35,CHS,,0,0,0,,怎么说呢\N{\rENG}What's the word?
+Dialogue: 0,0:22:27.43,0:22:30.69,CHS,,0,0,0,,- 好色？他们不那么好色…  - 好色？\N{\rENG}- Horny? They're not as horny.  - Horny?
+Dialogue: 0,0:22:30.93,0:22:35.20,CHS,,0,0,0,,等等，听我这么说怎样，对此，我以身为美国人而骄傲\N{\rENG}Wait, listen to me on this one. In that regard, I am proud to be an american.
+Dialogue: 0,0:22:35.37,0:22:36.91,CHS,,0,0,0,,你确实应该如此，仅对此一点\N{\rENG}And you should be.In that regard only.
+Dialogue: 0,0:22:37.65,0:22:38.45,CHS,,0,0,0,,{\fs45\c&H9AD1DD&}[法语]{\rCHS}谢谢\N{\rENG}Merci.
+Dialogue: 0,0:22:38.47,0:22:40.46,CHS,,0,0,0,,你去过东欧吗？\N{\rENG}Have you ever spent time in Eastern Europe?
+Dialogue: 0,0:22:40.94,0:22:43.43,CHS,,0,0,0,,东欧？没，没有…谢谢\N{\rENG}Eastern... No, I don't.Thank you.
+Dialogue: 0,0:22:44.48,0:22:47.04,CHS,,0,0,0,,我记得当我十多岁的时候我去过华沙\N{\rENG}I remember as a teenager I went to Warsaw...
+Dialogue: 0,0:22:47.22,0:22:49.78,CHS,,0,0,0,,那时它还是共产主义的那一套\N{\rENG}...when it was still a strict communist regime.
+Dialogue: 0,0:22:49.98,0:22:52.35,CHS,,0,0,0,,- 对此我是一点也不支持  - 当然…\N{\rENG}- Which I don't approve of at all.  - Sure you don't.
+Dialogue: 0,0:22:52.59,0:22:54.56,CHS,,0,0,0,,- 不是，我才没有…  - 好啦，我只是开玩笑！\N{\rENG}- No, I don't.  - I'm just kidding.
+Dialogue: 0,0:22:54.72,0:22:57.66,CHS,,0,0,0,,但是，不管怎样，我发现待在那里是件很有意思的事\N{\rENG}But anyway, something about being there was very interesting.
+Dialogue: 0,0:22:57.83,0:23:01.06,CHS,,0,0,0,,仅仅几个星期之后，我就有了改变\N{\rENG}After a couple of weeks,something changed in me.
+Dialogue: 0,0:23:01.23,0:23:04.39,CHS,,0,0,0,,那座城市又阴郁又灰暗…\N{\rENG}The city was quite gloomy and gray...
+Dialogue: 0,0:23:04.60,0:23:07.33,CHS,,0,0,0,,但是过了一阵以后，我头脑变的更清醒了\N{\rENG}...but after a while,my brain seemed clearer.
+Dialogue: 0,0:23:07.50,0:23:09.16,CHS,,0,0,0,,我在日记上记录了更多的东西\N{\rENG}I was writing more in my journal...
+Dialogue: 0,0:23:09.37,0:23:12.53,CHS,,0,0,0,,- 很多我以前从来没有过的想法  - 共产主义的想法？\N{\rENG}- ...ideas I'd never thought of before...  - Communist ideas?
+Dialogue: 0,0:23:12.74,0:23:14.90,CHS,,0,0,0,,- 听着，我可不是…  - 对不起，我…\N{\rENG}- Listen, I'm not...  - I'm sorry, I...
+Dialogue: 0,0:23:15.14,0:23:16.87,CHS,,0,0,0,,- 好吧  - 继续！\N{\rENG}- Okay.  - Go on.
+Dialogue: 0,0:23:17.11,0:23:19.67,CHS,,0,0,0,,以后我要送你去俄国古拉格集中营\N{\rENG}Okay. I'll send you to a gulag later.
+Dialogue: 0,0:23:19.85,0:23:23.31,CHS,,0,0,0,,只是，那花了我好一阵时间，才搞清楚为什么那里让人感觉那么不同\N{\rENG}No. But it took me a while to figure out why I felt so different.
+Dialogue: 0,0:23:23.49,0:23:26.15,CHS,,0,0,0,,然后有一天，当我穿过一个犹太墓地的时候\N{\rENG}One day, as I was walking through the Jewish cemetery...
+Dialogue: 0,0:23:26.32,0:23:28.22,CHS,,0,0,0,,我没想通为什么，但是我真的有所改变\N{\rENG}...I don't know why,but it occurred to me there...
+Dialogue: 0,0:23:28.39,0:23:32.26,CHS,,0,0,0,,我意识到过去的两个星期中，我改掉了以前的大多数习惯\N{\rENG}...I realized that I had spent the last two weeks away from most of my habits.
+Dialogue: 0,0:23:32.43,0:23:34.42,CHS,,0,0,0,,电视里说的是我听不懂的语言\N{\rENG}TV was in a language I didn't understand...
+Dialogue: 0,0:23:34.63,0:23:37.36,CHS,,0,0,0,,没什么好买的，也没什么广告\N{\rENG}...there was nothing to buy,no advertisements anywhere...
+Dialogue: 0,0:23:37.53,0:23:39.16,CHS,,0,0,0,,所以，我能做的只有…\N{\rENG}...so all I'd been doing was...
+Dialogue: 0,0:23:39.33,0:23:44.07,CHS,,0,0,0,,到处逛，思考，然后写下来，我的大脑好像在休息\N{\rENG}...walk around, think, and write.My brain felt like it was at rest...
+Dialogue: 0,0:23:44.27,0:23:47.87,CHS,,0,0,0,,没有了那种强烈的情绪，就好像是自然的高潮一样\N{\rENG}...free from the consuming frenzy.It was almost like a natural high.
+Dialogue: 0,0:23:48.08,0:23:52.64,CHS,,0,0,0,,我感觉内心格外平和，没有什么奇怪的冲动要去什么地方\N{\rENG}I felt so peaceful inside.No strange urge to be somewhere else...
+Dialogue: 0,0:23:52.85,0:23:54.18,CHS,,0,0,0,,购物什么的\N{\rENG}...to shop....
+Dialogue: 0,0:23:54.38,0:23:56.51,CHS,,0,0,0,,一开始这样可能看起来很无聊\N{\rENG}It could have seemed like boredom at first...
+Dialogue: 0,0:23:56.68,0:23:58.45,CHS,,0,0,0,,但是很快这就让人感到内心非常非常的充实\N{\rENG}...but it became very, very soulful.
+Dialogue: 0,0:23:59.45,0:24:01.01,CHS,,0,0,0,,非常有意思，你知道吗？\N{\rENG}It was interesting, you know?
+Dialogue: 0,0:24:01.19,0:24:04.52,CHS,,0,0,0,,你能相信我们上一次漫步在维也纳是九年前的事吗？\N{\rENG}Can you believe it was nine years ago we were walking around Vienna?
+Dialogue: 0,0:24:05.03,0:24:08.72,CHS,,0,0,0,,- 九年？真难以想象  - 对我来说就好像是两个月之前的事\N{\rENG}- Nine years? No, that's impossible.  - No, it was. It feels like two months.
+Dialogue: 0,0:24:08.93,0:24:10.86,CHS,,0,0,0,,但是那是九四年夏天了\N{\rENG}But it was summer '94.
+Dialogue: 0,0:24:13.07,0:24:15.37,CHS,,0,0,0,,我看起来有什么不同吗？\N{\rENG}Do I look any different?
+Dialogue: 0,0:24:16.94,0:24:18.67,CHS,,0,0,0,,有？\N{\rENG}I do?
+Dialogue: 0,0:24:19.44,0:24:20.70,CHS,,0,0,0,,我得看你一丝不挂的样子才知道\N{\rENG}I'd have to see you naked.
+Dialogue: 0,0:24:21.08,0:24:23.04,CHS,,0,0,0,,- 什么？ - 对不起…\N{\rENG}- What?  - I know, I'm sorry.
+Dialogue: 0,0:24:23.24,0:24:25.61,CHS,,0,0,0,,你的发型变了，那时…\N{\rENG}Your hair was different back then.It was like...
+Dialogue: 0,0:24:25.78,0:24:28.21,CHS,,0,0,0,,- 什么，一样的啊…  - 把头发放下来，让我看看！\N{\rENG}- It's the same... Oh, down.  - Yeah, take it down.
+Dialogue: 0,0:24:28.38,0:24:30.11,CHS,,0,0,0,,放下来，好吧，放下来了\N{\rENG}Down. Okay, it was down. Okay.
+Dialogue: 0,0:24:30.32,0:24:32.48,CHS,,0,0,0,,好了\N{\rENG}Well? Voila.
+Dialogue: 0,0:24:32.75,0:24:34.24,CHS,,0,0,0,,怎么样？\N{\rENG}So?
+Dialogue: 0,0:24:36.29,0:24:38.45,CHS,,0,0,0,,快点，告诉我\N{\rENG}Okay, come on. Tell me.
+Dialogue: 0,0:24:41.76,0:24:44.32,CHS,,0,0,0,,瘦了，我觉得，苗条了\N{\rENG}Skinnier, I think. A little thinner.
+Dialogue: 0,0:24:45.40,0:24:46.92,CHS,,0,0,0,,你觉得我以前很胖？\N{\rENG}Did you think I was fat before?
+Dialogue: 0,0:24:47.14,0:24:50.07,CHS,,0,0,0,,- 不是  - 你肯定觉得我那时很胖\N{\rENG}- No....  - Yeah, you thought I was a fatty.
+Dialogue: 0,0:24:50.27,0:24:54.30,CHS,,0,0,0,,没错，你觉得我很胖，你的书写的是个法国胖妞！\N{\rENG}No, you thought I was a fatty. You wrote a book about a fat French girl.
+Dialogue: 0,0:24:54.48,0:24:56.41,CHS,,0,0,0,,- 哦，不要！ - 好啦，说真的\N{\rENG}- No, listen.  - Oh, no.
+Dialogue: 0,0:24:56.61,0:24:58.74,CHS,,0,0,0,,你看起来漂亮极了！\N{\rENG}Seriously, all right? You look beautiful.
+Dialogue: 0,0:24:58.95,0:25:00.94,CHS,,0,0,0,,那你觉得我有什么变化吗？\N{\rENG}Do I look any different?
+Dialogue: 0,0:25:01.28,0:25:04.81,CHS,,0,0,0,,没有什么…哦，事实上你这多了道皱纹\N{\rENG}No. Not at all.Actually, you have this line.
+Dialogue: 0,0:25:05.02,0:25:07.45,CHS,,0,0,0,,- 我知道  - 看起来好像疤\N{\rENG}- I know.  - It's like a scar.
+Dialogue: 0,0:25:07.66,0:25:12.09,CHS,,0,0,0,,- 疤？看起来像被枪打得吧？ - 没有，没有，我挺喜欢的，对不起啦\N{\rENG}- A scar? Like a gunshot wound?  - No, no, no. I like it. I'm sorry.
+Dialogue: 0,0:25:13.43,0:25:18.23,CHS,,0,0,0,,有天我做了个有趣的…呃，不，恐怖的梦\N{\rENG}I had this funny... Well, horrible dream the other day.
+Dialogue: 0,0:25:19.27,0:25:23.29,CHS,,0,0,0,,我做恶梦，梦见我有三十二岁了\N{\rENG}I was having this awful nightmare that I was 32.
+Dialogue: 0,0:25:23.47,0:25:26.67,CHS,,0,0,0,,然后当我醒来的时候，我才只有二十三！我就放心了…\N{\rENG}And then I woke up,and I was 23. So relieved.
+Dialogue: 0,0:25:26.87,0:25:29.47,CHS,,0,0,0,,但是后来我真的从梦里醒来，发现我确实三十二了\N{\rENG}And then I woke up for real,and I was 32.
+Dialogue: 0,0:25:29.68,0:25:32.15,CHS,,0,0,0,,- 好可怕！ - 是会有这种事的\N{\rENG}- Shit, man. It happens.  - Scary.
+Dialogue: 0,0:25:32.35,0:25:35.01,CHS,,0,0,0,,时间越走越快，看上去，是因为…\N{\rENG}Time goes faster and faster.Apparently, it's because...
+Dialogue: 0,0:25:35.18,0:25:38.64,CHS,,0,0,0,,从二十岁以后我们身体里的神经键就不再更新了，于是，从那以后我们就开始走下坡路了\N{\rENG}...we don't renew synapses after our 20s, so it's downhill from then on.
+Dialogue: 0,0:25:39.82,0:25:42.81,CHS,,0,0,0,,我喜欢变老，你懂吗，会感觉生活更…\N{\rENG}I like getting older, you know?Life feels....
+Dialogue: 0,0:25:43.12,0:25:46.65,CHS,,0,0,0,,我不知道，好像感觉更直接，好像我能欣赏更多东西了\N{\rENG}I don't know, it feels more immediate. Like I can appreciate things more.
+Dialogue: 0,0:25:47.53,0:25:50.12,CHS,,0,0,0,,其实我也一样，我很喜欢\N{\rENG}No, me too, actually. I really love it.
+Dialogue: 0,0:25:50.57,0:25:52.36,CHS,,0,0,0,,我曾经是…\N{\rENG}I was once...
+Dialogue: 0,0:25:52.57,0:25:53.97,CHS,,0,0,0,,一个乐队里的鼓手\N{\rENG}...a drummer in a band.
+Dialogue: 0,0:25:54.17,0:25:56.76,CHS,,0,0,0,,- 真的？ - 是啊，我们当时真的很棒\N{\rENG}- You were?  - Yeah. We were pretty good, actually.
+Dialogue: 0,0:25:56.97,0:26:01.17,CHS,,0,0,0,,不过那个主唱，他整天就想着让我们能出唱片\N{\rENG}But the lead-singer guy, he was just so obsessed with us getting a record deal.
+Dialogue: 0,0:26:01.34,0:26:04.31,CHS,,0,0,0,,我们整天谈的，想的，就是参加更大的演出\N{\rENG}It's all we talked about, thought about,getting bigger shows.
+Dialogue: 0,0:26:04.51,0:26:08.00,CHS,,0,0,0,,每时每刻都是为了将来的发展，而现在…\N{\rENG}Everything was just focused on the future all the time. And now...
+Dialogue: 0,0:26:08.18,0:26:10.05,CHS,,0,0,0,,…乐队却已经不存在了\N{\rENG}...the band doesn't even exist anymore.
+Dialogue: 0,0:26:10.22,0:26:12.58,CHS,,0,0,0,,现在回顾那些我们参加了的表演\N{\rENG}And looking back at the shows we did play...
+Dialogue: 0,0:26:12.79,0:26:15.69,CHS,,0,0,0,,甚至哪怕只是排练，都觉得那么有意思！\N{\rENG}...even rehearsing, it was just so much fun.
+Dialogue: 0,0:26:15.86,0:26:20.06,CHS,,0,0,0,,现在我终于能享受那每一分钟了，我能抽一口吗？\N{\rENG}I just... Now I'd enjoy every minute of it.Could I have a drag of that?
+Dialogue: 0,0:26:20.33,0:26:23.35,CHS,,0,0,0,,你的书出版了，这事不算小了\N{\rENG}Well, your book has been published.That's a pretty big deal.
+Dialogue: 0,0:26:23.56,0:26:26.83,CHS,,0,0,0,,而且你巡回了整个欧洲来卖它，你觉得能享受其中的每一分钟吗？\N{\rENG}You've been all around Europe.Are you enjoying every minute of it?
+Dialogue: 0,0:26:27.54,0:26:29.40,CHS,,0,0,0,,- 不太行…  - 不太行？\N{\rENG}- Not really.  - Not really?
+Dialogue: 0,0:26:29.60,0:26:31.00,CHS,,0,0,0,,不行\N{\rENG}No.
+Dialogue: 0,0:26:31.54,0:26:34.20,CHS,,0,0,0,,- 你还有烟吗？ - 当然有\N{\rENG}- Do you have another one of those?  - Yes, of course.
+Dialogue: 0,0:26:36.31,0:26:37.84,CHS,,0,0,0,,给你\N{\rENG}Here.
+Dialogue: 0,0:26:38.71,0:26:41.84,CHS,,0,0,0,,在我这行里，我见到很多人…哦，对不起…\N{\rENG}In my field, I see these people that... Oh, sorry.
+Dialogue: 0,0:26:42.05,0:26:44.58,CHS,,0,0,0,,过于理想，好高骛远\N{\rENG}Come into it with big,idealist visions...
+Dialogue: 0,0:26:44.75,0:26:47.52,CHS,,0,0,0,,想要成为新的领袖，来创建更美好的世界\N{\rENG}...of becoming the new leader that will create a better world.
+Dialogue: 0,0:26:47.69,0:26:49.88,CHS,,0,0,0,,他们乐于见到目标被实现，却对过程没兴趣！\N{\rENG}They enjoy the goal,but not the process.
+Dialogue: 0,0:26:50.09,0:26:51.96,CHS,,0,0,0,,- 是  - 但事实上…\N{\rENG}- Right.  - But the reality of it is...
+Dialogue: 0,0:26:52.13,0:26:55.56,CHS,,0,0,0,,真正能改善世界的工作，是日复一日的点滴进步\N{\rENG}...the true work of improving things is in the little achievements.
+Dialogue: 0,0:26:55.76,0:26:58.73,CHS,,0,0,0,,- 这才是应该享受的事  - 你具体指什么呢？\N{\rENG}- That's what you need to enjoy.  - What do you mean, exactly?
+Dialogue: 0,0:26:58.93,0:27:02.53,CHS,,0,0,0,,比如，我为一个组织工作，这个组织在墨西哥帮助那里的村民\N{\rENG}I was working for this organization that helped villages in Mexico.
+Dialogue: 0,0:27:03.20,0:27:05.70,CHS,,0,0,0,,他们关心的是怎么把铅笔\N{\rENG}And their concerns was how to get the pencils...
+Dialogue: 0,0:27:05.87,0:27:08.27,CHS,,0,0,0,,送到那些乡村小学的孩子手中\N{\rENG}...sent to the kid in those little country schools.
+Dialogue: 0,0:27:08.44,0:27:12.28,CHS,,0,0,0,,那不是什么重大的革命性的想法，仅仅是铅笔而已！\N{\rENG}It was not about big,revolutionary ideas. It was about pencils.
+Dialogue: 0,0:27:12.65,0:27:16.11,CHS,,0,0,0,,我见到过那些做实事的人，很不幸的是…\N{\rENG}I see the people that do the real work,and what's really sad is that...
+Dialogue: 0,0:27:16.48,0:27:19.04,CHS,,0,0,0,,…那些最慷慨的，最勤劳的…\N{\rENG}...the people that are the most giving, hardworking...
+Dialogue: 0,0:27:19.22,0:27:21.42,CHS,,0,0,0,,…也是最能让这个世界变得更好的人…\N{\rENG}...and capable of making this world better...
+Dialogue: 0,0:27:21.62,0:27:24.75,CHS,,0,0,0,,…往往没什么野心，不想成为什么领袖\N{\rENG}...usually don't have the ego and ambition to be a leader.
+Dialogue: 0,0:27:24.96,0:27:27.59,CHS,,0,0,0,,他们对那些形式上的奖励没有兴趣\N{\rENG}They don't see any interest in superficial rewards.
+Dialogue: 0,0:27:27.80,0:27:30.86,CHS,,0,0,0,,他们也不在乎自己的名字能不能上报纸\N{\rENG}They don't care if their name ever appear in the press.
+Dialogue: 0,0:27:31.07,0:27:33.86,CHS,,0,0,0,,他们只是享受着帮助人的那种过程\N{\rENG}They actually enjoy the process of helping others.
+Dialogue: 0,0:27:34.07,0:27:36.76,CHS,,0,0,0,,- 他们自得其乐  - 是啊，不过那很难啊！\N{\rENG}- They're in the moment.  - Yeah, but that's so hard...
+Dialogue: 0,0:27:36.94,0:27:39.84,CHS,,0,0,0,,自得其乐，我是说，我感觉我好像…\N{\rENG}...you know, to be in the moment.I mean, I feel like I'm...
+Dialogue: 0,0:27:40.01,0:27:44.00,CHS,,0,0,0,,是被设计成那种对什么都不很满意的类型…\N{\rENG}...designed to be slightly dissatisfied with everything, you know?
+Dialogue: 0,0:27:44.18,0:27:46.67,CHS,,0,0,0,,你懂吗，我是说，好像永远都在试图改善自己的现状一样\N{\rENG}It's like always trying to better my situation.
+Dialogue: 0,0:27:46.91,0:27:50.35,CHS,,0,0,0,,我满足了一种欲望，就会刺激另一种欲望，懂吗？\N{\rENG}I satisfy one desire,and it just agitates another.
+Dialogue: 0,0:27:50.52,0:27:54.08,CHS,,0,0,0,,然后我就想：都去他妈的吧，欲望是生活的动力\N{\rENG}And then I think, to hell with it, right?Desire's the fuel of life.
+Dialogue: 0,0:27:54.26,0:27:57.09,CHS,,0,0,0,,你认为这是真的吗？\N{\rENG}You know? Do you think it's true...
+Dialogue: 0,0:27:57.29,0:28:00.19,CHS,,0,0,0,,如果我们没有欲望，我们就会永远快乐？\N{\rENG}...that if we never wanted anything,we'd never be unhappy?
+Dialogue: 0,0:28:00.43,0:28:05.46,CHS,,0,0,0,,我不知道，没有欲望，这难道不是抑郁症的一种表现吗？\N{\rENG}I don't know. Not wanting anything,isn't that a symptom of depression?
+Dialogue: 0,0:28:05.63,0:28:09.26,CHS,,0,0,0,,没错，就是的，对吧？我是说，有欲望是种健康的表现，对吧？\N{\rENG}Yeah, that is, right?I mean, it's healthy to desire, right?
+Dialogue: 0,0:28:09.47,0:28:13.10,CHS,,0,0,0,,是啊，我不知道，不过那些佛教徒都那么说，对吧？\N{\rENG}Yeah. I don't know. It's what all those Buddhist guys say, right?
+Dialogue: 0,0:28:13.31,0:28:15.67,CHS,,0,0,0,,从欲望中解脱出来，你就会发现…\N{\rENG}Liberate yourself from desire,and you'll find...
+Dialogue: 0,0:28:15.84,0:28:19.04,CHS,,0,0,0,,- 你已经拥有你需要的一切  - 是啊，不过当我想要拥有…\N{\rENG}- ...you already have everything you need.  - But I feel alive...
+Dialogue: 0,0:28:19.28,0:28:22.04,CHS,,0,0,0,,那些不算基本生存需要的东西的时候，我能感觉到自己是真实存活的\N{\rENG}...when I want something more than basic survival needs.
+Dialogue: 0,0:28:22.22,0:28:25.05,CHS,,0,0,0,,我是说，不管哪种欲望，比如想和谁亲热\N{\rENG}Wanting, whether it's intimacy with another person...
+Dialogue: 0,0:28:25.29,0:28:27.02,CHS,,0,0,0,,或是想要双新鞋，都很美…\N{\rENG}...or a pair of shoes, is beautiful.
+Dialogue: 0,0:28:27.22,0:28:30.78,CHS,,0,0,0,,我喜欢我们拥有无止境的欲望\N{\rENG}I like that we have those ever-renewing desires, you know?
+Dialogue: 0,0:28:30.99,0:28:32.69,CHS,,0,0,0,,也许那是一种有权享用的感觉\N{\rENG}Maybe it's this sense of entitlement.
+Dialogue: 0,0:28:32.93,0:28:36.66,CHS,,0,0,0,,你懂吗，好像什么时候你觉得你配穿双新鞋\N{\rENG}You know, like whenever you feel like you deserve that new pair of shoes?
+Dialogue: 0,0:28:36.86,0:28:40.73,CHS,,0,0,0,,欲望本身不是坏事，只要你不要太在意得失就好\N{\rENG}It's okay to want things, as long as you aren't pissed off if you don't get them.
+Dialogue: 0,0:28:40.94,0:28:42.80,CHS,,0,0,0,,生活很辛苦，这也是顺理成章的事\N{\rENG}Life's hard. It's supposed to be.
+Dialogue: 0,0:28:43.00,0:28:46.00,CHS,,0,0,0,,吃一堑，长一智，对吗？\N{\rENG}If we didn't suffer, we wouldn't learn a thing, you know?
+Dialogue: 0,0:28:47.38,0:28:49.31,CHS,,0,0,0,,那，你是佛教徒吗？\N{\rENG}So, what, are you Buddhist,or something?
+Dialogue: 0,0:28:50.34,0:28:53.01,CHS,,0,0,0,,- 不是  - 不是？为什么不是？\N{\rENG}- No.  - No? Why not?
+Dialogue: 0,0:28:53.45,0:28:58.18,CHS,,0,0,0,,我不知道，出于同一原因，我不会让自己完全相信任何信仰\N{\rENG}I don't know. The same reason I don't really consider myself anything, really.
+Dialogue: 0,0:28:58.55,0:29:01.99,CHS,,0,0,0,,很久前我就决定，我可以接受任何信念…\N{\rENG}I decided a long time ago that I was gonna be open to everything...
+Dialogue: 0,0:29:02.19,0:29:04.68,CHS,,0,0,0,,但是不会执迷于一种信仰\N{\rENG}...but not buy into any one and only belief system.
+Dialogue: 0,0:29:06.33,0:29:09.46,CHS,,0,0,0,,数年前，我曾经去过一所苦修派修道院\N{\rENG}I went to this Trappist monastery a couple years ago.
+Dialogue: 0,0:29:10.03,0:29:13.90,CHS,,0,0,0,,- 苦修派？ - 是的，天主教西多教派的\N{\rENG}- Trappist?  - Yeah, they're Catholic. Cistercian.
+Dialogue: 0,0:29:14.17,0:29:17.76,CHS,,0,0,0,,- 你为什么要去那  - 为什么？可能就是去读些书吧\N{\rENG}- Why did you do that?  - Why? I'd been doing some reading.
+Dialogue: 0,0:29:18.01,0:29:21.84,CHS,,0,0,0,,我觉得那很酷，你曾经和修士和修女生活在一起过吗？\N{\rENG}Thought it'd be cool. Have you ever spent any time with monks or nuns?
+Dialogue: 0,0:29:22.18,0:29:25.51,CHS,,0,0,0,,- 没有，我可不想那样  - 没有？\N{\rENG}- No. It's not really my style.  - No?
+Dialogue: 0,0:29:26.28,0:29:30.34,CHS,,0,0,0,,我本来以为他们都是神情肃穆、严厉苛刻的，但是他们不是\N{\rENG}Well, I expected them to be all glowering and stern, but they weren't.
+Dialogue: 0,0:29:30.55,0:29:33.11,CHS,,0,0,0,,他们很容易就笑，非常好相处\N{\rENG}They were quick to laugh,really easy to be around.
+Dialogue: 0,0:29:33.35,0:29:36.35,CHS,,0,0,0,,真的，他们对一切都不排斥，他们只是…\N{\rENG}Seriously, very attuned to everything,they were just...
+Dialogue: 0,0:29:36.59,0:29:39.03,CHS,,0,0,0,,你懂吗，他们不会打扰任何人\N{\rENG}You know, they weren't trying to hustle anybody.
+Dialogue: 0,0:29:39.23,0:29:41.72,CHS,,0,0,0,,他们只是想平静的信奉天主、生存，然后死去\N{\rENG}They're trying to live and die in peace with God...
+Dialogue: 0,0:29:41.93,0:29:44.42,CHS,,0,0,0,,也或者他们信奉的是其他什么他们觉得永恒的东西\N{\rENG}...or whatever part of them they feel is eternal.
+Dialogue: 0,0:29:44.63,0:29:46.60,CHS,,0,0,0,,但是身处其间真的很舒服\N{\rENG}It was just so refreshing to be around.
+Dialogue: 0,0:29:46.77,0:29:49.26,CHS,,0,0,0,,你懂吗，你会发现你遇到的绝大多数人\N{\rENG}You realize that most of the people that you meet...
+Dialogue: 0,0:29:49.44,0:29:51.23,CHS,,0,0,0,,都是想要过的更好\N{\rENG}...are trying to get somewhere better.
+Dialogue: 0,0:29:51.41,0:29:54.60,CHS,,0,0,0,,赚更多的钱啦，赢得更多的尊敬啊，\N{\rENG}They're trying to make more cash,get a little more respect...
+Dialogue: 0,0:29:54.81,0:29:57.24,CHS,,0,0,0,,让人们崇拜自己啊之类的，太累了！\N{\rENG}...have more people admire them.It's exhausting.
+Dialogue: 0,0:29:57.45,0:30:00.57,CHS,,0,0,0,,- 没错  - 要是你自己也成为这样的人，真是太累了\N{\rENG}- No kidding.  - And it's exhausting to be one yourself.
+Dialogue: 0,0:30:00.78,0:30:04.15,CHS,,0,0,0,,我是说，我就是这样的，精神上很贪婪\N{\rENG}There I am, right, you know,all greedy to be more spiritual.
+Dialogue: 0,0:30:04.32,0:30:07.91,CHS,,0,0,0,,我想变得更好，懂吗，这是你逃不脱的！\N{\rENG}"I want to be a better person,"you know? You can't escape.
+Dialogue: 0,0:30:08.09,0:30:14.26,CHS,,0,0,0,,好多年前，我有个男友想做佛教徒\N{\rENG}I had this boyfriend of mine many years ago that wanted to be a Buddhist.
+Dialogue: 0,0:30:14.63,0:30:17.15,CHS,,0,0,0,,然后他去了亚洲，去瞻仰那里的寺院\N{\rENG}So he went to Asia to visit some of those monasteries.
+Dialogue: 0,0:30:17.40,0:30:21.10,CHS,,0,0,0,,- 是啊，我也想过去那些地方  - 那你应该去，我告诉你为什么\N{\rENG}- I've thought about doing that too.  - Yeah, you should. I'll tell you why.
+Dialogue: 0,0:30:21.30,0:30:24.67,CHS,,0,0,0,,啊，他长得很帅，每次他去那些寺院的时候\N{\rENG}He was good-looking, and each time he went to one of the monasteries...
+Dialogue: 0,0:30:24.84,0:30:27.47,CHS,,0,0,0,,都会有僧侣愿意替他口交\N{\rENG}...a monk offered to suck his cock.
+Dialogue: 0,0:30:27.68,0:30:29.40,CHS,,0,0,0,,真的\N{\rENG}True story.
+Dialogue: 0,0:30:29.84,0:30:32.78,CHS,,0,0,0,,好吧，最后都会变成这样，对吧？\N{\rENG}It all comes down to that, doesn't it?
+Dialogue: 0,0:30:32.98,0:30:35.14,CHS,,0,0,0,,我是说，这就是为什么我很崇拜你做的事\N{\rENG}That's why I really admire what you're doing.
+Dialogue: 0,0:30:35.35,0:30:37.48,CHS,,0,0,0,,- 你知道吗？ - 你什么意思，口交？\N{\rENG}- You know?  - What do you mean? Sucking cock?
+Dialogue: 0,0:30:37.69,0:30:40.85,CHS,,0,0,0,,- 啊，不…  - 不是？我猜错了？\N{\rENG}- No.  - No? Wrong answer.
+Dialogue: 0,0:30:41.06,0:30:44.82,CHS,,0,0,0,,不是，我想说的是，你不是那种超然的人\N{\rENG}No, I was gonna say you're not detached from life.
+Dialogue: 0,0:30:45.06,0:30:47.46,CHS,,0,0,0,,你做事很有激情\N{\rENG}You're putting your passion into action.
+Dialogue: 0,0:30:47.66,0:30:50.32,CHS,,0,0,0,,这个嘛，起码我努力这样做\N{\rENG}Well, I'll try.
+Dialogue: 0,0:30:50.97,0:30:54.33,CHS,,0,0,0,,你知道吗，我接下来八个小时会在机场\N{\rENG}You know something?I'm gonna be on planes...
+Dialogue: 0,0:30:54.50,0:30:56.83,CHS,,0,0,0,,以及飞机上度过\N{\rENG}...and in an airport for the next eight hours....
+Dialogue: 0,0:30:57.07,0:30:59.44,CHS,,0,0,0,,我很想再看看巴黎\N{\rENG}I'd just love to see a little bit more of Paris.
+Dialogue: 0,0:30:59.71,0:31:01.17,CHS,,0,0,0,,- 我们能出去走走…  - 好啊，好啊，我们走吧！\N{\rENG}- Would you walk with me?  - Yeah.
+Dialogue: 0,0:31:01.34,0:31:02.67,CHS,,0,0,0,,- 你介意吗？ - 怎么会呢，很好啊！\N{\rENG}- Do you mind?  - That's great.
+Dialogue: 0,0:31:02.88,0:31:04.81,CHS,,0,0,0,,- 你想去吗？ - 当然！\N{\rENG}- Do you want to?  - Let's do that. Yeah.
+Dialogue: 0,0:31:05.01,0:31:06.84,CHS,,0,0,0,,我们该付多少？四块五…\N{\rENG}What do we owe here?Four-fifty?
+Dialogue: 0,0:31:07.08,0:31:09.61,CHS,,0,0,0,,不用，不用，我有，我有\N{\rENG}No, I got it, I got a little per diem going on here.
+Dialogue: 0,0:31:09.78,0:31:12.01,CHS,,0,0,0,,- 这够付小费的了吗？ - 嗯，够了\N{\rENG}- This good, for a tip?  - Yeah, that's fine.
+Dialogue: 0,0:31:12.22,0:31:14.59,CHS,,0,0,0,,- 只多不少！ - 这个也留下吧\N{\rENG}- That's more than enough.  - Throw that in too.
+Dialogue: 0,0:31:14.82,0:31:18.31,CHS,,0,0,0,,- 好啦，周围有什么值得逛的吗？ - 今天是减价日！\N{\rENG}- Is there anywhere to go around here?  - It's sales day today.
+Dialogue: 0,0:31:18.53,0:31:21.46,CHS,,0,0,0,,- 什么意思？ - 今天巴黎什么东西都会减价\N{\rENG}- What's that?  - It's when everything's "en solde" in Paris.
+Dialogue: 0,0:31:21.96,0:31:23.02,CHS,,0,0,0,,每年两次\N{\rENG}It's twice a year.
+Dialogue: 0,0:31:23.75,0:31:24.55,CHS,,0,0,0,,{\fs45\c&H9AD1DD&}[法语]{\rCHS}再见，谢谢\N{\rENG}Au revoir!Merci!
+Dialogue: 0,0:31:24.55,0:31:25.85,CHS,,0,0,0,,{\fs45\c&H9AD1DD&}[法语]{\rCHS}再见\N{\rENG}Au revoir!
+Dialogue: 0,0:31:25.87,0:31:27.53,CHS,,0,0,0,,好啊，那我们去购物吧！\N{\rENG}All right, let's go shopping.
+Dialogue: 0,0:31:27.70,0:31:30.83,CHS,,0,0,0,,不，不，这主意不好，我不想让你这样\N{\rENG}No, no, no. That's a bad idea.I don't wanna inflict that on you.
+Dialogue: 0,0:31:31.04,0:31:34.97,CHS,,0,0,0,,那简直疯了，我们就去那个花园逛逛吧，那真的不错的\N{\rENG}It's madness. Let's just go to this garden path. It's really nice.
+Dialogue: 0,0:31:35.28,0:31:37.71,CHS,,0,0,0,,好啊，听起来其实比购物要好\N{\rENG}All right. That sounds better than shopping, actually.
+Dialogue: 0,0:31:37.88,0:31:40.01,CHS,,0,0,0,,我是说，我并不是不想陪你做你喜欢的事\N{\rENG}Not that I wouldn't do whatever you wanted.
+Dialogue: 0,0:31:40.18,0:31:43.17,CHS,,0,0,0,,其实有的时候我也不是需要什么东西\N{\rENG}Sometimes I don't even need to buy anything. I just get high...
+Dialogue: 0,0:31:43.35,0:31:45.15,CHS,,0,0,0,,我只是想试穿，还有看那些商品，这让我很兴奋\N{\rENG}...on trying on and looking at things.
+Dialogue: 0,0:31:45.32,0:31:47.08,CHS,,0,0,0,,这个嘛，苦修派僧侣会对你说…我们往这边走？\N{\rENG}Is this where we're going?
+Dialogue: 0,0:31:47.25,0:31:49.52,CHS,,0,0,0,,- 是的！ - 苦修派僧侣会对你说这很好\N{\rENG}- Yeah.  - A therapist will tell you that's good.
+Dialogue: 0,0:31:49.69,0:31:52.06,CHS,,0,0,0,,- 真的？你节食过吗？ - 没有！\N{\rENG}- Really? Are you ever in therapy?  - Oh, no.
+Dialogue: 0,0:31:52.26,0:31:55.32,CHS,,0,0,0,,- 我看起来像在节食吗？ - 我只是开玩笑\N{\rENG}- Do I seem like I'm in therapy?  - I'm kidding.
+Dialogue: 0,0:31:55.73,0:31:59.56,CHS,,0,0,0,,- 这对你的性障碍有帮助吗？ - 我的性障碍？\N{\rENG}- Does it help your sex problems?  - My sex problems?
+Dialogue: 0,0:31:59.73,0:32:01.26,CHS,,0,0,0,,- 没有啦，我只是开玩笑  - 比如呢？跟我说实话\N{\rENG}- I'm kidding.  - Tell me the truth.
+Dialogue: 0,0:32:01.50,0:32:03.73,CHS,,0,0,0,,- 那天晚上我们不是挺好的？ - 不，我是在开玩笑\N{\rENG}- We didn't have any problems.  - No, I'm kidding.
+Dialogue: 0,0:32:03.94,0:32:06.41,CHS,,0,0,0,,- 我们根本就没有做爱  - 这是个玩笑，对吧？\N{\rENG}- We didn't even have sex.  - That's a joke, right?
+Dialogue: 0,0:32:06.64,0:32:09.27,CHS,,0,0,0,,不是，我们确实没做爱！就是这么回事\N{\rENG}No, we didn't.I mean, that was the whole thing.
+Dialogue: 0,0:32:09.44,0:32:11.50,CHS,,0,0,0,,- 可我们确实做了啊！- 没有，没有，我们没做！\N{\rENG}- Of course we did.  - No, no, no, we didn't.
+Dialogue: 0,0:32:11.71,0:32:14.51,CHS,,0,0,0,,你没有安全套，而我没有安全套从来不做爱\N{\rENG}You didn't have a condom and I never have sex without one.
+Dialogue: 0,0:32:14.72,0:32:16.58,CHS,,0,0,0,,尤其是一夜情那种，我是说，我对于自己的健康非常在意，我不可能…\N{\rENG}I'm extremely paranoid.There's no way...
+Dialogue: 0,0:32:16.78,0:32:19.34,CHS,,0,0,0,,我觉得这太可怕了，你竟然不记得我们之间发生过什么\N{\rENG}I find it scary that you don't remember what happened.
+Dialogue: 0,0:32:19.52,0:32:20.89,CHS,,0,0,0,,不，听我说\N{\rENG}No, listen...
+Dialogue: 0,0:32:21.06,0:32:23.75,CHS,,0,0,0,,…我从来没写过一整本书，但是我记日记…\N{\rENG}...I didn't write an entire book,but I kept a journal...
+Dialogue: 0,0:32:23.96,0:32:25.01,CHS,,0,0,0,,我在里面记下了整晚发生的事\N{\rENG}...and I wrote the whole night in it.
+Dialogue: 0,0:32:25.01,0:32:27.88,CHS,,0,0,0,,这就是我的意思，你对那夜进行了理想化的加工！\N{\rENG}That's what I meant, you idealizing it in night.
+Dialogue: 0,0:32:28.10,0:32:31.36,CHS,,0,0,0,,好啦，听我说！我甚至记得我们用过的安全套是什么牌子的\N{\rENG}All right, listen, I even remember what brand of condom we used.
+Dialogue: 0,0:32:31.53,0:32:33.43,CHS,,0,0,0,,好啦，这太恶心啦，我不想听！\N{\rENG}That's disgusting.I don't wanna hear it.
+Dialogue: 0,0:32:33.60,0:32:36.16,CHS,,0,0,0,,- 这有什么恶心的…  - 没有啦\N{\rENG}- That's not disgusting.  - No.
+Dialogue: 0,0:32:36.40,0:32:40.90,CHS,,0,0,0,,好啦，等我回家，我会查我九四年的日记，不过我知道我是对的！\N{\rENG}Okay, when I get home I'll check my journal from '94, but I know I'm right.
+Dialogue: 0,0:32:43.78,0:32:45.71,CHS,,0,0,0,,- 等等…  - 怎么了？\N{\rENG}- Wait a minute.  - What?
+Dialogue: 0,0:32:45.88,0:32:48.61,CHS,,0,0,0,,- 那是在一个墓地发生的吗？ - 不是…\N{\rENG}- Was it in the cemetery?  - No.
+Dialogue: 0,0:32:48.82,0:32:51.22,CHS,,0,0,0,,不是的，我们是下午去那个墓地的\N{\rENG}No, we went to the cemetery in the afternoon.
+Dialogue: 0,0:32:51.39,0:32:54.29,CHS,,0,0,0,,应该是在一个公园里，深夜时分\N{\rENG}It was in the park, very late at night.
+Dialogue: 0,0:32:54.69,0:32:56.82,CHS,,0,0,0,,- 在公园里！ - 等等…\N{\rENG}- In the park?  - Wait a minute, wait a minute.
+Dialogue: 0,0:32:56.99,0:32:58.82,CHS,,0,0,0,,我真不能…我没法…\N{\rENG}I can't... I can't....
+Dialogue: 0,0:32:59.76,0:33:03.06,CHS,,0,0,0,,这事这么容易忘记吗？你真的不记得了？在公园里！\N{\rENG}Is it that forgettable? You really don't remember? In the park?
+Dialogue: 0,0:33:03.26,0:33:06.10,CHS,,0,0,0,,好的，等等，我想你可能是对的…\N{\rENG}Okay. Wait a minute,I think you might be right...
+Dialogue: 0,0:33:06.30,0:33:07.63,CHS,,0,0,0,,行啦，你在和我胡扯是不是\N{\rENG}You're messing with me now.
+Dialogue: 0,0:33:07.84,0:33:09.23,CHS,,0,0,0,,- 没有  - 你在和我胡扯吗？\N{\rENG}- No.  - Are you messing with me?
+Dialogue: 0,0:33:09.44,0:33:12.60,CHS,,0,0,0,,不是的，对不起！我觉得你…我是说，你是对的，这样可以了吧？\N{\rENG}Okay. No, I'm sorry. I think... I mean, you're right, okay?
+Dialogue: 0,0:33:12.81,0:33:16.27,CHS,,0,0,0,,有时我就是忘事\N{\rENG}Sometimes I put things in drawers inside my head and forget about it.
+Dialogue: 0,0:33:16.48,0:33:19.14,CHS,,0,0,0,,我想有时忘记会让人少些痛苦！\N{\rENG}It's less painful to put things away than live with it.
+Dialogue: 0,0:33:19.35,0:33:22.08,CHS,,0,0,0,,什么，就是说那夜对你来说是段很难过的回忆罗？\N{\rENG}What, so that night was, like,a sad memory for you?
+Dialogue: 0,0:33:22.28,0:33:24.11,CHS,,0,0,0,,不，我不是针对那一夜\N{\rENG}I didn't mean that night in particular.
+Dialogue: 0,0:33:24.29,0:33:26.34,CHS,,0,0,0,,我只是说有些事情还是忘了好\N{\rENG}I meant certain things are better forgotten.
+Dialogue: 0,0:33:26.59,0:33:29.08,CHS,,0,0,0,,那夜是我那一整年记的最清楚的一天\N{\rENG}I remember that night better than I do entire years.
+Dialogue: 0,0:33:29.29,0:33:31.09,CHS,,0,0,0,,- 我也是  - 真的吗？\N{\rENG}- Me too.  - Really?
+Dialogue: 0,0:33:31.26,0:33:33.42,CHS,,0,0,0,,呃，我觉得我是…\N{\rENG}Well, I thought I did.
+Dialogue: 0,0:33:36.03,0:33:39.69,CHS,,0,0,0,,不过，可能我…可能我忘记那事是因为…\N{\rENG}But maybe I... Maybe I put it away because of the fact that...
+Dialogue: 0,0:33:39.87,0:33:43.00,CHS,,0,0,0,,…我祖母葬礼的那天，就是我们约好再见的那天\N{\rENG}...my grandmother's funeral was the day we were supposed to meet.
+Dialogue: 0,0:33:43.24,0:33:46.17,CHS,,0,0,0,,对我来说那天挺难熬，不过对你来说大概更糟\N{\rENG}It was a tough day for me,but it must've been worse for you.
+Dialogue: 0,0:33:46.37,0:33:50.97,CHS,,0,0,0,,感觉好像不真实，我还记得我看见她的遗体躺在棺材里\N{\rENG}It was unreal. I remember looking at her dead body in the coffin...
+Dialogue: 0,0:33:51.15,0:33:55.51,CHS,,0,0,0,,她曾经总是用她美丽的手抱着我，那么温暖，那么亲切…\N{\rENG}...at her beautiful hands, so warm,so sweet, that used to hold me...
+Dialogue: 0,0:33:56.02,0:33:59.32,CHS,,0,0,0,,但是棺材里的她，和我记忆中的一点都不一样\N{\rENG}...but nothing in that coffin resembled what I remembered of her.
+Dialogue: 0,0:33:59.49,0:34:01.05,CHS,,0,0,0,,所有的温暖都消逝了\N{\rENG}All the warmth was gone.
+Dialogue: 0,0:34:01.32,0:34:04.12,CHS,,0,0,0,,然后我开始哭…我感觉很困惑，不知道\N{\rENG}And then I was crying,so confused if I was crying...
+Dialogue: 0,0:34:04.29,0:34:09.85,CHS,,0,0,0,,我哭是因为不能再见到她了，还是因为不能再见到你了\N{\rENG}...because I was never gonna see her again or never gonna see you again....
+Dialogue: 0,0:34:10.06,0:34:13.90,CHS,,0,0,0,,对不起，我竟然变成这样，这个星期我情绪都有点低落，我不知道…\N{\rENG}I'm sorry. I'm sorry to go on like this.I've been a little down this week.
+Dialogue: 0,0:34:14.14,0:34:17.13,CHS,,0,0,0,,- 为什么？ - 我不知道，没什么，只是…\N{\rENG}- Why?  - I don't know. Nothing bad, just....
+Dialogue: 0,0:34:17.34,0:34:19.31,CHS,,0,0,0,,可能是因为读了你的书？\N{\rENG}Reading your book, maybe?
+Dialogue: 0,0:34:19.47,0:34:23.34,CHS,,0,0,0,,也不是，不过…想想那个夏天和秋天，我充满了希望\N{\rENG}No, but... Thinking of how hopeful I was that summer and fall...
+Dialogue: 0,0:34:23.54,0:34:25.77,CHS,,0,0,0,,而自从那以后，好像就有点…\N{\rENG}...and since then it's been kind of a....
+Dialogue: 0,0:34:26.35,0:34:27.75,CHS,,0,0,0,,我也不知道\N{\rENG}I don't know.
+Dialogue: 0,0:34:27.92,0:34:32.08,CHS,,0,0,0,,回忆本来是非常美好的，只要你能让过去的都过去\N{\rENG}Memory is a wonderful thing if you don't have to deal with the past.
+Dialogue: 0,0:34:34.82,0:34:37.66,CHS,,0,0,0,,回忆本来是非常美好的，只要你能让过去的都过去\N{\rENG}"Memory is wonderful if you don't have to deal with the past."
+Dialogue: 0,0:34:37.83,0:34:39.49,CHS,,0,0,0,,我能把这话贴到我车牌上吗？\N{\rENG}Can I put that on a bumper sticker?
+Dialogue: 0,0:34:39.66,0:34:42.36,CHS,,0,0,0,,你知道吗？要是你写一本关于我们的一夜情的书，这是个不错的书名！\N{\rENG}If you wrote a book about our night,that's a good title.
+Dialogue: 0,0:34:42.53,0:34:46.40,CHS,,0,0,0,,- 可能会是本完全不同的书  - 是啊，不会涉及色情\N{\rENG}- And it could be a total different book.  - Yeah, there'd be no sex scenes.
+Dialogue: 0,0:34:47.00,0:34:48.33,CHS,,0,0,0,,- 不过你知道吗？ - 嗯？\N{\rENG}- But you know what?  - What?
+Dialogue: 0,0:34:48.54,0:34:49.90,CHS,,0,0,0,,既然现在我们又见面了\N{\rENG}Now that we've met again...
+Dialogue: 0,0:34:50.10,0:34:52.73,CHS,,0,0,0,,我们可以改变我们那个十二月十六日的回忆\N{\rENG}...we can change our memory of that December 16.
+Dialogue: 0,0:34:52.91,0:34:56.34,CHS,,0,0,0,,那回忆将不再有是以悲剧结尾了，因为我们又见面了\N{\rENG}It no longer has that sad ending of us never seeing each other again.
+Dialogue: 0,0:34:56.54,0:35:01.00,CHS,,0,0,0,,没错，我想回忆永远可以更改，只要你还活着…\N{\rENG}Right. I mean, I guess a memory's never finished as long as you're alive.
+Dialogue: 0,0:35:01.22,0:35:04.81,CHS,,0,0,0,,是啊，我知道，我有一段童年的回忆\N{\rENG}Yeah, I know. I have this memory from my childhood...
+Dialogue: 0,0:35:05.02,0:35:07.58,CHS,,0,0,0,,- 但是我最近意识到，这段回忆其实从未发生过  - 是什么？\N{\rENG}- ...I realized recently never happened.  - What?
+Dialogue: 0,0:35:07.76,0:35:10.72,CHS,,0,0,0,,这个，当我八九岁的时候，我妈妈很担心\N{\rENG}Well, when I was 8 or 9,my mom was so paranoid...
+Dialogue: 0,0:35:10.89,0:35:13.76,CHS,,0,0,0,,…怕我上完钢琴课以后，一个人走回家会出事…\N{\rENG}...when I was walking home from my piano lesson at night...
+Dialogue: 0,0:35:13.93,0:35:16.62,CHS,,0,0,0,,…她总是让我当心色迷迷的的老头给我糖果…\N{\rENG}...she'd warn me about dirty old men giving me candies...
+Dialogue: 0,0:35:16.83,0:35:18.63,CHS,,0,0,0,,…然后给我看他们的鸡鸡\N{\rENG}...and then showing me their pee-pees.
+Dialogue: 0,0:35:18.83,0:35:21.89,CHS,,0,0,0,,她总是这么说，然后后来，你懂吗，我…\N{\rENG}She was so obsessed with it that,later in life, you know...
+Dialogue: 0,0:35:22.07,0:35:25.47,CHS,,0,0,0,,…我头脑中就真的觉得这曾经发生过！\N{\rENG}...I had this image in my head that this really happened.
+Dialogue: 0,0:35:25.64,0:35:29.20,CHS,,0,0,0,,我甚至把做爱和回家联系到一起了\N{\rENG}To the point that I even associated sex with that walk home.
+Dialogue: 0,0:35:29.38,0:35:33.07,CHS,,0,0,0,,我是说，有时候，甚至是现在，当我…\N{\rENG}I mean, and sometimes,even now, when I'm....
+Dialogue: 0,0:35:33.95,0:35:37.91,CHS,,0,0,0,,当我做爱的时候，我都好像看见我自己在那街上走\N{\rENG}When I'm having sex, I see myself walking down that street.
+Dialogue: 0,0:35:38.09,0:35:39.99,CHS,,0,0,0,,我发誓！非常奇怪，对吧？\N{\rENG}I swear. It's so weird, right?
+Dialogue: 0,0:35:40.15,0:35:44.39,CHS,,0,0,0,,- 呃，那条街离这近吗？我是说，能…  - 不行\N{\rENG}- ls that street nearby? I mean, could...?  - Could we? No.
+Dialogue: 0,0:35:44.56,0:35:46.75,CHS,,0,0,0,,非常远\N{\rENG}Very far.
+Dialogue: 0,0:35:47.93,0:35:50.45,CHS,,0,0,0,,你小的时候记日记吗？\N{\rENG}Did you ever keep a journal when you were a kid?
+Dialogue: 0,0:35:50.63,0:35:53.96,CHS,,0,0,0,,嗯，算是吧，有时记\N{\rENG}Yeah. On and off, I guess.
+Dialogue: 0,0:35:54.13,0:35:56.30,CHS,,0,0,0,,很有意思的是，我有天读了…\N{\rENG}It's funny, I read one of mine...
+Dialogue: 0,0:35:56.47,0:35:58.37,CHS,,0,0,0,,- 我八三年的一本日记  - 怎么了\N{\rENG}- ...from '83 the other day.  - Yeah?
+Dialogue: 0,0:35:58.67,0:36:00.33,CHS,,0,0,0,,让我惊奇的是\N{\rENG}And what really surprised me is...
+Dialogue: 0,0:36:00.51,0:36:03.44,CHS,,0,0,0,,我那时的人生观和现在一样\N{\rENG}...that I was dealing with life the same way I am now.
+Dialogue: 0,0:36:03.64,0:36:05.64,CHS,,0,0,0,,当然我那时更天真，更充满希望\N{\rENG}I was much more hopeful and naive...
+Dialogue: 0,0:36:05.81,0:36:10.11,CHS,,0,0,0,,…不过内心深处对事情的感觉是完全一样的！\N{\rENG}...but the core, and the way I was feeling things, is exactly the same.
+Dialogue: 0,0:36:10.28,0:36:12.62,CHS,,0,0,0,,这让我意识到我其实没怎么变\N{\rENG}It made me realize I haven't changed much at all.
+Dialogue: 0,0:36:12.79,0:36:14.28,CHS,,0,0,0,,是啊，谁不是这样的呢？\N{\rENG}I don't think anybody does.
+Dialogue: 0,0:36:14.46,0:36:18.26,CHS,,0,0,0,,尽管人们都不愿意承认，但事实上我们…我们很多个性都是天生的\N{\rENG}People don't want to admit it, but it's like we have these innate set points...
+Dialogue: 0,0:36:18.43,0:36:22.02,CHS,,0,0,0,,很少有什么后天发生的事能改变我们的性情\N{\rENG}...and nothing much that happens to us changes our disposition.
+Dialogue: 0,0:36:22.20,0:36:23.66,CHS,,0,0,0,,- 你是这么想的？ - 是的\N{\rENG}- You believe that?  - I think so.
+Dialogue: 0,0:36:23.83,0:36:27.16,CHS,,0,0,0,,我曾经读过一些研究报告，是关于那些赢了彩票的人…\N{\rENG}I read this study where they followed people who'd won the lottery...
+Dialogue: 0,0:36:27.33,0:36:29.20,CHS,,0,0,0,,…和截瘫的人的心态\N{\rENG}...and people who'd become paraplegics.
+Dialogue: 0,0:36:29.40,0:36:33.53,CHS,,0,0,0,,你会认为前一件事能让你欣喜若狂，后一件则让你简直想自杀\N{\rENG}You'd think one extreme is gonna make you euphoric and the other suicidal.
+Dialogue: 0,0:36:33.71,0:36:36.44,CHS,,0,0,0,,但是研究却表明，大概六个月之后\N{\rENG}But the study shows that,after about six months...
+Dialogue: 0,0:36:36.61,0:36:39.88,CHS,,0,0,0,,只要人们习惯了他们的新处境\N{\rENG}...as soon as people had gotten used to their new situation...
+Dialogue: 0,0:36:40.05,0:36:42.38,CHS,,0,0,0,,- 他们就和以前差不多一样了  - 一样？\N{\rENG}- ...they were, more or less, the same.  - The same?
+Dialogue: 0,0:36:42.55,0:36:45.78,CHS,,0,0,0,,嗯，是的，如果他们本质上是乐观开朗的人\N{\rENG}Yeah. Like, if they were basically an optimistic, jovial person...
+Dialogue: 0,0:36:45.95,0:36:48.79,CHS,,0,0,0,,即使他们现在坐在了轮椅上，他们还是乐天派\N{\rENG}...they're now an optimistic, jovial person in a wheelchair.
+Dialogue: 0,0:36:48.99,0:36:50.96,CHS,,0,0,0,,如果他们是见识短浅的笨家伙\N{\rENG}If they're a petty, miserable asshole...
+Dialogue: 0,0:36:51.13,0:36:55.06,CHS,,0,0,0,,就算他们有了卡迪拉克轿车、大房子、游艇，他们还是见识短浅的笨蛋\N{\rENG}...they're a petty, miserable asshole with a new Cadillac, a house and a boat.
+Dialogue: 0,0:36:55.23,0:36:58.56,CHS,,0,0,0,,就是说，哪怕有再多的幸运降临，他们还是难以得到满足？\N{\rENG}So I'll be forever depressed no matter what great things happen?
+Dialogue: 0,0:36:58.73,0:37:00.13,CHS,,0,0,0,,- 没错！ - 好吧\N{\rENG}- Definitely.  - Great.
+Dialogue: 0,0:37:00.30,0:37:02.00,CHS,,0,0,0,,别开玩笑了，你现在郁闷吗？\N{\rENG}No, come on, are you depressed now?
+Dialogue: 0,0:37:02.17,0:37:04.47,CHS,,0,0,0,,不，不，我不郁闷\N{\rENG}No, no, I'm not depressed.
+Dialogue: 0,0:37:04.64,0:37:07.30,CHS,,0,0,0,,不过有的时候我会担心，当我走到生命尽头的时候…\N{\rENG}But sometimes I worry I'll get to the end of my life...
+Dialogue: 0,0:37:07.47,0:37:11.00,CHS,,0,0,0,,- …我会发现我想要做的事还没都做过  - 哦，那你想要做什么？\N{\rENG}- ...feeling I haven't done all I wanted to.  - Well, what do you want to do?
+Dialogue: 0,0:37:11.18,0:37:12.87,CHS,,0,0,0,,我…\N{\rENG}I....
+Dialogue: 0,0:37:13.05,0:37:16.07,CHS,,0,0,0,,我想画更多的画，我想每天弹吉他\N{\rENG}I want to paint more,I want to play my guitar every day.
+Dialogue: 0,0:37:16.25,0:37:19.48,CHS,,0,0,0,,我想学中文，我想写更多的歌…\N{\rENG}I want to learn Chinese.I want to write more songs.
+Dialogue: 0,0:37:19.65,0:37:23.99,CHS,,0,0,0,,我想做的事太多了，但是最后却只干了没多少\N{\rENG}There's so many things I want to do,and I end up doing not much.
+Dialogue: 0,0:37:24.89,0:37:30.73,CHS,,0,0,0,,好吧，那，让我问你这个问题：你相信，嗯，比如鬼或者灵魂什么的吗？\N{\rENG}All right, well, let me ask you this:Do you believe in ghosts or spirits?
+Dialogue: 0,0:37:30.90,0:37:32.26,CHS,,0,0,0,,呃，不信\N{\rENG}No.
+Dialogue: 0,0:37:32.47,0:37:33.76,CHS,,0,0,0,,- 不信？ - 不信\N{\rENG}- No?  - No.
+Dialogue: 0,0:37:33.97,0:37:37.70,CHS,,0,0,0,,- 好，那投胎呢？ - 一点不信\N{\rENG}- Okay, what about reincarnation?  - Not at all.
+Dialogue: 0,0:37:37.87,0:37:39.84,CHS,,0,0,0,,- 上帝呢？ - 不信\N{\rENG}- God?  - No.
+Dialogue: 0,0:37:40.01,0:37:42.50,CHS,,0,0,0,,- 好吧  - 听起来挺惨的吧\N{\rENG}- All right.  - That sounds terrible. No, no, no.
+Dialogue: 0,0:37:42.68,0:37:46.58,CHS,,0,0,0,,不过，同时呢，我不想变成那种不相信任何魔力的人\N{\rENG}But I don't want to be one of those people that don't believe in any magic.
+Dialogue: 0,0:37:46.75,0:37:48.68,CHS,,0,0,0,,- 你相信占星术  - 没错！\N{\rENG}- So then, astrology?  - Yes, of course!
+Dialogue: 0,0:37:48.85,0:37:50.68,CHS,,0,0,0,,- 总算找到一样了  - 我是说，这很有道理，对吧？\N{\rENG}- There we go.  - That makes sense, right?
+Dialogue: 0,0:37:50.85,0:37:54.25,CHS,,0,0,0,,你是天蝎，我是射手，所以我们合得来\N{\rENG}You're a Scorpio,I'm a Sag, we get along.
+Dialogue: 0,0:37:55.19,0:37:57.02,CHS,,0,0,0,,没有啦\N{\rENG}No, no, no.
+Dialogue: 0,0:37:57.19,0:38:00.22,CHS,,0,0,0,,爱因斯坦说过一段话，我真的很喜欢\N{\rENG}There's an Einstein quote I really, really like.
+Dialogue: 0,0:38:00.39,0:38:03.89,CHS,,0,0,0,,他说：“如果你不相信任何魔法和神话的话\N{\rENG}He said, "lf you don't believe in any kind of magic or mystery...
+Dialogue: 0,0:38:04.06,0:38:06.90,CHS,,0,0,0,,- 那你就和死人差不多了”  - 是啊，我也喜欢这话\N{\rENG}- ...you're basically as good as dead."  - Yeah, I like that.
+Dialogue: 0,0:38:07.07,0:38:10.40,CHS,,0,0,0,,我总是觉得茫茫宇宙中有些神秘的和谐\N{\rENG}I've always felt there was some kind of mystical core to the universe.
+Dialogue: 0,0:38:10.57,0:38:15.77,CHS,,0,0,0,,最近我在想有关我啊，我的性格之类的\N{\rENG}But, more recently, I've started to think that, me, my personality, whatever...
+Dialogue: 0,0:38:15.94,0:38:19.04,CHS,,0,0,0,,我不能永远待在这里\N{\rENG}That I don't have any permanent place here, you know.
+Dialogue: 0,0:38:19.21,0:38:20.87,CHS,,0,0,0,,我们不会长生不老\N{\rENG}In eternity or whatever, you know.
+Dialogue: 0,0:38:21.05,0:38:24.88,CHS,,0,0,0,,我越想到这个，就越觉得不能浪费人生\N{\rENG}And the more I think that, I can't go through life saying this is no big deal.
+Dialogue: 0,0:38:25.05,0:38:28.54,CHS,,0,0,0,,因为生命仅此一次，任何事情，不管是有趣的\N{\rENG}This is it. This is actually happening.What do you think is interesting?
+Dialogue: 0,0:38:28.72,0:38:30.88,CHS,,0,0,0,,还是好笑的，或者是重要的\N{\rENG}What do you think is funny?What is important?
+Dialogue: 0,0:38:31.09,0:38:33.39,CHS,,0,0,0,,懂吗，每天都有可能是我们的最后一天\N{\rENG}You know, every day's our last.
+Dialogue: 0,0:38:33.76,0:38:37.25,CHS,,0,0,0,,我一想到这个，我就会打电话给我的妈妈说我有多爱她\N{\rENG}When I feel that way, I usually call my mom to tell her I love her.
+Dialogue: 0,0:38:37.43,0:38:39.06,CHS,,0,0,0,,- 是吗  - 然后她就总问\N{\rENG}- Yeah?  - And she's always:
+Dialogue: 0,0:38:39.23,0:38:43.33,CHS,,0,0,0,,“你还好吧”“你不会得了癌症吧？你会去自杀吗？”\N{\rENG}"Are you okay? Do you have cancer?Are you gonna commit suicide? "
+Dialogue: 0,0:38:43.54,0:38:46.13,CHS,,0,0,0,,不至于吧\N{\rENG}It's almost not worth it.
+Dialogue: 0,0:38:47.34,0:38:50.14,CHS,,0,0,0,,那我们呢\N{\rENG}So, what about us?
+Dialogue: 0,0:38:50.31,0:38:52.84,CHS,,0,0,0,,- 我们？ - 我是说\N{\rENG}- What about us?  - No, what I mean is...
+Dialogue: 0,0:38:53.05,0:38:56.61,CHS,,0,0,0,,- 如果我们今晚就要死了  - 你是说世界末日来临？\N{\rENG}- ...if we were both going to die tonight...  - Like the apocalypse was coming?
+Dialogue: 0,0:38:56.78,0:39:00.91,CHS,,0,0,0,,不，没有那么恐怖，不过，如果只有我们两个要死了\N{\rENG}No, that's too dramatic... But what if just the two of us were going to die?
+Dialogue: 0,0:39:01.09,0:39:03.02,CHS,,0,0,0,,我们还会谈论你的书吗？\N{\rENG}I mean, would we talk about your book?
+Dialogue: 0,0:39:03.19,0:39:05.95,CHS,,0,0,0,,- 或者环境问题吗？ - 如果今天是我们的最后一天？\N{\rENG}- The environment? Or....  - If today was our last day?
+Dialogue: 0,0:39:06.13,0:39:08.75,CHS,,0,0,0,,没错，我们会谈什么，你会跟我说什么？\N{\rENG}Yeah, what would we talk about?What would you tell me?
+Dialogue: 0,0:39:08.93,0:39:10.45,CHS,,0,0,0,,- 嗯  - 很难回答？\N{\rENG}- Well....  - That's hard, huh?
+Dialogue: 0,0:39:10.63,0:39:11.96,CHS,,0,0,0,,- 不不，我在想呢  - 好吧\N{\rENG}- No, no, I'll do it.  - Okay.
+Dialogue: 0,0:39:12.13,0:39:14.60,CHS,,0,0,0,,我一定不会再讨论我的书了\N{\rENG}I definitely would stop talking about my book.
+Dialogue: 0,0:39:14.77,0:39:17.43,CHS,,0,0,0,,- 我得承认我大概也不会谈环境问题了  - 好\N{\rENG}- I would probably drop the environment.  - Okay.
+Dialogue: 0,0:39:17.60,0:39:21.54,CHS,,0,0,0,,不过我仍然想要谈谈，那些魔法啊，宇宙什么的\N{\rENG}But I would still want to talk about, you know, the magic in the universe.
+Dialogue: 0,0:39:21.71,0:39:24.94,CHS,,0,0,0,,- 只是我希望做这些的时候我是在一个…．  - 什么？\N{\rENG}- I'd just want to do it from a...  - What?
+Dialogue: 0,0:39:25.11,0:39:26.70,CHS,,0,0,0,,…一个旅馆房间里…\N{\rENG}...a hotel room, you know...
+Dialogue: 0,0:39:26.88,0:39:30.68,CHS,,0,0,0,,…在我们每个疯狂做爱的间隙，直到我们死去\N{\rENG}...in between sessions of us wildly fucking until we die.
+Dialogue: 0,0:39:30.85,0:39:33.68,CHS,,0,0,0,,哇！何必要浪费时间去旅馆呢？\N{\rENG}Wow. Well, why waste time with an hotel room?
+Dialogue: 0,0:39:33.85,0:39:37.29,CHS,,0,0,0,,为什么不在这儿？在这张长椅上？\N{\rENG}Why not do it right there on a bench?
+Dialogue: 0,0:39:38.03,0:39:40.39,CHS,,0,0,0,,- 不  - 来，过来\N{\rENG}- No.  - Come here, come here, come here.
+Dialogue: 0,0:39:40.59,0:39:42.99,CHS,,0,0,0,,好啦，我们不会今晚就死的\N{\rENG}Okay. We're not gonna die tonight.
+Dialogue: 0,0:39:43.16,0:39:45.19,CHS,,0,0,0,,好吧，我太激动了，对不起\N{\rENG}All right. Too bad. I'm sorry.
+Dialogue: 0,0:39:45.37,0:39:46.89,CHS,,0,0,0,,我举的只是一个极端的例子\N{\rENG}That was an extreme example.
+Dialogue: 0,0:39:47.10,0:39:49.54,CHS,,0,0,0,,- 对不起  - 没事\N{\rENG}- I'm sorry.  - Okay.
+Dialogue: 0,0:39:49.70,0:39:51.36,CHS,,0,0,0,,我想要说的是…\N{\rENG}What I... My point was, you know...
+Dialogue: 0,0:39:51.54,0:39:54.37,CHS,,0,0,0,,我很难和别人深层次地沟通\N{\rENG}...to truly communicate with people is very hard to do.
+Dialogue: 0,0:39:54.54,0:39:57.34,CHS,,0,0,0,,我懂，不像日常的交流…\N{\rENG}No, I know, most of our day-to-day exchanges...
+Dialogue: 0,0:39:57.51,0:39:59.04,CHS,,0,0,0,,我知道，我是说…\N{\rENG}Yeah, no, I mean...
+Dialogue: 0,0:39:59.21,0:40:01.84,CHS,,0,0,0,,- 不要把什么都跟性扯上关系  - 为什么不呢？\N{\rENG}- ...not to bring everything back to sex...  - But why not?
+Dialogue: 0,0:40:02.02,0:40:05.14,CHS,,0,0,0,,不，举个例子来说吧，我的一个女朋友\N{\rENG}No, this example, this friend of mine, she was talking about...
+Dialogue: 0,0:40:05.32,0:40:08.35,CHS,,0,0,0,,- 她曾和我说起她跟她男朋友在床上的问题  - 然后呢\N{\rENG}- She and her boyfriend... Problems in bed.  - Right.
+Dialogue: 0,0:40:08.56,0:40:12.05,CHS,,0,0,0,,她说他们交往一年之后，她开始告诉他…\N{\rENG}And how when they had been dating for a year she started telling him...
+Dialogue: 0,0:40:12.23,0:40:15.22,CHS,,0,0,0,,…怎样才能让她获得更多的快感，而这让她男友非常生气！\N{\rENG}...what he could do to please her more,and it freaked him out.
+Dialogue: 0,0:40:15.40,0:40:16.73,CHS,,0,0,0,,- 为什么？ - 他很生气\N{\rENG}- Why?  - Totally.
+Dialogue: 0,0:40:16.93,0:40:18.92,CHS,,0,0,0,,他觉得这是说自己做得不好\N{\rENG}He thought it meant he was a bad lover....
+Dialogue: 0,0:40:19.13,0:40:21.00,CHS,,0,0,0,,也许她不该等这么久才说\N{\rENG}Maybe she shouldn't have waited so long.
+Dialogue: 0,0:40:21.17,0:40:23.53,CHS,,0,0,0,,- 你知道，一年以后…  - 没错，不过男人也太容易被激怒了！\N{\rENG}- After a year....  - But men are so easily offended.
+Dialogue: 0,0:40:23.70,0:40:26.20,CHS,,0,0,0,,- 你觉得比女人还容易？ - 当然了，在这一点上毫无疑问！\N{\rENG}- What, more than women?  - Definitely on that subject.
+Dialogue: 0,0:40:26.37,0:40:27.74,CHS,,0,0,0,,- 你这么觉得？ - 没错\N{\rENG}- You think so?  - Yeah, yeah.
+Dialogue: 0,0:40:28.51,0:40:30.60,CHS,,0,0,0,,也许这是因为\N{\rENG}Well, maybe it's because, you know...
+Dialogue: 0,0:40:30.78,0:40:34.84,CHS,,0,0,0,,- 男人比较容易获得满足  - 获得满足？\N{\rENG}- ...men are easier to... To please.  - To please?
+Dialogue: 0,0:40:35.05,0:40:38.04,CHS,,0,0,0,,- 我不知道  - 没错，他们绝对是的\N{\rENG}- Well, I don't know.  - Yeah, they are. They're definitely.
+Dialogue: 0,0:40:38.25,0:40:40.38,CHS,,0,0,0,,总之我的朋友对我说\N{\rENG}Anyway, this friend,she was telling me...
+Dialogue: 0,0:40:40.55,0:40:44.22,CHS,,0,0,0,,…下次她再交男朋友她会给他做一个问卷…\N{\rENG}...next time she dates a man,she's gonna make a little questionnaire...
+Dialogue: 0,0:40:44.39,0:40:47.85,CHS,,0,0,0,,- 问明什么是他们喜欢的和不喜欢的  - 你是说写下来还是大声问？\N{\rENG}- ...about what they like and dislike...  - What, written down, or out loud?
+Dialogue: 0,0:40:48.03,0:40:49.76,CHS,,0,0,0,,当然是写下来\N{\rENG}Yeah, mostly written down.
+Dialogue: 0,0:40:49.93,0:40:53.59,CHS,,0,0,0,,不过答案不仅仅是“是”或“否”，应该要更详细一点\N{\rENG}But it wouldn't be just yes or no.It would be a bit more complex than that.
+Dialogue: 0,0:40:53.77,0:40:57.26,CHS,,0,0,0,,打个比方，如果问题是“你喜欢性虐待吗？”\N{\rENG}Like, for example, if the question is:"Are you into S & M? "
+Dialogue: 0,0:40:57.44,0:41:02.27,CHS,,0,0,0,,答案可以是“不，但是偶尔为之也不错”\N{\rENG}The answer could be: "No, but a good spanking once in a while doesn't hurt."
+Dialogue: 0,0:41:02.44,0:41:06.14,CHS,,0,0,0,,- 怎么样？ - 好，或者是“你喜欢在做爱时讲一些激发情欲的话吗？”\N{\rENG}- What about?  - Right, or like:"Do you like talking dirty in bed? "
+Dialogue: 0,0:41:06.31,0:41:09.77,CHS,,0,0,0,,- 类似这种问题？ - 对，不过不只是这么泛泛的\N{\rENG}- That kind of thing?  - Yeah, but not just like any dirty talk.
+Dialogue: 0,0:41:09.95,0:41:12.32,CHS,,0,0,0,,要说：“你喜欢听什么样的词”？\N{\rENG}Just "What specific word would you like to hear? "
+Dialogue: 0,0:41:12.49,0:41:13.82,CHS,,0,0,0,,- 你是问我吗？ - 嗯，是啊\N{\rENG}- What, me?  - Well, yeah.
+Dialogue: 0,0:41:13.99,0:41:16.65,CHS,,0,0,0,,比如你喜欢听什么样的话？\N{\rENG}For example what specific word would you like to hear?
+Dialogue: 0,0:41:16.82,0:41:18.45,CHS,,0,0,0,,我不知道\N{\rENG}I don't know.
+Dialogue: 0,0:41:19.96,0:41:22.49,CHS,,0,0,0,,你觉得“小蜜桃”这词怎样？\N{\rENG}What do you feel about the word "pussy"?
+Dialogue: 0,0:41:22.70,0:41:25.46,CHS,,0,0,0,,我很喜欢\N{\rENG}I love it.
+Dialogue: 0,0:41:25.83,0:41:27.49,CHS,,0,0,0,,很好\N{\rENG}Good.
+Dialogue: 0,0:41:27.70,0:41:30.67,CHS,,0,0,0,,没想到九年之后我们都变得这么现实了\N{\rENG}It's amazing what perverts we've become in the past nine years.
+Dialogue: 0,0:41:30.84,0:41:34.14,CHS,,0,0,0,,至少我们现不用把每次新的性体验…\N{\rENG}At least now we don't have to pretend each new sexual experience...
+Dialogue: 0,0:41:34.31,0:41:36.00,CHS,,0,0,0,,…都当作是是改变我们人生的大事\N{\rENG}...is, like, a life-altering event.
+Dialogue: 0,0:41:36.21,0:41:39.67,CHS,,0,0,0,,我知道，你已经有过了那么多次感情经历，现在都快失去激情了\N{\rENG}I know. By now, you've stuck it in so many places it's about to fall off.
+Dialogue: 0,0:41:39.85,0:41:43.58,CHS,,0,0,0,,我也没指望你会一直想着我\N{\rENG}And I can't realistically expect you've become anything but a total ho.
+Dialogue: 0,0:41:43.75,0:41:47.15,CHS,,0,0,0,,- 哦，谢谢  - 不，我很抱{\fs45\c&H9AD1DD&}[歉]{\rCHS}…\N{\rENG}- Yeah, thank you.  - No, I'm s...
+Dialogue: 0,0:41:47.75,0:41:50.75,CHS,,0,0,0,,- 没错阿，你该怎样呢？ - 我该…\N{\rENG}- That's true. What can you do?  - What can you do?
+Dialogue: 0,0:41:50.92,0:41:54.69,CHS,,0,0,0,,对了，你平时都写些什么歌？我还不知道你会写歌呢\N{\rENG}So, what kind of songs do you write?I didn't know you did that.
+Dialogue: 0,0:41:54.86,0:41:56.09,CHS,,0,0,0,,- 什么类型的？ - 是啊\N{\rENG}- What kind?  - Yeah, sure.
+Dialogue: 0,0:41:56.26,0:41:57.92,CHS,,0,0,0,,- 我不知道，只是歌而已  - 比如\N{\rENG}- I don't know, just songs.  - Like?
+Dialogue: 0,0:41:58.10,0:42:00.76,CHS,,0,0,0,,比如有些是有关人的\N{\rENG}Like, some are about,you know, people.
+Dialogue: 0,0:42:00.93,0:42:02.60,CHS,,0,0,0,,嗯，或是各种爱恨情仇…还有一首是写我的猫猫的！\N{\rENG}Relationships. One's about my cat.
+Dialogue: 0,0:42:02.77,0:42:05.26,CHS,,0,0,0,,- 唱首听听！ - 不行，我没有吉他\N{\rENG}- Sing one.  - No, I can't. I don't have a guitar.
+Dialogue: 0,0:42:05.44,0:42:07.00,CHS,,0,0,0,,- 来吧，清唱一首  - 不行，不行\N{\rENG}- Come on. A cappella.  - No, no, no.
+Dialogue: 0,0:42:07.17,0:42:10.34,CHS,,0,0,0,,没有吉他伴奏我唱不了歌，你太过分了！\N{\rENG}I'm not singing a song without a guitar.You're nuts.
+Dialogue: 0,0:42:10.84,0:42:12.78,CHS,,0,0,0,,为什么？\N{\rENG}Why not?
+Dialogue: 0,0:42:12.95,0:42:15.38,CHS,,0,0,0,,- 好吧，至少不是现在  - 就一首\N{\rENG}- No, okay. Not now. No.  - One.
+Dialogue: 0,0:42:15.55,0:42:18.81,CHS,,0,0,0,,如果不是现在，还有什么时候呢？你想六个月后在这儿见面吗？带着吉他？\N{\rENG}If not now, when? You want to meet here in six months with a guitar?
+Dialogue: 0,0:42:18.99,0:42:20.48,CHS,,0,0,0,,我会飞过来的\N{\rENG}I'll fly all the way over here.
+Dialogue: 0,0:42:20.65,0:42:23.65,CHS,,0,0,0,,- 但你不一定能赶上地铁  - 好啦，这不好笑\N{\rENG}- You may or may not make the Metro.  - Okay, that's funny.
+Dialogue: 0,0:42:24.02,0:42:26.12,CHS,,0,0,0,,- 我们该回书店了！ - 没事的\N{\rENG}- We've got to get back.  - We'll be all right.
+Dialogue: 0,0:42:26.29,0:42:28.28,CHS,,0,0,0,,- 你会错过你的航班的，快点！ - 好吧\N{\rENG}- You're gonna miss your flight.  - All right.
+Dialogue: 0,0:42:28.46,0:42:30.29,CHS,,0,0,0,,我们可以沿塞纳河走走，很漂亮的\N{\rENG}We can walk down La Seine.It's nice.
+Dialogue: 0,0:42:30.46,0:42:32.02,CHS,,0,0,0,,好吧\N{\rENG}Okay.
+Dialogue: 0,0:42:32.63,0:42:36.33,CHS,,0,0,0,,- 那你是要飞回纽约吗？ - 是的\N{\rENG}- So you're flying back to New York?  - Yeah, yeah.
+Dialogue: 0,0:42:38.21,0:42:42.16,CHS,,0,0,0,,我在文章中读到你结婚了，还有了一个孩子，真是太好了！\N{\rENG}So I read in that article that you're married with a kid. That's great.
+Dialogue: 0,0:42:42.34,0:42:44.83,CHS,,0,0,0,,没错，他已经…他已经四岁了\N{\rENG}Yeah, he's... He's 4.
+Dialogue: 0,0:42:45.01,0:42:47.21,CHS,,0,0,0,,- 他叫什么？ - 亨利，小汉克\N{\rENG}- What's his name?  - Henry. Little Hank.
+Dialogue: 0,0:42:47.38,0:42:50.18,CHS,,0,0,0,,- 他很可爱  - 当然了\N{\rENG}- He's so much fun.  - Oh, wow, I'm sure.
+Dialogue: 0,0:42:50.35,0:42:53.32,CHS,,0,0,0,,- 你的太太呢？她是做什么的？ - 她在小学教书\N{\rENG}- Your wife, what does she do?  - She teaches elementary school.
+Dialogue: 0,0:42:53.85,0:42:56.41,CHS,,0,0,0,,- 你有孩子吗？ - 是的，有两个。糟了！\N{\rENG}- Do you have kids?  - Yes, two... Shit!
+Dialogue: 0,0:42:56.59,0:42:58.06,CHS,,0,0,0,,- 怎么了？ - 我把他们落在车上了！\N{\rENG}- What?  - I left them in the car!
+Dialogue: 0,0:42:58.23,0:43:00.89,CHS,,0,0,0,,窗关得死死的，快有六个月了…他们会有事吗？\N{\rENG}With the windows up, six months ago!Think they're okay?
+Dialogue: 0,0:43:01.06,0:43:03.69,CHS,,0,0,0,,没有啦，我开玩笑的，不过我很想要小孩\N{\rENG}No, I'm kidding.No, but I want to have kids someday.
+Dialogue: 0,0:43:03.86,0:43:05.73,CHS,,0,0,0,,- 只是还没做好准备  - 没有吗？\N{\rENG}- I'm just not ready yet.  - No?
+Dialogue: 0,0:43:05.90,0:43:09.06,CHS,,0,0,0,,- 不过我现在正在认真谈恋爱  - 噢是吗？这很好啊\N{\rENG}- I'm in a good relationship, though.  - Oh yeah? That's good.
+Dialogue: 0,0:43:09.24,0:43:11.33,CHS,,0,0,0,,- 他是做什么的？ - 他是个摄影记者\N{\rENG}- What's he do?  - He's a photojournalist.
+Dialogue: 0,0:43:11.51,0:43:13.34,CHS,,0,0,0,,专门做战地新闻\N{\rENG}He does war coverage.
+Dialogue: 0,0:43:13.51,0:43:16.07,CHS,,0,0,0,,他经常出差，不过从某种角度对我来说，是一件好事，因为我实在是太忙了\N{\rENG}He's away a lot, which is good because I'm so busy.
+Dialogue: 0,0:43:16.24,0:43:20.34,CHS,,0,0,0,,不过那不是很危险吗？我是说，不是有很多人在战争中丧生吗？\N{\rENG}But isn't that dangerous? Aren't a lot of those guys getting killed these days?
+Dialogue: 0,0:43:20.51,0:43:23.75,CHS,,0,0,0,,他向我保证不会太冒险的，不过我还是会经常担心\N{\rENG}He promises me he doesn't take risks,but I often worry.
+Dialogue: 0,0:43:23.92,0:43:26.44,CHS,,0,0,0,,他一拿起相机就什么都不顾了\N{\rENG}He goes in this trance when he photographs something.
+Dialogue: 0,0:43:26.62,0:43:29.95,CHS,,0,0,0,,- 什么意思？ - 有一次我们在新德里\N{\rENG}- What do you mean?  - Well, once we were in New Delhi...
+Dialogue: 0,0:43:30.12,0:43:31.61,CHS,,0,0,0,,见到一个流浪汉，他躺在人行道上\N{\rENG}...and we passed a bum on the...
+Dialogue: 0,0:43:31.83,0:43:34.06,CHS,,0,0,0,,- 炸弹？{\fs45\c&H9AD1DD&}[谐音]{\rCHS}  - 流浪汉！无家可归的人\N{\rENG}- A bomb?  - A bum. A homeless.
+Dialogue: 0,0:43:34.23,0:43:35.56,CHS,,0,0,0,,哦，流浪汉\N{\rENG}All right, right.
+Dialogue: 0,0:43:35.73,0:43:39.56,CHS,,0,0,0,,总之他看起来需要帮助，但是我男朋友的第一个反应就是拿起相机！\N{\rENG}He looked like he needed help, but his first reaction was to photograph him.
+Dialogue: 0,0:43:39.73,0:43:42.57,CHS,,0,0,0,,他凑到离那个人的脸非常近的地方整理他的衣领，让他看起来显得更精神\N{\rENG}He went really close to his face,fixing his collar...
+Dialogue: 0,0:43:42.74,0:43:44.47,CHS,,0,0,0,,他似乎完全不在乎那个人\N{\rENG}...totally detached from the person.
+Dialogue: 0,0:43:44.64,0:43:47.40,CHS,,0,0,0,,不过要做好工作不就得这样吗？\N{\rENG}But don't you have to be like that to be good at that job?
+Dialogue: 0,0:43:47.57,0:43:48.91,CHS,,0,0,0,,是啊，我知道啊，我不是…\N{\rENG}Yeah, I mean, I'm not....
+Dialogue: 0,0:43:49.08,0:43:52.20,CHS,,0,0,0,,我不是由此来看他的为人，他的工作是重要的也是高尚的\N{\rENG}I'm not judging him.What he does is essential and incredible.
+Dialogue: 0,0:43:52.38,0:43:54.47,CHS,,0,0,0,,我只是说这是我自己永远做不到的\N{\rENG}All I'm saying is that I could never do it.
+Dialogue: 0,0:43:54.65,0:43:56.41,CHS,,0,0,0,,我们上那船吧！快！\N{\rENG}Let's get on that boat. Come on.
+Dialogue: 0,0:43:56.58,0:43:57.91,CHS,,0,0,0,,- 不！ - 快，很有趣的！\N{\rENG}- No!  - Come on, it'll be fun.
+Dialogue: 0,0:43:58.09,0:44:00.42,CHS,,0,0,0,,- 你没时间了！我们得走了  - 它就要开了\N{\rENG}- You don't have time!  - They're about to take off.
+Dialogue: 0,0:44:00.59,0:44:02.99,CHS,,0,0,0,,我还有十五分钟呢，你有手机吗？\N{\rENG}I've got 15 more minutes.Do you have a cell phone?
+Dialogue: 0,0:44:03.16,0:44:05.49,CHS,,0,0,0,,- 有  - 那就好，我有那个司机的号码\N{\rENG}- Yeah.  - All right, I've got that driver's number.
+Dialogue: 0,0:44:05.66,0:44:07.82,CHS,,0,0,0,,我可以打电话给他，让他在下一站停船的地方接我们\N{\rENG}I can call him to pick us up at the next stop.
+Dialogue: 0,0:44:07.99,0:44:11.90,CHS,,0,0,0,,好吧，可我从来没上过那船，这是给游客的，太丢脸了\N{\rENG}I've never been on those boats.It's for tourists, it's embarrassing.
+Dialogue: 0,0:44:12.07,0:44:13.40,CHS,,0,0,0,,好啦，没事的\N{\rENG}Okay. All right.
+Dialogue: 0,0:44:14.05,0:44:16.55,CHS,,0,0,0,,- {\fs45\c&H9AD1DD&}[法语]{\rCHS}唔，我们可以上船了吗？ - 当然\N{\rENG}- Uhm, c'est bon?Pouvons-nous entrer?  - Bien sur!
+Dialogue: 0,0:44:16.55,0:44:19.25,CHS,,0,0,0,,- {\fs45\c&H9AD1DD&}[法语]{\rCHS}请给我两张票！ - 不，让我来，让我来\N{\rENG}- Deux tickets, s'il vous plait!  - No, I'll get it, I'll get it.
+Dialogue: 0,0:44:19.25,0:44:21.85,CHS,,0,0,0,,- {\fs45\c&H9AD1DD&}[法语]{\rCHS}不，不，还是我来吧  - 好吧，好吧，好吧\N{\rENG}- No, no, c'est bon.  - All right. All right, all right.
+Dialogue: 0,0:44:22.45,0:44:25.35,CHS,,0,0,0,,- {\fs45\c&H9AD1DD&}[法语]{\rCHS}下一站停在哪里？ - {\fs45\c&H9AD1DD&}[法语]{\rCHS}亨利四世码头\N{\rENG}- C'est ou qu'il s'arrete au prochain arret?  - C'est au Quai Henry IV.
+Dialogue: 0,0:44:25.36,0:44:26.64,CHS,,0,0,0,,谢谢\N{\rENG}Thank you.
+Dialogue: 0,0:44:26.81,0:44:28.97,CHS,,0,0,0,,- 那你现在是跟他沉浸在爱河里咯？ - 谁？\N{\rENG}- So are you in love with that guy?  - What guy?
+Dialogue: 0,0:44:29.15,0:44:32.48,CHS,,0,0,0,,- 那个战地摄影师  - 哦，当然！\N{\rENG}- The war photographer.  - Yes, of course.
+Dialogue: 0,0:44:32.95,0:44:36.25,CHS,,0,0,0,,- {\fs45\c&H9AD1DD&}[法语]{\rCHS}你们可以进去了  - 谢谢\N{\rENG}- Vous pouvez y aller.  - Merci.
+Dialogue: 0,0:44:36.29,0:44:38.48,CHS,,0,0,0,,对不起，你的手机…\N{\rENG}So do you have that cell phone?
+Dialogue: 0,0:44:38.66,0:44:40.42,CHS,,0,0,0,,哦，对\N{\rENG}Oh, yeah.
+Dialogue: 0,0:44:40.59,0:44:42.43,CHS,,0,0,0,,- 好，让我看看他的号码…  - 好\N{\rENG}- Okay, let's see....  - Okay.
+Dialogue: 0,0:44:42.60,0:44:43.93,CHS,,0,0,0,,我该怎么跟他说呢？\N{\rENG}What do I tell him?
+Dialogue: 0,0:44:44.10,0:44:46.29,CHS,,0,0,0,,让他在亨利四世码头等着\N{\rENG}Tell him to pick you up at Quai Henri Quatre.
+Dialogue: 0,0:44:46.47,0:44:49.26,CHS,,0,0,0,,哦，见鬼，什么码头？\N{\rENG}Oh, shit. Quai...?
+Dialogue: 0,0:44:49.44,0:44:52.20,CHS,,0,0,0,,亨利四世，亨利四世码头\N{\rENG}Henri Quatre. Quai Henri Quatre.
+Dialogue: 0,0:44:52.41,0:44:54.43,CHS,,0,0,0,,亨利四世\N{\rENG}Henri Quatre.
+Dialogue: 0,0:44:54.61,0:44:57.60,CHS,,0,0,0,,你怎么了？不对，你要我来说吗？亨利四世\N{\rENG}What's wrong with you? No, do you want me to...? Henri Quatre.
+Dialogue: 0,0:44:57.78,0:44:59.14,CHS,,0,0,0,,- 亨利四世？ - 没错！\N{\rENG}- Henry Four?  - Yes!
+Dialogue: 0,0:44:59.31,0:45:02.30,CHS,,0,0,0,,- 那你为什么不直接说？ - 对不起！\N{\rENG}- Come on, why didn't you say so?  - I'm sorry. Okay.
+Dialogue: 0,0:45:14.46,0:45:16.36,CHS,,0,0,0,,你好，是菲利普吗？\N{\rENG}Yeah, is this Philippe?
+Dialogue: 0,0:45:16.53,0:45:19.19,CHS,,0,0,0,,菲利普，我是杰西·华莱士\N{\rENG}Yeah. Philippe, this is Jesse Wallace.
+Dialogue: 0,0:45:19.37,0:45:20.73,CHS,,0,0,0,,对\N{\rENG}Yeah.
+Dialogue: 0,0:45:20.93,0:45:25.17,CHS,,0,0,0,,呃，听我说，我现在在一条游船上\N{\rENG}Well, listen, I'm on one of those boats, right?
+Dialogue: 0,0:45:25.34,0:45:28.24,CHS,,0,0,0,,我们将会在亨利四世码头下船\N{\rENG}And we're gonna arrive at Henry Four.
+Dialogue: 0,0:45:28.44,0:45:31.81,CHS,,0,0,0,,亨利四号码头，你知道在哪儿吗？\N{\rENG}At Port Henry Four.You know what that is?
+Dialogue: 0,0:45:31.98,0:45:34.47,CHS,,0,0,0,,很好，你带着我的行李吧？\N{\rENG}All right, great.And you have my bags, right?
+Dialogue: 0,0:45:34.65,0:45:37.58,CHS,,0,0,0,,我们再过…总之下一站就到了\N{\rENG}Yeah, so we'll be there in... I don't know, it's the next stop.
+Dialogue: 0,0:45:37.75,0:45:40.15,CHS,,0,0,0,,好，再见\N{\rENG}Okay. Au revoir.
+Dialogue: 0,0:45:41.22,0:45:43.69,CHS,,0,0,0,,- 安排好了？ - 嗯\N{\rENG}- It's okay?  - Yeah, yeah.
+Dialogue: 0,0:45:43.86,0:45:45.83,CHS,,0,0,0,,哇！\N{\rENG}Oh, wow.
+Dialogue: 0,0:45:45.99,0:45:48.69,CHS,,0,0,0,,- 看这边啊，巴黎圣母院！ - 哇\N{\rENG}- Notre Dame, man. Check that out.  - Oh, wow.
+Dialogue: 0,0:45:48.86,0:45:52.86,CHS,,0,0,0,,我听过一个故事，说的是占领巴黎的德军\N{\rENG}I heard this story once about when the Germans were occupying Paris...
+Dialogue: 0,0:45:53.03,0:45:54.66,CHS,,0,0,0,,…撤出的时候\N{\rENG}...and they had to retreat back.
+Dialogue: 0,0:45:54.84,0:45:56.77,CHS,,0,0,0,,他们在巴黎圣母院埋了很多炸药\N{\rENG}They wired Notre Dame to blow...
+Dialogue: 0,0:45:56.97,0:46:01.20,CHS,,0,0,0,,…但他们得留一个人来按爆破的按钮\N{\rENG}...but they had to leave one guy in charge of hitting the switch.
+Dialogue: 0,0:46:01.37,0:46:04.43,CHS,,0,0,0,,但那个人，那个士兵，他却下不了手！\N{\rENG}And the guy, the soldier,he couldn't do it.
+Dialogue: 0,0:46:04.61,0:46:08.34,CHS,,0,0,0,,他只是呆呆地坐着，惊叹这地方的美妙\N{\rENG}He just sat there, knocked out by how beautiful the place was.
+Dialogue: 0,0:46:08.52,0:46:10.38,CHS,,0,0,0,,当盟军部队到达的时候\N{\rENG}Then, when the Allied troops came in...
+Dialogue: 0,0:46:10.55,0:46:14.04,CHS,,0,0,0,,他们发现炸药还在那里，但按钮没人碰过\N{\rENG}...they found all the explosives lying there and the switch unturned...
+Dialogue: 0,0:46:14.22,0:46:17.88,CHS,,0,0,0,,同样的情景还发生在圣心堂，埃菲尔铁塔…\N{\rENG}...and they found the same thing at the Sacre-Coeur, Eiffel Tower...
+Dialogue: 0,0:46:18.06,0:46:20.36,CHS,,0,0,0,,…很多地方\N{\rENG}...couple other places, I think.
+Dialogue: 0,0:46:20.53,0:46:22.46,CHS,,0,0,0,,这是真的吗？\N{\rENG}Is that true?
+Dialogue: 0,0:46:22.63,0:46:25.72,CHS,,0,0,0,,我不知道，不过我一直很喜欢这个故事\N{\rENG}I don't know.I always liked the story, though.
+Dialogue: 0,0:46:25.90,0:46:27.26,CHS,,0,0,0,,没错，很震撼的一个故事\N{\rENG}Yeah, that's a great story.
+Dialogue: 0,0:46:27.50,0:46:30.37,CHS,,0,0,0,,你相信巴黎圣母院有一天会消失吗？\N{\rENG}But you have to think that Notre Dame will be gone one day.
+Dialogue: 0,0:46:30.54,0:46:33.70,CHS,,0,0,0,,这里曾经是另一座教堂，就在这\N{\rENG}There used to be another church at the Seine, right there.
+Dialogue: 0,0:46:33.87,0:46:36.71,CHS,,0,0,0,,- 什么，同一个地方？ - 是的\N{\rENG}- What, right in the same spot?  - Yeah.
+Dialogue: 0,0:46:38.14,0:46:40.61,CHS,,0,0,0,,这样好舒服，我从来没有试过！\N{\rENG}You know, this is great.I've never done this.
+Dialogue: 0,0:46:40.78,0:46:43.41,CHS,,0,0,0,,- 是啊  - 我已经忘了巴黎有多美\N{\rENG}- Yeah.  - I forget about how beautiful Paris is.
+Dialogue: 0,0:46:43.58,0:46:45.21,CHS,,0,0,0,,其实当个游客也不错\N{\rENG}It's not so bad, being a tourist.
+Dialogue: 0,0:46:45.39,0:46:47.88,CHS,,0,0,0,,- 谢谢你带我上这船  - 不用客气\N{\rENG}- Thanks for getting me on the boat.  - You're welcome.
+Dialogue: 0,0:46:48.05,0:46:50.96,CHS,,0,0,0,,我觉得我在写那本书的时候，就好像在造什么东西\N{\rENG}I think that book that I wrote was like building something...
+Dialogue: 0,0:46:51.46,0:46:55.62,CHS,,0,0,0,,以免我忘记我们经历过点点滴滴\N{\rENG}...so that I wouldn't forget the details of the time that we spent together.
+Dialogue: 0,0:46:55.83,0:46:59.60,CHS,,0,0,0,,你懂吗，就好像一个备忘录，告诉我我们的确见过面\N{\rENG}You know, like, just as a reminder,that once, we really did meet.
+Dialogue: 0,0:46:59.77,0:47:02.74,CHS,,0,0,0,,你懂吗，那是真的，真的发生过\N{\rENG}You know, that this was real,this happened.
+Dialogue: 0,0:47:02.90,0:47:04.89,CHS,,0,0,0,,我很高兴你这么说，因为…\N{\rENG}I'm happy you're saying that,because....
+Dialogue: 0,0:47:05.07,0:47:09.34,CHS,,0,0,0,,我是说，我觉得自己很没用，因为我从来不能这么洒脱\N{\rENG}I mean, I always feel like a freak because I'm never able to move on like this:
+Dialogue: 0,0:47:10.48,0:47:13.78,CHS,,0,0,0,,人们只是随意留情，甚至即使是认真的感情\N{\rENG}People just have an affair,or even entire relationships...
+Dialogue: 0,0:47:13.98,0:47:16.35,CHS,,0,0,0,,…人们也会分手，然后忘记\N{\rENG}...they break up and they forget.
+Dialogue: 0,0:47:16.55,0:47:20.42,CHS,,0,0,0,,就像换另一个牌子的麦片一样简单\N{\rENG}They move on like they would have changed brand of cereals.
+Dialogue: 0,0:47:21.05,0:47:24.29,CHS,,0,0,0,,可我觉得我永远忘不了跟我交往过的每一个人\N{\rENG}I feel I was never able to forget anyone I've been with...
+Dialogue: 0,0:47:24.46,0:47:30.02,CHS,,0,0,0,,…因为他们每个人都有很不一样的特质\N{\rENG}...because each person had their own specific qualities.
+Dialogue: 0,0:47:30.20,0:47:35.07,CHS,,0,0,0,,你不能取代任何人，失去的就失去了\N{\rENG}You can never replace anyone.What is lost is lost.
+Dialogue: 0,0:47:36.20,0:47:40.37,CHS,,0,0,0,,每段感情结束的时候我都很受伤，我从来没有完全恢复过\N{\rENG}Each relationship, when it ends,really damages me. I never fully recover.
+Dialogue: 0,0:47:40.57,0:47:43.70,CHS,,0,0,0,,所以我尽量避免介入感情\N{\rENG}That's why I'm very careful with getting involved...
+Dialogue: 0,0:47:43.88,0:47:45.94,CHS,,0,0,0,,…因为那种痛真的是太深了！\N{\rENG}...because it hurts too much.
+Dialogue: 0,0:47:46.11,0:47:49.28,CHS,,0,0,0,,即使是做爱！其实我不喜欢那样\N{\rENG}Even getting laid,I actually don't do that...
+Dialogue: 0,0:47:49.45,0:47:52.35,CHS,,0,0,0,,因为我会很怀念一个人很平常的东西\N{\rENG}...because I will miss of the person the most mundane things.
+Dialogue: 0,0:47:52.52,0:47:55.22,CHS,,0,0,0,,好比那些细节\N{\rENG}Like I'm obsessed with little things.
+Dialogue: 0,0:47:55.59,0:47:57.89,CHS,,0,0,0,,或者也许我有点神经质，但当我小的时候…\N{\rENG}Maybe I'm crazy,but when I was a little girl...
+Dialogue: 0,0:47:58.09,0:48:00.99,CHS,,0,0,0,,妈妈告诉我，我上学经常迟到\N{\rENG}...my mom told me that I was always late to school.
+Dialogue: 0,0:48:01.16,0:48:03.53,CHS,,0,0,0,,有一天她跟着我想知道为什么\N{\rENG}One day she followed me to see why.
+Dialogue: 0,0:48:03.73,0:48:08.03,CHS,,0,0,0,,我正看着栗子从树上掉下来，滚到便道上\N{\rENG}I was looking at chestnuts falling from the trees, rolling on the sidewalk...
+Dialogue: 0,0:48:08.20,0:48:13.97,CHS,,0,0,0,,…或者是蚂蚁过马路，叶子在树干上的映出的倒影\N{\rENG}...or ants crossing the road, the way a leaf casts a shadow on a tree trunk.
+Dialogue: 0,0:48:14.14,0:48:16.17,CHS,,0,0,0,,种种小事\N{\rENG}Little things.
+Dialogue: 0,0:48:16.68,0:48:18.51,CHS,,0,0,0,,我想对人也是一样\N{\rENG}I think it's the same with people.
+Dialogue: 0,0:48:19.01,0:48:21.91,CHS,,0,0,0,,我看到的是他们的细节，很细微\N{\rENG}I see in them little details,so specific to each of them...
+Dialogue: 0,0:48:22.12,0:48:26.21,CHS,,0,0,0,,…那些能感动我的细节，然后我就会想念他们，一直想念\N{\rENG}...that move me and that I miss and will always miss.
+Dialogue: 0,0:48:26.39,0:48:27.88,CHS,,0,0,0,,你不能取代任何人\N{\rENG}You can never replace anyone...
+Dialogue: 0,0:48:28.05,0:48:32.01,CHS,,0,0,0,,因为每个人都有他那种美丽的，独特的细微之处\N{\rENG}...because everyone is made of such beautiful, specific details.
+Dialogue: 0,0:48:35.50,0:48:38.76,CHS,,0,0,0,,就好像我记得，你的胡子上有一点红色\N{\rENG}Like, I remember the way your beard has a bit of red in it...
+Dialogue: 0,0:48:39.53,0:48:42.19,CHS,,0,0,0,,…我记得你离开的那天早上…\N{\rENG}...and how the sun was making it glow...
+Dialogue: 0,0:48:42.40,0:48:45.20,CHS,,0,0,0,,…朝阳是怎样照的它闪闪亮\N{\rENG}...that morning right before you left.
+Dialogue: 0,0:48:46.14,0:48:50.04,CHS,,0,0,0,,我一直记着，我非常怀念\N{\rENG}I remembered that, and I missed it.
+Dialogue: 0,0:48:50.21,0:48:51.54,CHS,,0,0,0,,很神经质，对吧？\N{\rENG}Really crazy, right?
+Dialogue: 0,0:48:52.18,0:48:56.08,CHS,,0,0,0,,现在我明白了，你想知道为什么我写了那本烂书吗？\N{\rENG}Now I know for sure. You wanna know why I wrote that stupid book?
+Dialogue: 0,0:48:56.28,0:48:59.22,CHS,,0,0,0,,- 为什么？ - 因为这样你就会参加巴黎的一场读者见面会\N{\rENG}- Why?  - So you'd come to a reading in Paris...
+Dialogue: 0,0:48:59.42,0:49:03.58,CHS,,0,0,0,,…而我就可以走过去，问你：“你到底去哪里了？”\N{\rENG}...and I could walk up to you and ask,"Where the fuck were you? "
+Dialogue: 0,0:49:04.02,0:49:06.22,CHS,,0,0,0,,你真的觉得我今天会来？\N{\rENG}No... You think I'd be here today?
+Dialogue: 0,0:49:06.39,0:49:10.92,CHS,,0,0,0,,真的，我之所以写这本书，从某种意义来讲，就是为了能找到你\N{\rENG}I'm serious. I think I wrote it,in a way, to try to find you.
+Dialogue: 0,0:49:11.16,0:49:13.22,CHS,,0,0,0,,好啦，这…我知道这不是真的\N{\rENG}Okay, that's... I know that's not true...
+Dialogue: 0,0:49:13.40,0:49:15.73,CHS,,0,0,0,,- 不过听了还是很高兴  - 我觉得这是真的\N{\rENG}- ...but that's sweet of you.  - I think it is true.
+Dialogue: 0,0:49:15.94,0:49:18.40,CHS,,0,0,0,,我们还有机会再见面吗？\N{\rENG}What were the chances of us ever meeting again?
+Dialogue: 0,0:49:19.21,0:49:22.40,CHS,,0,0,0,,过了那个十二月，我想机率基本就是零了吧\N{\rENG}After that December,I'd say almost zero.
+Dialogue: 0,0:49:22.81,0:49:24.87,CHS,,0,0,0,,不过反正我们也不是来真的，对吗？\N{\rENG}But we're not real anyway, right?
+Dialogue: 0,0:49:25.05,0:49:28.24,CHS,,0,0,0,,我们只不过是那个老妇人梦中的角色\N{\rENG}We're just characters in that old lady's dream.
+Dialogue: 0,0:49:28.42,0:49:30.82,CHS,,0,0,0,,她在她的病床上回忆年轻时的故事\N{\rENG}She's on her deathbed,fantasizing about her youth.
+Dialogue: 0,0:49:30.98,0:49:33.08,CHS,,0,0,0,,所以我们当然会见面！\N{\rENG}So of course we had to meet again.
+Dialogue: 0,0:49:33.25,0:49:37.19,CHS,,0,0,0,,天哪！你为什么那天没有出现在维也纳？\N{\rENG}Oh, God. Why weren't you there in Vienna?
+Dialogue: 0,0:49:38.32,0:49:42.09,CHS,,0,0,0,,- 我告诉过你了！ - 我知道，但是…\N{\rENG}- I told you why.  - I know why, I just....
+Dialogue: 0,0:49:42.26,0:49:44.49,CHS,,0,0,0,,我真的希望你去了！\N{\rENG}I wish you would have been.
+Dialogue: 0,0:49:44.70,0:49:46.93,CHS,,0,0,0,,我们的生活可能会完全不一样！\N{\rENG}Our lives might have been so much different.
+Dialogue: 0,0:49:47.10,0:49:49.30,CHS,,0,0,0,,你真这么觉得？\N{\rENG}You think so?
+Dialogue: 0,0:49:49.47,0:49:51.10,CHS,,0,0,0,,没错\N{\rENG}I actually do.
+Dialogue: 0,0:49:51.30,0:49:54.43,CHS,,0,0,0,,也许不会呢，也许最后我们会憎恨对方呢\N{\rENG}Maybe not. Maybe we would have hated each other eventually.
+Dialogue: 0,0:49:54.64,0:49:57.51,CHS,,0,0,0,,是吗，就像现在我们这样憎恨对方？\N{\rENG}What, like we hate each other now?
+Dialogue: 0,0:49:58.45,0:50:02.94,CHS,,0,0,0,,你知道的，可能我们…我们只适合那种偶遇…\N{\rENG}You know, maybe we're... We're only good at brief encounters...
+Dialogue: 0,0:50:03.12,0:50:07.31,CHS,,0,0,0,,…在温暖的天气里，漫步在欧洲的街头\N{\rENG}...walking around in European cities,in warm climate.
+Dialogue: 0,0:50:07.82,0:50:10.95,CHS,,0,0,0,,天哪，为什么我们没有交换电话号码呢？\N{\rENG}Oh, God. Why didn't we exchange phone numbers and stuff?
+Dialogue: 0,0:50:11.12,0:50:13.29,CHS,,0,0,0,,为什么？\N{\rENG}Why didn't we do that?
+Dialogue: 0,0:50:13.46,0:50:15.83,CHS,,0,0,0,,因为那时我们太年轻，不成熟？\N{\rENG}Because we were young and stupid.
+Dialogue: 0,0:50:16.00,0:50:18.29,CHS,,0,0,0,,你觉得我们现在还是如此吗？\N{\rENG}Do you think we still are?
+Dialogue: 0,0:50:18.47,0:50:20.59,CHS,,0,0,0,,我觉得，当你年轻的时候，你会相信…\N{\rENG}I guess when you're young you just believe...
+Dialogue: 0,0:50:20.77,0:50:23.29,CHS,,0,0,0,,…你会认识很多人\N{\rENG}...there'll be many people you'll connect with.
+Dialogue: 0,0:50:23.97,0:50:26.60,CHS,,0,0,0,,但后来你才会发现能交流的人其实很少\N{\rENG}Later in life you realize it only happens a few times.
+Dialogue: 0,0:50:26.77,0:50:30.37,CHS,,0,0,0,,何况你又不能保证和他们好好相处，就这样，失去联系了\N{\rENG}And you can screw it up, you know.Misconnect.
+Dialogue: 0,0:50:30.61,0:50:33.01,CHS,,0,0,0,,过去的就让它过去吧，事情本来就是这样的\N{\rENG}The past is the past.It was meant to be that way.
+Dialogue: 0,0:50:33.18,0:50:35.84,CHS,,0,0,0,,你真的相信吗？任何事情都是注定的？\N{\rENG}You really believe that?That everything's fated?
+Dialogue: 0,0:50:36.02,0:50:40.01,CHS,,0,0,0,,这个嘛，你明白吗，世界也许没有我们想的那么多变\N{\rENG}Well, you know, the world might be less free than we think.
+Dialogue: 0,0:50:40.19,0:50:41.88,CHS,,0,0,0,,是吗？\N{\rENG}Yeah?
+Dialogue: 0,0:50:42.16,0:50:46.06,CHS,,0,0,0,,如果给定了特定的条件，就总会发生一样的结果\N{\rENG}When given these exact circumstances,that's what will happen every time.
+Dialogue: 0,0:50:46.26,0:50:49.29,CHS,,0,0,0,,两份氢，一份氧，获得的总是水\N{\rENG}Two part hydrogen, one part oxygen,you'll get water every time.
+Dialogue: 0,0:50:49.46,0:50:52.86,CHS,,0,0,0,,不，我是说如果你祖母晚去世一个礼拜呢？\N{\rENG}No, I mean, what if your grandmother had lived a week longer, you know?
+Dialogue: 0,0:50:53.03,0:50:55.66,CHS,,0,0,0,,或者是早一个礼拜去世？甚至是几天？\N{\rENG}Or passed away a week earlier?Days, even?
+Dialogue: 0,0:50:55.84,0:50:57.39,CHS,,0,0,0,,事情都可能完全不一样！我坚信这一点！\N{\rENG}Things might have been different.
+Dialogue: 0,0:50:57.57,0:51:01.80,CHS,,0,0,0,,- 不，你不能这样想，那只是…  - 我知道对于大多数事情来说的确是注定的\N{\rENG}- You can't think like that, it's...  - You shouldn't on most things, but....
+Dialogue: 0,0:51:01.98,0:51:07.17,CHS,,0,0,0,,但是，只是这件事，我觉得这事很不对劲\N{\rENG}It's just, on this one, it seemed like something was off, you know.
+Dialogue: 0,0:51:07.68,0:51:11.41,CHS,,0,0,0,,你知道吗，在我结婚前的那个月，我一直都在想着你\N{\rENG}In the months leading up to my wedding,I was thinking about you all the time.
+Dialogue: 0,0:51:11.58,0:51:15.42,CHS,,0,0,0,,即使在去婚礼的路上，我坐在车里，我的一个朋友送我进城\N{\rENG}Even on my way there, I'm in the car, a buddy of mine is driving me downtown...
+Dialogue: 0,0:51:15.59,0:51:18.35,CHS,,0,0,0,,…我看着窗户，觉得我看到你了\N{\rENG}...and I'm staring out the window and I think I see you...
+Dialogue: 0,0:51:18.53,0:51:20.69,CHS,,0,0,0,,…离教堂不远…\N{\rENG}...not far from the church, right...
+Dialogue: 0,0:51:20.86,0:51:23.35,CHS,,0,0,0,,…收起一把雨伞，走进一家熟食店…\N{\rENG}...folding up an umbrella and walking into a deli...
+Dialogue: 0,0:51:23.53,0:51:27.16,CHS,,0,0,0,,…就在百老汇和十三街的交汇处\N{\rENG}...on the corner of 13th and Broadway.
+Dialogue: 0,0:51:27.33,0:51:30.86,CHS,,0,0,0,,那时我觉得我快要发疯了你知道吗？但现在我觉得这也许就是你\N{\rENG}And I thought I was going crazy.But now I think it probably was you.
+Dialogue: 0,0:51:31.67,0:51:34.30,CHS,,0,0,0,,我住在百老汇和十一街的交汇处\N{\rENG}I lived on 11 th and Broadway.
+Dialogue: 0,0:51:35.07,0:51:36.94,CHS,,0,0,0,,你看！\N{\rENG}You see?
+Dialogue: 0,0:51:38.24,0:51:42.01,CHS,,0,0,0,,那，结婚的感觉怎样，你还没说呢\N{\rENG}So, what is it like to be married?You haven't talked much about that.
+Dialogue: 0,0:51:42.92,0:51:46.44,CHS,,0,0,0,,我没有吗？真奇怪\N{\rENG}I haven't? How weird.
+Dialogue: 0,0:51:46.95,0:51:50.91,CHS,,0,0,0,,我不知道怎么说，我们是在上大学的时候认识的\N{\rENG}I don't know. We met, you know,when I was in college.
+Dialogue: 0,0:51:51.09,0:51:57.46,CHS,,0,0,0,,有几年，我们分分合合，然后…\N{\rENG}And we broke up and got back together for a period of years, and then....
+Dialogue: 0,0:51:58.10,0:52:02.33,CHS,,0,0,0,,怎么来着？我们好像又在一起了，然后她就怀孕了…\N{\rENG}What? We were sort of back together and she was pregnant...
+Dialogue: 0,0:52:02.97,0:52:04.56,CHS,,0,0,0,,所以就结婚咯\N{\rENG}...so marriage.
+Dialogue: 0,0:52:04.74,0:52:06.76,CHS,,0,0,0,,她怎么样？\N{\rENG}What is she like?
+Dialogue: 0,0:52:06.94,0:52:09.97,CHS,,0,0,0,,她是个好老师，好妈妈\N{\rENG}She's a great teacher, a good mom.
+Dialogue: 0,0:52:10.14,0:52:13.20,CHS,,0,0,0,,她很聪明，很漂亮\N{\rENG}She's smart, pretty, you know.
+Dialogue: 0,0:52:13.38,0:52:15.44,CHS,,0,0,0,,我记得那时我想…\N{\rENG}I remember thinking at the time...
+Dialogue: 0,0:52:15.62,0:52:17.98,CHS,,0,0,0,,…很多我所崇拜的人…\N{\rENG}...that so many of the men that I admired most...
+Dialogue: 0,0:52:18.15,0:52:22.99,CHS,,0,0,0,,…他们的生命都奉献给了比自己更重要的东西\N{\rENG}...that their lives were dedicated to something greater than themselves.
+Dialogue: 0,0:52:23.76,0:52:26.45,CHS,,0,0,0,,所以你结婚是因为你崇拜的人都结婚了？\N{\rENG}So you got married because men you admired were married?
+Dialogue: 0,0:52:26.63,0:52:32.90,CHS,,0,0,0,,不，不…准确来说是…我内心中有种对自我的完美期许\N{\rENG}No, no. It's more like I had this... This idea of my best self, you know?
+Dialogue: 0,0:52:33.07,0:52:34.80,CHS,,0,0,0,,你懂吗？我想去追求那种自我\N{\rENG}And I wanted to pursue that...
+Dialogue: 0,0:52:34.97,0:52:37.73,CHS,,0,0,0,,即使代价是失去真实的自我！\N{\rENG}...even if it might have been overriding my honest self.
+Dialogue: 0,0:52:37.90,0:52:39.30,CHS,,0,0,0,,你懂我的意思吗？\N{\rENG}You know what I'm saying?
+Dialogue: 0,0:52:39.47,0:52:44.00,CHS,,0,0,0,,我记得在那个时候，我并不觉得和“谁”结婚这个问题很重要\N{\rENG}In the moment, I remember thinking it didn't much matter, the who of it all.
+Dialogue: 0,0:52:44.24,0:52:46.74,CHS,,0,0,0,,一个人并不是你生命的全部\N{\rENG}I mean, that nobody is gonna be everything to you...
+Dialogue: 0,0:52:46.91,0:52:49.78,CHS,,0,0,0,,…到头来这只是一种负责的表现…\N{\rENG}...and that it's just the action of committing yourself...
+Dialogue: 0,0:52:49.95,0:52:53.44,CHS,,0,0,0,,…就是说，负担起你的责任来，这才是最重要的\N{\rENG}...you know, meeting your responsibilities, that matters.
+Dialogue: 0,0:52:53.62,0:52:57.25,CHS,,0,0,0,,我是说，爱是什么？如果它不是尊敬，信赖和钦佩的话？\N{\rENG}I mean, what is love, right,if it's not respect, trust, admiration?
+Dialogue: 0,0:52:57.42,0:53:00.48,CHS,,0,0,0,,而我当时都感觉到了啊\N{\rENG}And I... I felt all those things.
+Dialogue: 0,0:53:00.66,0:53:03.53,CHS,,0,0,0,,谈到现在，我感觉我好像在办一个托儿所\N{\rENG}Cut to the present,and I feel like I'm running a nursery...
+Dialogue: 0,0:53:03.70,0:53:06.36,CHS,,0,0,0,,…跟一个我曾经约会过的人\N{\rENG}...with somebody I used to date you know.
+Dialogue: 0,0:53:06.53,0:53:08.36,CHS,,0,0,0,,我是说，我就像一个修道士\N{\rENG}I mean, I'm like a monk, you know.
+Dialogue: 0,0:53:08.53,0:53:13.44,CHS,,0,0,0,,我在过去的四年中，做爱还不到十次\N{\rENG}I mean, I've had sex less than 10 times in the last four years.
+Dialogue: 0,0:53:13.94,0:53:16.50,CHS,,0,0,0,,- 干嘛，干嘛？你笑我？ - 没有\N{\rENG}- What, what? You laughing at me?  - No.
+Dialogue: 0,0:53:16.68,0:53:19.51,CHS,,0,0,0,,- 听起来很可悲吗？ - 你看到过有修道士做过十次爱的吗？\N{\rENG}- It sounds pathetic?  - What monastery do monks have sex...?
+Dialogue: 0,0:53:19.68,0:53:23.01,CHS,,0,0,0,,好，你是对的，我比一般的修道士强，可以了吧？\N{\rENG}Okay, you're right, I'm doing better than most monks.
+Dialogue: 0,0:53:23.18,0:53:25.67,CHS,,0,0,0,,但是我的确觉得，如果现在有人碰我的话\N{\rENG}But I do, I feel like if somebody were to touch me...
+Dialogue: 0,0:53:25.85,0:53:28.05,CHS,,0,0,0,,我就会马上融化的了\N{\rENG}...I would dissolve into molecules.
+Dialogue: 0,0:53:28.22,0:53:30.99,CHS,,0,0,0,,好啦，我们到了，该走了，快\N{\rENG}Well, we're here. We've gotta go.Come on.
+Dialogue: 0,0:53:31.16,0:53:33.02,CHS,,0,0,0,,该死\N{\rENG}Shit.
+Dialogue: 0,0:53:38.23,0:53:41.53,CHS,,0,0,0,,- {\fs45\c&H9AD1DD&}[法语]{\rCHS}晚上好  - {\fs45\c&H9AD1DD&}[法语]{\rCHS}晚上好\N{\rENG}- Bonsoir!  - Bonsoir!
+Dialogue: 0,0:53:45.54,0:53:48.51,CHS,,0,0,0,,- 我很遗憾听到那些  - 什么？\N{\rENG}- I'm sorry to hear that, you know.  - What?
+Dialogue: 0,0:53:48.68,0:53:51.74,CHS,,0,0,0,,你对你的婚姻好像不怎么满意\N{\rENG}You're not that happy with your marriage.
+Dialogue: 0,0:53:51.95,0:53:54.57,CHS,,0,0,0,,- 我刚才说到的那个朋友，她是神经科医生  - 她怎么了？\N{\rENG}- This friend of mine, she's a shrink...  - How's she doing?
+Dialogue: 0,0:53:54.75,0:53:56.34,CHS,,0,0,0,,她的生活很糟，不过…\N{\rENG}She's a mess, but....
+Dialogue: 0,0:53:56.52,0:53:59.75,CHS,,0,0,0,,她告诉我她遇过很多夫妻…\N{\rENG}No, she said she's been dealing with couples that are breaking up...
+Dialogue: 0,0:53:59.95,0:54:02.08,CHS,,0,0,0,,- 为了同样的理由而分开  - 什么理由？\N{\rENG}- ...for the same reason.  - What reason is that?
+Dialogue: 0,0:54:02.26,0:54:05.02,CHS,,0,0,0,,他们都期望，在共同生活了几年以后\N{\rENG}They all expected, after a few years of living together...
+Dialogue: 0,0:54:05.19,0:54:07.52,CHS,,0,0,0,,…他们的热情，欲望还和当初一样\N{\rENG}...for the passion, that desire,to be the same.
+Dialogue: 0,0:54:07.69,0:54:09.16,CHS,,0,0,0,,- 这是不可能的！ - 是啊，没错\N{\rENG}- Yeah, right.  - It's impossible.
+Dialogue: 0,0:54:09.33,0:54:10.66,CHS,,0,0,0,,而且谢天谢地…\N{\rENG}And thank God...
+Dialogue: 0,0:54:10.83,0:54:14.56,CHS,,0,0,0,,…如果我们一直保持激情的话，我们会得动脉瘤的\N{\rENG}...we'd end up with aneurysms in that constant state of excitement, right?
+Dialogue: 0,0:54:14.73,0:54:16.53,CHS,,0,0,0,,我们一生将一事无成\N{\rENG}We'd do nothing at all with our lives.
+Dialogue: 0,0:54:16.70,0:54:20.20,CHS,,0,0,0,,如果你每五分钟就做一次爱，你还能写完你的书吗？\N{\rENG}Would you have finished your book if you were fucking every five minutes?
+Dialogue: 0,0:54:20.37,0:54:22.97,CHS,,0,0,0,,我很乐意接受这个挑战\N{\rENG}I might have welcomed the challenge,I mean....
+Dialogue: 0,0:54:23.18,0:54:25.91,CHS,,0,0,0,,但是，你懂吗，很自然的，当你太太生了小孩以后\N{\rENG}It's natural for your wife after the birth of your son...
+Dialogue: 0,0:54:26.08,0:54:28.71,CHS,,0,0,0,,- 她就会把她的爱转移到小孩身上  - 当然\N{\rENG}- ...to give all her love to the little one.  - Of course.
+Dialogue: 0,0:54:28.88,0:54:32.04,CHS,,0,0,0,,想想看如果她执迷于性爱，像野猫一样不停挑逗你\N{\rENG}If she was obsessed with sex,riding you like a wildcat....
+Dialogue: 0,0:54:32.22,0:54:33.95,CHS,,0,0,0,,这不合情理，对吧？\N{\rENG}That wouldn't make any sense, right?
+Dialogue: 0,0:54:34.12,0:54:37.72,CHS,,0,0,0,,不是这样的，你说得都很有道理，但这不是性的问题\N{\rENG}Everything you're saying makes sense.It's not about sex.
+Dialogue: 0,0:54:37.89,0:54:40.09,CHS,,0,0,0,,是啊，我知道，很明显不是\N{\rENG}No, I know. It's obvious.
+Dialogue: 0,0:54:40.26,0:54:41.85,CHS,,0,0,0,,我…\N{\rENG}I....
+Dialogue: 0,0:54:43.00,0:54:46.19,CHS,,0,0,0,,你知道，现在的夫妻感情很复杂\N{\rENG}You know, couples are so confused lately.
+Dialogue: 0,0:54:46.37,0:54:48.63,CHS,,0,0,0,,我觉得肯定是因为…\N{\rENG}I think it must be that...
+Dialogue: 0,0:54:48.80,0:54:52.76,CHS,,0,0,0,,…男人总想让人觉得他们很重要，但事实已不是这样了\N{\rENG}...men need to feel essential and they don't anymore.
+Dialogue: 0,0:54:52.94,0:54:55.46,CHS,,0,0,0,,多年以来，这种观念深植于他们脑海之中…\N{\rENG}It's been imprinted in their head for so many years...
+Dialogue: 0,0:54:55.64,0:54:57.37,CHS,,0,0,0,,…好像他们就必须要是家里的顶梁柱\N{\rENG}...that they had to be the provider.
+Dialogue: 0,0:54:57.54,0:55:01.21,CHS,,0,0,0,,比如，我在工作中就是一个坚强，独立的女性\N{\rENG}Like, I'm a strong, independent woman in my professional life.
+Dialogue: 0,0:55:01.38,0:55:02.91,CHS,,0,0,0,,我不需要一个男人养我\N{\rENG}I don't need a man to feed me...
+Dialogue: 0,0:55:03.08,0:55:06.42,CHS,,0,0,0,,…但我仍要一个男人爱我，而我也爱他\N{\rENG}...but I still need a man to love me and that I could love.
+Dialogue: 0,0:55:07.79,0:55:10.45,CHS,,0,0,0,,- 好啦，我看到你的司机了  - 是的\N{\rENG}- So your driver's here.  - Yeah.
+Dialogue: 0,0:55:10.66,0:55:12.32,CHS,,0,0,0,,那，我想我该告别了\N{\rENG}Well, I guess this is goodbye.
+Dialogue: 0,0:55:12.53,0:55:14.15,CHS,,0,0,0,,- 你最好把你的…  - 不\N{\rENG}- You better give me your...  - No, no.
+Dialogue: 0,0:55:14.33,0:55:16.56,CHS,,0,0,0,,我们不如送你回家吧\N{\rENG}Why don't we just give you a ride home?
+Dialogue: 0,0:55:16.73,0:55:19.06,CHS,,0,0,0,,- 这个嘛，我可以搭地铁，我没事  - 不，我…\N{\rENG}- Well, I can take the Metro. I'm fine.  - No, I...
+Dialogue: 0,0:55:19.23,0:55:22.17,CHS,,0,0,0,,我的飞机要十点才飞，我会提前两个钟头去\N{\rENG}My flight's not until 10.I'll be arriving two hours early.
+Dialogue: 0,0:55:22.34,0:55:23.77,CHS,,0,0,0,,这样我们就可以继续谈了\N{\rENG}This way we can keep talking.
+Dialogue: 0,0:55:23.94,0:55:26.06,CHS,,0,0,0,,- 先生，能…？ - 那不顺路的\N{\rENG}- Monsieur, can...?  - It's not on the way.
+Dialogue: 0,0:55:26.35,0:55:30.15,CHS,,0,0,0,,{\fs45\c&H9AD1DD&}[法语]{\rCHS}您能把我带到马场附近的十号路吗？\N{\rENG}Ca vous arrive me deposer au passage Dix Rue des petits ecuries?
+Dialogue: 0,0:55:30.15,0:55:31.45,CHS,,0,0,0,,{\fs45\c&H9AD1DD&}[法语]{\rCHS}当然可以\N{\rENG}Oui, oui.
+Dialogue: 0,0:55:31.45,0:55:33.65,CHS,,0,0,0,,- {\fs45\c&H9AD1DD&}[法语]{\rCHS}我们走吧  - {\fs45\c&H9AD1DD&}[法语]{\rCHS}麻烦您了\N{\rENG}- Allons-y!  - Ca peut etre trop tard?
+Dialogue: 0,0:55:33.75,0:55:35.25,CHS,,0,0,0,,{\fs45\c&H9AD1DD&}[法语]{\rCHS}不，不，没问题\N{\rENG}No, no, ce n'est pas de probleme!
+Dialogue: 0,0:55:35.25,0:55:38.25,CHS,,0,0,0,,{\fs45\c&H9AD1DD&}[法语]{\rCHS}您就把我带到“水塔”地铁站附近就行了\N{\rENG}Vous pouvez me laisser au metro...au metro Chateau d'Eau.
+Dialogue: 0,0:55:38.25,0:55:40.25,CHS,,0,0,0,,- {\fs45\c&H9AD1DD&}[法语]{\rCHS}好吗？ - {\fs45\c&H9AD1DD&}[法语]{\rCHS}好的，没问题\N{\rENG}- Ca ira tres bien.  - Entendu!
+Dialogue: 0,0:55:40.25,0:55:40.80,CHS,,0,0,0,,{\fs45\c&H9AD1DD&}[法语]{\rCHS}谢谢\N{\rENG}Merci!
+Dialogue: 0,0:55:40.82,0:55:42.75,CHS,,0,0,0,,你把你的住址什么的都告诉他了？\N{\rENG}You told him where you are and all that?
+Dialogue: 0,0:55:42.92,0:55:44.55,CHS,,0,0,0,,是的\N{\rENG}Yeah.
+Dialogue: 0,0:55:47.86,0:55:50.33,CHS,,0,0,0,,- 他知道他要去哪了？ - 是的\N{\rENG}- He knows where he's going?  - Yes.
+Dialogue: 0,0:55:50.50,0:55:52.36,CHS,,0,0,0,,太好了\N{\rENG}Glad somebody does.
+Dialogue: 0,0:55:52.57,0:55:56.66,CHS,,0,0,0,,- 这比搭地铁好，对吧？ - 当然\N{\rENG}- But this is better than the Metro, right?  - Definitely.
+Dialogue: 0,0:55:59.11,0:56:03.51,CHS,,0,0,0,,我在想，对我来说，还是不要把事情想得太浪漫比较好\N{\rENG}I was thinking, for me it's better I don't romanticize things as much anymore.
+Dialogue: 0,0:56:03.68,0:56:05.54,CHS,,0,0,0,,我一直都吃这个亏\N{\rENG}I was suffering so much all the time.
+Dialogue: 0,0:56:05.71,0:56:09.20,CHS,,0,0,0,,我仍旧有很多梦想，但它们都与我的感情生活无关\N{\rENG}I still have lots of dreams,but they're not in regard to my love life.
+Dialogue: 0,0:56:09.45,0:56:11.82,CHS,,0,0,0,,这样并不会让我不开心，因为事情本来就是这样的\N{\rENG}It doesn't make me sad,it's just the way it is.
+Dialogue: 0,0:56:12.02,0:56:16.15,CHS,,0,0,0,,这就是你为什么要和一个不常见面的人发生感情吗？\N{\rENG}Is that why you're in a relationship with somebody who's never around?
+Dialogue: 0,0:56:16.32,0:56:20.22,CHS,,0,0,0,,当然，我应付不了那种天天见面的感情\N{\rENG}Yes, obviously I can't deal with the day-to-day life of a relationship.
+Dialogue: 0,0:56:20.39,0:56:22.49,CHS,,0,0,0,,我们相聚的时候可以充满激情\N{\rENG}Yeah, we have this exciting time together...
+Dialogue: 0,0:56:22.66,0:56:26.03,CHS,,0,0,0,,…然后他离去了，我会很想他，不过我起码不会痛不欲生\N{\rENG}...and he leaves and I miss him,but at least I'm not dying inside.
+Dialogue: 0,0:56:26.20,0:56:28.63,CHS,,0,0,0,,如果有人一直在我身边，我会觉得窒息！\N{\rENG}When someone's always around me,I'm suffocating.
+Dialogue: 0,0:56:28.84,0:56:31.70,CHS,,0,0,0,,等等，可是你刚说你想要爱和被爱\N{\rENG}No, wait, you just said that you need to love and be loved.
+Dialogue: 0,0:56:31.90,0:56:34.74,CHS,,0,0,0,,没错，但是当我的确这么做时，这马上会让我恶心！\N{\rENG}Yeah, but when I do,it quickly makes me nauseous.
+Dialogue: 0,0:56:34.91,0:56:36.37,CHS,,0,0,0,,真是个灾难\N{\rENG}It's a disaster.
+Dialogue: 0,0:56:36.54,0:56:39.20,CHS,,0,0,0,,我是说，我只有一个人独处的时候才会真正开心\N{\rENG}I mean, I'm really happy only when I'm on my own.
+Dialogue: 0,0:56:39.38,0:56:44.25,CHS,,0,0,0,,即使是一个人，也比坐在情人边上却心不在焉要来的好\N{\rENG}Even being alone, it's better than sitting next to a lover and feeling lonely.
+Dialogue: 0,0:56:44.92,0:56:46.85,CHS,,0,0,0,,浪漫对我来说并不是一件容易的事\N{\rENG}It's not so easy for me to be a romantic.
+Dialogue: 0,0:56:47.02,0:56:50.51,CHS,,0,0,0,,你开始的时候可能会这么做，不过当你受过几次伤以后…\N{\rENG}You start off that way, and after you've been screwed over a few times...
+Dialogue: 0,0:56:50.69,0:56:55.02,CHS,,0,0,0,,…你就会拒绝那些虚幻的想法，接受生活中的现实\N{\rENG}...you forget about your delusional ideas and you take what comes into your life.
+Dialogue: 0,0:56:55.70,0:56:58.19,CHS,,0,0,0,,其实这也不见得对，我并没受过几次伤…\N{\rENG}That's not even true.I haven't been screwed over...
+Dialogue: 0,0:56:58.36,0:57:00.76,CHS,,0,0,0,,…我只是有太多平庸的感情了\N{\rENG}...I've just had too many blah relationships.
+Dialogue: 0,0:57:00.93,0:57:02.76,CHS,,0,0,0,,他们不是对我不好，他们都很关心我…\N{\rENG}They weren't mean,they cared for me...
+Dialogue: 0,0:57:02.94,0:57:06.43,CHS,,0,0,0,,…但是我们却没有那种心灵上的沟通，或是发自心底的兴奋\N{\rENG}...but there were no real connection or excitement.
+Dialogue: 0,0:57:06.64,0:57:08.77,CHS,,0,0,0,,起码我这边是这么感觉的\N{\rENG}At least, not from my side.
+Dialogue: 0,0:57:08.94,0:57:11.60,CHS,,0,0,0,,天哪，真遗憾，有这么糟糕吗？\N{\rENG}God, I'm sorry, is it really that bad?
+Dialogue: 0,0:57:11.78,0:57:13.84,CHS,,0,0,0,,没有吧，对吗？\N{\rENG}It's not, right?
+Dialogue: 0,0:57:15.08,0:57:17.85,CHS,,0,0,0,,你知道吗，其实也不是这样的，我…\N{\rENG}You know, it's not even that.I was....
+Dialogue: 0,0:57:18.02,0:57:21.18,CHS,,0,0,0,,我本来是好好的，直到我读到你那本该死的书\N{\rENG}I was fine until I read your fucking book.
+Dialogue: 0,0:57:21.69,0:57:23.35,CHS,,0,0,0,,它把陈年往事又翻起来了，你知道吗？\N{\rENG}It stirred shit up, you know?
+Dialogue: 0,0:57:23.72,0:57:26.35,CHS,,0,0,0,,它让我想起了，我曾经真正的浪漫过\N{\rENG}It reminded me how genuinely romantic I was...
+Dialogue: 0,0:57:26.53,0:57:28.69,CHS,,0,0,0,,…我对于世界有过多少希望…\N{\rENG}...how I had so much hope in things...
+Dialogue: 0,0:57:28.86,0:57:32.39,CHS,,0,0,0,,…而我现在已经完全不相信任何爱情了\N{\rENG}...and now it's like I don't believe in anything that relates to love.
+Dialogue: 0,0:57:32.57,0:57:34.56,CHS,,0,0,0,,我已经感觉不到人之间的感情了\N{\rENG}I don't feel things for people anymore.
+Dialogue: 0,0:57:35.70,0:57:39.36,CHS,,0,0,0,,从某种意义上来说，我所有的浪漫都在一夜之间消耗光了…\N{\rENG}In a way, I put all my romanticism into that one night...
+Dialogue: 0,0:57:39.54,0:57:42.03,CHS,,0,0,0,,…而我将永远不可能再有那种感觉了\N{\rENG}...and I was never able to feel all this again.
+Dialogue: 0,0:57:42.21,0:57:44.73,CHS,,0,0,0,,就好像，那一夜不知道怎么，引发了我的全部感情…\N{\rENG}Like, somehow this night took things away from me...
+Dialogue: 0,0:57:44.91,0:57:47.31,CHS,,0,0,0,,…而我把这些感情都向你倾诉出来，而你却把它们都从我身边带走了\N{\rENG}...and I expressed them to you,and you took them with you.
+Dialogue: 0,0:57:47.48,0:57:49.38,CHS,,0,0,0,,这让我感到孤独！好像爱情再也不属于我一样！\N{\rENG}It made me feel cold,like love wasn't for me.
+Dialogue: 0,0:57:49.55,0:57:52.28,CHS,,0,0,0,,我不相信，我不相信\N{\rENG}I don't believe that.I don't believe that.
+Dialogue: 0,0:57:53.55,0:57:57.79,CHS,,0,0,0,,你知道吗？对我来说，现实和爱基本就是矛盾的\N{\rENG}You know what? Reality and love are almost contradictory for me.
+Dialogue: 0,0:57:57.96,0:58:02.26,CHS,,0,0,0,,非常可笑，我每一个以前的男友，他们都结婚了\N{\rENG}It's funny, every single of my exes,they're now married.
+Dialogue: 0,0:58:02.43,0:58:05.33,CHS,,0,0,0,,男人约我出去，然后我们分手，然后他们就结婚了\N{\rENG}Men go out with me, we break up,and then they get married.
+Dialogue: 0,0:58:05.50,0:58:08.99,CHS,,0,0,0,,之后之后他们打电话感谢我，教会了他们什么是爱\N{\rENG}And later they call me to thank me for teaching them what love is...
+Dialogue: 0,0:58:09.20,0:58:11.67,CHS,,0,0,0,,…教会了他们去关心跟尊重女人！\N{\rENG}...and that I taught them to care and respect women.
+Dialogue: 0,0:58:11.84,0:58:14.24,CHS,,0,0,0,,- 我想我也是那些男人中的一个  - 你知道吗，我真想杀了他们！\N{\rENG}- I think I'm one of those.  - I want to kill them!
+Dialogue: 0,0:58:14.44,0:58:18.07,CHS,,0,0,0,,他们为什么不向我求婚？我也许会拒绝，但至少他们也应该问我啊！\N{\rENG}Why didn't they ask me? I would have said no, but they could have asked!
+Dialogue: 0,0:58:18.24,0:58:22.01,CHS,,0,0,0,,但我知道这是我的错，因为我总觉得他们不是我的如意郎君\N{\rENG}I know it's my fault because I never felt it was the right man.
+Dialogue: 0,0:58:22.25,0:58:25.45,CHS,,0,0,0,,从来没有，但如意的人又是什么呢？你的真爱？\N{\rENG}Never. But what does it mean,the right man, the love of your life?
+Dialogue: 0,0:58:25.62,0:58:28.95,CHS,,0,0,0,,这种想法简直可笑，说什么我们只有找到了另一半人生才是完整的\N{\rENG}The concept is absurd. We can only be complete with another person.
+Dialogue: 0,0:58:29.16,0:58:31.52,CHS,,0,0,0,,- 这太可恶了，不是吗？ - 我能说两句吗？\N{\rENG}- It's evil, right?  - Can I talk?
+Dialogue: 0,0:58:31.72,0:58:35.13,CHS,,0,0,0,,我想我是伤心过太多次了，然后又恢复了\N{\rENG}I guess I've been heartbroken too many times and then I recovered.
+Dialogue: 0,0:58:35.29,0:58:37.92,CHS,,0,0,0,,于是现在，从一开始，我就不愿意付出努力\N{\rENG}So now, you know, from the starts,I make no effort.
+Dialogue: 0,0:58:38.10,0:58:40.86,CHS,,0,0,0,,- 因为我知道一定不能成功  - 你不能这样\N{\rENG}- I know it's not gonna work out.  - You can't do that.
+Dialogue: 0,0:58:41.10,0:58:42.97,CHS,,0,0,0,,你不可以只是为了避免受伤害\N{\rENG}You can't live trying to avoid pain...
+Dialogue: 0,0:58:43.17,0:58:44.97,CHS,,0,0,0,,- 就付出…  - 好啦，我决定了\N{\rENG}- ...at the expense...  - Those are words.
+Dialogue: 0,0:58:45.14,0:58:46.60,CHS,,0,0,0,,我要离你远远的\N{\rENG}I've gotta get away from you.
+Dialogue: 0,0:58:46.81,0:58:48.93,CHS,,0,0,0,,- 停车，我要下车！ - 不，别下车\N{\rENG}- Stop the car, I wanna get out.  - No, don't...
+Dialogue: 0,0:58:49.14,0:58:51.01,CHS,,0,0,0,,- 你知道在你身边…  - 请继续讲…\N{\rENG}- Keep talking.  - It's being around you.
+Dialogue: 0,0:58:51.18,0:58:53.54,CHS,,0,0,0,,别碰我！你知道吗，我要叫辆计程车…\N{\rENG}Don't touch me, you know.I want to get on a cab.
+Dialogue: 0,0:58:53.75,0:58:54.95,CHS,,0,0,0,,{\fs45\c&H9AD1DD&}[法语]{\rCHS}请停车，先生\N{\rENG}Monsieur, aretes vous!
+Dialogue: 0,0:58:54.95,0:58:56.25,CHS,,0,0,0,,{\fs45\c&H9AD1DD&}[法语]{\rCHS}过了红绿灯您就停，我去坐地铁\N{\rENG}Non, non, c'est bon, aux feux-la!
+Dialogue: 0,0:58:56.28,0:58:58.68,CHS,,0,0,0,,别，别停，继续开…\N{\rENG}No, don't. No, no, keep going.
+Dialogue: 0,0:58:58.85,0:59:02.45,CHS,,0,0,0,,听我说，我真的很高兴…谢谢你，请继续开…\N{\rENG}Listen, I'm just so happy...Thank you, just keep going.
+Dialogue: 0,0:59:02.62,0:59:04.32,CHS,,0,0,0,,好啦\N{\rENG}All right.
+Dialogue: 0,0:59:05.66,0:59:09.39,CHS,,0,0,0,,听我说，我真得很高兴能跟你在一起\N{\rENG}Look, I'm just so happy,all right, to be with you.
+Dialogue: 0,0:59:09.56,0:59:12.96,CHS,,0,0,0,,我真得很高兴你没有忘记我\N{\rENG}I am. I'm so glad you didn't forget about me, okay?
+Dialogue: 0,0:59:13.13,0:59:15.83,CHS,,0,0,0,,是的，我没有，而这吓坏我了，知道吗？\N{\rENG}No, I didn't.And it pisses me off, okay?
+Dialogue: 0,0:59:16.04,0:59:19.70,CHS,,0,0,0,,你到巴黎来，给我带来浪漫，但却结了婚\N{\rENG}You come here to Paris,all romantic, and married.
+Dialogue: 0,0:59:19.87,0:59:21.34,CHS,,0,0,0,,去死吧你！\N{\rENG}Okay? Screw you.
+Dialogue: 0,0:59:22.17,0:59:24.54,CHS,,0,0,0,,不要误会我，我并没有想要占有你\N{\rENG}Don't get me wrong,I'm not trying to get you.
+Dialogue: 0,0:59:24.71,0:59:27.18,CHS,,0,0,0,,我只不过想把自己嫁出去\N{\rENG}I mean, all I need is a married man.
+Dialogue: 0,0:59:27.81,0:59:31.15,CHS,,0,0,0,,这个问题很复杂，这甚至不仅仅是关于你\N{\rENG}There's been so much water under the bridge, it's not even about you.
+Dialogue: 0,0:59:31.32,0:59:33.79,CHS,,0,0,0,,还有那段过去的时光，那段永远不会再回来的时光！\N{\rENG}It's about that moment in time that's forever gone.
+Dialogue: 0,0:59:33.99,0:59:36.89,CHS,,0,0,0,,你说了这么多，但你却根本不记得我们做过爱\N{\rENG}You say that, but you didn't even remember having sex, so....
+Dialogue: 0,0:59:37.06,0:59:39.92,CHS,,0,0,0,,我当然记得\N{\rENG}Of course I remembered.
+Dialogue: 0,0:59:41.06,0:59:43.49,CHS,,0,0,0,,- 你记得？ - 没错！\N{\rENG}- You did?  - Yes.
+Dialogue: 0,0:59:43.66,0:59:47.03,CHS,,0,0,0,,- 女人总喜欢这么掩饰自己  - 是吗？\N{\rENG}- Women pretend things like that.  - They do?
+Dialogue: 0,0:59:47.23,0:59:51.19,CHS,,0,0,0,,我应该说什么呢？说我记得公园里的红酒…\N{\rENG}What was I supposed to say?That I remember the wine in the park...
+Dialogue: 0,0:59:51.37,0:59:54.86,CHS,,0,0,0,,…说我们我们一起看着星星落下太阳升起！\N{\rENG}...and us looking up at the stars fading away as the sun came up?
+Dialogue: 0,0:59:55.04,0:59:58.41,CHS,,0,0,0,,我们做了两次爱，你这混蛋！\N{\rENG}We had sex twice, you idiot!
+Dialogue: 0,0:59:59.81,1:00:03.58,CHS,,0,0,0,,好啦，你知道吗，我真得很高兴看到你\N{\rENG}All right, you know what,I'm just happy to see you.
+Dialogue: 0,1:00:03.82,1:00:07.22,CHS,,0,0,0,,即使你已变得易怒和神经质\N{\rENG}Even if you've become an angry,manic-depressive activist...
+Dialogue: 0,1:00:07.39,1:00:10.88,CHS,,0,0,0,,我还是很喜欢你，我还是愿意跟你待在一起！\N{\rENG}...I still like you,I still enjoy being around you.
+Dialogue: 0,1:00:11.56,1:00:15.93,CHS,,0,0,0,,我也是，对不起，我不知道怎么了，我只是…\N{\rENG}And I feel the same. I'm sorry.I don't know what happened, I just....
+Dialogue: 0,1:00:16.10,1:00:18.56,CHS,,0,0,0,,- 我需要发泄，我…  - 没事\N{\rENG}- I had to let it all out.  - Don't worry about it.
+Dialogue: 0,1:00:18.73,1:00:21.36,CHS,,0,0,0,,我的感情生活太不顺利了\N{\rENG}I'm so miserable in my love life,in my relationship.
+Dialogue: 0,1:00:21.53,1:00:24.70,CHS,,0,0,0,,所以我总是装作…好像我不在意它\N{\rENG}I always act as...Like, you know, I'm detached.
+Dialogue: 0,1:00:24.87,1:00:28.03,CHS,,0,0,0,,但我真得痛不欲生，因为麻木而痛不欲生\N{\rENG}But I'm dying inside.I'm dying because I'm so numb.
+Dialogue: 0,1:00:28.21,1:00:31.94,CHS,,0,0,0,,我不能感受到伤心和兴奋，我也不会感到苦涩，我只是…\N{\rENG}I don't feel pain or excitement,I'm not even bitter, I'm just....
+Dialogue: 0,1:00:32.11,1:00:34.77,CHS,,0,0,0,,你以为只有你痛不欲生吗？\N{\rENG}You think you're the one dying inside?
+Dialogue: 0,1:00:34.95,1:00:39.15,CHS,,0,0,0,,我的生活每时每刻全像是地狱\N{\rENG}My life is 24/7 bad.
+Dialogue: 0,1:00:39.35,1:00:40.65,CHS,,0,0,0,,- 对不起…  - 不要…\N{\rENG}- I'm sorry.  - No, no.
+Dialogue: 0,1:00:40.85,1:00:43.75,CHS,,0,0,0,,我唯一的快乐就是跟我儿子出去\N{\rENG}I mean, the only happiness I get is when I'm out with my son.
+Dialogue: 0,1:00:43.92,1:00:45.58,CHS,,0,0,0,,我去找了婚姻咨询\N{\rENG}I've been to marriage counseling...
+Dialogue: 0,1:00:45.76,1:00:48.39,CHS,,0,0,0,,我做了我从来没想过我会做的事\N{\rENG}...I've done things I never thought I would have to do.
+Dialogue: 0,1:00:48.56,1:00:51.50,CHS,,0,0,0,,我点了蜡烛，买了自助读物，女性内衣…\N{\rENG}I've lit candles,bought self-help books, lingerie.
+Dialogue: 0,1:00:51.66,1:00:54.06,CHS,,0,0,0,,- 蜡烛有用吗？ - 有个鬼用！\N{\rENG}- Did the candles help?  - Hell, no.
+Dialogue: 0,1:00:54.23,1:00:56.72,CHS,,0,0,0,,我没法用她想要的方式爱她\N{\rENG}I don't love her the way she needs to be loved...
+Dialogue: 0,1:00:56.90,1:01:01.34,CHS,,0,0,0,,…我甚至根本看不到我们的未来，但当我看到我的小儿子\N{\rENG}...and I don't even see a future for us,but then I look at my little boy...
+Dialogue: 0,1:01:01.51,1:01:04.91,CHS,,0,0,0,,…坐在桌子的对面，我就觉得我愿意承受一切折磨…\N{\rENG}...sitting across from me,and I think I'd suffer any torture...
+Dialogue: 0,1:01:05.08,1:01:07.44,CHS,,0,0,0,,…只要能跟他一起度过他生命中的每一刻\N{\rENG}...to be with him for all the minutes of his life.
+Dialogue: 0,1:01:07.61,1:01:09.48,CHS,,0,0,0,,我一刻也不想缺\N{\rENG}I don't want to miss out on one.
+Dialogue: 0,1:01:09.65,1:01:13.98,CHS,,0,0,0,,但是我的家里没有欢笑，没有快乐\N{\rENG}But then, there's no joy or laughter in my home, you know?
+Dialogue: 0,1:01:14.15,1:01:17.85,CHS,,0,0,0,,- 我不希望他在这样的环境中长大  - 没有欢笑？那可太糟了\N{\rENG}- I don't want him growing up in that.  - No laughter? That's terrible.
+Dialogue: 0,1:01:18.02,1:01:19.96,CHS,,0,0,0,,我的父母在一起已经有三十五年了\N{\rENG}My parents have been together 35 years...
+Dialogue: 0,1:01:20.13,1:01:22.46,CHS,,0,0,0,,而即使他们吵架之后，他们还会笑得一样开心\N{\rENG}...and even when they fight they end up laughing.
+Dialogue: 0,1:01:22.63,1:01:26.43,CHS,,0,0,0,,我不想变成那种人，在五十二岁时离了婚…\N{\rENG}I don't want to be one of those people who are getting divorced at 52...
+Dialogue: 0,1:01:26.60,1:01:31.00,CHS,,0,0,0,,…落着泪，承认从来就没有爱过自己的伴侣…\N{\rENG}...and falling down into tears, admitting they never really loved their spouse...
+Dialogue: 0,1:01:31.17,1:01:36.20,CHS,,0,0,0,,…感觉自己的生活好像完全被吸尘器吸走一样，一片空虚\N{\rENG}...and they feel their life has been sucked up into a vacuum cleaner.
+Dialogue: 0,1:01:36.44,1:01:40.00,CHS,,0,0,0,,我也想拥有美好的生活，我也希望她拥有美好的生活\N{\rENG}You know, I want a great life.I want her to have a great life...
+Dialogue: 0,1:01:40.21,1:01:42.41,CHS,,0,0,0,,这是她应得的！\N{\rENG}...she deserves that.
+Dialogue: 0,1:01:42.62,1:01:45.95,CHS,,0,0,0,,但现在我们只是假装维系着婚姻，责任\N{\rENG}But we're just living in the pretense of a marriage, responsibility...
+Dialogue: 0,1:01:46.12,1:01:50.11,CHS,,0,0,0,,…过着那种人们觉得你该过的日子\N{\rENG}...you know, all these ideas of how people are supposed to live.
+Dialogue: 0,1:01:51.82,1:01:55.69,CHS,,0,0,0,,然后，我…我做了一个梦\N{\rENG}But then I... I have these dreams....
+Dialogue: 0,1:01:57.20,1:01:58.56,CHS,,0,0,0,,什么梦？\N{\rENG}What dreams?
+Dialogue: 0,1:01:58.73,1:02:02.22,CHS,,0,0,0,,我做了一个梦\N{\rENG}I have these dreams,you know, that...
+Dialogue: 0,1:02:02.70,1:02:04.69,CHS,,0,0,0,,…梦见我站在月台上\N{\rENG}...I'm standing on a platform...
+Dialogue: 0,1:02:06.01,1:02:09.13,CHS,,0,0,0,,…而你不停的坐火车经过\N{\rENG}...and you keep going by on a train...
+Dialogue: 0,1:02:09.31,1:02:13.71,CHS,,0,0,0,,…你就是不停的经过，经过，经过\N{\rENG}...and you go by, and you go by,and you go by, you go by.
+Dialogue: 0,1:02:13.88,1:02:15.74,CHS,,0,0,0,,然后我被吓醒，浑身冷汗\N{\rENG}And I wake up with the fucking sweats.
+Dialogue: 0,1:02:15.95,1:02:18.21,CHS,,0,0,0,,然后我又做了一个梦…\N{\rENG}And then I have this other dream...
+Dialogue: 0,1:02:18.45,1:02:22.25,CHS,,0,0,0,,…梦见你怀孕了，在床上躺在我身边，一丝不挂…\N{\rENG}...where you're pregnant in bed beside me naked...
+Dialogue: 0,1:02:22.49,1:02:26.25,CHS,,0,0,0,,…而我非常非常想要抚摸你，但你跟我说不要，然后你就把头别过去\N{\rENG}...and I want so badly to touch you, but you tell me not to and you look away.
+Dialogue: 0,1:02:26.46,1:02:30.92,CHS,,0,0,0,,然后我…我还是抚摸了你…\N{\rENG}And I... And I touch you anyway...
+Dialogue: 0,1:02:31.10,1:02:35.56,CHS,,0,0,0,,…摸你的脚踝那里，你的皮肤是那样的柔软，使得我在哭泣中醒来\N{\rENG}...right on your ankle, and your skin is so soft that I wake up in sobs, all right?
+Dialogue: 0,1:02:36.34,1:02:39.77,CHS,,0,0,0,,我的妻子就坐在那里，看着我，我却觉得她离我万里之遥\N{\rENG}My wife is there looking at me,and I feel I'm a million miles from her.
+Dialogue: 0,1:02:39.97,1:02:44.00,CHS,,0,0,0,,我知道那不对劲，我…\N{\rENG}And I know that there's something wrong, that I...
+Dialogue: 0,1:02:44.18,1:02:46.17,CHS,,0,0,0,,天啊！我不能再这样活下去了…\N{\rENG}God, that I can't keep living like this...
+Dialogue: 0,1:02:46.35,1:02:48.87,CHS,,0,0,0,,…爱的意义一定不仅仅是责任\N{\rENG}...that there's gotta be more to love than commitment.
+Dialogue: 0,1:02:49.08,1:02:51.88,CHS,,0,0,0,,但然后我又想，也许我已经不相信…\N{\rENG}But then I think that I might have given up...
+Dialogue: 0,1:02:52.05,1:02:53.95,CHS,,0,0,0,,…浪漫的爱情了\N{\rENG}...on the whole idea of romantic love.
+Dialogue: 0,1:02:54.12,1:02:57.42,CHS,,0,0,0,,我可能早已经不信了\N{\rENG}That I might have put it to bed that...
+Dialogue: 0,1:02:57.59,1:03:00.35,CHS,,0,0,0,,自从那天我在那里没有见你\N{\rENG}That day when you weren't there.
+Dialogue: 0,1:03:00.53,1:03:03.26,CHS,,0,0,0,,我想，我可能就开始消沉了\N{\rENG}You know, I think I might have done that.
+Dialogue: 0,1:03:04.53,1:03:06.73,CHS,,0,0,0,,你为什么要和我说这些？\N{\rENG}Why are you telling me all this?
+Dialogue: 0,1:03:07.60,1:03:11.80,CHS,,0,0,0,,对不起，我不知道，我…我应该…\N{\rENG}I'm sorry. I don't know.I'm... I should....
+Dialogue: 0,1:03:13.01,1:03:14.94,CHS,,0,0,0,,我不应该说的\N{\rENG}I shouldn't have.
+Dialogue: 0,1:03:15.11,1:03:16.70,CHS,,0,0,0,,你知道，太奇怪了\N{\rENG}You know, it's so weird.
+Dialogue: 0,1:03:16.88,1:03:20.90,CHS,,0,0,0,,人们总是觉得自己是唯一痛苦的人\N{\rENG}People think they are the only one going through tough times.
+Dialogue: 0,1:03:21.11,1:03:25.41,CHS,,0,0,0,,当我读那些文章的时候，我觉得你的生活是完美的\N{\rENG}I mean, when I read the article,I thought your life was perfect.
+Dialogue: 0,1:03:25.72,1:03:29.62,CHS,,0,0,0,,有太太，孩子，出版了自己的作品\N{\rENG}A wife, a kid, published author.
+Dialogue: 0,1:03:30.26,1:03:33.62,CHS,,0,0,0,,现在看来你的生活比我还糟！\N{\rENG}But your personal life is more of a mess than mine.
+Dialogue: 0,1:03:33.79,1:03:36.12,CHS,,0,0,0,,对不起！\N{\rENG}I'm sorry.
+Dialogue: 0,1:03:36.30,1:03:38.75,CHS,,0,0,0,,起码有些方面还过得去\N{\rENG}Well, I'm glad it's good for something.
+Dialogue: 0,1:03:38.75,1:03:39.45,CHS,,0,0,0,,{\fs45\c&H9AD1DD&}[法语]{\rCHS}噢，先生，就是那儿！\N{\rENG}Oh, monsieur, c'est la!
+Dialogue: 0,1:03:40.05,1:03:42.12,CHS,,0,0,0,,{\fs45\c&H9AD1DD&}[法语]{\rCHS}把车停到那个通道里就行了\N{\rENG}Rentrez dans la passe-la.
+Dialogue: 0,1:03:42.13,1:03:45.40,CHS,,0,0,0,,- 这里就是你住的地方？ - 没错\N{\rENG}- This is where you live?  - Yeah.
+Dialogue: 0,1:03:46.31,1:03:50.47,CHS,,0,0,0,,那现在看到我的生活比你还糟，觉得舒服点了吧？\N{\rENG}So you're just relieved that I'm in even more deep shit than you are?
+Dialogue: 0,1:03:50.64,1:03:52.51,CHS,,0,0,0,,是的，你让我感觉好多了\N{\rENG}Yes, you've made me feel better.
+Dialogue: 0,1:03:52.68,1:03:54.84,CHS,,0,0,0,,哦，那就好，我很高兴…\N{\rENG}Oh, good, I'm glad.
+Dialogue: 0,1:03:55.05,1:03:57.48,CHS,,0,0,0,,不，我真的希望你的生活可以更好\N{\rENG}No, I really wish you the best.
+Dialogue: 0,1:03:57.65,1:04:01.31,CHS,,0,0,0,,我不会因为自己无法有良好的感情，或是美好的家庭\N{\rENG}It's not because I'm incapable of having a good relationship or a family...
+Dialogue: 0,1:04:01.49,1:04:03.61,CHS,,0,0,0,,就想要别人也跟我一样不开心\N{\rENG}...that I wish everyone to be doomed like me.
+Dialogue: 0,1:04:03.79,1:04:06.16,CHS,,0,0,0,,我知道你总有一天会成为…一个伟大的母亲的！\N{\rENG}I'm sure you'd make... Be a great mom someday.
+Dialogue: 0,1:04:06.33,1:04:07.82,CHS,,0,0,0,,- 真的？你真的这么认为？ - 没错\N{\rENG}- Really? You think so?  - Yeah...
+Dialogue: 0,1:04:07.99,1:04:11.12,CHS,,0,0,0,,只要服一些抗忧郁药，你就行了！\N{\rENG}...a few antidepressants, you know,you'll do great.
+Dialogue: 0,1:04:11.93,1:04:14.76,CHS,,0,0,0,,- 喊停！ - 停！\N{\rENG}- Okay, say stop.  - Stop.
+Dialogue: 0,1:04:15.20,1:04:17.93,CHS,,0,0,0,,- 好啦  - 准备好了吗？好啦\N{\rENG}- Okay.  - You ready? Okay.
+Dialogue: 0,1:04:28.08,1:04:32.28,CHS,,0,0,0,,- 我想试一下  - 什么？\N{\rENG}- So I want to try something.  - What?
+Dialogue: 0,1:04:34.72,1:04:39.09,CHS,,0,0,0,,我想看看你是会保持原样还是会融化\N{\rENG}I want to see if you stay together or if you dissolve into molecules.
+Dialogue: 0,1:04:40.13,1:04:42.06,CHS,,0,0,0,,我融化了吗？\N{\rENG}How am I doing?
+Dialogue: 0,1:04:42.23,1:04:44.16,CHS,,0,0,0,,保持原样！\N{\rENG}Still here.
+Dialogue: 0,1:04:44.33,1:04:46.49,CHS,,0,0,0,,很好，我喜欢住在这儿\N{\rENG}Good. I like being here.
+Dialogue: 0,1:04:50.37,1:04:51.96,CHS,,0,0,0,,这是你的公寓吗？\N{\rENG}Is this your apartment?
+Dialogue: 0,1:04:52.14,1:04:53.83,CHS,,0,0,0,,不，我住在那里\N{\rENG}No, I live down there.
+Dialogue: 0,1:04:54.01,1:04:56.24,CHS,,0,0,0,,- 那里？ - 是的\N{\rENG}- Down there?  - Yeah.
+Dialogue: 0,1:04:56.41,1:04:58.90,CHS,,0,0,0,,先生，我想送她进家门\N{\rENG}Monsieur, I'm gonna walk her to her door.
+Dialogue: 0,1:04:59.55,1:05:04.55,CHS,,0,0,0,,{\fs45\c&H9AD1DD&}[法语]{\rCHS}他要送我进家门\N{\rENG}Il va m'accompagner...a la porte.
+Dialogue: 0,1:05:07.99,1:05:09.32,CHS,,0,0,0,,太不可思议了！\N{\rENG}This is incredible.
+Dialogue: 0,1:05:09.49,1:05:12.18,CHS,,0,0,0,,- 这就是你住的地方？ - 是的\N{\rENG}- This is where you live?  - Yeah.
+Dialogue: 0,1:05:12.36,1:05:15.56,CHS,,0,0,0,,- 你搬来这里多久了？ - 四年了\N{\rENG}- How long have you been here?  - Four years.
+Dialogue: 0,1:05:17.13,1:05:19.26,CHS,,0,0,0,,- 那告诉我…  - 什么？\N{\rENG}- So tell me....  - What?
+Dialogue: 0,1:05:19.43,1:05:21.09,CHS,,0,0,0,,你讲的那些你的梦，是真的吗？\N{\rENG}Is it all true about your dreams...
+Dialogue: 0,1:05:21.27,1:05:24.03,CHS,,0,0,0,,还是只是为了骗我上床？\N{\rENG}...or did you say that to hopefully get in my pants?
+Dialogue: 0,1:05:24.20,1:05:25.76,CHS,,0,0,0,,当然只是骗你上床啦！\N{\rENG}I said that to get in your pants.
+Dialogue: 0,1:05:25.94,1:05:28.43,CHS,,0,0,0,,- 这是我的惯用伎俩  - 哦，有用吗？\N{\rENG}- I use that all the time.  - Oh, okay. Does it work?
+Dialogue: 0,1:05:28.67,1:05:31.54,CHS,,0,0,0,,嗯，有时候\N{\rENG}You know. Sometimes.
+Dialogue: 0,1:05:32.71,1:05:36.20,CHS,,0,0,0,,这是我的猫咪，哦，太可爱了，看看它\N{\rENG}Here's my kitty. Oh, so cute.Look at him.
+Dialogue: 0,1:05:36.38,1:05:38.21,CHS,,0,0,0,,你知道我喜欢他的什么吗？\N{\rENG}You know what I love about this cat?
+Dialogue: 0,1:05:38.38,1:05:40.68,CHS,,0,0,0,,每天早上我带他下来\N{\rENG}Every morning I bring him to the courtyard...
+Dialogue: 0,1:05:40.89,1:05:45.59,CHS,,0,0,0,,…每一个早晨，他都会像是第一次来到这个院子一样！\N{\rENG}...and every single morning he looks at everything like it was the first time.
+Dialogue: 0,1:05:45.76,1:05:49.85,CHS,,0,0,0,,每个角落，每棵树，每棵植物\N{\rENG}Every corner, every tree, every plant.
+Dialogue: 0,1:05:50.03,1:05:52.46,CHS,,0,0,0,,都用他可爱的小鼻子去闻闻\N{\rENG}Smells everything with his little cute nose.
+Dialogue: 0,1:05:52.67,1:05:56.73,CHS,,0,0,0,,我太喜欢他了！\N{\rENG}Oh, I love my kitty. I love my kitty.
+Dialogue: 0,1:05:57.97,1:05:59.87,CHS,,0,0,0,,- 他叫什么？ - 奇\N{\rENG}- What's his name?  - Che.
+Dialogue: 0,1:06:00.54,1:06:02.40,CHS,,0,0,0,,奇？\N{\rENG}Che?
+Dialogue: 0,1:06:04.08,1:06:06.48,CHS,,0,0,0,,- 怎么了？ - 听起来像共产党员\N{\rENG}- What?  - Commie.
+Dialogue: 0,1:06:07.95,1:06:10.94,CHS,,0,0,0,,不，“奇”在阿根廷是用来打招呼用的！\N{\rENG}No, "che" in argentina means "hey."
+Dialogue: 0,1:06:11.12,1:06:13.55,CHS,,0,0,0,,- 真的？ - 是的\N{\rENG}- Okay.  - Yes.
+Dialogue: 0,1:06:13.72,1:06:17.45,CHS,,0,0,0,,哦，宝贝，哦，好啊，好啊\N{\rENG}Oh, baby. Oh, yes, yes, yes.
+Dialogue: 0,1:06:20.79,1:06:24.63,CHS,,0,0,0,,我们晚上有个聚餐！超好玩的！\N{\rENG}We're having a little party.It's so much fun.
+Dialogue: 0,1:06:26.05,1:06:27.85,CHS,,0,0,0,,{\fs45\c&H9AD1DD&}[法语]{\rCHS}你为晚餐准备了什么好东西？\N{\rENG}Qu'est-ce que vous avez fait bon pour ce soir?
+Dialogue: 0,1:06:27.85,1:06:28.85,CHS,,0,0,0,,{\fs45\c&H9AD1DD&}[法语]{\rCHS}塔布雷色拉\N{\rENG}Un taboule!
+Dialogue: 0,1:06:28.85,1:06:30.95,CHS,,0,0,0,,{\fs45\c&H9AD1DD&}[法语]{\rCHS}我过五分钟下来\N{\rENG}Je vais descendre dans cinq minutes!
+Dialogue: 0,1:06:30.95,1:06:31.95,CHS,,0,0,0,,{\fs45\c&H9AD1DD&}[法语]{\rCHS}你好\N{\rENG}Salut!
+Dialogue: 0,1:06:32.20,1:06:33.50,CHS,,0,0,0,,{\fs45\c&H9AD1DD&}[法语]{\rCHS}你好\N{\rENG}Salut!
+Dialogue: 0,1:06:34.55,1:06:36.55,CHS,,0,0,0,,- 那…  - 那\N{\rENG}- So....  - So.
+Dialogue: 0,1:06:37.35,1:06:39.45,CHS,,0,0,0,,{\fs45\c&H9AD1DD&}[法语]{\rCHS}这是谁？帅哥啊！\N{\rENG}C'est qui celui-la? Il est mignon!
+Dialogue: 0,1:06:39.45,1:06:41.45,CHS,,0,0,0,,- {\fs45\c&H9AD1DD&}[法语]{\rCHS}他和我们共进晚餐吗？ - {\fs45\c&H9AD1DD&}[法语]{\rCHS}不，他要赶飞机\N{\rENG}- Il mange avec nous?  - Non, il prend l'avion.
+Dialogue: 0,1:06:41.45,1:06:44.45,CHS,,0,0,0,,{\fs45\c&H9AD1DD&}[法语]{\rCHS}可惜他尝不到我的拿手菜了\N{\rENG}Tant pis! Il ne goutera pas mes paton pois chiches.
+Dialogue: 0,1:06:44.45,1:06:45.95,CHS,,0,0,0,,{\fs45\c&H9AD1DD&}[法语]{\rCHS}他为什么不留下吃晚饭？\N{\rENG}Pour-quo'il ne mange pas avec nous?
+Dialogue: 0,1:06:45.95,1:06:48.15,CHS,,0,0,0,,{\fs45\c&H9AD1DD&}[法语]{\rCHS}他不喜欢你的短裤！\N{\rENG}Il n'aime pas ton short!
+Dialogue: 0,1:06:48.15,1:06:50.76,CHS,,0,0,0,,{\fs45\c&H9AD1DD&}[法语]{\rCHS}我的短裤怎么了？\N{\rENG}Mais qu'es-ce qu'il a mon short?
+Dialogue: 0,1:06:52.83,1:06:57.29,CHS,,0,0,0,,你知道吗？我在想，你可以唱一首你的歌给我听吗？\N{\rENG}You know what? I was thinking,would you play me one of your songs?
+Dialogue: 0,1:06:57.46,1:06:59.62,CHS,,0,0,0,,- 你会错过你的班机的！ - 不，不会的！\N{\rENG}- You're gonna miss your flight.  - I won't.
+Dialogue: 0,1:06:59.80,1:07:02.70,CHS,,0,0,0,,我坐在候机厅也只不过是读一个小时的报纸\N{\rENG}I'm gonna be in the airport for over an hour, reading...
+Dialogue: 0,1:07:02.87,1:07:05.80,CHS,,0,0,0,,…所以还是听你唱一首歌给我听吧\N{\rENG}...wishing you'd played me one of your songs.
+Dialogue: 0,1:07:06.00,1:07:08.20,CHS,,0,0,0,,一首？好吧，不过很短的\N{\rENG}One song? Okay, but quickly.
+Dialogue: 0,1:07:08.37,1:07:10.17,CHS,,0,0,0,,好的\N{\rENG}Okay.
+Dialogue: 0,1:07:15.51,1:07:18.75,CHS,,0,0,0,,我太喜欢这老楼梯了\N{\rENG}God, I love these old staircases.
+Dialogue: 0,1:07:57.02,1:07:59.32,CHS,,0,0,0,,- 拿着！ - 什么，让我来？\N{\rENG}- Hold this.  - What, for me?
+Dialogue: 0,1:07:59.49,1:08:01.52,CHS,,0,0,0,,嘿，小家伙\N{\rENG}Hey there, buddy.
+Dialogue: 0,1:08:02.59,1:08:04.69,CHS,,0,0,0,,奇\N{\rENG}Che.
+Dialogue: 0,1:08:16.18,1:08:19.94,CHS,,0,0,0,,- 你想喝点茶吗？ - 好啊\N{\rENG}- Would you like some tea?  - Yeah, sure.
+Dialogue: 0,1:08:20.45,1:08:22.07,CHS,,0,0,0,,哇\N{\rENG}Wow.
+Dialogue: 0,1:08:23.08,1:08:26.57,CHS,,0,0,0,,- 甘菊茶好吗？ - 嗯，很好\N{\rENG}- Is chamomile okay?  - Yeah. Great.
+Dialogue: 0,1:08:26.75,1:08:29.02,CHS,,0,0,0,,- {\fs45\c&H9AD1DD&}[法语]{\rCHS}谢谢！ - 乱？{\fs45\c&H9AD1DD&}[谐音]{\rCHS}\N{\rENG}- Merci.  - Messy?
+Dialogue: 0,1:08:29.19,1:08:32.92,CHS,,0,0,0,,- 你觉得我的房间很乱？ - 不不不，我是说谢谢\N{\rENG}- You think my apartment is messy?  - No, no. Merci.
+Dialogue: 0,1:08:33.09,1:08:36.62,CHS,,0,0,0,,- {\fs45\c&H9AD1DD&}[法语]{\rCHS}非常感谢  - 哦，谢谢\N{\rENG}- Merci beaucoup.  - Ah, merci.
+Dialogue: 0,1:08:36.83,1:08:40.56,CHS,,0,0,0,,我想告诉你，你的法语进步很多\N{\rENG}I meant to tell you,your French has improved a lot.
+Dialogue: 0,1:08:40.73,1:08:42.06,CHS,,0,0,0,,- 真的吗？ - 没错！\N{\rENG}- Really?  - Yeah.
+Dialogue: 0,1:08:42.23,1:08:44.83,CHS,,0,0,0,,你已经完全掌握这门语言了\N{\rENG}Yeah, you've really mastered the language.
+Dialogue: 0,1:08:45.60,1:08:48.73,CHS,,0,0,0,,好吧，那你想要唱哪首歌？\N{\rENG}All right, all right, what song are you gonna play me?
+Dialogue: 0,1:08:50.94,1:08:53.88,CHS,,0,0,0,,不行，我唱不了，这太丢人了\N{\rENG}No, I can't. It's too embarrassing.It's been...
+Dialogue: 0,1:08:54.05,1:08:57.74,CHS,,0,0,0,,哇！不行！我这么费劲上来就是为了这个，你不能这样坑我\N{\rENG}Whoa. No way. No way. I came up here,you cannot crap out on me now.
+Dialogue: 0,1:08:57.92,1:08:59.94,CHS,,0,0,0,,就一首，随便那首都行\N{\rENG}One song. Anything will be great.
+Dialogue: 0,1:09:00.15,1:09:01.95,CHS,,0,0,0,,但你会笑我的\N{\rENG}But listen, you're gonna laugh at me.
+Dialogue: 0,1:09:02.12,1:09:03.61,CHS,,0,0,0,,- 你这么觉得？ - 是的！\N{\rENG}- You think so?  - Yes.
+Dialogue: 0,1:09:03.86,1:09:05.85,CHS,,0,0,0,,放心，我不会的\N{\rENG}I doubt it.
+Dialogue: 0,1:09:08.59,1:09:09.99,CHS,,0,0,0,,好吧\N{\rENG}Okay.
+Dialogue: 0,1:09:10.16,1:09:12.56,CHS,,0,0,0,,你想听什么？我有…\N{\rENG}What do you want to hear? I have....
+Dialogue: 0,1:09:12.73,1:09:15.06,CHS,,0,0,0,,我有三首英文歌\N{\rENG}I have three songs in English.
+Dialogue: 0,1:09:15.23,1:09:16.60,CHS,,0,0,0,,一首是唱我的猫的\N{\rENG}One's about my cat...
+Dialogue: 0,1:09:16.77,1:09:20.83,CHS,,0,0,0,,…一首是唱我的前男友，呃，前前男友…\N{\rENG}...one's about my ex-boyfriend...Well, ex-ex-boyfriend...
+Dialogue: 0,1:09:21.01,1:09:23.50,CHS,,0,0,0,,…还有一首是…\N{\rENG}...and there's one about....
+Dialogue: 0,1:09:23.91,1:09:27.28,CHS,,0,0,0,,是首华尔兹\N{\rENG}Well, it's just a little waltz.
+Dialogue: 0,1:09:27.45,1:09:29.57,CHS,,0,0,0,,华尔兹？\N{\rENG}A waltz? Yeah.
+Dialogue: 0,1:09:29.78,1:09:31.91,CHS,,0,0,0,,- 那就唱华尔兹吧  - 好吧\N{\rENG}- Play the waltz.  - Right.
+Dialogue: 0,1:09:32.12,1:09:34.52,CHS,,0,0,0,,我已经很久没弹吉他了，你确定你想听吗？\N{\rENG}I haven't played it in a while.You sure?
+Dialogue: 0,1:09:37.89,1:09:39.41,CHS,,0,0,0,,当然\N{\rENG}Okay.
+Dialogue: 0,1:09:40.16,1:09:42.46,CHS,,0,0,0,,好吧，华尔兹\N{\rENG}All right, the waltz.
+Dialogue: 0,1:09:54.67,1:09:59.17,CHS,,0,0,0,,让我唱首华尔兹\N{\rENG}Let me sing you a waltz
+Dialogue: 0,1:09:59.34,1:10:04.11,CHS,,0,0,0,,无从讲起，从我的心底\N{\rENG}Out of nowhere, out of my thoughts
+Dialogue: 0,1:10:04.28,1:10:08.81,CHS,,0,0,0,,让我唱首华尔兹\N{\rENG}Let me sing you a waltz
+Dialogue: 0,1:10:08.99,1:10:12.86,CHS,,0,0,0,,唱那次一夜缠绵\N{\rENG}About this one-night stand
+Dialogue: 0,1:10:13.96,1:10:19.66,CHS,,0,0,0,,那晚，你是我的\N{\rENG}You were, for me, that night
+Dialogue: 0,1:10:19.83,1:10:25.74,CHS,,0,0,0,,你是我生命中的全部梦想\N{\rENG}Everything I always dreamt of in life
+Dialogue: 0,1:10:25.94,1:10:29.47,CHS,,0,0,0,,但你已经不在了\N{\rENG}But now you're gone
+Dialogue: 0,1:10:29.64,1:10:33.87,CHS,,0,0,0,,你去了很远的地方\N{\rENG}You are far-gone
+Dialogue: 0,1:10:34.88,1:10:39.54,CHS,,0,0,0,,你那的雨中小岛\N{\rENG}All the way to your island of rain
+Dialogue: 0,1:10:39.72,1:10:45.59,CHS,,0,0,0,,对你来说，那只是一夜情\N{\rENG}It was, for you, just a one-night thing
+Dialogue: 0,1:10:45.76,1:10:48.73,CHS,,0,0,0,,对我来说却远远不止\N{\rENG}But you were much more to me
+Dialogue: 0,1:10:48.96,1:10:51.66,CHS,,0,0,0,,我想让你知道\N{\rENG}Just so you know
+Dialogue: 0,1:10:52.70,1:10:55.69,CHS,,0,0,0,,我不管别人怎样说\N{\rENG}I don 't care what they say
+Dialogue: 0,1:10:55.87,1:11:00.83,CHS,,0,0,0,,我知道你对我的意义\N{\rENG}I know what you meant For me that day
+Dialogue: 0,1:11:01.01,1:11:05.84,CHS,,0,0,0,,我只想再来一次\N{\rENG}I just want another try
+Dialogue: 0,1:11:06.01,1:11:11.01,CHS,,0,0,0,,我只想再来一夜\N{\rENG}I just want another night
+Dialogue: 0,1:11:12.25,1:11:18.21,CHS,,0,0,0,,即使这看起来毫无意义\N{\rENG}Even if it doesn 't seem quite right
+Dialogue: 0,1:11:18.42,1:11:22.42,CHS,,0,0,0,,但你对我来说\N{\rENG}You meant, for me, much more
+Dialogue: 0,1:11:22.59,1:11:26.93,CHS,,0,0,0,,要比任何人都更重要\N{\rENG}Than anyone I've met before
+Dialogue: 0,1:11:27.10,1:11:33.44,CHS,,0,0,0,,和你共度的一夜啊，小杰西\N{\rENG}One single night with you, little Jesse
+Dialogue: 0,1:11:33.61,1:11:38.74,CHS,,0,0,0,,比得上和他人的一千个夜晚\N{\rENG}Is worth a thousand with anybody
+Dialogue: 0,1:11:39.78,1:11:43.15,CHS,,0,0,0,,我没有痛苦，亲亲\N{\rENG}I have no bitterness, my sweet
+Dialogue: 0,1:11:43.52,1:11:48.58,CHS,,0,0,0,,我永远不会忘记这一夜缠绵\N{\rENG}I'll never forget this one-night thing
+Dialogue: 0,1:11:48.75,1:11:54.89,CHS,,0,0,0,,即使明天我在他人怀中\N{\rENG}Even tomorrow, in other arms
+Dialogue: 0,1:11:55.06,1:12:01.09,CHS,,0,0,0,,我的心还会随你而去，直到生命尽头\N{\rENG}My heart will stay yours until I die
+Dialogue: 0,1:12:05.27,1:12:10.07,CHS,,0,0,0,,让我唱一首华尔兹\N{\rENG}Let me sing you a waltz
+Dialogue: 0,1:12:10.24,1:12:15.27,CHS,,0,0,0,,无从讲起，从我的心底\N{\rENG}Out of nowhere, out of my blues
+Dialogue: 0,1:12:15.45,1:12:20.41,CHS,,0,0,0,,让我唱一首华尔兹\N{\rENG}Let me sing you a waltz
+Dialogue: 0,1:12:20.59,1:12:25.78,CHS,,0,0,0,,唱那可爱的一夜情\N{\rENG}About this lovely one-night stand
+Dialogue: 0,1:12:42.87,1:12:46.50,CHS,,0,0,0,,- 不要停，再来一首，求你了  - 不行，说好了的！\N{\rENG}- No, one more! Please, please.  - No! It was our deal.
+Dialogue: 0,1:12:46.71,1:12:49.18,CHS,,0,0,0,,一首，就一首，别，别\N{\rENG}One... One song. No, no, no.
+Dialogue: 0,1:12:49.38,1:12:51.94,CHS,,0,0,0,,你可以喝完你的茶再…\N{\rENG}You can have your tea and then....
+Dialogue: 0,1:12:57.36,1:12:59.72,CHS,,0,0,0,,- 好吧，我问你个问题  - 什么？\N{\rENG}- All right, let me ask you one question.  - What?
+Dialogue: 0,1:12:59.89,1:13:03.19,CHS,,0,0,0,,你是不是每次不管谁来就在歌词里换个名字？\N{\rENG}Do you just plug that name in for every guy that comes up here?
+Dialogue: 0,1:13:03.80,1:13:05.13,CHS,,0,0,0,,当然了\N{\rENG}Yes, of course.
+Dialogue: 0,1:13:05.30,1:13:09.36,CHS,,0,0,0,,你以为呢？我是写给你的？你疯了吗？\N{\rENG}What do you think, that I wrote the song about you? Are you nuts?
+Dialogue: 0,1:13:13.74,1:13:16.14,CHS,,0,0,0,,这是你吗？小对眼塞琳？\N{\rENG}Is this you? Little cross-eyed Celine?
+Dialogue: 0,1:13:16.31,1:13:18.87,CHS,,0,0,0,,- 是的，那张很好笑  - 可爱\N{\rENG}- Yes. That's funny.  - Cute.
+Dialogue: 0,1:13:20.25,1:13:23.68,CHS,,0,0,0,,- 这就是你的祖母？ - 是的\N{\rENG}- Is that your grandmother?  - Yeah.
+Dialogue: 0,1:13:25.42,1:13:27.51,CHS,,0,0,0,,哇\N{\rENG}Oh, wow.
+Dialogue: 0,1:13:27.89,1:13:30.98,CHS,,0,0,0,,- 你要加点蜂蜜吗？ - 好的\N{\rENG}- You want some honey?  - Yeah, sure.
+Dialogue: 0,1:14:20.67,1:14:22.97,CHS,,0,0,0,,你听过尼娜·西蒙的演唱会吗？\N{\rENG}Did you ever see Nina Simone in concert?
+Dialogue: 0,1:14:23.18,1:14:25.70,CHS,,0,0,0,,没有，不敢相信她已经不在了\N{\rENG}No, I never did.I can't believe she's gone.
+Dialogue: 0,1:14:26.04,1:14:27.53,CHS,,0,0,0,,我知道，太让人伤心了\N{\rENG}I know, it's so sad.
+Dialogue: 0,1:14:28.68,1:14:30.11,CHS,,0,0,0,,谢谢\N{\rENG}Thanks.
+Dialogue: 0,1:14:30.28,1:14:32.27,CHS,,0,0,0,,真热\N{\rENG}It's hot.
+Dialogue: 0,1:14:34.39,1:14:37.22,CHS,,0,0,0,,我听过她两次演唱会\N{\rENG}I saw her twice in concert.
+Dialogue: 0,1:14:37.82,1:14:40.12,CHS,,0,0,0,,她真棒！\N{\rENG}She was so great.
+Dialogue: 0,1:14:40.33,1:14:43.32,CHS,,0,0,0,,这是她的歌里我最喜欢的几首之一\N{\rENG}That's one of my favorite songs of hers.
+Dialogue: 0,1:14:59.21,1:15:00.51,CHS,,0,0,0,,她太棒了！\N{\rENG}She was so great.
+Dialogue: 0,1:15:02.45,1:15:04.75,CHS,,0,0,0,,她在演唱会里太有趣了\N{\rENG}She was so funny in concert too.
+Dialogue: 0,1:15:04.92,1:15:09.08,CHS,,0,0,0,,她会…她会在一首歌唱到一半时的时候\N{\rENG}She would... She would be right in the middle of a song and then...
+Dialogue: 0,1:15:09.25,1:15:11.12,CHS,,0,0,0,,…你知道吗，停下来…\N{\rENG}...you know, stop...
+Dialogue: 0,1:15:11.29,1:15:15.35,CHS,,0,0,0,,…从钢琴边起身，一直走到舞台边上\N{\rENG}...and walk from the piano all the way to the edge of the stage.
+Dialogue: 0,1:15:15.53,1:15:17.86,CHS,,0,0,0,,像这样，非常慢的\N{\rENG}Like, really slowly.
+Dialogue: 0,1:15:20.83,1:15:24.13,CHS,,0,0,0,,然后她开始对观众中的某人说话\N{\rENG}And she'd start talking to someone in the audience.
+Dialogue: 0,1:15:24.30,1:15:27.67,CHS,,0,0,0,,哦，耶，哦，耶\N{\rENG}"Oh, yeah, baby. Oh, yeah.
+Dialogue: 0,1:15:28.44,1:15:30.67,CHS,,0,0,0,,我也爱你\N{\rENG}I love you too."
+Dialogue: 0,1:15:31.11,1:15:35.55,CHS,,0,0,0,,然后她又走回去，不急不忙的，\N{\rENG}And then she'd walk back.Take her time, no hurry, you know.
+Dialogue: 0,1:15:35.75,1:15:39.21,CHS,,0,0,0,,她的大屁股真可爱\N{\rENG}She had that big, cute ass.
+Dialogue: 0,1:15:39.38,1:15:40.94,CHS,,0,0,0,,她就这么慢慢挪着\N{\rENG}She would move.
+Dialogue: 0,1:15:42.65,1:15:47.49,CHS,,0,0,0,,然后就走回钢琴旁再唱一段\N{\rENG}And then she would go back to the piano and play some more, you know.
+Dialogue: 0,1:15:48.99,1:15:50.66,CHS,,0,0,0,,然后她会，我也不知道…\N{\rENG}And then she would, I don't know...
+Dialogue: 0,1:15:50.83,1:15:53.32,CHS,,0,0,0,,…一首歌唱了一半又唱另外一首\N{\rENG}...just start another song in the middle of another.
+Dialogue: 0,1:15:53.50,1:15:57.30,CHS,,0,0,0,,你懂吗，好像，又停下，然后这样\N{\rENG}You know, like,stop again, and be like:
+Dialogue: 0,1:15:57.47,1:16:01.46,CHS,,0,0,0,,那边那位，你能挪挪那电扇吗\N{\rENG}"You over there,can you move that fan.
+Dialogue: 0,1:16:02.37,1:16:04.50,CHS,,0,0,0,,你真可爱\N{\rENG}You're cute.
+Dialogue: 0,1:16:25.53,1:16:27.52,CHS,,0,0,0,,哦，耶\N{\rENG}Oh, yeah."
+Dialogue: 0,1:16:31.07,1:16:35.37,CHS,,0,0,0,,宝贝，你会错过你的班机的\N{\rENG}Baby, you are gonna miss that plane.
+Dialogue: 0,1:16:36.68,1:16:38.58,CHS,,0,0,0,,我知道\N{\rENG}I know.
+
