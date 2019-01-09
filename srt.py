@@ -32,9 +32,11 @@ for root, dir, files in os.walk("."):
    if root != ".":
        continue
    for name in files:
+        print(name)
         file_name_match = file_name_re.match(name)
         if file_name_match is None:
             continue
+        print(name)
         newfilename =  file_name_match.group(1)+".md"
         with open(name, 'r') as src:
             with open(newfilename, 'w') as dest:
