@@ -1,0 +1,3305 @@
+﻿1
+00:00:15,750 --> 00:00:17,050
+还有多远
+How much longer?
+
+2
+00:00:17,320 --> 00:00:19,650
+大概三百英里吧
+300 miles, give or take.
+
+3
+00:00:23,490 --> 00:00:25,120
+几点能到维加斯
+What time do we get to Vegas?
+
+4
+00:00:25,170 --> 00:00:26,400
+上午9点吗
+9:00 a.m.?
+
+5
+00:00:35,640 --> 00:00:37,800
+杂物箱里有餐巾纸
+There's napkins in the glove box.
+
+6
+00:00:38,010 --> 00:00:40,310
+{\an8}巨人
+
+7
+00:00:39,980 --> 00:00:42,280
+结语不错  有神秘感
+Nice ending. Mysterious.
+
+8
+00:00:42,280 --> 00:00:43,630
+吊他们的胃口
+Leave 'em wanting more.
+
+9
+00:00:48,850 --> 00:00:50,940
+我们紧张个什么劲啊
+Why are we freaking out about this, anyway?
+
+10
+00:00:51,260 --> 00:00:52,200
+这是场展销会
+I mean, it's a trade show.
+
+11
+00:00:52,200 --> 00:00:53,550
+他们想要巨人  压力大的该是他们
+They want the Giant. The pressure's on them.
+
+12
+00:00:53,550 --> 00:00:55,190
+你以为那些分销商
+Okay, you think thousands of vendors
+
+13
+00:00:55,190 --> 00:00:57,620
+会神奇地聚在我们展位前吗
+are just gonna magically swarm our booth?
+
+14
+00:00:57,620 --> 00:00:59,760
+-当然了  会排起长队的  -重点不在展位
+- Hell, yes. Get in line. - The booth isn't the point.
+
+15
+00:00:59,770 --> 00:01:02,010
+那只是用来辨别真正的买家
+That's just a way to identify the real buyers
+
+16
+00:01:02,010 --> 00:01:03,180
+然后拉去我们的套房
+and then get them up to our suite.
+
+17
+00:01:03,180 --> 00:01:04,470
+参加首展晚会派对
+For the opening night party.
+
+18
+00:01:04,470 --> 00:01:06,270
+没错  套房里的才是重头戏
+Yeah, suite's where the action is.
+
+19
+00:01:06,270 --> 00:01:07,790
+交易都是在那里敲定的
+It's where we nail down all the real deals.
+
+20
+00:01:07,790 --> 00:01:08,980
+大家都很忐忑
+Everybody's terrified.
+
+21
+00:01:08,990 --> 00:01:10,930
+没人知道哪种技术能赢得青睐
+Nobody knows which technology's gonna win.
+
+22
+00:01:10,930 --> 00:01:13,000
+你的朋友想坑你
+Oh, your friends are trying to rip you off.
+
+23
+00:01:13,000 --> 00:01:14,570
+敌人对你示好
+Your enemies are buying you drinks.
+
+24
+00:01:14,570 --> 00:01:16,140
+竞争很激烈  乱极了
+It's a catfight. It's total chaos.
+
+25
+00:01:16,140 --> 00:01:18,810
+简直是资本主义的最高境界
+It's capitalism at its finest.
+
+26
+00:01:20,240 --> 00:01:21,380
+在苏格兰群岛
+In the Scottish Isles,
+
+27
+00:01:21,380 --> 00:01:23,950
+人们在一年中最冷的那天庆祝节日
+they hold a festival on the coldest day of the year.
+
+28
+00:01:24,120 --> 00:01:26,510
+镇上的人穿上维京人的服装
+The town's people dress up in Viking costumes
+
+29
+00:01:26,510 --> 00:01:28,780
+分组比赛
+and compete in squads,
+
+30
+00:01:28,780 --> 00:01:30,770
+载歌载舞  纵情畅饮
+drinking and singing and dancing.
+
+31
+00:01:31,980 --> 00:01:33,260
+最后到午夜
+Finally at midnight,
+
+32
+00:01:33,260 --> 00:01:37,010
+他们会来到位于镇广场的巨型木船前
+they march up to a huge wooden ship in the town square.
+
+33
+00:01:40,300 --> 00:01:41,630
+然后呢
+Then what?
+
+34
+00:01:44,860 --> 00:01:47,290
+胜者们会把船烧毁
+Then the winners burn it to the ground.
+
+35
+00:01:50,930 --> 00:01:52,850
+你跟我们说这个干嘛
+Why the hell did you just tell us that?
+
+36
+00:02:11,990 --> 00:02:18,500
+{\an8}欢迎来到83年计算机分销商展览
+
+37
+00:02:26,510 --> 00:02:27,880
+早上好  登记入住吗
+Good mning. Checking in?
+
+38
+00:02:27,880 --> 00:02:28,640
+卡迪夫电子
+Cardiff Electric.
+
+39
+00:02:28,640 --> 00:02:30,910
+我们在9楼订了一间三卧套房
+We have a three-bedroom suite on the ninth floor.
+
+40
+00:02:31,160 --> 00:02:33,770
+好的  请您先填写一下登记卡
+Excellent. If you'd just fill out your registration card.
+
+41
+00:02:36,920 --> 00:02:39,180
+抱歉  您刚才说卡迪夫吗
+I'm sorry, did you say Cardiff?
+
+42
+00:02:39,360 --> 00:02:42,030
+-是啊  -失陪一下
+- That's right. - Excuse me for one moment.
+
+43
+00:02:46,440 --> 00:02:49,130
+-我是经理  -我是约翰·博斯沃思
+- I'm the manager. - Uh, John Bosworth.
+
+44
+00:02:49,400 --> 00:02:51,620
+-有问题吗  -恐怕是有
+- Is there a problem? - I'm afraid so.
+
+45
+00:02:51,620 --> 00:02:54,510
+我们今早刷了您的信用卡  但是被拒付了
+We ran your card this morning and it was declined.
+
+46
+00:02:54,510 --> 00:02:56,570
+我们打了电话  但是没人接听
+We tried to call, but no answer.
+
+47
+00:02:56,580 --> 00:02:59,470
+很不幸  我们只能取消了您预约的房间
+Unfortunately, we had no choice but to release your room.
+
+48
+00:02:59,470 --> 00:03:00,770
+太荒谬了
+That's absurd.
+
+49
+00:03:01,010 --> 00:03:03,490
+-我要给信用卡公司打电话  -我们已经打了
+- Let me call the credit card company. - We already did.
+
+50
+00:03:03,920 --> 00:03:05,810
+您的公司账户被冻结了
+Your corporate account has been frozen...
+
+51
+00:03:06,740 --> 00:03:09,450
+因为要接受刑事调查
+due to a pending criminal investigation.
+
+52
+00:03:10,420 --> 00:03:12,680
+那就刷我的卡吧
+Here, take a personal card.
+
+53
+00:03:13,290 --> 00:03:15,110
+刷这张绝对没问题
+You won't have any problem with this.
+
+54
+00:03:16,940 --> 00:03:18,230
+"乔瑟夫·麦克米伦"
+"Joseph MacMillan."
+
+55
+00:03:18,230 --> 00:03:19,910
+您不是约翰·博斯沃思吗
+I thought you were John Bosworth.
+
+56
+00:03:19,910 --> 00:03:21,620
+能付钱不就行吗
+If I can pay, what does it matter?
+
+57
+00:03:21,760 --> 00:03:24,060
+抱歉  房间都订满了
+I'm sorry, we're fully booked.
+
+58
+00:03:24,060 --> 00:03:27,470
+我可以每晚再加200块
+I'm willing to add a $200 premium per night.
+
+59
+00:03:27,470 --> 00:03:31,200
+等着要那间房的就有30个人
+I have a waiting list 30 names long for that room.
+
+60
+00:03:31,590 --> 00:03:33,200
+没犯法的正经人
+Legitimate names.
+
+61
+00:03:40,190 --> 00:03:41,240
+现在怎么办
+So, what now?
+
+62
+00:04:19,880 --> 00:04:20,980
+展位没了
+We lost our booth.
+
+63
+00:04:21,380 --> 00:04:23,100
+楼层经理说他也许能给我们挤出个位置
+The floor manager said he might be able to squeeze us in.
+
+64
+00:04:23,100 --> 00:04:24,860
+我20分钟后就得答复
+I'm supposed to get back to him in 20 minutes.
+
+65
+00:04:24,860 --> 00:04:27,000
+正好给了我们找其他酒店的时间
+Well, that gives us time to find another hotel.
+
+66
+00:04:27,000 --> 00:04:28,050
+展会就在隔壁
+The expo's right next door.
+
+67
+00:04:28,050 --> 00:04:30,460
+离开主街我们就失去了据点和人气
+We move off the Strip, we lose our base, all our walk-in traffic.
+
+68
+00:04:30,460 --> 00:04:32,490
+欢迎宴会就在今晚  所有人都住在这儿
+Our welcoming party's tonight. Everyone stays here.
+
+69
+00:04:32,490 --> 00:04:35,190
+但都订满了  我们能怎么办  贿赂吗
+But it's booked. What are we supposed to do, bribe somebody?
+
+70
+00:04:35,190 --> 00:04:38,010
+-我试过了  -我们可是在拉斯维加斯
+- I tried that. - Christ, we're in Las Vegas.
+
+71
+00:04:38,010 --> 00:04:40,000
+有一万一千美金现款
+We have $11,000 in cash.
+
+72
+00:04:40,000 --> 00:04:41,260
+我们就不能想想办法吗
+Can we get off our asses and make a move?
+
+73
+00:04:41,260 --> 00:04:44,640
+质子打印机  1475套房
+Hey, Protonix Printers, suite 1475.
+
+74
+00:04:44,880 --> 00:04:47,180
+那对桑尼维尔市的兄弟  记得吗
+Those brothers from Sunnyvale, remember?
+
+75
+00:04:47,650 --> 00:04:48,350
+不记得
+No.
+
+76
+00:04:48,350 --> 00:04:50,940
+81年展会上他们大概和我们隔六个展位
+They were, like, six booths away from us in '81.
+
+77
+00:04:51,100 --> 00:04:53,440
+我记得他们的演示  糟透了
+I remember their demo. It sucked.
+
+78
+00:04:55,830 --> 00:04:57,570
+打给楼层经理  安排会面
+Call the floor manager. Set the meet.
+
+79
+00:04:57,570 --> 00:04:59,440
+不管位置在哪  价格多贵
+I don't care where it is or how much it costs,
+
+80
+00:04:59,440 --> 00:05:00,940
+拿到展位就行
+just get us a booth.
+
+81
+00:05:01,110 --> 00:05:04,250
+你找来你最好的蓝色西装去洗手间换上
+You, find your best blue suit and change in the bathroom.
+
+82
+00:05:04,250 --> 00:05:07,000
+-我们要干嘛  -在这里搞到个房间
+- What are we doing? - We're gonna make room in the inn.
+
+83
+00:05:08,040 --> 00:05:09,320
+来吧  赶紧的
+Come on, hustle up.
+
+84
+00:05:09,820 --> 00:05:11,950
+在文本模式下  打印机是逻辑查找的
+In text mode, the printer is logic-seeking.
+
+85
+00:05:11,950 --> 00:05:13,770
+你一定会问  这是什么意思
+What do I mean by that, you ask?
+
+86
+00:05:13,770 --> 00:05:17,840
+{\an8}盛会大师  质子打印机
+
+87
+00:05:13,770 --> 00:05:17,240
+这意味着它的打印头可以双向移动
+I mean it can print with its head moving in both directions.
+
+88
+00:05:17,240 --> 00:05:19,640
+是的  你没听错
+Yes, you heard that right.
+
+89
+00:05:19,640 --> 00:05:23,260
+你的MX-80点阵打印机
+Now, your average dot matrix printer, your DMP,
+
+90
+00:05:19,640 --> 00:05:23,260
+{\pos(182,252)}爱普生1980年推出的经典打印机
+
+91
+00:05:23,260 --> 00:05:26,760
+限制了你打印成品的大小必须符合标准
+your MX-80, restricts you to a standard output size.
+
+92
+00:05:26,760 --> 00:05:28,460
+这适用于打印商业信函
+Which is fine for business letters
+
+93
+00:05:28,460 --> 00:05:30,040
+和普通会计材料等等
+and general accounting and such...
+
+94
+00:05:30,040 --> 00:05:33,290
+但那些更私人化的情况呢
+But what about those moments that demand a more personal touch?
+
+95
+00:05:33,290 --> 00:05:36,090
+这就是盛会大师大展身手之机了
+That's where the OccasionMaster steps in.
+
+96
+00:05:36,090 --> 00:05:39,400
+预先设定的字体  气球和动感的图形
+With our pre-set fonts and balloons and sparkles graphics,
+
+97
+00:05:39,400 --> 00:05:41,590
+一定会给你最亲爱的人另一番感受
+your near and dearest are guaranteed a special feeling.
+
+98
+00:05:41,590 --> 00:05:44,120
+来看结果吧  分发些样品  小皮
+Result-- let's pass out those samples, Petey.
+
+99
+00:05:46,250 --> 00:05:48,900
+从露天招待会到单身派对
+From the garden party to the bachelor party,
+
+100
+00:05:48,900 --> 00:05:51,560
+盛会大师是真正的...
+the OccasionMaster is truly...
+
+101
+00:05:51,560 --> 00:05:54,210
+庆典大师
+Your master of ceremonies.
+
+102
+00:05:51,560 --> 00:05:54,210
+{\pos(252,276)}本意为司仪
+
+103
+00:05:54,620 --> 00:05:56,150
+有什么问题吗
+Any questions?
+
+104
+00:05:57,110 --> 00:05:58,830
+串行还是并行接口
+Serial port or parallel?
+
+105
+00:05:59,070 --> 00:06:01,230
+现在只有并行接口
+Well, it's just parallel for now,
+
+106
+00:06:01,230 --> 00:06:04,580
+但我们希望能在未来改进这一点
+but that's something that we hope to upgrade in the future.
+
+107
+00:06:04,580 --> 00:06:06,370
+你们要价多少
+And you're asking how much for it?
+
+108
+00:06:06,370 --> 00:06:08,580
+九百美元不含税
+Oh, uh, $900 plus tax.
+
+109
+00:06:09,040 --> 00:06:10,380
+每秒打印字符数是多少
+What's the CPS rate?
+
+110
+00:06:10,380 --> 00:06:12,770
+80到100吧  不一定
+It's 80 to 100, depending.
+
+111
+00:06:12,770 --> 00:06:15,130
+所以说我花了一千块
+So, I'm supposed to pay a thousand dollars
+
+112
+00:06:15,130 --> 00:06:17,770
+还要等上20分钟才能打印一封我只要花5分钟
+to wait 20 minutes for that thing to spit out a thank-you note
+
+113
+00:06:17,770 --> 00:06:19,510
+就能写好的感谢信
+when I can write my own in five?
+
+114
+00:06:19,510 --> 00:06:23,020
+每秒打印100个字符已经相当快了
+100 CPS is quite fast, my friend.
+
+115
+00:06:23,020 --> 00:06:25,010
+但也没快得像闪电啊
+Yeah, well, let's not act like it's lightning.
+
+116
+00:06:25,010 --> 00:06:26,120
+尤其是打印图片的时候
+Especially with the graphics.
+
+117
+00:06:26,130 --> 00:06:28,680
+你不能调整下打印头让它更快些吗
+Can't you modify the head to go any faster?
+
+118
+00:06:28,700 --> 00:06:30,600
+我们一直在测试盛会大师
+We've been testing the OM
+
+119
+00:06:30,600 --> 00:06:33,800
+至今没有发现什么问题
+with no problems for some time now.
+
+120
+00:06:33,920 --> 00:06:35,890
+-展示一下吧  -打印点什么
+- Show us. - Yeah, print something.
+
+121
+00:06:35,890 --> 00:06:37,290
+好吧  你希望它更快点吗
+Fine, you want it faster?
+
+122
+00:06:37,290 --> 00:06:39,750
+我还希望它能更便宜点
+Well, I'd like it cheaper, too.
+
+123
+00:06:54,710 --> 00:06:56,020
+我听说IBM要推出一种
+You know, I hear IBM's coming out with
+
+124
+00:06:56,020 --> 00:06:58,020
+多规格送纸打印机
+a multiple format paper feed.
+
+125
+00:06:58,990 --> 00:07:00,000
+你哪听说的
+Where'd you hear that?
+
+126
+00:07:07,010 --> 00:07:09,020
+我不该跟你们说的  但是
+I'm not supposed to tell you this, but...
+
+127
+00:07:09,440 --> 00:07:12,710
+明年年初  我们就会发布一款多规格打印机
+We are coming out with a multiple format printer first of the year.
+
+128
+00:07:13,350 --> 00:07:15,040
+如果我是你  就不挡我们的道
+If I were you, I'd get out of our way.
+
+129
+00:07:15,350 --> 00:07:18,220
+那怎么办  就这么收拾东西走人吗
+What, just pack up and leave?
+
+130
+00:07:18,540 --> 00:07:20,980
+我们为这次展会投入了全部
+We put everything into this.
+
+131
+00:07:20,980 --> 00:07:24,480
+我很喜欢你们这样的人来跟我们斗  真的
+Look, I love when guys like you take us on, I really do.
+
+132
+00:07:24,480 --> 00:07:26,650
+几年前  德卢斯有位先生
+A couple years ago, a gentleman out of Duluth
+
+133
+00:07:26,650 --> 00:07:30,280
+自己写了一个文字处理软件  做得非常好
+developed his own word processor. Great features.
+
+134
+00:07:31,080 --> 00:07:32,950
+但跟我们的同类产品撞个正着
+But it went head-to-head with DisplayWriter.
+
+135
+00:07:32,950 --> 00:07:35,480
+-然后呢  -他妻子跑了  房子没了
+- What happened? - After his wife left him and he lost his house,
+
+136
+00:07:35,490 --> 00:07:37,640
+后来他开车撞进了图书馆
+he drove his car into a library.
+
+137
+00:07:37,700 --> 00:07:40,850
+他好像还在北部一家精神病院里治疗呢
+I think he's still recuperating in a mental hospital upstate.
+
+138
+00:07:41,150 --> 00:07:42,190
+可我们已经入住了
+We already checked in.
+
+139
+00:07:42,190 --> 00:07:44,200
+我们的套房一直订到了这周末
+The suite's paid up through the end of the week.
+
+140
+00:07:44,740 --> 00:07:46,020
+我或许能帮上忙
+Maybe I can help.
+
+141
+00:07:46,570 --> 00:07:48,990
+我们包了两层却还是住得爆满
+We rented two floors and we're still bursting at the seams.
+
+142
+00:07:49,000 --> 00:07:50,630
+还有人睡在地毯上呢
+I got guys sleeping on the carpet.
+
+143
+00:07:50,630 --> 00:07:55,200
+我们IBM没准能接手你们的套房呢
+You know, IBM might be able to take that suite off your hands.
+
+144
+00:07:56,370 --> 00:07:57,470
+全价
+Full freight.
+
+145
+00:07:58,180 --> 00:08:00,420
+我可不是想坑你们
+I'm not looking to screw you guys over.
+
+146
+00:08:01,650 --> 00:08:02,970
+如果我们抵了开支的话
+If we could break even...
+
+147
+00:08:03,210 --> 00:08:05,190
+那也是一大笔钱
+That would be huge.
+
+148
+00:08:05,190 --> 00:08:07,100
+-只不过  -不过什么
+- Except... - What?
+
+149
+00:08:07,510 --> 00:08:09,470
+我们今晚订的筵席
+The big spread we ordered for tonight.
+
+150
+00:08:10,330 --> 00:08:11,950
+只怕这钱你们也得包了
+You'd have to eat that cost.
+
+151
+00:08:12,040 --> 00:08:13,470
+那些虾啊
+All that shrimp.
+
+152
+00:08:14,510 --> 00:08:15,420
+什么虾
+Shrimp?
+
+153
+00:08:26,630 --> 00:08:28,060
+简直是拦路抢劫
+This is highway robbery.
+
+154
+00:08:28,810 --> 00:08:30,320
+我们的展位本该在中间的
+Our booth was supposed to be in the middle.
+
+155
+00:08:30,320 --> 00:08:32,480
+你来晚了  而且支票跳票了
+You're late and your check bounced.
+
+156
+00:08:32,510 --> 00:08:33,710
+剩这一个算你运气好
+You're lucky I have this one left.
+
+157
+00:08:33,710 --> 00:08:36,520
+你  赶紧下来  找摔呢
+Hey, get down from there before you hurt yourself.
+
+158
+00:08:40,570 --> 00:08:42,410
+你订的用具都在这儿了
+All of your material as ordered.
+
+159
+00:08:42,410 --> 00:08:43,790
+等等  我需要更多墙面
+Wait, I need more wall space.
+
+160
+00:08:43,790 --> 00:08:46,190
+这这么一块破围板地方哪够啊
+I can't fit all this on one crummy backing.
+
+161
+00:08:46,190 --> 00:08:48,000
+不关我事  女士
+Not my problem, lady.
+
+162
+00:08:51,590 --> 00:08:53,250
+-要免费软件吗  -我的天
+- Free software? - Jesus.
+
+163
+00:08:54,630 --> 00:08:55,710
+免费软件
+Free software.
+
+164
+00:08:57,700 --> 00:08:59,160
+这倒也算个挣钱的法子
+That's one way to make a living.
+
+165
+00:08:59,710 --> 00:09:01,240
+她们可不靠这个挣钱
+No, that's not their living.
+
+166
+00:09:01,350 --> 00:09:05,290
+她们都是艳星  兼职"展会宝贝"
+They're porn stars moonlighting as "Booth babes."
+
+167
+00:09:05,730 --> 00:09:08,440
+维加斯知道搞电脑的从不赌博
+Vegas figured out that computer types don't gamble,
+
+168
+00:09:08,690 --> 00:09:11,430
+所以就在隔壁开了个黄片大会
+so they schedule a porn convention next door.
+
+169
+00:09:11,570 --> 00:09:13,360
+年年与展会同期
+Same time every year.
+
+170
+00:09:14,040 --> 00:09:16,000
+不是说套房里的才是重头戏吗
+I thought the action was in the suites.
+
+171
+00:09:16,070 --> 00:09:17,200
+要是不引起他们注意
+Yeah, well, no one's coming
+
+172
+00:09:17,200 --> 00:09:19,250
+谁又会去你的套房呢
+to our suite if we don't get their attention.
+
+173
+00:09:26,720 --> 00:09:27,460
+怎么了
+What?
+
+174
+00:09:32,030 --> 00:09:33,020
+你想干什么
+What are you doing?
+
+175
+00:09:34,950 --> 00:09:37,130
+这样  我想法把他们拉到派对上
+Look, I'll get them to the party,
+
+176
+00:09:37,130 --> 00:09:39,000
+你负责办个好派对  明白吗
+you make sure it's one to remember, okay?
+
+177
+00:09:45,540 --> 00:09:48,400
+-谢谢你  -你好啊
+- Thank you. - Hi. How are you?
+
+178
+00:09:55,580 --> 00:09:58,790
+负5  负12  等等
+Minus five. Minus 12, wait.
+
+179
+00:10:01,140 --> 00:10:03,730
+-正5  -到底怎么了
+- plus five. - Bottom line, please.
+
+180
+00:10:03,730 --> 00:10:08,160
+-开不了机  -暂时而已  也许没大事呢
+- It won't start. - Yet. Yet, okay? It's probably nothing.
+
+181
+00:10:08,290 --> 00:10:10,930
+我们需要抗静电的工作间
+What we need is an antistatic workstation.
+
+182
+00:10:11,680 --> 00:10:14,370
+把你鞋脱了  不是电源的问题
+Take off your shoes. It's not the power supply.
+
+183
+00:10:14,950 --> 00:10:16,820
+收拾一下  去卧室里鼓捣
+Pack it up. We're moving into the bedroom.
+
+184
+00:11:27,530 --> 00:11:35,730
+{\an8}手提箱里有巨人  来诺威克套房1475开眼界
+
+185
+00:11:47,060 --> 00:11:49,780
+-喷漆干什么用的  -润色一下
+- What is that for? - Touch-ups.
+
+186
+00:11:52,800 --> 00:11:55,530
+怎么了  出问题了吗  不能运行了
+What? What's the matter? Is it not working?
+
+187
+00:11:55,530 --> 00:11:56,660
+暂时不能
+Not yet.
+
+188
+00:11:57,330 --> 00:11:58,940
+什么意思  开不了机了
+Meaning what, it won't boot up?
+
+189
+00:11:59,220 --> 00:12:00,740
+硬件上的事  你就别管了
+Hardware issue. Not your problem.
+
+190
+00:12:00,740 --> 00:12:02,500
+麻烦你把衣服捡起来
+Pick up those clothes, please?
+
+191
+00:12:07,410 --> 00:12:08,670
+一家小公司
+"A small company...
+
+192
+00:12:08,870 --> 00:12:10,620
+背负着成不了大事的非议
+No one expected it to be anything...
+
+193
+00:12:11,110 --> 00:12:13,940
+却终做出了伟大而非凡的成绩
+evolved into something great, something magnificent."
+
+194
+00:12:18,430 --> 00:12:20,260
+不跟我们说说展位什么样吗
+You gonna tell us how the booth looks?
+
+195
+00:12:23,990 --> 00:12:25,130
+会有人来吗
+Is anyone coming?
+
+196
+00:12:26,220 --> 00:12:27,220
+我肯定会
+I would.
+
+197
+00:12:43,010 --> 00:12:46,330
+-这里是卡迪夫电子吗  -是的
+- Is this Cardiff Electric? - Yes. Yes, it is.
+
+198
+00:12:46,330 --> 00:12:49,680
+好的  真棒  我们上吧
+Okay. All right. Let's do it, man.
+
+199
+00:12:50,480 --> 00:12:51,260
+真壮观
+Radical.
+
+200
+00:12:51,260 --> 00:12:53,350
+-好诶  -快看这个
+- Yeah! - Hey, check this out.
+
+201
+00:12:56,150 --> 00:13:00,840
+{\an8}卡迪夫电子
+
+202
+00:12:56,660 --> 00:12:58,070
+我能再来三杯吗
+Hey, can I get three more?
+
+203
+00:12:58,730 --> 00:13:00,240
+-没问题  -多谢
+- You got it. - Thanks.
+
+204
+00:13:05,040 --> 00:13:07,790
+伙计  准备好了吗
+Hey! Hey, man, is it ready yet?
+
+205
+00:13:06,430 --> 00:13:07,780
+{\an8}闲人勿入
+
+206
+00:13:10,170 --> 00:13:11,960
+-准备好了吗  -没有
+- Is it ready yet? - No.
+
+207
+00:13:12,820 --> 00:13:14,650
+我是说  快了
+I mean, almost.
+
+208
+00:13:14,650 --> 00:13:15,980
+你都这么说了两小时了
+It's been "Almost" for two hours.
+
+209
+00:13:15,980 --> 00:13:18,040
+速度和效果不可兼得
+You can have it fast or you can have it work.
+
+210
+00:13:18,040 --> 00:13:19,190
+你自己决定
+It's up to you.
+
+211
+00:13:23,480 --> 00:13:26,290
+拜托  施乐好歹是份工作嘛
+Oh, come on, Xerox is still a job.
+
+212
+00:13:26,420 --> 00:13:27,670
+对帕洛阿尔托研究中心
+Not at PARC,
+
+213
+00:13:27,670 --> 00:13:29,190
+那些发明以太网的人来说不是
+not to the guys who created Ethernet.
+
+214
+00:13:29,760 --> 00:13:32,030
+这是纯粹的研究和实验
+This is pure research and experimentation.
+
+215
+00:13:32,030 --> 00:13:33,450
+唐娜·克拉克
+Donna Clark.
+
+216
+00:13:33,840 --> 00:13:37,440
+沃利·特纳  天哪  多久没见了
+Oh, Wally Turner. My God, how long has it been?
+
+217
+00:13:37,440 --> 00:13:40,080
+你那时候刚怀了琼妮
+You were pregnant with, uh-- with Joanie.
+
+218
+00:13:41,010 --> 00:13:43,160
+我现在有个新项目  写图
+Hey, I got this new program-- GraphWrite.
+
+219
+00:13:43,160 --> 00:13:44,230
+界面是全彩的
+It's productivity fare,
+
+220
+00:13:44,230 --> 00:13:47,990
+可以用各种大小的饼图和柱图显示数据
+sizable pie charts and histograms, all in full color.
+
+221
+00:13:48,780 --> 00:13:50,250
+我说真的  你得去看看
+I'm serious. You have to see it.
+
+222
+00:13:50,250 --> 00:13:51,270
+看什么
+See what?
+
+223
+00:13:51,450 --> 00:13:53,660
+你们做的不都是机密吗
+I mean, isn't everything you guys do top secret?
+
+224
+00:13:53,660 --> 00:13:54,600
+没错
+You're right.
+
+225
+00:13:54,880 --> 00:13:57,000
+我不该和你说元类的事
+I shouldn't tell you about meta-classing
+
+226
+00:13:57,000 --> 00:14:00,010
+或者超文本  又或者面向对象编程
+or hypertext or object-oriented programming.
+
+227
+00:14:00,010 --> 00:14:01,300
+少来了
+Stop.
+
+228
+00:14:01,630 --> 00:14:02,830
+戈登呢
+Hey, where's Gordon?
+
+229
+00:14:02,830 --> 00:14:04,970
+他应该就来了
+Oh, he should be out any minute.
+
+230
+00:14:04,970 --> 00:14:06,950
+真羡慕你俩还一起工作
+Love that you two are still working together.
+
+231
+00:14:06,950 --> 00:14:09,650
+好多夫妻因为工作生活不能调和而分手了
+So many couples that break up over the home life-work life thing.
+
+232
+00:14:09,650 --> 00:14:11,090
+我见过好多回了
+I've seen this a million times.
+
+233
+00:14:11,090 --> 00:14:14,460
+但是你俩撑过了大风大浪
+But you guys, you've weathered the storm.
+
+234
+00:14:14,880 --> 00:14:17,540
+恭喜你们的巨人
+Hey, congrats on the Giant.
+
+235
+00:14:22,660 --> 00:14:24,840
+巨人  巨人  巨人
+Giant! Giant! Giant!
+
+236
+00:14:24,840 --> 00:14:27,180
+还是无法装载  我可以重新配置驱动
+It's not mounting. I can reconfigure the drive,
+
+237
+00:14:27,180 --> 00:14:28,220
+但是得花点时间
+but that's gonna take time.
+
+238
+00:14:28,220 --> 00:14:29,550
+他们等不了这么久了
+They're not gonna wait much longer.
+
+239
+00:14:29,550 --> 00:14:31,460
+唐娜  我当然知道了
+Donna, I'm well aware of that.
+
+240
+00:14:31,460 --> 00:14:34,160
+太晚了  我们就这么上吧
+It's too late. We go without it.
+
+241
+00:14:34,770 --> 00:14:36,870
+等下  你不用样机就去做演示吗
+Wait, you're gonna do the demo without the demo?
+
+242
+00:14:36,940 --> 00:14:38,130
+这儿是拉斯维加斯  戈登
+It's Las Vegas, Gordon.
+
+243
+00:14:38,130 --> 00:14:39,970
+-什么  乔  -该糊弄人了
+- Wha-- Joe...? - Time to bluff.
+
+244
+00:14:39,970 --> 00:14:41,730
+等等  等等
+Wait! Wait!
+
+245
+00:14:53,900 --> 00:14:56,020
+来  靠近点  都来看看  伙计们
+Come on, get close. Check it out, guys.
+
+246
+00:14:58,190 --> 00:14:59,790
+想让我开机吗
+You guys want me to turn it on?
+
+247
+00:15:06,450 --> 00:15:07,970
+就此时此刻吗
+Right here, right now?
+
+248
+00:15:11,150 --> 00:15:12,250
+但是等一下
+But wait a second.
+
+249
+00:15:14,200 --> 00:15:16,560
+等一下  等一下  等一下
+Wait a second, wait a second, wait a second.
+
+250
+00:15:16,560 --> 00:15:19,770
+拉斯维加斯知道造一台电脑有多难
+See, Las Vegas knows how hard it is to build a computer.
+
+251
+00:15:19,800 --> 00:15:23,160
+特别是这么一台又快又流畅的坏小子
+Especially one as sleek and fast as our little bad boy right here.
+
+252
+00:15:23,160 --> 00:15:26,720
+但拉斯维加斯并不想知道
+But Las Vegas doesn't want to hear
+
+253
+00:15:26,720 --> 00:15:32,300
+我们的886处理器比IBM XT快了70%
+that our 886 processor is running 70% faster than the IBM XT.
+
+254
+00:15:34,180 --> 00:15:36,640
+它也不在乎我们的一体化液晶屏
+It doesn't care that our integrated LCD screen
+
+255
+00:15:36,640 --> 00:15:40,470
+让巨人只有15磅重
+makes the Giant a featherlight 15 pounds,
+
+256
+00:15:40,470 --> 00:15:45,090
+这小家伙便携  兼容  火辣得不行
+that it's fully portable, fully compatible, and sexy as hell.
+
+257
+00:15:46,060 --> 00:15:49,240
+不  拉斯维加斯想让我们找乐子
+No, Las Vegas wants us to have fun!
+
+258
+00:15:49,450 --> 00:15:50,750
+不然为什么我们隔壁
+Why else would it schedule
+
+259
+00:15:50,750 --> 00:15:53,680
+就是世界上最大的成人片大会
+the world's largest porn convention right next door?
+
+260
+00:15:55,140 --> 00:15:58,570
+这就不得不提到我们今晚的特邀嘉宾
+Which leads me to our special guest tonight.
+
+261
+00:15:58,880 --> 00:16:02,200
+卡迪夫电子的贵宾
+The Cardiff Electric VIPs.
+
+262
+00:16:02,210 --> 00:16:07,900
+4位来自大银幕的漂亮的年轻小姐
+Four lovely young ladies direct from the cinema.
+
+263
+00:16:10,560 --> 00:16:13,440
+等等  我想先给大家看几张电子表格
+Wait, wait, wait. I wanna show you guys some spreadsheets.
+
+264
+00:16:13,440 --> 00:16:17,840
+-不要  -那先看个文字处理软件吧
+- No! - Come on, let's do some word processing.
+
+265
+00:16:18,120 --> 00:16:20,120
+什么  你们想看妹子吗
+Wait, you wanna meet the girls now,
+
+266
+00:16:20,130 --> 00:16:21,630
+然后再看演示吗
+before the demo?
+
+267
+00:16:23,390 --> 00:16:24,470
+好吧
+Okay, okay, okay.
+
+268
+00:16:24,470 --> 00:16:26,940
+只要你们明天还来给我们捧场
+Only if you all catch up with us tomorrow on the floor.
+
+269
+00:16:26,940 --> 00:16:31,090
+只要你们明天都来卡迪夫电子的展位
+Only if you all show up at the Cardiff Electric booth
+
+270
+00:16:31,090 --> 00:16:32,940
+宿醉未醒  筋疲力尽
+hungover, wrung out,
+
+271
+00:16:32,940 --> 00:16:37,590
+只为见证它在展会上一展风采
+just to watch this machine smoke every box in COMDEX.
+
+272
+00:16:38,750 --> 00:16:40,260
+好吧  就这么定了
+All right, it's a deal.
+
+273
+00:16:40,270 --> 00:16:44,180
+今晚  就让"巨人"来调动大家的兴致吧
+So, tonight let's let the Giant turn you on.
+
+274
+00:17:04,490 --> 00:17:07,920
+永远别告诉女儿们我干了这事
+Please never tell our daughters I was a part of this.
+
+275
+00:17:07,980 --> 00:17:09,350
+我才不会呢
+Why would I?
+
+276
+00:17:16,360 --> 00:17:19,680
+卡迪夫电子
+Cardiff Electric!
+
+277
+00:17:23,590 --> 00:17:25,140
+一般一年两次
+Uh, usually, like, twice a year.
+
+278
+00:17:25,140 --> 00:17:27,700
+一次是为展览会  一次就是消遣
+Once for COMDEX, once just for fun.
+
+279
+00:17:27,950 --> 00:17:30,420
+消遣  听起来真好
+For fun -- that sounds really nice.
+
+280
+00:17:30,520 --> 00:17:32,530
+你一定得来
+You have to come visit.
+
+281
+00:17:32,590 --> 00:17:35,050
+不是说达拉斯不好  电视里看着不错
+Nothing against Dallas. It looks great on TV.
+
+282
+00:17:35,050 --> 00:17:37,900
+但是重头戏都在加利福尼亚
+But California's where it's at.
+
+283
+00:17:38,520 --> 00:17:39,770
+而且你还这么年轻
+And you're young.
+
+284
+00:17:41,240 --> 00:17:43,830
+-我考虑一下  -还有什么好考虑的
+- I'll think about it. - What is there to think about?
+
+285
+00:17:44,010 --> 00:17:46,060
+-地震频发带  -我都感觉不到了
+- Earthquakes. - I don't feel them anymore.
+
+286
+00:17:46,060 --> 00:17:49,100
+-邪教  连环杀手  -那是洛杉矶
+- Cults? Serial killers? - That's all down in Los Angeles.
+
+287
+00:17:49,110 --> 00:17:54,000
+-感恩而死  -你太坏了
+- The Grateful Dead. - Wow, you are mean.
+
+288
+00:17:49,110 --> 00:17:54,000
+{\pos(162,252)}乐队
+
+289
+00:17:55,910 --> 00:17:59,040
+我饿了  你想吃点薄饼吗
+I'm hungry. You want some pancakes?
+
+290
+00:18:00,580 --> 00:18:01,770
+有人想吃薄饼吗
+Hey, you guys want pancakes?
+
+291
+00:18:01,770 --> 00:18:03,450
+-薄饼  -当然
+- Pancakes? - Hell, yeah.
+
+292
+00:18:03,450 --> 00:18:04,110
+-想要  -走吧
+- Oh, yeah. - Let's go.
+
+293
+00:18:04,110 --> 00:18:05,400
+-走吧  -好
+- Let's do it. - Yeah.
+
+294
+00:18:06,970 --> 00:18:09,210
+如果"巨人"真像你说的那样
+If the Giant does everything you say...
+
+295
+00:18:10,530 --> 00:18:12,180
+我们或许可以考虑
+it could be a contender for us.
+
+296
+00:18:12,220 --> 00:18:14,480
+你可别拿我寻开心  丹尼斯
+Don't tease me if you're not for real, Dennis.
+
+297
+00:18:14,740 --> 00:18:16,840
+电脑天地有一千多家分店
+ComputerLand has nearly a thousand branches.
+
+298
+00:18:14,740 --> 00:18:16,840
+{\pos(146,252)}连锁电脑零售店
+
+299
+00:18:16,840 --> 00:18:18,770
+电脑零售业就是我们发明的
+We invented computer retail.
+
+300
+00:18:18,770 --> 00:18:20,540
+我保证我们是认真的
+I can assure you, we're real.
+
+301
+00:18:20,540 --> 00:18:24,320
+那为什么要买德州一家无名小公司的特色产品呢
+Then why buy a specialty product from a podunk firm in Texas?
+
+302
+00:18:27,160 --> 00:18:29,190
+你卖过车吗  乔
+You ever sell cars for a living, Joe?
+
+303
+00:18:29,440 --> 00:18:30,590
+没有
+No, never.
+
+304
+00:18:31,600 --> 00:18:33,420
+我就是卖车起家的
+That's how I got started.
+
+305
+00:18:34,580 --> 00:18:39,140
+我学到的是如果你想卖旅行轿车
+And I learned if you wanna sell station wagons,
+
+306
+00:18:39,800 --> 00:18:42,400
+橱窗里得先放辆跑车
+you'd better have a sports car to park in the window.
+
+307
+00:18:43,470 --> 00:18:45,320
+很期待你们明天的展示
+Looking forward to your demo tomorrow.
+
+308
+00:18:52,270 --> 00:18:55,300
+在转了  应该可以了
+It's spinning. That should do it.
+
+309
+00:18:55,310 --> 00:18:56,230
+装载吧
+Load 'er up.
+
+310
+00:19:03,430 --> 00:19:04,370
+太棒了
+Yes.
+
+311
+00:19:04,640 --> 00:19:05,860
+终于好了
+Finally.
+
+312
+00:19:13,340 --> 00:19:14,940
+{\an8}你叫什么名字
+
+313
+00:19:18,640 --> 00:19:20,890
+{\an8}感谢上帝
+
+314
+00:19:21,590 --> 00:19:23,940
+{\an8}你好  感谢上帝  你想做什么
+
+315
+00:19:33,760 --> 00:19:35,730
+蜜月之后就再没这么做过了
+Haven't done that since our honeymoon.
+
+316
+00:19:40,780 --> 00:19:43,920
+大学毕业之后就再没这么过了呢
+Oh, I haven't done that since college.
+
+317
+00:19:44,420 --> 00:19:46,800
+什么  和谁做的
+What? With who?
+
+318
+00:19:48,290 --> 00:19:49,170
+和谁啊
+Who?
+
+319
+00:20:00,780 --> 00:20:02,470
+我们给他盖个毯子吧
+Should we get him a blanket?
+
+320
+00:20:02,470 --> 00:20:04,590
+才不要  我们换个房间吧
+Hell, no. We're switching rooms.
+
+321
+00:20:11,740 --> 00:20:13,620
+你真觉得它能大卖吗
+Do you really think it'll sell?
+
+322
+00:20:15,360 --> 00:20:16,980
+如果展示成功的话
+If we nail the demo.
+
+323
+00:20:19,330 --> 00:20:21,650
+那就太好了
+This could be so good.
+
+324
+00:20:22,250 --> 00:20:24,440
+对女儿  对我们
+For the girls, for us.
+
+325
+00:20:25,480 --> 00:20:28,620
+这些年我们都只是有一天过一天
+For so long we've just gotten by.
+
+326
+00:20:30,120 --> 00:20:31,360
+感觉很奇怪吧
+It's weird, huh?
+
+327
+00:20:32,820 --> 00:20:34,640
+这就叫成功吧
+I think they call it success.
+
+328
+00:20:41,010 --> 00:20:43,360
+沃利·特纳来过  你见着他了吗
+Wally Turner dropped by. Did you see him?
+
+329
+00:20:43,470 --> 00:20:46,670
+嗯  他向我推销了一通
+Yeah, he cornered me with his sales pitch.
+
+330
+00:20:46,720 --> 00:20:48,340
+还是那个老样子
+Still all about Wally.
+
+331
+00:20:48,970 --> 00:20:51,070
+我喜欢他软件的新点子
+I like his new software idea.
+
+332
+00:20:51,280 --> 00:20:53,670
+是啊  我说会在"巨人"上试试的
+Yeah, I told him we'd spec it out on the Giant.
+
+333
+00:20:55,860 --> 00:20:58,220
+沃利以为咱俩还是同事
+Wally thinks we still work together.
+
+334
+00:21:00,100 --> 00:21:02,030
+是吗  你怎么说的
+Yeah? What'd you tell him?
+
+335
+00:21:04,570 --> 00:21:07,270
+还能怎么说  我喜欢这份没前途的工作
+What am I gonna say? I'm really enjoying my dead-end job 
+
+336
+00:21:07,270 --> 00:21:09,250
+喜欢找老妈帮我看孩子吗
+and having my mom raise my kids?
+
+337
+00:21:09,260 --> 00:21:11,010
+派对上说这个不合适吧
+It's not exactly cocktail chatter.
+
+338
+00:21:11,010 --> 00:21:12,940
+你说什么呢  唐娜
+What are you talking about, Donna?
+
+339
+00:21:13,320 --> 00:21:15,690
+这项目有多少次都多亏了你
+You saved this project a dozen times.
+
+340
+00:21:15,690 --> 00:21:17,830
+没有你就造不出主板
+We wouldn't have a motherboard without you.
+
+341
+00:21:17,830 --> 00:21:19,960
+没有你都造不出这台电脑
+We wouldn't have an entire machine without you.
+
+342
+00:21:19,960 --> 00:21:22,030
+你心里是清楚
+I know you know that. 
+
+343
+00:21:23,010 --> 00:21:23,930
+那怎么着
+Well, what?
+
+344
+00:21:24,560 --> 00:21:25,920
+你要来卡迪夫吗
+You wanna join Cardiff? 
+
+345
+00:21:25,920 --> 00:21:27,510
+近距离观看怪胎秀吗
+Get a front-row seat to the freak show?
+
+346
+00:21:27,510 --> 00:21:28,950
+我可没那么说
+I didn't say that.
+
+347
+00:21:29,020 --> 00:21:29,930
+但是呢
+But?
+
+348
+00:21:33,860 --> 00:21:36,210
+你至少问问我也好啊
+But it would've been nice if you'd asked.
+
+349
+00:21:39,440 --> 00:21:40,510
+是啊
+You're right.
+
+350
+00:21:43,510 --> 00:21:45,530
+我是该问你的
+I should have asked, but...
+
+351
+00:21:47,670 --> 00:21:50,270
+几个月前  我在"杀戮室"
+look, a few months ago, I was in the Kill Room
+
+352
+00:21:50,270 --> 00:21:52,880
+一个人加班到很晚
+and I was working late all by myself.
+
+353
+00:21:53,010 --> 00:21:56,370
+我突然意识到我们进展多慢
+And it hit me, how far behind we were.
+
+354
+00:21:57,230 --> 00:22:00,560
+也意识到为了造"巨人"
+And how hard I'd have to grind
+
+355
+00:22:00,710 --> 00:22:01,980
+我要付出多少
+to get the Giant built.
+
+356
+00:22:01,980 --> 00:22:05,120
+就像跟人打赌爬悬崖
+And it was like climbing a cliff on a dare,
+
+357
+00:22:05,410 --> 00:22:07,910
+碰到了悬垂上不去
+where you hit an overhang and you can't go up,
+
+358
+00:22:07,910 --> 00:22:10,480
+爬下去又太陡  这时...
+and it's too steep to climb back down. And...
+
+359
+00:22:12,690 --> 00:22:14,310
+你才意识到
+you realize
+
+360
+00:22:14,570 --> 00:22:17,230
+"跳"的真正含义
+what the word "jump" really means.
+
+361
+00:22:19,010 --> 00:22:22,310
+如果我握着你的手  数到三
+And if I held your hand and counted to three...
+
+362
+00:22:25,020 --> 00:22:27,180
+我不确定你肯不肯一起跳
+I wasn't sure you'd come with me.
+
+363
+00:22:30,390 --> 00:22:32,240
+我们结婚了  戈登
+We're married, Gordon.
+
+364
+00:22:33,020 --> 00:22:34,940
+我们已经跳了
+We already jumped.
+
+365
+00:22:36,650 --> 00:22:37,520
+是啊
+Yeah.
+
+366
+00:22:56,230 --> 00:22:57,240
+那是什么
+What's that?
+
+367
+00:22:58,260 --> 00:22:59,840
+胡佛大坝的碎块
+A piece of the Hoover Dam.
+
+368
+00:23:02,680 --> 00:23:04,040
+你知道我为什么喜欢它吗
+You know what I like about it?
+
+369
+00:23:04,930 --> 00:23:08,300
+因为它没有电路和电线
+There's no circuits or wires.
+
+370
+00:23:09,020 --> 00:23:10,160
+非常简单
+It's so simple.
+
+371
+00:23:11,090 --> 00:23:12,920
+表里如一
+It is what it does.
+
+372
+00:23:22,090 --> 00:23:23,300
+玩得开心吗
+Did you have fun?
+
+373
+00:23:25,270 --> 00:23:27,940
+吃了薄饼
+I ate pancakes and 
+
+374
+00:23:28,540 --> 00:23:31,110
+跟施乐的小伙子们看了日出
+watched the sun come up with the Xerox boys.
+
+375
+00:23:32,380 --> 00:23:34,740
+居然没闹没疯吗
+That sounds entirely too wholesome.
+
+376
+00:23:36,810 --> 00:23:38,740
+博斯沃思来找我的时候
+When Bosworth came to me...
+
+377
+00:23:40,450 --> 00:23:42,450
+我应该去找你的
+I should've come to you.
+
+378
+00:23:45,680 --> 00:23:46,650
+卡梅伦
+Cameron...
+
+379
+00:23:49,130 --> 00:23:50,450
+他们
+California--
+
+380
+00:23:51,600 --> 00:23:54,330
+加州那边的工作  真的很厉害
+what they're doing out there, it's really impressive.
+
+381
+00:23:56,830 --> 00:23:58,970
+也许你该去帕罗奥图[硅谷]Maybe you should go to Palo Alto.
+
+382
+00:24:01,270 --> 00:24:02,660
+也许我们是该去
+Maybe we should.
+
+383
+00:24:30,990 --> 00:24:33,480
+戈登  你真需要再弄一件AMD的T恤吗
+Gordon, do you really need another AMD T-shirt?
+
+384
+00:24:30,990 --> 00:24:33,480
+{\pos(242,252)}超微半导体公司
+
+385
+00:24:33,480 --> 00:24:35,400
+是啊  这是今年新款
+Yeah, this is this year's.
+
+386
+00:24:36,610 --> 00:24:38,010
+Windows系统不错嘛
+Hey, Windows looks cool.
+
+387
+00:24:38,010 --> 00:24:40,480
+是啊  但全是漏洞
+Oh, yeah, but it was crawling with bugs.
+
+388
+00:24:42,460 --> 00:24:45,660
+我就是忘不掉惠普的触屏
+I can't get over HP's touch screen.
+
+389
+00:24:47,420 --> 00:24:48,800
+是啊  肯定会...
+Yeah, it's a fad...
+
+390
+00:24:48,970 --> 00:24:50,700
+-快看快看  -流行起来的
+- Oh, look, look, look. - ...guaranteed.
+
+391
+00:24:50,710 --> 00:24:52,900
+高密度软盘
+High-density floppy disks.
+
+392
+00:24:52,900 --> 00:24:54,770
+这边很火爆啊
+Oh, someone's hot.
+
+393
+00:24:54,860 --> 00:24:56,150
+我们去看看吧
+Let's check it out. 
+
+394
+00:24:56,610 --> 00:24:57,510
+看什么啊
+Why?
+
+395
+00:24:57,530 --> 00:24:59,870
+他们马上就都会被吸引去我们的展位了
+They'll be down at our booth in, like, 60 seconds.
+
+396
+00:25:01,800 --> 00:25:03,550
+那么我问问大家
+And so I ask you,
+
+397
+00:25:03,870 --> 00:25:05,460
+如果要卖车才能买得起
+what is the point of a revolution
+
+398
+00:25:05,460 --> 00:25:08,200
+这种革命还有何意义
+if you have to sl your car to afford it?
+
+399
+00:25:09,690 --> 00:25:11,520
+这不是在演《杰森一家》Now, this isn't "The Jetsons."
+
+400
+00:25:09,690 --> 00:25:11,520
+{\pos(222,252)}设置在未来的科幻动画片
+
+401
+00:25:11,520 --> 00:25:14,600
+我们不是要卖外星枪给你
+We're not selling you a ray gun.
+
+402
+00:25:15,630 --> 00:25:18,320
+我们想呈现一款简单
+We're trying to give you the simplest product
+
+403
+00:25:18,320 --> 00:25:20,360
+又极其灵活的产品
+with the most flexibility.
+
+404
+00:25:21,160 --> 00:25:23,410
+想要硬盘支持  插上就好
+You want hard disk support? Plug it in.
+
+405
+00:25:23,770 --> 00:25:27,170
+大显示器  我们的字体能自动调整
+A bigger monitor? Our fonts adjust automatically.
+
+406
+00:25:27,170 --> 00:25:29,590
+当然  我们觉得现在也挺好
+Of course, we think they're just fine as is.
+
+407
+00:25:30,780 --> 00:25:33,030
+8086处理器
+8086 processing,
+
+408
+00:25:33,450 --> 00:25:35,020
+双面主板
+a doubleided motherboard...
+
+409
+00:25:35,020 --> 00:25:38,110
+-唐娜  -功能多样
+- Donna... - ...packed with functionality.
+
+410
+00:25:39,990 --> 00:25:43,830
+强劲  迅速  简单
+So strong, so fast, so simple,
+
+411
+00:25:44,440 --> 00:25:46,610
+居然以前都没人想到
+it's a wonder no one thought of it before.
+
+412
+00:25:55,310 --> 00:25:56,380
+弹弓
+The Slingshot.
+
+413
+00:25:57,440 --> 00:25:58,330
+{\an8}弹弓  新  快  简单  强劲
+
+414
+00:26:02,910 --> 00:26:05,010
+哥利亚也最终发现
+Because, as Goliath found out,
+
+415
+00:26:02,910 --> 00:26:05,010
+{\pos(172,252)}《圣经》中被大卫杀死的巨人
+
+416
+00:26:05,590 --> 00:26:09,490
+胜利不属于敏捷或强壮的人
+victory goes not to the swift, nor to the strong,
+
+417
+00:26:10,860 --> 00:26:13,180
+而属于先下手的那小子
+but to the little guy who strikes first.
+
+418
+00:26:16,860 --> 00:26:18,070
+有问题吗
+Any questions?
+
+419
+00:26:19,110 --> 00:26:21,000
+你这个混蛋
+Damn you, you son of a bitch!
+
+420
+00:26:21,000 --> 00:26:22,860
+-唐娜  -我杀了你
+- Hey, Donna! - I'm gonna kill you--
+
+421
+00:26:22,860 --> 00:26:25,010
+-别碰他  -唐娜  走吧
+- Get off him! - Donna, come on.
+
+422
+00:26:25,010 --> 00:26:27,410
+唐娜  算了  走吧
+Donna, let's go, come on.
+
+423
+00:26:30,680 --> 00:26:31,570
+没事了
+Okay, okay.
+
+424
+00:26:33,070 --> 00:26:34,630
+报复挺不好受吧
+Payback's a bitch.
+
+425
+00:26:44,900 --> 00:26:47,060
+他们抄了我们的电脑  肯定得有设计图啊
+But they copied our machine. They need schematics for that.
+
+426
+00:26:47,070 --> 00:26:48,220
+这是商业间谍行为
+This is corporate espionage. 
+
+427
+00:26:48,220 --> 00:26:50,480
+我得查清他们偷了什么  造成多大损失
+I need to know what was compromised and the extent of the damage.
+
+428
+00:26:50,480 --> 00:26:51,690
+-别进来  -什么
+- Out. - What?
+
+429
+00:26:52,500 --> 00:26:54,320
+我从没把任何东西拿去德州仪器
+I never brought anything to T.I.
+
+430
+00:26:54,320 --> 00:26:55,670
+我接过电话
+There were phone calls. 
+
+431
+00:26:55,670 --> 00:26:59,550
+或许他听到了什么
+Maybe he overheard--or-- or that--
+
+432
+00:26:59,550 --> 00:27:01,910
+-你寄到酒店的传真  -你跟他上床了吗
+- the fax you sent to the hotel.  - Are you sleeping with him?
+
+433
+00:27:03,010 --> 00:27:04,430
+回答我
+Answer the question.
+
+434
+00:27:04,660 --> 00:27:06,520
+-你在跟他上床吗  -没有
+- Are you sleeping with him? - No.
+
+435
+00:27:08,200 --> 00:27:09,460
+我吻过他  就一次
+I kissed him, once.
+
+436
+00:27:09,460 --> 00:27:11,840
+你吻了他  不是倒过来吗
+Yeah, you kissed him and not the other way around?
+
+437
+00:27:11,850 --> 00:27:14,400
+是的  戈登  我吻了他
+Yeah, Gordon. Yeah, I kissed him.
+
+438
+00:27:14,620 --> 00:27:15,860
+那两秒半里
+And for two and a half seconds,
+
+439
+00:27:15,860 --> 00:27:18,470
+我比这两年来都快乐
+I felt better than I've felt in two years.
+
+440
+00:27:18,470 --> 00:27:19,830
+天呐  唐娜  你真幼稚
+Christ, Donna, you're a child.
+
+441
+00:27:19,830 --> 00:27:21,660
+根本没什么幼稚可言
+There was nothing childish about it.
+
+442
+00:27:21,670 --> 00:27:23,910
+-我想要他  而且我有原因  -唐娜
+- I wanted him, and there were reasons. - Donna, he--
+
+443
+00:27:23,920 --> 00:27:25,520
+-唐娜  -这些原因源自你我之间的问题
+- Donna-- - There were you-and-me reasons
+
+444
+00:27:25,520 --> 00:27:26,820
+因为你不能假装
+because you can't pretend we were 
+
+445
+00:27:26,820 --> 00:27:30,010
+-我们之间一切都好  -他利用了你
+- on some moonlit carriage ride. - He used you! He used you!
+
+446
+00:27:30,920 --> 00:27:32,720
+至少他鼓动还回报了我
+At least he encouraged me and rewarded me. 
+
+447
+00:27:32,720 --> 00:27:34,980
+你真相信他吗  你被蒙蔽了  唐娜
+You believe that? You're blind, Donna.
+
+448
+00:27:34,990 --> 00:27:36,820
+你根本看不清他的真正目的
+You never even saw what he was doing!
+
+449
+00:27:36,820 --> 00:27:40,940
+你从来不曾对我有任何的帮助
+And you never even picked me up out of a hole in the ground.
+
+450
+00:27:41,060 --> 00:27:45,440
+我帮过你那么多次  照顾你和孩子
+I lifted you up so many times. I carried you and the kids.
+
+451
+00:27:45,440 --> 00:27:49,200
+我那么累  那么难过  你却毫不在乎
+And I was tired and miserable and you didn't give a shit.
+
+452
+00:27:51,120 --> 00:27:53,810
+我们之间没什么  但本该有什么的
+It wasn't an affair, but it should've been.
+
+453
+00:27:53,810 --> 00:27:56,500
+好啊  去吧  你既然都决定了
+All right. Go on, then. You've made your decision.
+
+454
+00:27:56,500 --> 00:27:58,600
+-天呐  -你去前台
+- Oh, my God. - You go down to the front desk
+
+455
+00:27:58,600 --> 00:27:59,820
+问他住哪
+and you ask for his suite number!
+
+456
+00:27:59,820 --> 00:28:01,250
+他一定会给你腾地方的
+I'm sure he'll make room for you!
+
+457
+00:28:01,250 --> 00:28:03,750
+难道你就不是
+Like you didn't pick the Giant over me
+
+458
+00:28:03,750 --> 00:28:05,960
+总把巨人放在我之前吗
+every second of every single day.
+
+459
+00:28:05,960 --> 00:28:07,470
+唐娜  你真老套
+Oh, my God, Donna. Donna, you're a clich?
+
+460
+00:28:07,470 --> 00:28:11,090
+你们俩  就是我们的努力成果的廉价山寨
+Both of you. Just a cheap rip-off of something that we built together.
+
+461
+00:28:11,090 --> 00:28:13,750
+-我倒想去  但已经没机会了  -是吗  去啊
+- I would go, but it's all ruined for me now, - Yeah? Go.
+
+462
+00:28:13,750 --> 00:28:15,300
+-你就想如此  -去吧
+- because that's what you want. - Go.
+
+463
+00:28:15,300 --> 00:28:17,320
+你宁可正确  而不是要我
+You want to be right more than you want me.
+
+464
+00:28:17,320 --> 00:28:19,850
+唐娜  或许你父母就是看对我了
+You know what, Donna? Maybe your parents were right about me.
+
+465
+00:28:19,850 --> 00:28:23,100
+我就是个狭隘  小气  怨愤的暴君
+I'm just a small-minded, petty, resentful little tyrant.
+
+466
+00:28:23,100 --> 00:28:26,940
+有时候是酒鬼  永远是个废物父亲
+You know, part-time alcoholic, full-time failure as a father!
+
+467
+00:28:27,280 --> 00:28:29,260
+但我清楚我们曾经的感情  唐娜
+But I knew what I had with you, Donna.
+
+468
+00:28:29,260 --> 00:28:31,520
+而且我一直在努力对得起这份感情
+And I never stopped trying to live up to that.
+
+469
+00:28:31,520 --> 00:28:36,010
+对你  唐娜  我从未放弃过
+To you, Donna. To you, I never, ever gave up.
+
+470
+00:28:57,420 --> 00:28:58,730
+他们改主意了
+They changed their mind.
+
+471
+00:29:01,590 --> 00:29:04,510
+我们的操作系统  我们的设计  他们才不管
+Our dynamic OS, our design-- they don't care.
+
+472
+00:29:05,520 --> 00:29:06,940
+他们就想要旅行轿车
+They want a station wagon.
+
+473
+00:29:10,210 --> 00:29:13,930
+弹弓更快  更便宜
+The Slingshot's faster, it's cheaper.
+
+474
+00:29:15,460 --> 00:29:16,660
+我们没戏了
+So we're dead.
+
+475
+00:29:23,980 --> 00:29:25,210
+听到了吗  戈登
+Did you hear that, Gordon?
+
+476
+00:29:27,090 --> 00:29:29,040
+他们圣诞就能上架
+They'll be in stores by Christmas.
+
+477
+00:30:24,080 --> 00:30:25,740
+我真替你难过
+My heart goes out to you.
+
+478
+00:30:26,580 --> 00:30:29,330
+我能想象这多令人痛心
+I know how painful this must be.
+
+479
+00:30:30,700 --> 00:30:32,970
+但两条道路交汇时
+But when two paths converge,
+
+480
+00:30:33,290 --> 00:30:34,790
+不管是有意还是无意
+intentionally or not,
+
+481
+00:30:35,680 --> 00:30:37,520
+他们未必会一起延续下去
+they don't always continue on together.
+
+482
+00:30:38,520 --> 00:30:40,980
+一条路向前推进
+One peels off,
+
+483
+00:30:41,820 --> 00:30:43,080
+另一条到此为止
+the other dead-ends.
+
+484
+00:30:45,130 --> 00:30:47,040
+就别扯什么"林子里的两条路"了
+Let's skip the "Two Roads in a Wood" bullshit. 
+
+485
+00:30:45,130 --> 00:30:47,040
+{\an3}{\pos(380,252)}指罗伯特·弗罗斯特的诗《未选之路》
+
+486
+00:30:47,040 --> 00:30:48,850
+你又不是罗伯特·弗罗斯特
+You're not Robert Frost.
+
+487
+00:30:49,140 --> 00:30:50,530
+你就是当铺的小工
+You're pawnshop hacks
+
+488
+00:30:50,530 --> 00:30:53,230
+把我的梦想廉价包装卖掉
+selling my dream under a cheap plastic mask.
+
+489
+00:30:54,050 --> 00:30:55,160
+早听说你这人挺敏感
+I heard you were touchy.
+
+490
+00:30:55,160 --> 00:30:59,680
+液晶屏  哪找来的  台湾货船吗
+That LCD screen, where did you find it, a Taiwanese barge?
+
+491
+00:31:00,180 --> 00:31:02,020
+向我们道歉  撤掉你们的产品
+Apologize, pull your product, 
+
+492
+00:31:02,020 --> 00:31:03,590
+我或许不会告你
+and I'll consider not suing.
+
+493
+00:31:03,590 --> 00:31:05,870
+诉诸法律毫无好处  乔
+There's no upside to litigation, Joe.
+
+494
+00:31:06,500 --> 00:31:08,000
+等我们真上了法庭
+By the time you get in front of a jury,
+
+495
+00:31:08,000 --> 00:31:10,040
+我们第三代产品都出了
+we'll be on our third generation.
+
+496
+00:31:10,270 --> 00:31:12,050
+而且你们的BIOS不也是克隆IBM
+And good luck persuading them that your BIOS
+
+497
+00:31:12,050 --> 00:31:14,980
+你要怎么让陪审团觉得这就比我们强
+is such a nobler copy of IBM's than ours.
+
+498
+00:31:15,540 --> 00:31:18,550
+我们先做到了  认栽吧
+We got there first. Deal with it.
+
+499
+00:31:18,550 --> 00:31:20,150
+你一定很自豪吧
+You must be proud.
+
+500
+00:31:20,510 --> 00:31:24,210
+雇我们不要的人  从对手妻子那儿打探秘密
+Hiring our sloppy seconds, pumping a competitor's wife.
+
+501
+00:31:24,570 --> 00:31:26,000
+这么做生意真行
+That's one way to do business.
+
+502
+00:31:26,000 --> 00:31:27,610
+机会自己送上门的
+The opportunity presented itself.
+
+503
+00:31:27,610 --> 00:31:29,180
+我没有犯法
+No laws were broken.
+
+504
+00:31:29,740 --> 00:31:31,500
+难道你不会这么做吗
+Are you telling me you'd do different?
+
+505
+00:31:31,520 --> 00:31:34,380
+-给我小心点  -得了吧
+- I'd be more careful. - Oh, please.
+
+506
+00:31:35,510 --> 00:31:37,450
+你们高级副总裁在面临指控
+Your SVP's under indictment,
+
+507
+00:31:37,450 --> 00:31:39,270
+你跟你的主程序员上床
+you're sleeping with your lead coder,
+
+508
+00:31:39,550 --> 00:31:42,110
+更别提阿蒙克的那件事
+not to mention that little incident back in Armonk.
+
+509
+00:31:42,520 --> 00:31:44,030
+我说得对不对
+Let me see if I get this right.
+
+510
+00:31:44,600 --> 00:31:46,620
+你跟你父亲起了争执
+Following an argument with your father,
+
+511
+00:31:46,950 --> 00:31:49,230
+随后你就损坏了总水管
+you ruptured a water main,
+
+512
+00:31:49,280 --> 00:31:51,700
+淹了一个IBM的数据中心
+flooded an entire IBM data center?
+
+513
+00:31:53,380 --> 00:31:55,100
+爸爸一定把你气得不轻吧
+Daddy musta made you pretty angry.
+
+514
+00:31:55,810 --> 00:31:59,590
+没错  我查过你的底
+Oh, yeah. I did my homework on you, all right.
+
+515
+00:32:00,250 --> 00:32:02,660
+纽约"喜欢"你的人不少呢
+You got quite the fan club back there in New York.
+
+516
+00:32:05,010 --> 00:32:06,310
+认得这个号码吗
+You recognize that number?
+
+517
+00:32:06,780 --> 00:32:08,490
+那是你老板内森·卡迪夫的号码
+That's your boss, Nathan Cardiff.
+
+518
+00:32:08,880 --> 00:32:11,280
+你上楼去给他打电话
+Now, you're gonna go upstairs, you're gonna call him,
+
+519
+00:32:11,420 --> 00:32:13,660
+告诉他我出两百万
+and tell him that I offered you $2 million 
+
+520
+00:32:13,660 --> 00:32:15,660
+弹弓的股份买巨人
+in Slingshot stock for the Giant.
+
+521
+00:32:16,390 --> 00:32:18,380
+这可比和解你能拿到的钱多多了
+Which is more than you're gonna get in the settlement.
+
+522
+00:32:18,380 --> 00:32:19,820
+我们为什么要卖给你们
+Why would we sell to you?
+
+523
+00:32:19,880 --> 00:32:22,670
+因为这能填补你们开发用钱留下的坑
+'Cause that covers your R&D nut, gets you out whole
+
+524
+00:32:22,950 --> 00:32:25,090
+否则你们会坐失一切
+as opposed to losing everything for nothing.
+
+525
+00:32:25,090 --> 00:32:26,930
+然后你把我们拆了散卖吗
+Then you strip us for parts? 
+
+526
+00:32:27,310 --> 00:32:29,420
+那台电脑还是有些可取之处的  乔
+There's some good ideas in that machine, Joe.
+
+527
+00:32:30,470 --> 00:32:31,960
+你错就错在爱上了那个
+Your mistake was falling in love with 
+
+528
+00:32:31,960 --> 00:32:33,850
+互动操作系统
+that precious query-based interface.
+
+529
+00:32:33,850 --> 00:32:38,160
+它或许是很超前  但太占内存
+Maybe it's ahead of its time, but it's a memory hog.
+
+530
+00:32:38,160 --> 00:32:39,280
+我们绝不会卖给你
+We'll never sell to you.
+
+531
+00:32:39,280 --> 00:32:41,990
+等我们跟电脑天地签约  这就是标配了
+After we sign with ComputerLand, it's academic.
+
+532
+00:32:42,520 --> 00:32:43,620
+接不接受随你吧
+Take it or not.
+
+533
+00:32:44,280 --> 00:32:49,150
+告诉唐娜  别往心里去
+Oh, and tell Donna it wasn't personal.
+
+534
+00:32:51,590 --> 00:32:53,650
+我真替你遗憾  惠特马什先生
+I feel sorry for you, Mr. Whitmarsh.
+
+535
+00:32:53,800 --> 00:32:55,180
+你骗了你自己
+You cheated yourself.
+
+536
+00:32:55,620 --> 00:32:57,820
+你永远造不出属于你自己的东西
+You'll never create anything of your own.
+
+537
+00:32:59,260 --> 00:33:00,490
+你不也一样
+Well, neither will you.
+
+538
+00:33:01,780 --> 00:33:05,010
+别忘了  我们做的是兼容机
+You seem to have forgotten, we're in the compatible business.
+
+539
+00:33:05,320 --> 00:33:06,670
+你想出类拔萃
+You tried to be good.
+
+540
+00:33:07,980 --> 00:33:09,610
+可我们做到差不多就行了
+We just had to be good enough.
+
+541
+00:33:56,390 --> 00:33:57,670
+说来好笑
+You know, it's funny--
+
+542
+00:33:57,780 --> 00:33:59,290
+同样的酒  付了五块钱
+it's funny how much better it tastes
+
+543
+00:33:59,290 --> 00:34:01,210
+味道就好多了
+when you've paid five bucks for it.
+
+544
+00:34:03,250 --> 00:34:04,340
+怎么样了
+How are we doing?
+
+545
+00:34:04,960 --> 00:34:06,960
+挺好的
+Fine, I guess.
+
+546
+00:34:08,120 --> 00:34:11,440
+我把子板和附加的内存都拆了
+I stripped out the daughter board and all the extraneous memory.
+
+547
+00:34:14,920 --> 00:34:16,630
+{\an8}我叫卡梅伦
+
+548
+00:34:16,630 --> 00:34:18,420
+{\an8}指令或文件名错误
+
+549
+00:34:18,300 --> 00:34:19,790
+我的操作系统呢
+Where's my operating system?
+
+550
+00:34:28,190 --> 00:34:30,050
+沃利借了我微软磁盘操作系统
+Wally lent me MS-DOS.
+
+551
+00:34:30,620 --> 00:34:33,600
+这样比弹弓快  还便宜一百块
+It'll beat the Slingshot on speed and be a hundred bucks cheaper.
+
+552
+00:34:33,900 --> 00:34:35,160
+你给拿出来了
+You took it out.
+
+553
+00:34:35,580 --> 00:34:37,610
+你拿走了让它独特的东西
+Everything that made it unique.
+
+554
+00:34:37,920 --> 00:34:41,070
+我们之前有个麻烦  现在我们有产品了
+We had a problem. Now we have a product.
+
+555
+00:34:46,510 --> 00:34:48,090
+你不能让他这么做
+You can't let him do this.
+
+556
+00:34:50,150 --> 00:34:53,080
+乔  说话啊
+Joe. Tell him.
+
+557
+00:34:53,810 --> 00:34:55,600
+他错了  这样不对
+He's wrong. This is wrong.
+
+558
+00:35:02,060 --> 00:35:03,720
+这对电脑是正确策略
+It's what's right for the machine.
+
+559
+00:35:16,680 --> 00:35:17,800
+天呐
+Oh, my God--
+
+560
+00:35:26,140 --> 00:35:27,810
+-这是为了生存  -别跟我说话
+- It's called survival. - Don't speak to me.
+
+561
+00:35:27,810 --> 00:35:28,920
+是为了维持下去
+It's an existential choice. 
+
+562
+00:35:28,920 --> 00:35:30,860
+按原样是卖不动的  这个能买上百万
+Sell none of the original or a million of these. 
+
+563
+00:35:30,870 --> 00:35:32,720
+但没人会记住它的
+And no one will remember a single one.
+
+564
+00:35:32,730 --> 00:35:35,640
+-它还是我们的啊  -那是个空壳
+- It's still our machine. - It's empty.
+
+565
+00:35:35,670 --> 00:35:37,950
+今天结束之前我们得做展示  否则就完了
+We need to demo by the end of business or we're dead.
+
+566
+00:35:37,950 --> 00:35:39,720
+-我需要你也去  -滚吧
+- I need you there. - Bullshit!
+
+567
+00:35:39,720 --> 00:35:43,860
+好吧  那...我想要你去呢
+Okay, how about... I want you there?
+
+568
+00:35:44,200 --> 00:35:45,530
+我想要你跟我一起去
+I want you with me.
+
+569
+00:35:48,140 --> 00:35:51,270
+那就装回去
+Then put it back in.
+
+570
+00:36:03,310 --> 00:36:05,860
+你会发现不管是Multiplan还是Lotus 1-2-3
+You'll see that whether it's Multiplan or Lotus 1-2-3,
+
+571
+00:36:03,310 --> 00:36:05,860
+{\pos(190,252)}微软早期电子制表软件
+
+572
+00:36:05,860 --> 00:36:08,440
+巨人能运行所有商业软件
+the Giant runs all your business software
+
+573
+00:36:08,440 --> 00:36:10,880
+系统兼容  机身紧凑小巧
+on one compact, compatible package.
+
+574
+00:36:10,890 --> 00:36:12,680
+下班之后呢
+What happens when the workday ends?
+
+575
+00:36:12,680 --> 00:36:14,180
+你还能带上巨人回家
+You pack up your Giant, bring it home,
+
+576
+00:36:14,180 --> 00:36:17,010
+只需五分钟  就能启动游戏给孩子玩
+and in five minutes, fire up "Rocky's Boots" For the kids.
+
+577
+00:36:14,180 --> 00:36:17,010
+{\pos(339,278)}一款教育性逻辑益智游戏
+
+578
+00:36:19,470 --> 00:36:21,980
+我一直叫他小心鳄鱼的
+I keep telling him, "Watch out for that alligator."
+
+579
+00:36:24,260 --> 00:36:25,650
+不管是创作音乐
+Whether it's composing music
+
+580
+00:36:25,650 --> 00:36:28,090
+还是整理家庭理财
+or cobbling together your family finances,
+
+581
+00:36:28,090 --> 00:36:29,640
+巨人都能帮你完成
+the Giant is there.
+
+582
+00:36:29,870 --> 00:36:33,510
+它不仅是一个家庭成员  也是你生活的一部分
+It's not just a part of your family, it's a part of your life.
+
+583
+00:36:44,280 --> 00:36:46,010
+有什么问题吗
+Um, are there any questions?
+
+584
+00:36:46,800 --> 00:36:50,140
+听说它能问你问题  比如你的名字
+I heard it asks you stuff, like it learns your name.
+
+585
+00:36:50,140 --> 00:36:51,330
+哪听说的
+Where'd you hear that?
+
+586
+00:36:51,510 --> 00:36:52,880
+像是科幻小说
+It sounds a little "Buck Rogers."
+
+587
+00:36:51,510 --> 00:36:52,880
+{\pos(302,276)}科幻小说《2419大决战》中的人物
+
+588
+00:36:52,880 --> 00:36:55,500
+那么说电脑速度快  能运行各种软件
+So, it's fast and it runs all the software,
+
+589
+00:36:55,500 --> 00:36:59,280
+但除了便携  没有其他特别的了
+but besides portability, I'm not seeing a lot that's special.
+
+590
+00:36:59,800 --> 00:37:00,660
+没什么独特之处
+Nothing unique.
+
+591
+00:37:00,660 --> 00:37:03,630
+"独特"  这么说真有意思
+"Unique." Interesting word choice.
+
+592
+00:37:03,910 --> 00:37:05,480
+你到底想要什么
+What are you really asking for?
+
+593
+00:37:05,780 --> 00:37:08,930
+特别的东西吗  温暖可爱的东西吗
+Something special? Give me something warm, something fuzzy?
+
+594
+00:37:09,080 --> 00:37:10,300
+这是一台机器
+This is a machine.
+
+595
+00:37:10,470 --> 00:37:12,480
+它不是你的朋友  而是你的雇员
+It's not your friend, it's your employee.
+
+596
+00:37:12,480 --> 00:37:13,440
+它为你工作
+It works for you.
+
+597
+00:37:13,450 --> 00:37:15,450
+所以评价它的正确方式是
+And the way it should be evaluated is thus--
+
+598
+00:37:15,450 --> 00:37:18,380
+"它能多快多好地完成我交待的任务"
+"How well and how fast does it do the things I ask?"
+
+599
+00:37:18,390 --> 00:37:21,610
+回答是"立刻马上"  否则就是浪费你的时间
+Answer-- "Instantly." Anything less is a waste of your time.
+
+600
+00:37:21,630 --> 00:37:24,530
+"错误率是多少"  回答"零"
+"What is the margin of error?" Answer-- "Zero."
+
+601
+00:37:24,570 --> 00:37:26,290
+否则就是失败
+Anything more and you've failed.
+
+602
+00:37:26,300 --> 00:37:28,970
+还有一个词  绝对比
+Here's another word, one that's infinitely more important
+
+603
+00:37:28,970 --> 00:37:32,040
+"独特"要重要得多  "速度"
+than "unique" will ever be-- "speed."
+
+604
+00:37:32,210 --> 00:37:35,380
+我们成熟一点  少说废话吧
+Let's cut through the bullshit and act like adults.
+
+605
+00:37:35,680 --> 00:37:38,330
+你们想要速度
+You want speed,
+
+606
+00:37:38,330 --> 00:37:42,150
+这台电脑就是最快的
+and this machine is the fastest one you'll find, period.
+
+607
+00:37:42,150 --> 00:37:43,640
+要跟孩子玩游戏
+You wanna play a game with your kid,
+
+608
+00:37:43,640 --> 00:37:45,480
+跟他一起做幼儿园手工制作吧
+join him for craft time at preschool.
+
+609
+00:37:45,490 --> 00:37:47,540
+想要个朋友  买条狗吧
+You want a buddy? Buy a dog.
+
+610
+00:37:47,540 --> 00:37:50,740
+想要追逐不切实际的梦想吗  走出去吧
+You want to chase rainbows, tilt the room? Walk outside.
+
+611
+00:37:50,740 --> 00:37:52,030
+这里有几百家赌场
+There are a hundred casinos out there
+
+612
+00:37:52,030 --> 00:37:53,470
+正是为你们这种爱做梦的
+built for delusional people like you
+
+613
+00:37:53,470 --> 00:37:56,020
+自以为生活能轻易改变的人建造的
+who think their world is gonna change so easily.
+
+614
+00:37:56,210 --> 00:38:00,000
+想要完成工作  那就买我们的电脑
+You wanna get something done, buy one of these.
+
+615
+00:38:10,930 --> 00:38:13,570
+你怎么把这些东西都装下的
+So, how did you get everything to fit?
+
+616
+00:38:16,770 --> 00:38:18,270
+主板两面都装芯片
+Um, chips on both sides.
+
+617
+00:38:19,000 --> 00:38:20,120
+谁想到的主意
+Who thought of that?
+
+618
+00:38:22,670 --> 00:38:23,810
+我妻子
+My wife.
+
+619
+00:38:25,800 --> 00:38:27,150
+唐娜·克拉克
+Donna Clark.
+
+620
+00:38:31,640 --> 00:38:33,570
+散热问题怎么解决的
+How'd you fix the heat problem?
+
+621
+00:38:34,360 --> 00:38:37,000
+我们在侧板加了通风口  并调整了芯片排布
+We vented the side panels and changed the chip layout.
+
+622
+00:38:37,000 --> 00:38:39,160
+开除你之后工作好做多了
+It got a lot easier after we fired you.
+
+623
+00:38:43,580 --> 00:38:44,790
+那IBM呢
+What about IBM? 
+
+624
+00:38:44,790 --> 00:38:46,520
+听说他们也要生产便携电脑呢
+I heard they might be coming out with a portable.
+
+625
+00:38:46,520 --> 00:38:47,860
+我受够了IBM
+I'm sick of hearing about IBM.
+
+626
+00:38:47,860 --> 00:38:51,450
+IBM一天内抛弃的项目比我们一年内能尝试的还多
+IBM scraps more projects in a day than any of us attempt in a year.
+
+627
+00:38:51,450 --> 00:38:53,320
+我们所做的工作更难
+What we did was harder.
+
+628
+00:38:53,330 --> 00:38:55,750
+我们将一个想法执行到底
+We took one idea all the way...
+
+629
+00:38:56,460 --> 00:38:57,870
+这让我们付出了代价
+and it cost us.
+
+630
+00:38:58,910 --> 00:39:00,520
+让我们损失了很多人
+It cost us people.
+
+631
+00:39:02,170 --> 00:39:04,810
+但这份代价的证明就在此
+But the evidence of that cost is here.
+
+632
+00:39:06,290 --> 00:39:07,650
+就在硬件里
+It's in the damn metal.
+
+633
+00:39:40,370 --> 00:39:43,970
+乔  我得承认
+Joe, why, I gotta tell ya.
+
+634
+00:39:44,130 --> 00:39:47,250
+能把电脑的速度提升这么多的人
+Any man who can speed up a machine by that much that fast
+
+635
+00:39:47,540 --> 00:39:49,900
+在个人电脑界前景一片光明啊
+has got a very bright future in PCs.
+
+636
+00:39:49,900 --> 00:39:51,060
+谢谢  丹尼斯
+Thank you, Dennis.
+
+637
+00:39:52,400 --> 00:39:56,810
+六万台  每台九百  如何
+How does 60,000 units at, say, $900 a pop sound?
+
+638
+00:39:56,950 --> 00:39:58,060
+可以考虑
+It's a start.
+
+639
+00:39:59,760 --> 00:40:03,230
+好吧  七万呢
+Okay... 70,000.
+
+640
+00:40:03,780 --> 00:40:05,350
+我们明天再谈
+We'll negotiate tomorrow.
+
+641
+00:40:45,070 --> 00:40:47,470
+酒是温的  得加冰
+It's warm. Needs ice.
+
+642
+00:40:53,220 --> 00:40:54,260
+我去拿吧
+I'll get it.
+
+643
+00:41:49,530 --> 00:41:51,680
+大家好  我是麦金托什
+Hello, I'm Macintosh.
+
+644
+00:42:11,400 --> 00:42:14,370
+你没事吧  伙计  怎么了
+You okay, man? What's the matter?
+
+645
+00:42:19,240 --> 00:42:20,580
+它说话了
+It speaks.
+
+646
+00:03:43,960 --> 00:03:45,800
+{\an7}人人影视
+
+647
+00:03:43,960 --> 00:03:45,800
+{\an7}倾情奉献
+
+648
+00:03:45,800 --> 00:03:47,800
+{\an7}翻译
+
+649
+00:03:45,800 --> 00:03:47,800
+{\an7}潇湘月影
+
+650
+00:03:48,300 --> 00:03:50,340
+{\an7}翻译
+
+651
+00:03:48,300 --> 00:03:50,340
+{\an7}七七
+
+652
+00:03:51,220 --> 00:03:53,390
+{\an7}翻译
+
+653
+00:03:51,220 --> 00:03:53,390
+{\an7}磁芯章鱼X
+
+654
+00:03:55,220 --> 00:03:57,270
+{\an7}翻译
+
+655
+00:03:55,220 --> 00:03:57,270
+{\an7}小酸奶!
+
+656
+00:03:57,270 --> 00:03:59,100
+{\an7}翻译
+
+657
+00:03:57,270 --> 00:03:59,100
+{\an7}木浅薰
+
+658
+00:04:01,060 --> 00:04:03,190
+{\an7}翻译
+
+659
+00:04:01,060 --> 00:04:03,190
+{\an7}somehacker
+
+660
+00:04:01,060 --> 00:04:03,190
+{\an7}翻译
+
+661
+00:04:01,060 --> 00:04:03,190
+{\an7}草草
+
+662
+00:04:03,190 --> 00:04:05,390
+{\an7}时间轴
+
+663
+00:04:03,190 --> 00:04:05,390
+{\an7}Kallen 芒果树叶
+
+664
+00:04:03,190 --> 00:04:05,390
+{\an7}特效
+
+665
+00:04:03,190 --> 00:04:05,390
+{\an7}宝宝
+
+667
+00:04:07,500 --> 00:04:11,730
+{\an7}电脑狂人
+
+668
+00:04:07,500 --> 00:04:11,730
+{\an7}第一季
+第九集
+
+669
+00:04:11,730 --> 00:04:13,950
+{\an7}校对&总监
+
+670
+00:04:11,730 --> 00:04:13,950
+{\an7}草草
+
+671
+00:04:11,730 --> 00:04:13,950
+{\an7}后期
+
+672
+00:04:11,730 --> 00:04:13,950
+{\an7}饿得慌
+
