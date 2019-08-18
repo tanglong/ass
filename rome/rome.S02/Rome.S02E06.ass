@@ -1,0 +1,660 @@
+﻿[Script Info]
+; // 此字幕由TimeM生成
+; // 欢迎访问人人影视 http://www.YYeTs.net
+Title:YYeTs
+Original Script:YYeTs
+Synch Point:1
+ScriptType:v4.00+
+Collisions:Normal
+Timer:100.0000
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,华文楷体,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:01:57.50,0:01:59.60,*Default,NTP,0000,0000,0000,,{\blur3}[希腊北部]
+Dialogue: 0,0:01:59.62,0:02:02.16,*Default,NTP,0000,0000,0000,,{\blur3}粮草供应的数字呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Where are the grain provisioning figures?
+Dialogue: 0,0:02:02.20,0:02:04.95,*Default,NTP,0000,0000,0000,,{\blur3}这肯定不对\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This can't be right.
+Dialogue: 0,0:02:13.38,0:02:15.80,*Default,NTP,0000,0000,0000,,{\blur3}我已经和他们谈过了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I've been talking with the men.
+Dialogue: 0,0:02:15.80,0:02:19.05,*Default,NTP,0000,0000,0000,,{\blur3}他们没想到希腊有这么大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They had no idea Greece was so large.
+Dialogue: 0,0:02:19.09,0:02:23.43,*Default,NTP,0000,0000,0000,,{\blur3}你让我们没完没了地行军 他们已经受不了了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And they're sick of the endless marching you put us through.
+Dialogue: 0,0:02:23.47,0:02:25.22,*Default,NTP,0000,0000,0000,,{\blur3}我在思考我们的复仇计划\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We were plotting our revenge.
+Dialogue: 0,0:02:25.81,0:02:27.35,*Default,NTP,0000,0000,0000,,{\blur3}我们得找到充足的理由\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We must find good ground.
+Dialogue: 0,0:02:27.39,0:02:30.10,*Default,NTP,0000,0000,0000,,{\blur3}当你了解他们之后 你会发现他们非常亲切 真的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're quite an amiable lot, really, when you get to know them.
+Dialogue: 0,0:02:30.15,0:02:33.06,*Default,NTP,0000,0000,0000,,{\blur3}一群贪婪的大肚子人渣\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Ravening potbellied whore scum.
+Dialogue: 0,0:02:33.11,0:02:35.03,*Default,NTP,0000,0000,0000,,{\blur3}希望他们作战也像他们吃一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Let's hope they fight as well as they eat.
+Dialogue: 0,0:02:35.07,0:02:37.61,*Default,NTP,0000,0000,0000,,{\blur3}如果你只顾着看粮草官的账目\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you will bury your nose in quartermaster's accounts,
+Dialogue: 0,0:02:37.65,0:02:40.45,*Default,NTP,0000,0000,0000,,{\blur3}一定不会有好心情的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you must expect to be gloomy.
+Dialogue: 0,0:02:40.49,0:02:43.82,*Default,NTP,0000,0000,0000,,{\blur3}抬起头来 卡西乌斯 看看周围\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Look up, Cassius. Look around.
+Dialogue: 0,0:02:43.82,0:02:46.99,*Default,NTP,0000,0000,0000,,{\blur3}壮观吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Is it not wonderful?
+Dialogue: 0,0:02:47.04,0:02:51.08,*Default,NTP,0000,0000,0000,,{\blur3}我只看到十万张要吃饭的嘴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I see only 100,000 mouths to feed.
+Dialogue: 0,0:02:51.12,0:02:53.83,*Default,NTP,0000,0000,0000,,{\blur3}你骨子里一点诗意也没有 卡西乌斯\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You have no poetry in you, Cassius.
+Dialogue: 0,0:02:53.83,0:02:56.21,*Default,NTP,0000,0000,0000,,{\blur3}我们是要与他们一起去拯救共和国\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We ride with these men to save the Republic.
+Dialogue: 0,0:02:56.30,0:02:58.05,*Default,NTP,0000,0000,0000,,{\blur3}是的 对不起 为我的无趣\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Yeah, well, sorry to be prosaic,
+Dialogue: 0,0:02:58.21,0:03:01.80,*Default,NTP,0000,0000,0000,,{\blur3}在我们拯救共和国之前 得先把屋大维打败\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}before we do any saving of republics, we have Octavian to defeat.
+Dialogue: 0,0:03:02.63,0:03:04.18,*Default,NTP,0000,0000,0000,,{\blur3}的确 架\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Indeed.
+Dialogue: 0,0:03:17.57,0:03:19.61,*Default,NTP,0000,0000,0000,,{\blur3}如果这次我们得手\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If we play this right,
+Dialogue: 0,0:03:19.65,0:03:22.86,*Default,NTP,0000,0000,0000,,{\blur3}会让布鲁图斯和卡西乌斯大吃一惊\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we can take Brutus and Cassius by surprise.
+Dialogue: 0,0:03:26.41,0:03:30.37,*Default,NTP,0000,0000,0000,,{\blur3}他们会认为对手只是你和你的军队\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They will be expecting to face only you and your troops.
+Dialogue: 0,0:03:30.37,0:03:35.42,*Default,NTP,0000,0000,0000,,{\blur3}所以当我们两支军队到达希腊时 他们就麻烦了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So when both our armies arrive in Greece they will be trapped.
+Dialogue: 0,0:03:35.46,0:03:38.38,*Default,NTP,0000,0000,0000,,{\blur3}而且他们也没有时间逃跑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And there will be no time for them to flee.
+Dialogue: 0,0:03:45.09,0:03:48.55,*Default,NTP,0000,0000,0000,,{\blur3}你懂我在说什么吗？要不我讲慢点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Do you understand what I'm saying, or shall I speak more slowly?
+Dialogue: 0,0:03:48.55,0:03:53.35,*Default,NTP,0000,0000,0000,,{\blur3}不用 利用战略突击是明摆着的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No, making use of strategic surprise is obvious.
+Dialogue: 0,0:03:53.39,0:03:55.81,*Default,NTP,0000,0000,0000,,{\blur3}这是一份布鲁图斯和卡西乌斯\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To that end, there is a list of the most prominent friends
+Dialogue: 0,0:03:55.85,0:03:58.94,*Default,NTP,0000,0000,0000,,{\blur3}在罗马最忠实的朋友和支持者的名单\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and supporters of Brutus and Cassius left in Rome.
+Dialogue: 0,0:03:59.06,0:04:01.57,*Default,NTP,0000,0000,0000,,{\blur3}我们必须在他们知道我们的意图之前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We should kill them
+Dialogue: 0,0:04:01.61,0:04:03.82,*Default,NTP,0000,0000,0000,,{\blur3}干掉他们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}before they learn what we're about.
+Dialogue: 0,0:04:03.86,0:04:07.24,*Default,NTP,0000,0000,0000,,{\blur3}你真是个凶残 阴损的家伙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You are a ferocious little cunt...
+Dialogue: 0,0:04:07.28,0:04:08.36,*Default,NTP,0000,0000,0000,,{\blur3}杀人不见血\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with a pen.
+Dialogue: 0,0:04:08.41,0:04:10.20,*Default,NTP,0000,0000,0000,,{\blur3}他们都是罗马的精英\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These are among the finest men in Rome,
+Dialogue: 0,0:04:10.24,0:04:11.66,*Default,NTP,0000,0000,0000,,{\blur3}有些是我要好的朋友\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}some of them my good friends.
+Dialogue: 0,0:04:11.74,0:04:14.41,*Default,NTP,0000,0000,0000,,{\blur3}他们的钱也会派上用场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Their money will be useful as well.
+Dialogue: 0,0:04:14.45,0:04:16.91,*Default,NTP,0000,0000,0000,,{\blur3}安东尼将军 告诉他们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}General Antony, tell them.
+Dialogue: 0,0:04:20.92,0:04:23.25,*Default,NTP,0000,0000,0000,,{\blur3}西塞罗这个杂种是他们之中最聪明的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Cicero is the cleverest bastard of them all
+Dialogue: 0,0:04:23.29,0:04:27.47,*Default,NTP,0000,0000,0000,,{\blur3}并且他有最大的间谍网络 他必须第一个死\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and he has the largest network of spies. He must die first.
+Dialogue: 0,0:04:27.51,0:04:31.01,*Default,NTP,0000,0000,0000,,{\blur3}我想添加一两个名字\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There are one or two names I'd like to add myself.
+Dialogue: 0,0:04:31.05,0:04:32.72,*Default,NTP,0000,0000,0000,,{\blur3}我必须回罗马\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I shall start back to Rome.
+Dialogue: 0,0:04:32.76,0:04:35.18,*Default,NTP,0000,0000,0000,,{\blur3}我要召集我的军队并告诉他们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'll muster my troops and let it be known I intend to go east
+Dialogue: 0,0:04:35.22,0:04:37.18,*Default,NTP,0000,0000,0000,,{\blur3}我要独自去东方和布鲁图斯与卡西乌斯作战\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to confront Brutus and Cassius alone.
+Dialogue: 0,0:04:37.23,0:04:41.23,*Default,NTP,0000,0000,0000,,{\blur3}莱彼德斯 你要带领一支小部队留在后方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Lepidus, you will remain behind with a small force.
+Dialogue: 0,0:04:41.31,0:04:43.61,*Default,NTP,0000,0000,0000,,{\blur3}在我们走后 维持罗马的和平\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Keep the peace in Rome after we've left.
+Dialogue: 0,0:04:43.61,0:04:45.61,*Default,NTP,0000,0000,0000,,{\blur3}我同意\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm pledged to agree with you.
+Dialogue: 0,0:04:45.65,0:04:47.19,*Default,NTP,0000,0000,0000,,{\blur3}但是我必须说 这些杀戮…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But I must say, these killings...
+Dialogue: 0,0:04:47.23,0:04:51.66,*Default,NTP,0000,0000,0000,,{\blur3}将这份名单直接交给在艾文台社团的卢西尔斯·乌瑞纳斯\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Send the list ahead to Lucius Vorenus at the Aventine Collegium.
+Dialogue: 0,0:04:51.70,0:04:55.74,*Default,NTP,0000,0000,0000,,{\blur3}命令他按照名单 把活分配下去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Add instructions telling him to divide the names among the gangs.
+Dialogue: 0,0:04:55.78,0:04:58.00,*Default,NTP,0000,0000,0000,,{\blur3}我有一个人要加上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I have a name while you're at it.
+Dialogue: 0,0:04:58.16,0:05:00.83,*Default,NTP,0000,0000,0000,,{\blur3}赛维莉娅不行 我们不能杀女人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Not Servilia. We cannot kill women.
+Dialogue: 0,0:05:00.87,0:05:02.92,*Default,NTP,0000,0000,0000,,{\blur3}不是赛维莉娅\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Not Servilia.
+Dialogue: 0,0:05:02.96,0:05:05.59,*Default,NTP,0000,0000,0000,,{\blur3}- 鲁弗斯·特兰克维鲁斯 - 谁？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Rufus Tranquillus. - Who?
+Dialogue: 0,0:05:05.63,0:05:08.38,*Default,NTP,0000,0000,0000,,{\blur3}就是那个奥克塔维娅的朋友伊俄卡斯特她爹？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Isn't he father to Octavia's friend Jocasta?
+Dialogue: 0,0:05:08.96,0:05:10.30,*Default,NTP,0000,0000,0000,,{\blur3}为什么要他死？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Why do you want him dead?
+Dialogue: 0,0:05:10.84,0:05:14.14,*Default,NTP,0000,0000,0000,,{\blur3}我不喜欢那个女孩 她对人有坏影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I don't like the girl. She's a bad influence.
+Dialogue: 0,0:05:14.18,0:05:16.68,*Default,NTP,0000,0000,0000,,{\blur3}这不是游戏 妈妈\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is not a game, Mother.
+Dialogue: 0,0:05:16.72,0:05:18.26,*Default,NTP,0000,0000,0000,,{\blur3}她的父亲可是个“巨富”\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Her father is immensely rich.
+Dialogue: 0,0:05:18.35,0:05:21.73,*Default,NTP,0000,0000,0000,,{\blur3}的确 采石场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}True. Stone quarries.
+Dialogue: 0,0:05:26.86,0:05:29.48,*Default,NTP,0000,0000,0000,,{\blur3}那么为鲁弗斯·特兰克维鲁斯默哀吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Woe unto Rufus Tranquillus, then.
+Dialogue: 0,0:05:31.15,0:05:33.40,*Default,NTP,0000,0000,0000,,{\blur3}一定要让乌瑞纳斯和保罗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Make sure Vorenus knows that he and Titus Pullo
+Dialogue: 0,0:05:33.45,0:05:35.82,*Default,NTP,0000,0000,0000,,{\blur3}来亲自处置西塞罗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}should deal with Cicero personally.
+Dialogue: 0,0:05:35.82,0:05:37.45,*Default,NTP,0000,0000,0000,,{\blur3}没问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}All right.
+Dialogue: 0,0:05:37.49,0:05:39.53,*Default,NTP,0000,0000,0000,,{\blur3}告诉他们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Tell them...
+Dialogue: 0,0:05:39.58,0:05:41.04,*Default,NTP,0000,0000,0000,,{\blur3}切掉他的双手\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to cut off his hands
+Dialogue: 0,0:05:41.08,0:05:44.54,*Default,NTP,0000,0000,0000,,{\blur3}钉在元老院的大门上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and nail them to the Senate door.
+Dialogue: 0,0:05:44.58,0:05:48.08,*Default,NTP,0000,0000,0000,,{\blur3}我告诉过这老家伙要是他再跟我作对 我就会这样做\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I told the old fool I'd do it if he ever crossed me again.
+Dialogue: 0,0:05:48.71,0:05:51.84,*Default,NTP,0000,0000,0000,,{\blur3}不能让别人说我食言\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Nobody can possibly say that I don't keep my word.
+Dialogue: 0,0:06:06.69,0:06:09.98,*Default,NTP,0000,0000,0000,,{\blur3}再见 我的心肝 我会想你的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Goodbye, my love. I shall miss you.
+Dialogue: 0,0:06:10.02,0:06:13.48,*Default,NTP,0000,0000,0000,,{\blur3}我们总是说再见 真是烦人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're forever saying goodbye. It's becoming tiresome.
+Dialogue: 0,0:06:13.53,0:06:17.36,*Default,NTP,0000,0000,0000,,{\blur3}在希腊的一场小战役 我们不会再分开了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One little campaign in Greece and we shall never be parted again.
+Dialogue: 0,0:06:17.40,0:06:20.03,*Default,NTP,0000,0000,0000,,{\blur3}- 你是认真的？- 当然\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Do you mean that? - Of course.
+Dialogue: 0,0:06:21.99,0:06:24.20,*Default,NTP,0000,0000,0000,,{\blur3}那样我会非常高兴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That would make me very happy.
+Dialogue: 0,0:06:25.41,0:06:29.83,*Default,NTP,0000,0000,0000,,{\blur3}当你返回时必须带来布鲁图斯的头 作为婚礼的礼物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When you return you must bring me Brutus' head as a wedding present.
+Dialogue: 0,0:06:29.87,0:06:31.83,*Default,NTP,0000,0000,0000,,{\blur3}是的 婚礼\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Yes, a wedding.
+Dialogue: 0,0:06:33.09,0:06:36.88,*Default,NTP,0000,0000,0000,,{\blur3}是的 我回来的时候是的考虑考虑了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Yes, we must think about that when I return.
+Dialogue: 0,0:06:36.92,0:06:40.55,*Default,NTP,0000,0000,0000,,{\blur3}现在不要让你的心爱的男孩等待了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, don't keep your darling boy waiting.
+Dialogue: 0,0:06:40.59,0:06:42.89,*Default,NTP,0000,0000,0000,,{\blur3}回罗马的路很长\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a long way back to Rome.
+Dialogue: 0,0:06:44.01,0:06:46.27,*Default,NTP,0000,0000,0000,,{\blur3}你要小心屋大维\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And you be careful with Octavian.
+Dialogue: 0,0:06:46.31,0:06:49.18,*Default,NTP,0000,0000,0000,,{\blur3}当然 我知道怎么对付他\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Of course. I know how to handle him.
+Dialogue: 0,0:06:49.27,0:06:50.85,*Default,NTP,0000,0000,0000,,{\blur3}这正是我所担心的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's what I'm afraid of.
+Dialogue: 0,0:07:03.91,0:07:06.87,*Default,NTP,0000,0000,0000,,{\blur3}那 看 眼睛好看多了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There, see? Brings out your eyes.
+Dialogue: 0,0:07:07.49,0:07:09.08,*Default,NTP,0000,0000,0000,,{\blur3}你在干什么？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What are you doing?
+Dialogue: 0,0:07:12.67,0:07:14.21,*Default,NTP,0000,0000,0000,,{\blur3}立刻洗掉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Wash that off at once.
+Dialogue: 0,0:07:14.25,0:07:16.21,*Default,NTP,0000,0000,0000,,{\blur3}是的 父亲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Yes, Father.
+Dialogue: 0,0:07:21.22,0:07:24.01,*Default,NTP,0000,0000,0000,,{\blur3}怎么了？一点点红粉而已\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What's the problem? A little blush.
+Dialogue: 0,0:07:24.09,0:07:26.60,*Default,NTP,0000,0000,0000,,{\blur3}你想涂涂你自己\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Paint yourself as you wish.
+Dialogue: 0,0:07:26.64,0:07:28.43,*Default,NTP,0000,0000,0000,,{\blur3}离我女儿远点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You stay away from my daughter.
+Dialogue: 0,0:07:28.47,0:07:32.44,*Default,NTP,0000,0000,0000,,{\blur3}马修斯 通知几个帮会首领 今天在这开会\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Mascius, tell the collegia captains we meet here today.
+Dialogue: 0,0:07:32.48,0:07:34.94,*Default,NTP,0000,0000,0000,,{\blur3}告诉他们 他们会感兴趣的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Tell them it'll be in their interest to attend.
+Dialogue: 0,0:07:34.94,0:07:36.98,*Default,NTP,0000,0000,0000,,{\blur3}- 我会的 - 谢谢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Will do. - Thanks.
+Dialogue: 0,0:07:40.44,0:07:42.57,*Default,NTP,0000,0000,0000,,{\blur3}一如既往的支持我\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Standing up for me like that.
+Dialogue: 0,0:07:42.61,0:07:45.70,*Default,NTP,0000,0000,0000,,{\blur3}闭嘴 他是头 她是他的女儿\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Shut up. He's captain. She's his daughter.
+Dialogue: 0,0:07:45.74,0:07:48.70,*Default,NTP,0000,0000,0000,,{\blur3}他说了不要给她化妆 就不要再化了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He says don't paint her. Don't fucking paint her.
+Dialogue: 0,0:07:48.74,0:07:51.20,*Default,NTP,0000,0000,0000,,{\blur3}口气真是一个老三\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Spoken like a true third man.
+Dialogue: 0,0:07:53.91,0:07:55.75,*Default,NTP,0000,0000,0000,,{\blur3}我喜欢你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I like you.
+Dialogue: 0,0:07:55.79,0:07:57.67,*Default,NTP,0000,0000,0000,,{\blur3}你知道的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You know I do.
+Dialogue: 0,0:07:57.83,0:08:00.50,*Default,NTP,0000,0000,0000,,{\blur3}但当心 奴隶\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But be careful, slave.
+Dialogue: 0,0:08:00.55,0:08:02.38,*Default,NTP,0000,0000,0000,,{\blur3}我的忍耐是有限度的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I have my limits.
+Dialogue: 0,0:08:27.28,0:08:29.78,*Default,NTP,0000,0000,0000,,{\blur3}你们每个人都给了名单\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Each of you's been given a list.
+Dialogue: 0,0:08:29.82,0:08:32.62,*Default,NTP,0000,0000,0000,,{\blur3}里面有十个罗马最富有的人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On it are ten of the richest men in Rome.
+Dialogue: 0,0:08:32.66,0:08:34.62,*Default,NTP,0000,0000,0000,,{\blur3}你们被许可杀了他们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You've been given license to kill them
+Dialogue: 0,0:08:34.66,0:08:37.50,*Default,NTP,0000,0000,0000,,{\blur3}并拿走你和你的兄弟们能拿走的一切\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and are to take of theirs what you and your men can carry.
+Dialogue: 0,0:08:37.54,0:08:40.46,*Default,NTP,0000,0000,0000,,{\blur3}被谁许可的 你？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Licensed by who, you?
+Dialogue: 0,0:08:40.54,0:08:42.04,*Default,NTP,0000,0000,0000,,{\blur3}这是屋大维·凯撒的命令\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}By order of Octavian Caesar.
+Dialogue: 0,0:08:46.67,0:08:49.05,*Default,NTP,0000,0000,0000,,{\blur3}你有什么权力来决定谁获得什么\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What gives you the right to decide who gets what?
+Dialogue: 0,0:08:49.09,0:08:52.01,*Default,NTP,0000,0000,0000,,{\blur3}这份名单被平均的分配了 大家很公平\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The list has been equally divided. You all get your fair share.
+Dialogue: 0,0:08:52.01,0:08:54.35,*Default,NTP,0000,0000,0000,,{\blur3}我只分到了两个议员\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I've only got two senators.
+Dialogue: 0,0:08:55.26,0:08:58.18,*Default,NTP,0000,0000,0000,,{\blur3}- 不要让他弄脏了 - 我会的 父亲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Try to keep him out of the mud. - I will, Father.
+Dialogue: 0,0:08:58.27,0:09:01.77,*Default,NTP,0000,0000,0000,,{\blur3}- 库塔分了六个 - 对\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Cotta here's got six. - Right!
+Dialogue: 0,0:09:01.81,0:09:04.27,*Default,NTP,0000,0000,0000,,{\blur3}你分到了更多的特权市民 这公平了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You got more equestrians. It balances out.
+Dialogue: 0,0:09:04.77,0:09:05.90,*Default,NTP,0000,0000,0000,,{\blur3}这是原则\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's the principle!
+Dialogue: 0,0:09:06.57,0:09:07.98,*Default,NTP,0000,0000,0000,,{\blur3}原则？什么原则？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Principle? What principle?
+Dialogue: 0,0:09:14.78,0:09:17.33,*Default,NTP,0000,0000,0000,,{\blur3}卢修斯 卢修斯 立刻停下来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Lucius, Lucius, stop right now.
+Dialogue: 0,0:09:18.58,0:09:22.54,*Default,NTP,0000,0000,0000,,{\blur3}卢修斯 别走泥地 卢修斯\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Lucius, get out of the mud. Lucius!
+Dialogue: 0,0:09:25.13,0:09:27.88,*Default,NTP,0000,0000,0000,,{\blur3}卢修斯 立刻停下来 我发誓我会狠狠的揍你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Lucius, stop right now. I swear I'll smack you so hard.
+Dialogue: 0,0:09:27.92,0:09:30.88,*Default,NTP,0000,0000,0000,,{\blur3}卢修斯 停下来 停下来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Lucius, stop! Stop it!
+Dialogue: 0,0:09:35.05,0:09:38.01,*Default,NTP,0000,0000,0000,,{\blur3}就是那一个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's the one.
+Dialogue: 0,0:09:40.85,0:09:41.92,*Default,NTP,0000,0000,0000,,{\blur3}卢修斯\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Lucius!
+Dialogue: 0,0:09:43.09,0:09:45.12,*Default,NTP,0000,0000,0000,,{\blur3}卢修斯\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Lucius!
+Dialogue: 0,0:09:47.23,0:09:50.86,*Default,NTP,0000,0000,0000,,{\blur3}对不起 女士 这条路是到…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Excuse me, lady. Is this the way to the temple of...
+Dialogue: 0,0:10:00.24,0:10:01.58,*Default,NTP,0000,0000,0000,,{\blur3}喂 喂 你不跟她说话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You don't talk.
+Dialogue: 0,0:10:15.92,0:10:18.59,*Default,NTP,0000,0000,0000,,{\blur3}对每个人来说 都不少了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's more than enough here for everyone.
+Dialogue: 0,0:10:19.97,0:10:22.60,*Default,NTP,0000,0000,0000,,{\blur3}将近80个最富有的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Close on 80 of the richest,
+Dialogue: 0,0:10:22.64,0:10:25.98,*Default,NTP,0000,0000,0000,,{\blur3}高贵的贵族 让你来谋杀和抢劫\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}noblest patricians for you to murder and then rob.
+Dialogue: 0,0:10:27.06,0:10:30.02,*Default,NTP,0000,0000,0000,,{\blur3}你们哪一个见过这么多钱？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Which of you has ever seen so much money for the taking?
+Dialogue: 0,0:10:30.06,0:10:33.07,*Default,NTP,0000,0000,0000,,{\blur3}我们怎么处理这么多钱？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What shall we do with all this wealth?
+Dialogue: 0,0:10:35.53,0:10:38.28,*Default,NTP,0000,0000,0000,,{\blur3}我是认真的 我们怎么花掉这些沾血的钱？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm serious. How shall we spend this blood money?
+Dialogue: 0,0:10:38.28,0:10:41.28,*Default,NTP,0000,0000,0000,,{\blur3}奴隶？美酒？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Slaves? Wine?
+Dialogue: 0,0:10:41.32,0:10:42.78,*Default,NTP,0000,0000,0000,,{\blur3}男孩们喜欢的妓女？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Whores for the boys?
+Dialogue: 0,0:10:42.83,0:10:45.54,*Default,NTP,0000,0000,0000,,{\blur3}我们寻思你有好主意\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We can assume you have a better idea.
+Dialogue: 0,0:10:45.58,0:10:47.37,*Default,NTP,0000,0000,0000,,{\blur3}果树女神的节日就要到了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Feast of Pomona is coming soon.
+Dialogue: 0,0:10:47.41,0:10:49.79,*Default,NTP,0000,0000,0000,,{\blur3}每一个帮会照例都会分发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It used to be that each collegium would distribute
+Dialogue: 0,0:10:49.79,0:10:51.63,*Default,NTP,0000,0000,0000,,{\blur3}一些鱼和面包给人们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}fish and bread to the people.
+Dialogue: 0,0:10:51.67,0:10:52.96,*Default,NTP,0000,0000,0000,,{\blur3}为什么?\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Why?
+Dialogue: 0,0:10:53.00,0:10:54.42,*Default,NTP,0000,0000,0000,,{\blur3}作为果树女神的祭品\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As an offering to Pomona
+Dialogue: 0,0:10:54.46,0:10:57.42,*Default,NTP,0000,0000,0000,,{\blur3}并作为对人民友善的表示\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and as a gesture of goodwill to the people.
+Dialogue: 0,0:10:57.51,0:10:59.55,*Default,NTP,0000,0000,0000,,{\blur3}是 但为什么？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Yes, but why?
+Dialogue: 0,0:10:59.59,0:11:02.22,*Default,NTP,0000,0000,0000,,{\blur3}人们吃了鱼 然后呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The people eat fish. Then what?
+Dialogue: 0,0:11:02.26,0:11:05.56,*Default,NTP,0000,0000,0000,,{\blur3}然后人们就会认为帮会\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Then the people will begin to see the collegia
+Dialogue: 0,0:11:05.60,0:11:08.31,*Default,NTP,0000,0000,0000,,{\blur3}不仅仅是暴力和恐惧的传播者\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as more than purveyors of violence and fear.
+Dialogue: 0,0:11:08.35,0:11:10.44,*Default,NTP,0000,0000,0000,,{\blur3}但是我们就是那样啊\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But that is what we are.
+Dialogue: 0,0:11:12.35,0:11:14.65,*Default,NTP,0000,0000,0000,,{\blur3}过去是不一样了 过去是这样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It used to be different. It used to be,
+Dialogue: 0,0:11:14.69,0:11:17.19,*Default,NTP,0000,0000,0000,,{\blur3}人们会到帮会来寻求帮助\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}people would come to the collegia for help,
+Dialogue: 0,0:11:17.23,0:11:19.53,*Default,NTP,0000,0000,0000,,{\blur3}来找我们断事情\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for justice, for money,
+Dialogue: 0,0:11:19.57,0:11:22.32,*Default,NTP,0000,0000,0000,,{\blur3}为了婚礼或葬礼借钱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for a marriage or a funeral when they needed it,
+Dialogue: 0,0:11:22.32,0:11:24.11,*Default,NTP,0000,0000,0000,,{\blur3}配额用完时 来借贷额外的谷物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}extra grain when the dole was short.
+Dialogue: 0,0:11:24.16,0:11:27.03,*Default,NTP,0000,0000,0000,,{\blur3}什么 我们要成为谷神的牧师吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What, we're gonna be priests of Ceres now?
+Dialogue: 0,0:11:27.08,0:11:30.16,*Default,NTP,0000,0000,0000,,{\blur3}谢谢你的历史课 但那是过去的事情了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Thank you for the history lesson, but that was the old days.
+Dialogue: 0,0:11:30.20,0:11:32.96,*Default,NTP,0000,0000,0000,,{\blur3}从那之后除了战争和骚乱没有别的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And nothing but war and turmoil since then.
+Dialogue: 0,0:11:33.00,0:11:35.33,*Default,NTP,0000,0000,0000,,{\blur3}- 时代变了 兄弟 - 的确 兄弟\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Things change, brother. - They do, brother.
+Dialogue: 0,0:11:35.33,0:11:36.88,*Default,NTP,0000,0000,0000,,{\blur3}现在变了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They are changing now.
+Dialogue: 0,0:11:36.92,0:11:39.71,*Default,NTP,0000,0000,0000,,{\blur3}谁赢了希腊谁就赢了罗马\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Whoever wins in Greece wins Rome.
+Dialogue: 0,0:11:39.76,0:11:42.80,*Default,NTP,0000,0000,0000,,{\blur3}- 某种和平就会降临 - 希望如此\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Some kind of peace will follow. - Suppose it does.
+Dialogue: 0,0:11:42.84,0:11:44.89,*Default,NTP,0000,0000,0000,,{\blur3}和平不是你我这种人的朋友\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Peace is no friend to men like us,
+Dialogue: 0,0:11:44.93,0:11:47.18,*Default,NTP,0000,0000,0000,,{\blur3}我们这种在献血和混乱中发达的人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}men that thrive on blood and anarchy.
+Dialogue: 0,0:11:47.18,0:11:53.02,*Default,NTP,0000,0000,0000,,{\blur3}帮会必须改变 要不然就会灭亡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The collegia must change or they'll die.
+Dialogue: 0,0:11:53.35,0:11:56.02,*Default,NTP,0000,0000,0000,,{\blur3}或许我们并不想改变\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Suppose we don't want to change.
+Dialogue: 0,0:11:56.06,0:12:00.28,*Default,NTP,0000,0000,0000,,{\blur3}或许我们并不想浪费美好的金钱 在那些乞丐身上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Suppose we don't want to waste good money on fish for beggars.
+Dialogue: 0,0:12:00.36,0:12:02.28,*Default,NTP,0000,0000,0000,,{\blur3}我不能强迫你们大方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I cannot force any of you to be generous.
+Dialogue: 0,0:12:02.36,0:12:06.07,*Default,NTP,0000,0000,0000,,{\blur3}但是 艾文台帮会会用鱼和面包 祭祀果树女神\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}However, the Aventine will be honoring Pomona with fish and bread.
+Dialogue: 0,0:12:06.16,0:12:07.74,*Default,NTP,0000,0000,0000,,{\blur3}你们的钱爱怎么花就怎么花吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You spend your money as you wish.
+Dialogue: 0,0:12:07.78,0:12:10.33,*Default,NTP,0000,0000,0000,,{\blur3}哦 我懂了 我懂了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Oh, I see. I see!
+Dialogue: 0,0:12:10.37,0:12:12.83,*Default,NTP,0000,0000,0000,,{\blur3}你装好人 显得我们都是混蛋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Play the big man and make us look bad.
+Dialogue: 0,0:12:12.87,0:12:14.50,*Default,NTP,0000,0000,0000,,{\blur3}那样 你就不需要我的帮助了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For that, you need no help from me.
+Dialogue: 0,0:12:14.54,0:12:18.21,*Default,NTP,0000,0000,0000,,{\blur3}乌瑞纳斯 你是正确的 你是正确的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Vorenus, you're right. You're right.
+Dialogue: 0,0:12:18.25,0:12:20.50,*Default,NTP,0000,0000,0000,,{\blur3}这是个好主意\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a splendid idea.
+Dialogue: 0,0:12:20.54,0:12:24.59,*Default,NTP,0000,0000,0000,,{\blur3}我们应当仁慈 大方 让我们哺育人民吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We shall be charitable. We shall be large. Let us feed the people.
+Dialogue: 0,0:12:24.63,0:12:26.72,*Default,NTP,0000,0000,0000,,{\blur3}用各种方法 表达我们的善意吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}By all means, goodwill.
+Dialogue: 0,0:13:28.23,0:13:30.15,*Default,NTP,0000,0000,0000,,{\blur3}那…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So...
+Dialogue: 0,0:13:30.19,0:13:31.95,*Default,NTP,0000,0000,0000,,{\blur3}兄弟 说吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}speak, brother.
+Dialogue: 0,0:13:31.95,0:13:33.53,*Default,NTP,0000,0000,0000,,{\blur3}你为什么支持他？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Why'd you back him?
+Dialogue: 0,0:13:33.57,0:13:36.95,*Default,NTP,0000,0000,0000,,{\blur3}他是个有想法的人 库塔 一个有想法的人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He's a man of vision, Cotta, a man of vision.
+Dialogue: 0,0:13:36.95,0:13:40.20,*Default,NTP,0000,0000,0000,,{\blur3}作为一名罗马公民 我们有义务支持他\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's our duty as Romans to back him.
+Dialogue: 0,0:13:40.25,0:13:42.46,*Default,NTP,0000,0000,0000,,{\blur3}- 怎么样了？- 搞定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- And? - It's done.
+Dialogue: 0,0:13:51.84,0:13:53.80,*Default,NTP,0000,0000,0000,,{\blur3}我不信任那个莫密欧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I don't trust that Memmio.
+Dialogue: 0,0:13:53.84,0:13:57.80,*Default,NTP,0000,0000,0000,,{\blur3}- 过于圆滑 - 看看再说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Too smooth by half. - He bears watching.
+Dialogue: 0,0:13:57.97,0:13:59.64,*Default,NTP,0000,0000,0000,,{\blur3}你来处理西塞罗 嗯？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You'll take care of Cicero?
+Dialogue: 0,0:13:59.68,0:14:01.72,*Default,NTP,0000,0000,0000,,{\blur3}他在塔斯库勒姆的别墅里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He's at his villa in Tusculum.
+Dialogue: 0,0:14:01.77,0:14:04.02,*Default,NTP,0000,0000,0000,,{\blur3}他们希望尽快处理掉他\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They want it done quick.
+Dialogue: 0,0:14:04.06,0:14:07.86,*Default,NTP,0000,0000,0000,,{\blur3}- 我马上拿工具出发 - 不要掠夺他了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- I'll get my kit and be off, then. - No looting on this one.
+Dialogue: 0,0:14:07.90,0:14:10.78,*Default,NTP,0000,0000,0000,,{\blur3}我们应当给他应由的尊重\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We'll show some respect.
+Dialogue: 0,0:14:10.82,0:14:12.61,*Default,NTP,0000,0000,0000,,{\blur3}好的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Right.
+Dialogue: 0,0:14:23.41,0:14:24.79,*Default,NTP,0000,0000,0000,,{\blur3}要出发了？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Off out, are you?
+Dialogue: 0,0:14:28.67,0:14:31.17,*Default,NTP,0000,0000,0000,,{\blur3}- 好锋利 - 别碰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Sharp. - Don't touch that.
+Dialogue: 0,0:14:31.21,0:14:33.80,*Default,NTP,0000,0000,0000,,{\blur3}- 你去哪？- 不关你事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Where are you going? - Not your business.
+Dialogue: 0,0:14:33.88,0:14:38.64,*Default,NTP,0000,0000,0000,,{\blur3}- 客气一点 - 听着 宝贝 我知道你那一套\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Just trying to be friendly. - Look, love, I know your game.
+Dialogue: 0,0:14:39.93,0:14:42.10,*Default,NTP,0000,0000,0000,,{\blur3}少和我来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I don't want any part of it.
+Dialogue: 0,0:14:42.14,0:14:44.10,*Default,NTP,0000,0000,0000,,{\blur3}可惜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Too bad.
+Dialogue: 0,0:14:47.69,0:14:49.27,*Default,NTP,0000,0000,0000,,{\blur3}多美妙的事情啊\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a good game.
+Dialogue: 0,0:14:54.94,0:14:58.20,*Default,NTP,0000,0000,0000,,{\blur3}找那些混蛋玩吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Go find yourself some other fool to play with.
+Dialogue: 0,0:14:58.36,0:15:00.03,*Default,NTP,0000,0000,0000,,{\blur3}要是你改主意的话…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you ever change your mind...
+Dialogue: 0,0:15:05.54,0:15:08.08,*Default,NTP,0000,0000,0000,,{\blur3}别自作多情 我们完了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Don't flatter yourself. We're done.
+Dialogue: 0,0:15:13.59,0:15:15.17,*Default,NTP,0000,0000,0000,,{\blur3}她想干什么？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What did she want?
+Dialogue: 0,0:15:18.21,0:15:19.26,*Default,NTP,0000,0000,0000,,{\blur3}哦？没事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Nothing.
+Dialogue: 0,0:15:19.30,0:15:22.34,*Default,NTP,0000,0000,0000,,{\blur3}- 你了解她 - 是 我了解她\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- You know her. - Yes, I know her.
+Dialogue: 0,0:15:24.68,0:15:26.47,*Default,NTP,0000,0000,0000,,{\blur3}你去哪？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Where are you going?
+Dialogue: 0,0:15:26.56,0:15:29.60,*Default,NTP,0000,0000,0000,,{\blur3}一点小差事 今天就能完\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Bit of work. Only for the day.
+Dialogue: 0,0:15:30.94,0:15:32.77,*Default,NTP,0000,0000,0000,,{\blur3}你也来吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Why don't you come along?
+Dialogue: 0,0:15:32.81,0:15:35.23,*Default,NTP,0000,0000,0000,,{\blur3}我要去漂亮的乡下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's lovely country where I'm going.
+Dialogue: 0,0:15:36.15,0:15:38.69,*Default,NTP,0000,0000,0000,,{\blur3}乌瑞纳斯 我们一起去吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Vorenus, why don't we all go?
+Dialogue: 0,0:15:48.49,0:15:49.54,*Default,NTP,0000,0000,0000,,{\blur3}别去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Don't go.
+Dialogue: 0,0:15:50.50,0:15:52.46,*Default,NTP,0000,0000,0000,,{\blur3}我很快就会回来 你都不会觉察到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'll be back before you know it.
+Dialogue: 0,0:15:55.38,0:15:57.54,*Default,NTP,0000,0000,0000,,{\blur3}给我留点鸡肉 姑娘们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Save me some of that chicken, girls,
+Dialogue: 0,0:15:57.71,0:15:59.92,*Default,NTP,0000,0000,0000,,{\blur3}要不我回来就把卢修斯吃了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or I'm eating Lucius when I get back.
+Dialogue: 0,0:16:01.59,0:16:05.05,*Default,NTP,0000,0000,0000,,{\blur3}- 好运 - 哈 那是我的小名\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Good luck. - It's my middle name.
+Dialogue: 0,0:16:31.12,0:16:33.04,*Default,NTP,0000,0000,0000,,{\blur3}主人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Dominus.
+Dialogue: 0,0:16:37.04,0:16:39.46,*Default,NTP,0000,0000,0000,,{\blur3}说 有什么事？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Speak, man, what news?
+Dialogue: 0,0:16:39.50,0:16:42.80,*Default,NTP,0000,0000,0000,,{\blur3}我刚和安东尼军中的人谈过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I've just spoken to someone in Antony's camp.
+Dialogue: 0,0:16:43.84,0:16:44.92,*Default,NTP,0000,0000,0000,,{\blur3}然后呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And?
+Dialogue: 0,0:16:48.05,0:16:51.30,*Default,NTP,0000,0000,0000,,{\blur3}说吧 赫克托很可靠\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I think your secrets will be safe with Hector. Out with it.
+Dialogue: 0,0:17:27.01,0:17:31.22,*Default,NTP,0000,0000,0000,,{\blur3}我亲爱的布鲁图斯 我匆忙告诉你一个紧急的消息\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}"My dear Brutus, I write in haste with urgent news.
+Dialogue: 0,0:17:31.26,0:17:33.97,*Default,NTP,0000,0000,0000,,{\blur3}屋大维和安东尼和解了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}"Octavian and Antony are reconciled.
+Dialogue: 0,0:17:34.01,0:17:35.85,*Default,NTP,0000,0000,0000,,{\blur3}他们的军队联合了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}"Their two armies are united.
+Dialogue: 0,0:17:35.89,0:17:38.39,*Default,NTP,0000,0000,0000,,{\blur3}他们会在希腊突击你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}"They plan to descend on Greece and take you by surprise
+Dialogue: 0,0:17:38.43,0:17:40.43,*Default,NTP,0000,0000,0000,,{\blur3}他们拥有压倒性的力量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}"with an overwhelming force."
+Dialogue: 0,0:17:41.85,0:17:44.19,*Default,NTP,0000,0000,0000,,{\blur3}主人 杀手已经到门口了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Dominus, armed men are at the door!
+Dialogue: 0,0:17:44.19,0:17:46.82,*Default,NTP,0000,0000,0000,,{\blur3}你必须在掉进陷阱前退回亚洲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}"You must retreat to Asia before the trap is sprung."
+Dialogue: 0,0:17:46.86,0:17:49.82,*Default,NTP,0000,0000,0000,,{\blur3}- 你得跑了 - 不\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- You must run. - No.
+Dialogue: 0,0:17:49.86,0:17:51.53,*Default,NTP,0000,0000,0000,,{\blur3}太晚了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Too late for that.
+Dialogue: 0,0:18:08.38,0:18:12.13,*Default,NTP,0000,0000,0000,,{\blur3}你必须以生命保证将信送给布鲁图斯 明白？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On your life, you must get this letter to Brutus. Understand?
+Dialogue: 0,0:18:12.17,0:18:15.18,*Default,NTP,0000,0000,0000,,{\blur3}- 以生命保证 - 是 先生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- On your life. - Yes, sir.
+Dialogue: 0,0:18:15.22,0:18:17.39,*Default,NTP,0000,0000,0000,,{\blur3}主人 你要保全性命啊\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Master, you must save yourself.
+Dialogue: 0,0:18:19.06,0:18:21.02,*Default,NTP,0000,0000,0000,,{\blur3}指给他后路\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Show him the back way.
+Dialogue: 0,0:18:22.27,0:18:24.35,*Default,NTP,0000,0000,0000,,{\blur3}快\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Be quick!
+Dialogue: 0,0:18:27.81,0:18:29.98,*Default,NTP,0000,0000,0000,,{\blur3}你就是西塞罗吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So are you Cicero, then?
+Dialogue: 0,0:18:35.28,0:18:37.32,*Default,NTP,0000,0000,0000,,{\blur3}你叫什么名字 年轻人？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What is your name, young man?
+Dialogue: 0,0:18:37.99,0:18:40.28,*Default,NTP,0000,0000,0000,,{\blur3}泰特斯·波罗 先生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Titus Pullo, sir.
+Dialogue: 0,0:18:40.33,0:18:41.58,*Default,NTP,0000,0000,0000,,{\blur3}以前是13军团的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Late of the 13th.
+Dialogue: 0,0:18:42.49,0:18:46.46,*Default,NTP,0000,0000,0000,,{\blur3}啊 那个著名的泰特斯·波罗 荣幸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The famous Titus Pullo. I am honored.
+Dialogue: 0,0:18:48.25,0:18:50.46,*Default,NTP,0000,0000,0000,,{\blur3}同样 荣幸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Likewise, honored.
+Dialogue: 0,0:18:50.50,0:18:53.13,*Default,NTP,0000,0000,0000,,{\blur3}谈起著名 每一个人都会首举西塞罗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Talk about famous. Everyone's heard of Cicero.
+Dialogue: 0,0:18:54.46,0:18:56.05,*Default,NTP,0000,0000,0000,,{\blur3}是啊\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Yes.
+Dialogue: 0,0:18:56.09,0:18:57.93,*Default,NTP,0000,0000,0000,,{\blur3}我猜想\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I daresay
+Dialogue: 0,0:18:58.13,0:19:01.22,*Default,NTP,0000,0000,0000,,{\blur3}你今天的行为会让你不朽\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}your work today will earn you immortality.
+Dialogue: 0,0:19:01.68,0:19:04.52,*Default,NTP,0000,0000,0000,,{\blur3}- 什么意思？- 我会被记载在所有的历史书里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- How's that? - I will be in all the history books.
+Dialogue: 0,0:19:04.56,0:19:08.02,*Default,NTP,0000,0000,0000,,{\blur3}杀我的人 无疑也会被记载\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}My killer's name, no doubt, will live on also.
+Dialogue: 0,0:19:09.77,0:19:11.36,*Default,NTP,0000,0000,0000,,{\blur3}阿 我的名字\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}My name.
+Dialogue: 0,0:19:12.56,0:19:14.57,*Default,NTP,0000,0000,0000,,{\blur3}我想你说的是我吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Thought you meant me.
+Dialogue: 0,0:19:16.07,0:19:17.15,*Default,NTP,0000,0000,0000,,{\blur3}桃子不错\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Good peaches.
+Dialogue: 0,0:19:19.78,0:19:22.53,*Default,NTP,0000,0000,0000,,{\blur3}是 差不多成熟了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Yes, just getting ripe.
+Dialogue: 0,0:19:24.58,0:19:26.70,*Default,NTP,0000,0000,0000,,{\blur3}我想 这也许不可能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's no way...
+Dialogue: 0,0:19:26.74,0:19:29.66,*Default,NTP,0000,0000,0000,,{\blur3}劝阻你不要杀我\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I can dissuade you from your task, I suppose?
+Dialogue: 0,0:19:31.33,0:19:33.13,*Default,NTP,0000,0000,0000,,{\blur3}我有很多钱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I have a great deal of money.
+Dialogue: 0,0:19:33.17,0:19:35.96,*Default,NTP,0000,0000,0000,,{\blur3}不可能 对不起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No, sorry.
+Dialogue: 0,0:19:36.00,0:19:38.59,*Default,NTP,0000,0000,0000,,{\blur3}一般而言我容易被收买 但你太重要了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Normally, I'd be tempted, but you're far too important.
+Dialogue: 0,0:19:38.63,0:19:41.55,*Default,NTP,0000,0000,0000,,{\blur3}想想那后果吧— 我回去没完成任务\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Imagine the fuss. I get back and I haven't done my job.
+Dialogue: 0,0:19:41.59,0:19:43.68,*Default,NTP,0000,0000,0000,,{\blur3}滚开\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Go away!
+Dialogue: 0,0:19:45.18,0:19:47.81,*Default,NTP,0000,0000,0000,,{\blur3}- 离他远点 - 别傻了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Leave him alone. - Give over.
+Dialogue: 0,0:19:47.81,0:19:49.93,*Default,NTP,0000,0000,0000,,{\blur3}- 放下你的武器 - 不\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Put your weapon down. - Never.
+Dialogue: 0,0:19:49.98,0:19:52.27,*Default,NTP,0000,0000,0000,,{\blur3}别捣乱了 我可没有那么多时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Don't mess about. I haven't got all day.
+Dialogue: 0,0:19:52.31,0:19:54.73,*Default,NTP,0000,0000,0000,,{\blur3}照他说的做 泰罗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Do as he says, Tyro.
+Dialogue: 0,0:19:54.77,0:19:56.15,*Default,NTP,0000,0000,0000,,{\blur3}但是 主人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But, Dominus.
+Dialogue: 0,0:19:56.19,0:19:58.82,*Default,NTP,0000,0000,0000,,{\blur3}听我的 老朋友\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Really, old friend,
+Dialogue: 0,0:19:58.86,0:20:02.36,*Default,NTP,0000,0000,0000,,{\blur3}如果你能看到你是多么可笑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if you could see how absurd you look,
+Dialogue: 0,0:20:02.40,0:20:03.95,*Default,NTP,0000,0000,0000,,{\blur3}你就不会抵抗了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you would not protest.
+Dialogue: 0,0:20:03.99,0:20:06.49,*Default,NTP,0000,0000,0000,,{\blur3}照他说的做\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Do as he says.
+Dialogue: 0,0:20:12.20,0:20:13.21,*Default,NTP,0000,0000,0000,,{\blur3}谢谢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Thank you.
+Dialogue: 0,0:20:13.25,0:20:15.33,*Default,NTP,0000,0000,0000,,{\blur3}不 先别\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No, not yet.
+Dialogue: 0,0:20:16.83,0:20:18.34,*Default,NTP,0000,0000,0000,,{\blur3}请…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Please...
+Dialogue: 0,0:20:20.92,0:20:23.55,*Default,NTP,0000,0000,0000,,{\blur3}给我几分钟\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}give me a few moments.
+Dialogue: 0,0:20:24.22,0:20:25.55,*Default,NTP,0000,0000,0000,,{\blur3}等你准备好了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Whenever you're ready.
+Dialogue: 0,0:20:38.86,0:20:40.82,*Default,NTP,0000,0000,0000,,{\blur3}我摘些桃子可以吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Mind if I pick some peaches?
+Dialogue: 0,0:20:42.86,0:20:43.99,*Default,NTP,0000,0000,0000,,{\blur3}什么？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What?
+Dialogue: 0,0:20:46.03,0:20:47.36,*Default,NTP,0000,0000,0000,,{\blur3}欧 可以\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Oh, yes...
+Dialogue: 0,0:20:49.53,0:20:51.12,*Default,NTP,0000,0000,0000,,{\blur3}随便拿\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}take what you want.
+Dialogue: 0,0:20:52.37,0:20:53.83,*Default,NTP,0000,0000,0000,,{\blur3}谢谢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Thank you.
+Dialogue: 0,0:20:53.87,0:20:56.04,*Default,NTP,0000,0000,0000,,{\blur3}给老婆的好礼物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Nice present for the wife.
+Dialogue: 0,0:21:15.93,0:21:17.85,*Default,NTP,0000,0000,0000,,{\blur3}好了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}All right.
+Dialogue: 0,0:21:20.35,0:21:21.86,*Default,NTP,0000,0000,0000,,{\blur3}动手吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now.
+Dialogue: 0,0:21:29.36,0:21:31.45,*Default,NTP,0000,0000,0000,,{\blur3}别这样了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Stop this at once!
+Dialogue: 0,0:21:33.45,0:21:37.25,*Default,NTP,0000,0000,0000,,{\blur3}等我死后你再哭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Resume your hideous wailing when I'm gone.
+Dialogue: 0,0:21:37.83,0:21:40.54,*Default,NTP,0000,0000,0000,,{\blur3}一切都会好的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Everything will be all right.
+Dialogue: 0,0:21:40.58,0:21:43.29,*Default,NTP,0000,0000,0000,,{\blur3}我赐予你自由了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You've been freed in my will.
+Dialogue: 0,0:21:45.00,0:21:47.34,*Default,NTP,0000,0000,0000,,{\blur3}照看…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Take...
+Dialogue: 0,0:21:47.38,0:21:50.76,*Default,NTP,0000,0000,0000,,{\blur3}照看我的人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Take care of my people.
+Dialogue: 0,0:21:52.30,0:21:53.76,*Default,NTP,0000,0000,0000,,{\blur3}是 主人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Yes, master.
+Dialogue: 0,0:21:55.30,0:21:56.93,*Default,NTP,0000,0000,0000,,{\blur3}再见\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Goodbye.
+Dialogue: 0,0:22:12.61,0:22:14.20,*Default,NTP,0000,0000,0000,,{\blur3}跪下来容易些\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Easiest if you kneel.
+Dialogue: 0,0:22:33.97,0:22:36.34,*Default,NTP,0000,0000,0000,,{\blur3}你或许不想看到这些\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You might not want to watch this.
+Dialogue: 0,0:22:53.36,0:22:55.90,*Default,NTP,0000,0000,0000,,{\blur3}- 多漂亮的姑娘啊 - 的确\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Such a beautiful girl. - She is.
+Dialogue: 0,0:22:55.95,0:22:58.45,*Default,NTP,0000,0000,0000,,{\blur3}我无意冒犯\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I mean no disrespect,
+Dialogue: 0,0:22:58.66,0:23:01.33,*Default,NTP,0000,0000,0000,,{\blur3}她永远都不会嫁人 实在是太可惜了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it seems a shame she'll never have a family of her own.
+Dialogue: 0,0:23:02.54,0:23:04.54,*Default,NTP,0000,0000,0000,,{\blur3}是啊 是很可惜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It is. It is a shame.
+Dialogue: 0,0:23:05.58,0:23:07.16,*Default,NTP,0000,0000,0000,,{\blur3}但她可以…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But she could...
+Dialogue: 0,0:23:07.21,0:23:09.79,*Default,NTP,0000,0000,0000,,{\blur3}嫁人 如果你愿意的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}marry, if you would let her.
+Dialogue: 0,0:23:13.13,0:23:15.21,*Default,NTP,0000,0000,0000,,{\blur3}我知道内奥比也愿意\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I know Niobe would want it so.
+Dialogue: 0,0:23:15.26,0:23:18.30,*Default,NTP,0000,0000,0000,,{\blur3}内奥比只愿意让她嫁给体面人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Niobe would only want her married to a decent man.
+Dialogue: 0,0:23:18.38,0:23:20.05,*Default,NTP,0000,0000,0000,,{\blur3}没有体面人愿意娶她\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And no decent man would have her.
+Dialogue: 0,0:23:20.09,0:23:21.72,*Default,NTP,0000,0000,0000,,{\blur3}我们可以试着找找\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We might try and find her one.
+Dialogue: 0,0:23:24.18,0:23:27.18,*Default,NTP,0000,0000,0000,,{\blur3}什么样的男人会娶妓女？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What kind of man would marry a prostitute?
+Dialogue: 0,0:23:27.23,0:23:29.60,*Default,NTP,0000,0000,0000,,{\blur3}配得上她的男人都不会\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No man that she deserves.
+Dialogue: 0,0:23:29.64,0:23:32.56,*Default,NTP,0000,0000,0000,,{\blur3}- 卢西尔斯 快停下 - 如果她嫁不了好男人…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Lucius, stop! - If she can't have a good man...
+Dialogue: 0,0:23:45.49,0:23:48.33,*Default,NTP,0000,0000,0000,,{\blur3}- 卢西尔斯 - 看好你的小崽子 你这农民\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Lucius - Take better care of your brats, peasant.
+Dialogue: 0,0:23:48.37,0:23:50.67,*Default,NTP,0000,0000,0000,,{\blur3}- 我差点踩死他 - 你这蠢猪 是你骑得太快了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- I could have killed him! - You stupid bastard, you were riding too fast.
+Dialogue: 0,0:23:50.71,0:23:53.67,*Default,NTP,0000,0000,0000,,{\blur3}你们这些杂种 快给我滚开\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Fuck you and your fucking mongrels. Get out of my way.
+Dialogue: 0,0:23:56.63,0:23:58.59,*Default,NTP,0000,0000,0000,,{\blur3}乌瑞纳斯 别…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Vorenus, no!
+Dialogue: 0,0:23:58.76,0:24:00.26,*Default,NTP,0000,0000,0000,,{\blur3}孩子们看着呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The children.
+Dialogue: 0,0:24:03.55,0:24:05.18,*Default,NTP,0000,0000,0000,,{\blur3}滚\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Go.
+Dialogue: 0,0:24:06.18,0:24:09.06,*Default,NTP,0000,0000,0000,,{\blur3}给我滚远点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Go, get out of my sight.
+Dialogue: 0,0:24:13.23,0:24:17.27,*Default,NTP,0000,0000,0000,,{\blur3}回去接着玩 还有你 别再靠近这条路\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Get back to your game. And, you, stay out of this road.
+Dialogue: 0,0:24:38.50,0:24:40.50,*Default,NTP,0000,0000,0000,,{\blur3}有谁要桃子？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Anyone want some peaches?
+Dialogue: 0,0:24:53.60,0:24:55.56,*Default,NTP,0000,0000,0000,,{\blur3}- 美好的一天 不是吗？- 是很好 你呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Good day, was it? - Very nice. Yours?
+Dialogue: 0,0:24:55.60,0:24:56.89,*Default,NTP,0000,0000,0000,,{\blur3}没问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No problem.
+Dialogue: 0,0:24:58.61,0:25:00.69,*Default,NTP,0000,0000,0000,,{\blur3}他人还不坏 那个西赛罗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He's not a bad fellow, that Cicero.
+Dialogue: 0,0:25:00.73,0:25:02.94,*Default,NTP,0000,0000,0000,,{\blur3}没有拖泥带水 跟你想的不一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Not stuck up, like you might think.
+Dialogue: 0,0:25:02.98,0:25:04.94,*Default,NTP,0000,0000,0000,,{\blur3}给你姐姐一个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Give one to your sister.
+Dialogue: 0,0:25:35.56,0:25:38.93,*Default,NTP,0000,0000,0000,,{\blur3}马克·安东尼又拿来了更多名单\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}More names from Mark Antony.
+Dialogue: 0,0:25:38.98,0:25:42.15,*Default,NTP,0000,0000,0000,,{\blur3}- 还有？- 安东尼的敌人很多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- More? - Antony has many enemies.
+Dialogue: 0,0:25:42.19,0:25:44.02,*Default,NTP,0000,0000,0000,,{\blur3}要全部记起来得花点时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It takes time to remember them all.
+Dialogue: 0,0:25:45.48,0:25:47.44,*Default,NTP,0000,0000,0000,,{\blur3}我们已经杀得够多了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Surely we have killed enough.
+Dialogue: 0,0:25:47.53,0:25:49.36,*Default,NTP,0000,0000,0000,,{\blur3}差不多有1000人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Close on a thousand men.
+Dialogue: 0,0:25:49.40,0:25:52.78,*Default,NTP,0000,0000,0000,,{\blur3}部队需要支付酬劳 我们总得从什么地方弄到钱的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The troops need paying. We have to get the money from somewhere.
+Dialogue: 0,0:25:52.87,0:25:55.95,*Default,NTP,0000,0000,0000,,{\blur3}阿格里帕说得有道理 我们下手的速度得放慢一点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Agrippa has a point. We should proceed more slowly.
+Dialogue: 0,0:25:57.54,0:25:59.00,*Default,NTP,0000,0000,0000,,{\blur3}我们可不愿被…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We do not want to...
+Dialogue: 0,0:26:00.00,0:26:01.33,*Default,NTP,0000,0000,0000,,{\blur3}看成屠夫\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}appear butchers.
+Dialogue: 0,0:26:01.33,0:26:03.00,*Default,NTP,0000,0000,0000,,{\blur3}当然不\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Certainly not.
+Dialogue: 0,0:26:08.59,0:26:10.67,*Default,NTP,0000,0000,0000,,{\blur3}抱歉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Excuse me.
+Dialogue: 0,0:26:10.72,0:26:13.01,*Default,NTP,0000,0000,0000,,{\blur3}我需要点新鲜空气\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I need some air.
+Dialogue: 0,0:26:37.12,0:26:40.16,*Default,NTP,0000,0000,0000,,{\blur3}- 漫长的一天 - 确实是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Long day? - Very long.
+Dialogue: 0,0:26:42.12,0:26:44.37,*Default,NTP,0000,0000,0000,,{\blur3}我猜 这工作让人疲倦\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's tiring work, I imagine,
+Dialogue: 0,0:26:44.42,0:26:48.54,*Default,NTP,0000,0000,0000,,{\blur3}杀人越货 甚至连无力反抗的人也不放过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}killing people, even defenseless ones.
+Dialogue: 0,0:26:48.59,0:26:50.80,*Default,NTP,0000,0000,0000,,{\blur3}大部分的人我们会让他们自行逃命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Most of them we shall let escape into exile.
+Dialogue: 0,0:26:50.84,0:26:52.59,*Default,NTP,0000,0000,0000,,{\blur3}他们损失的只有钱财与土地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They will only lose money and land.
+Dialogue: 0,0:26:52.63,0:26:55.63,*Default,NTP,0000,0000,0000,,{\blur3}家财两空？还算不错呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Just ruined? That's all right, then.
+Dialogue: 0,0:26:55.68,0:26:58.64,*Default,NTP,0000,0000,0000,,{\blur3}这活儿不怎么让人高兴 可却必须完成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's not pleasant work, but it's necessary.
+Dialogue: 0,0:26:58.72,0:27:01.10,*Default,NTP,0000,0000,0000,,{\blur3}为了共和国\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For the good of the Republic.
+Dialogue: 0,0:27:01.18,0:27:03.47,*Default,NTP,0000,0000,0000,,{\blur3}正是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Exactly.
+Dialogue: 0,0:27:03.52,0:27:06.98,*Default,NTP,0000,0000,0000,,{\blur3}- 请你原谅 - 不 等一下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- If you'd excuse me. - No, wait.
+Dialogue: 0,0:27:07.02,0:27:08.65,*Default,NTP,0000,0000,0000,,{\blur3}你最近一直在躲我\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You've been avoiding me.
+Dialogue: 0,0:27:08.69,0:27:10.98,*Default,NTP,0000,0000,0000,,{\blur3}- 我认为这样最好 - 为什么？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- I thought it best. - Why?
+Dialogue: 0,0:27:11.90,0:27:13.36,*Default,NTP,0000,0000,0000,,{\blur3}免得尴尬\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To avoid any awkwardness.
+Dialogue: 0,0:27:14.61,0:27:16.49,*Default,NTP,0000,0000,0000,,{\blur3}尴尬\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Awkwardness?
+Dialogue: 0,0:27:16.53,0:27:18.11,*Default,NTP,0000,0000,0000,,{\blur3}我明白了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I see.
+Dialogue: 0,0:27:18.16,0:27:19.61,*Default,NTP,0000,0000,0000,,{\blur3}看来我是对的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I was right, then.
+Dialogue: 0,0:27:20.74,0:27:21.74,*Default,NTP,0000,0000,0000,,{\blur3}怎么会？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How so?
+Dialogue: 0,0:27:21.78,0:27:24.04,*Default,NTP,0000,0000,0000,,{\blur3}我认为如果你真像你说的那么爱我的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I think if you did actually love me as you said,
+Dialogue: 0,0:27:24.08,0:27:26.25,*Default,NTP,0000,0000,0000,,{\blur3}再怎么尴尬你都不会在乎\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you wouldn't mind any amount of awkwardness.
+Dialogue: 0,0:27:27.29,0:27:28.92,*Default,NTP,0000,0000,0000,,{\blur3}不 不 我很高兴能知道真相\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No, I'm glad to know the truth.
+Dialogue: 0,0:27:28.96,0:27:32.25,*Default,NTP,0000,0000,0000,,{\blur3}得了 别玩我了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Please, do not toy with me.
+Dialogue: 0,0:27:33.25,0:27:35.26,*Default,NTP,0000,0000,0000,,{\blur3}你不应该误解我的真诚\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You cannot have mistaken my sincerity.
+Dialogue: 0,0:27:35.30,0:27:37.09,*Default,NTP,0000,0000,0000,,{\blur3}但你说避免尴尬啊\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But to avoid awkwardness?
+Dialogue: 0,0:27:37.09,0:27:40.72,*Default,NTP,0000,0000,0000,,{\blur3}我不跟你说话 是因为我清楚 对你的感情是没有希望的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I didn't speak to you because I know my feelings for you are hopeless.
+Dialogue: 0,0:27:40.76,0:27:42.93,*Default,NTP,0000,0000,0000,,{\blur3}这得我说了算 不是吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But that's for me to say, isn't it?
+Dialogue: 0,0:27:43.76,0:27:46.10,*Default,NTP,0000,0000,0000,,{\blur3}不 不是的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No. No, it's not.
+Dialogue: 0,0:27:48.10,0:27:49.81,*Default,NTP,0000,0000,0000,,{\blur3}我爸爸是个无名小卒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}My father was a nobody.
+Dialogue: 0,0:27:49.85,0:27:53.90,*Default,NTP,0000,0000,0000,,{\blur3}他的爸爸是个奴隶 我连一丁点高贵血统都没有\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}His father was a slave. I have not a drop of good blood in me.
+Dialogue: 0,0:27:53.94,0:27:56.61,*Default,NTP,0000,0000,0000,,{\blur3}所以你是白手起家的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So you have risen purely by merit.
+Dialogue: 0,0:27:56.65,0:27:59.78,*Default,NTP,0000,0000,0000,,{\blur3}这总是值得称赞的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Surely that is commendable, in its way.
+Dialogue: 0,0:27:59.90,0:28:02.78,*Default,NTP,0000,0000,0000,,{\blur3}你是盖乌斯·屋大维·恺撒的姐姐\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You are sister to Gaius Octavian Caesar.
+Dialogue: 0,0:28:02.87,0:28:05.78,*Default,NTP,0000,0000,0000,,{\blur3}你绝不会嫁给一个 无名小卒的“值得称赞”的儿子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You'll not be married to the commendable son of a nobody.
+Dialogue: 0,0:28:05.83,0:28:08.20,*Default,NTP,0000,0000,0000,,{\blur3}- 我爱嫁谁嫁谁 - 不\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- I'll marry who I like! - No.
+Dialogue: 0,0:28:09.50,0:28:10.91,*Default,NTP,0000,0000,0000,,{\blur3}不 你做不到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No, you won't.
+Dialogue: 0,0:28:11.96,0:28:15.79,*Default,NTP,0000,0000,0000,,{\blur3}你会嫁给你弟弟挑选的 某个有前途的贵族\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You'll marry some useful nobleman of your brother's choosing.
+Dialogue: 0,0:28:18.92,0:28:22.26,*Default,NTP,0000,0000,0000,,{\blur3}- 奥克塔维娅… - 让我一个人待会儿\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Octavia... - Just leave me alone.
+Dialogue: 0,0:28:24.39,0:28:25.97,*Default,NTP,0000,0000,0000,,{\blur3}我很抱歉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm sorry.
+Dialogue: 0,0:28:28.56,0:28:32.64,*Default,NTP,0000,0000,0000,,{\blur3}这几个月来都一直折磨着自己\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I've been torturing myself these last months.
+Dialogue: 0,0:28:32.68,0:28:36.61,*Default,NTP,0000,0000,0000,,{\blur3}我没办法 我没办法忍受…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I cannot... I cannot bear to...
+Dialogue: 0,0:28:36.69,0:28:38.69,*Default,NTP,0000,0000,0000,,{\blur3}别…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Don't.
+Dialogue: 0,0:28:50.41,0:28:54.46,*Default,NTP,0000,0000,0000,,{\blur3}- 哦 你好 奥克塔维娅 - 米西奈斯 我过来见我弟弟\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Hello, Octavia. - Maecenas, I came to see my brother.
+Dialogue: 0,0:28:55.50,0:28:57.54,*Default,NTP,0000,0000,0000,,{\blur3}我肯定他见到你会很高兴的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm sure he'll be very happy to see you.
+Dialogue: 0,0:28:59.09,0:29:01.88,*Default,NTP,0000,0000,0000,,{\blur3}阿格里帕 我们找不到那些该死的数据\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Agrippa, we can't find the wretched blasted figures
+Dialogue: 0,0:29:01.92,0:29:04.17,*Default,NTP,0000,0000,0000,,{\blur3}有关税收计划的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for the blasted tax projections.
+Dialogue: 0,0:29:04.22,0:29:05.59,*Default,NTP,0000,0000,0000,,{\blur3}呃 好的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Yes.
+Dialogue: 0,0:29:07.64,0:29:09.01,*Default,NTP,0000,0000,0000,,{\blur3}又见到你真高兴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Lovely to see you again.
+Dialogue: 0,0:29:34.66,0:29:39.37,*Default,NTP,0000,0000,0000,,{\blur3}他们要我们拿出来的 可不是一笔小数目\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It is no small sum we are asked to give.
+Dialogue: 0,0:29:39.42,0:29:41.04,*Default,NTP,0000,0000,0000,,{\blur3}有什么能保证我们的钱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What guarantee is there
+Dialogue: 0,0:29:41.08,0:29:43.96,*Default,NTP,0000,0000,0000,,{\blur3}可以换来我们想要的影响力呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that our money buys the influence we seek?
+Dialogue: 0,0:29:44.00,0:29:48.05,*Default,NTP,0000,0000,0000,,{\blur3}是希律王的手下向我们提出要求的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It is Herod's own agent who makes this request of us.
+Dialogue: 0,0:29:48.09,0:29:50.51,*Default,NTP,0000,0000,0000,,{\blur3}如果我们的钱能够确保\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If our money can ensure
+Dialogue: 0,0:29:50.55,0:29:53.76,*Default,NTP,0000,0000,0000,,{\blur3}罗马承认他是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that Rome recognizes him as King of Judea,
+Dialogue: 0,0:29:53.80,0:29:57.73,*Default,NTP,0000,0000,0000,,{\blur3}朱迪亚之王 那希律王可就欠我们一个人情\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Herod will be in our debt. He acknowledges this himself.
+Dialogue: 0,0:29:57.77,0:30:01.31,*Default,NTP,0000,0000,0000,,{\blur3}他自己也清楚这一点 但是他到底准备贿赂谁？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But who exactly does he intend to bribe?
+Dialogue: 0,0:30:01.35,0:30:04.52,*Default,NTP,0000,0000,0000,,{\blur3}谁又知道下个月罗马又将落入谁的手中？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Who knows who will be master of Rome next month,
+Dialogue: 0,0:30:04.57,0:30:06.40,*Default,NTP,0000,0000,0000,,{\blur3}更不用说是明年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}leave alone next year?
+Dialogue: 0,0:30:06.40,0:30:11.11,*Default,NTP,0000,0000,0000,,{\blur3}我们绝不会轻易把钱撒出去 除非一切已经尘埃落定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We will not disburse the money until the conflict is settled.
+Dialogue: 0,0:30:12.57,0:30:14.78,*Default,NTP,0000,0000,0000,,{\blur3}这里怎么变成了这样？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How has it come to this?
+Dialogue: 0,0:30:17.66,0:30:19.66,*Default,NTP,0000,0000,0000,,{\blur3}这个神圣之地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In this holy place
+Dialogue: 0,0:30:21.12,0:30:23.83,*Default,NTP,0000,0000,0000,,{\blur3}你们在这里密谋贿赂\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you conspire in bribery,
+Dialogue: 0,0:30:23.88,0:30:27.42,*Default,NTP,0000,0000,0000,,{\blur3}好让那些异教的人偶崇拜者 统治你们自己的族群\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so that idolaters can rule over your own people.
+Dialogue: 0,0:30:27.46,0:30:31.09,*Default,NTP,0000,0000,0000,,{\blur3}- 你以为自己是谁？- 坐下 摩西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Who do you think you are? - Sit down, Moses.
+Dialogue: 0,0:30:31.13,0:30:34.26,*Default,NTP,0000,0000,0000,,{\blur3}你们是想让塞琉卡斯王朝统治朱迪亚？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Would you have the Seleucids rule Judea?
+Dialogue: 0,0:30:34.30,0:30:36.09,*Default,NTP,0000,0000,0000,,{\blur3}还是托勒密王朝？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Or the Ptolemys?
+Dialogue: 0,0:30:36.14,0:30:38.68,*Default,NTP,0000,0000,0000,,{\blur3}最好是某个我们熟识的统治者 好让我们与之共事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Better one we know, one we can work with.
+Dialogue: 0,0:30:38.72,0:30:41.85,*Default,NTP,0000,0000,0000,,{\blur3}为什么要让他们来统治？这是我们的土地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Why let any of them rule? This is our land!
+Dialogue: 0,0:30:41.89,0:30:45.56,*Default,NTP,0000,0000,0000,,{\blur3}你们是舍弃自己同胞的叛徒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You are traitors to your own kind.
+Dialogue: 0,0:30:45.60,0:30:47.56,*Default,NTP,0000,0000,0000,,{\blur3}愿神宽恕你们所有人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}May Ha-Shem have mercy on all of you.
+Dialogue: 0,0:30:53.61,0:30:56.57,*Default,NTP,0000,0000,0000,,{\blur3}报上你的名字\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Name yourselves.
+Dialogue: 0,0:30:56.62,0:30:58.91,*Default,NTP,0000,0000,0000,,{\blur3}我们是的阿罗德的儿子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We are the sons of Arod,
+Dialogue: 0,0:30:58.99,0:31:02.04,*Default,NTP,0000,0000,0000,,{\blur3}来自玛拿西家族\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from the families of Manasseh.
+Dialogue: 0,0:31:02.08,0:31:05.16,*Default,NTP,0000,0000,0000,,{\blur3}我们代表着以色列的愤怒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We are the wrath of Israel.
+Dialogue: 0,0:31:36.70,0:31:38.24,*Default,NTP,0000,0000,0000,,{\blur3}喔 泰维亚\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Oh, Tevye.
+Dialogue: 0,0:31:38.28,0:31:42.03,*Default,NTP,0000,0000,0000,,{\blur3}真高兴能够获得你的支持\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What joy it is to have your strength at my side.
+Dialogue: 0,0:31:42.08,0:31:44.66,*Default,NTP,0000,0000,0000,,{\blur3}我弄不明白 殴打长者们不成问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I don't get it. Roughing up the elders, no problem.
+Dialogue: 0,0:31:44.70,0:31:47.29,*Default,NTP,0000,0000,0000,,{\blur3}- 可是做这些事的理由是什么？- 锡安山圣地就是理由\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- But where's the point in that? - Zion is the point.
+Dialogue: 0,0:31:47.33,0:31:49.16,*Default,NTP,0000,0000,0000,,{\blur3}兄弟们 我们是在拯救圣地之国\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're redeeming the Kingdom of Zion.
+Dialogue: 0,0:31:49.21,0:31:52.00,*Default,NTP,0000,0000,0000,,{\blur3}记住 朋友们 记住我们的身份\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Remember, friends. Remember who we are.
+Dialogue: 0,0:31:52.00,0:31:53.79,*Default,NTP,0000,0000,0000,,{\blur3}我们是被神选中的子民\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We are the chosen people.
+Dialogue: 0,0:31:53.84,0:31:56.71,*Default,NTP,0000,0000,0000,,{\blur3}不是奴隶 不是畜生 是被神选中的子民\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Not slaves, not animals. The chosen people.
+Dialogue: 0,0:31:56.76,0:31:59.26,*Default,NTP,0000,0000,0000,,{\blur3}闪开 闪开\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Make way. Make way there!
+Dialogue: 0,0:32:06.81,0:32:08.68,*Default,NTP,0000,0000,0000,,{\blur3}谢谢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Thank you.
+Dialogue: 0,0:32:08.73,0:32:12.02,*Default,NTP,0000,0000,0000,,{\blur3}- 所有人今天都有东西吃 - 愿主保佑你 乌瑞纳斯\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Everybody eats today. - Bless you, Vorenus.
+Dialogue: 0,0:32:12.06,0:32:13.65,*Default,NTP,0000,0000,0000,,{\blur3}看见了吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}See?
+Dialogue: 0,0:32:13.69,0:32:16.15,*Default,NTP,0000,0000,0000,,{\blur3}就跟你要求的一样有条不紊\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Orderly as you like.
+Dialogue: 0,0:32:16.19,0:32:18.36,*Default,NTP,0000,0000,0000,,{\blur3}是的 很不错\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Yes, very nice.
+Dialogue: 0,0:32:20.28,0:32:22.82,*Default,NTP,0000,0000,0000,,{\blur3}屋大维今天走？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Octavian leaving today?
+Dialogue: 0,0:32:22.91,0:32:26.33,*Default,NTP,0000,0000,0000,,{\blur3}- 胜者通吃 你也赞同？- 我赞同\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Winner takes all, you reckon? - I reckon.
+Dialogue: 0,0:32:26.37,0:32:28.41,*Default,NTP,0000,0000,0000,,{\blur3}真后悔我没能参加\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Shame not to be there.
+Dialogue: 0,0:32:30.08,0:32:32.17,*Default,NTP,0000,0000,0000,,{\blur3}那些岁月已经是过去的事了 兄弟\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Those days are behind us, brother.
+Dialogue: 0,0:32:32.21,0:32:36.00,*Default,NTP,0000,0000,0000,,{\blur3}我们还有别的事要做 无论如何 很快这里就会恢复平静\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We've other concerns here. There'll be peace soon, one way or another.
+Dialogue: 0,0:32:36.04,0:32:38.96,*Default,NTP,0000,0000,0000,,{\blur3}也许是件好事吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A good thing, I suppose.
+Dialogue: 0,0:32:40.55,0:32:42.09,*Default,NTP,0000,0000,0000,,{\blur3}不过？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But?
+Dialogue: 0,0:32:43.97,0:32:46.64,*Default,NTP,0000,0000,0000,,{\blur3}你知道和平时代我会变成什么样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You know how it goes with me in peacetime.
+Dialogue: 0,0:32:47.89,0:32:49.72,*Default,NTP,0000,0000,0000,,{\blur3}暴力是我唯一明白的生意经\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Violence is the only trade I know.
+Dialogue: 0,0:32:49.77,0:32:52.93,*Default,NTP,0000,0000,0000,,{\blur3}和平降临 帮会转变 就跟你说的一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Peace comes, and the collegia change, as you say they must,
+Dialogue: 0,0:32:52.98,0:32:54.90,*Default,NTP,0000,0000,0000,,{\blur3}我就又是无所事事了 不是吗？我会失业\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'll be on my arse again, won't I?
+Dialogue: 0,0:32:54.98,0:32:58.27,*Default,NTP,0000,0000,0000,,{\blur3}跟那些醉鬼唠叨我的战斗生涯\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Jobless, telling war stories to the rest of the drunkards.
+Dialogue: 0,0:32:58.44,0:33:00.73,*Default,NTP,0000,0000,0000,,{\blur3}不 现在不一样了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No, it's different now.
+Dialogue: 0,0:33:00.73,0:33:03.74,*Default,NTP,0000,0000,0000,,{\blur3}你跟我 我们可以干一番大事业\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You and me, we can do big things here.
+Dialogue: 0,0:33:05.86,0:33:06.86,*Default,NTP,0000,0000,0000,,{\blur3}你会的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You will.
+Dialogue: 0,0:33:06.95,0:33:08.91,*Default,NTP,0000,0000,0000,,{\blur3}你会干一番大事业\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You'll do big things.
+Dialogue: 0,0:33:10.45,0:33:14.08,*Default,NTP,0000,0000,0000,,{\blur3}看见你乐呵呵地找到自己的目标 真替你高兴 是啊\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's good to see you so happy and full of purpose again. It is.
+Dialogue: 0,0:33:15.62,0:33:18.13,*Default,NTP,0000,0000,0000,,{\blur3}可我呢 我不知道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But me, I don't know.
+Dialogue: 0,0:33:20.59,0:33:23.76,*Default,NTP,0000,0000,0000,,{\blur3}你可是艾文台山的二当家\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You're second man in the Aventine.
+Dialogue: 0,0:33:24.88,0:33:26.43,*Default,NTP,0000,0000,0000,,{\blur3}二当家\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Second man.
+Dialogue: 0,0:33:27.26,0:33:29.22,*Default,NTP,0000,0000,0000,,{\blur3}我都可以看到它刻在我的墓碑上了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I can see it on my tombstone now.
+Dialogue: 0,0:33:29.26,0:33:32.85,*Default,NTP,0000,0000,0000,,{\blur3}艾文台山的二当家 他施舍了许多鱼\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}"Second man on the Aventine. He handed out many fish."
+Dialogue: 0,0:33:33.85,0:33:36.52,*Default,NTP,0000,0000,0000,,{\blur3}- 施舍鱼又不是坏事 - 不不不\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Nothing wrong with handing out fish. - No, no, no.
+Dialogue: 0,0:33:36.56,0:33:40.27,*Default,NTP,0000,0000,0000,,{\blur3}精明的生意眼光 毫无疑问 可这不是战士该干的活 对吧？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Canny business, no doubt. But it's not soldier's work, is it?
+Dialogue: 0,0:33:40.27,0:33:41.98,*Default,NTP,0000,0000,0000,,{\blur3}我是个战士\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm a soldier!
+Dialogue: 0,0:33:43.44,0:33:45.49,*Default,NTP,0000,0000,0000,,{\blur3}至少我曾经是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Least I used to be.
+Dialogue: 0,0:34:00.42,0:34:02.29,*Default,NTP,0000,0000,0000,,{\blur3}第二个钟\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Second hour.
+Dialogue: 0,0:34:10.55,0:34:12.47,*Default,NTP,0000,0000,0000,,{\blur3}第二个钟\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Second hour.
+Dialogue: 0,0:34:39.66,0:34:41.50,*Default,NTP,0000,0000,0000,,{\blur3}我们该走了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We should go.
+Dialogue: 0,0:34:46.13,0:34:48.67,*Default,NTP,0000,0000,0000,,{\blur3}第三个钟\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Third hour.
+Dialogue: 0,0:34:48.71,0:34:50.51,*Default,NTP,0000,0000,0000,,{\blur3}天啊 一定是弄错了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Gods! That can't be right.
+Dialogue: 0,0:34:50.55,0:34:53.68,*Default,NTP,0000,0000,0000,,{\blur3}- 他们从不出错 - 第三个钟\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- They're always right. - Third hour.
+Dialogue: 0,0:34:53.72,0:34:55.93,*Default,NTP,0000,0000,0000,,{\blur3}瞎眼的龟奴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Blind, bawdy house slave.
+Dialogue: 0,0:34:55.97,0:34:57.76,*Default,NTP,0000,0000,0000,,{\blur3}从不出错\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Always.
+Dialogue: 0,0:34:57.93,0:35:00.97,*Default,NTP,0000,0000,0000,,{\blur3}这一套你很熟啊\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Familiar with the species, are you?
+Dialogue: 0,0:35:01.02,0:35:04.14,*Default,NTP,0000,0000,0000,,{\blur3}我是个罪孽深重不干净的女子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm an unchaste and sinful woman.
+Dialogue: 0,0:35:04.19,0:35:07.86,*Default,NTP,0000,0000,0000,,{\blur3}- 我以为你喜欢我这一点 - 对不起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- I thought you liked that about me. - I'm sorry.
+Dialogue: 0,0:35:07.90,0:35:10.90,*Default,NTP,0000,0000,0000,,{\blur3}- 我不该那么大男人 - 不\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- I have no right to be possessive. - No.
+Dialogue: 0,0:35:11.90,0:35:14.28,*Default,NTP,0000,0000,0000,,{\blur3}我就喜欢你这一点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I like that about you.
+Dialogue: 0,0:35:29.88,0:35:33.51,*Default,NTP,0000,0000,0000,,{\blur3}- 你真的没事？- 我很好\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Are you sure you're all right? - I'll be fine.
+Dialogue: 0,0:35:33.55,0:35:36.88,*Default,NTP,0000,0000,0000,,{\blur3}等你走了之后 我肯定会没事的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Once you're gone, I'm sure I shall be fine.
+Dialogue: 0,0:35:37.93,0:35:40.22,*Default,NTP,0000,0000,0000,,{\blur3}我真的要走了 我已经迟到很久了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I really should go. I'm very late.
+Dialogue: 0,0:35:40.26,0:35:42.06,*Default,NTP,0000,0000,0000,,{\blur3}那就走吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Then go.
+Dialogue: 0,0:35:43.10,0:35:45.31,*Default,NTP,0000,0000,0000,,{\blur3}- 我不想把你就这么留下 - 走吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- I don't want to leave you like this. - Go!
+Dialogue: 0,0:36:20.76,0:36:24.35,*Default,NTP,0000,0000,0000,,{\blur3}所有人一起 一起 听我说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Everyone together! Together, I say!
+Dialogue: 0,0:36:31.39,0:36:33.23,*Default,NTP,0000,0000,0000,,{\blur3}屋大维 求求你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Octavian, please.
+Dialogue: 0,0:36:33.27,0:36:35.36,*Default,NTP,0000,0000,0000,,{\blur3}哪怕是为了我 对安东尼好点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If only for my sake, be good to Antony.
+Dialogue: 0,0:36:35.40,0:36:36.77,*Default,NTP,0000,0000,0000,,{\blur3}我保证 母亲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I am pledged to it, mother.
+Dialogue: 0,0:36:36.82,0:36:39.65,*Default,NTP,0000,0000,0000,,{\blur3}他是个自大的混球 我也明白 可他还算个诚实的好人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He's an arrogant shit, but he's a good and honest man.
+Dialogue: 0,0:36:39.74,0:36:41.03,*Default,NTP,0000,0000,0000,,{\blur3}你需要他\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You need him.
+Dialogue: 0,0:36:41.07,0:36:43.78,*Default,NTP,0000,0000,0000,,{\blur3}- 你们需要彼此 - 我明白 母亲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- You need each other. - I'm aware, Mother.
+Dialogue: 0,0:36:43.78,0:36:45.66,*Default,NTP,0000,0000,0000,,{\blur3}- 听着 - 部队已经在集结了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Listen... - Troops are assembling
+Dialogue: 0,0:36:45.70,0:36:47.91,*Default,NTP,0000,0000,0000,,{\blur3}我们很快就开拔了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on the Field of Mars. We must be away soon.
+Dialogue: 0,0:36:47.95,0:36:50.04,*Default,NTP,0000,0000,0000,,{\blur3}- 阿格里帕去哪儿了？- 我不知道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Where is Agrippa? - I don't know.
+Dialogue: 0,0:36:50.08,0:36:52.58,*Default,NTP,0000,0000,0000,,{\blur3}跟女人们道别 我猜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Saying goodbye to some woman, I expect.
+Dialogue: 0,0:36:52.62,0:36:55.33,*Default,NTP,0000,0000,0000,,{\blur3}- 啊？- 他可能养着好几个妓女\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Ah - He attends to several whores.
+Dialogue: 0,0:36:55.38,0:36:57.13,*Default,NTP,0000,0000,0000,,{\blur3}或是某个情妇\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Or one lover.
+Dialogue: 0,0:36:57.17,0:36:59.63,*Default,NTP,0000,0000,0000,,{\blur3}- 我不知道是哪种 - 做安东尼的朋友\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- I don't know which. - Be a friend to Antony.
+Dialogue: 0,0:36:59.75,0:37:03.59,*Default,NTP,0000,0000,0000,,{\blur3}别显得冷冰冰 高人一等 这只会激怒他 只会让所有人不爽\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Don't be cold and superior, it will only provoke him. It provokes everybody.
+Dialogue: 0,0:37:03.63,0:37:06.34,*Default,NTP,0000,0000,0000,,{\blur3}我们都知道你有多聪明 没有人需要一再提醒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We all know how clever you are. No one needs reminding.
+Dialogue: 0,0:37:06.39,0:37:07.39,*Default,NTP,0000,0000,0000,,{\blur3}好的 母亲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Yes, Mother.
+Dialogue: 0,0:37:16.85,0:37:17.98,*Default,NTP,0000,0000,0000,,{\blur3}对不起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm so sorry.
+Dialogue: 0,0:37:18.02,0:37:20.98,*Default,NTP,0000,0000,0000,,{\blur3}在这样的大日子刚从妓院的床上爬起来啊\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Hot from a brothel bed on such a day?
+Dialogue: 0,0:37:20.98,0:37:22.40,*Default,NTP,0000,0000,0000,,{\blur3}真为你感到羞耻 阿格里帕\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Shame on you, Agrippa.
+Dialogue: 0,0:37:22.44,0:37:24.74,*Default,NTP,0000,0000,0000,,{\blur3}我想你保证 绝对不是这样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I assure you, nothing of the sort.
+Dialogue: 0,0:37:24.78,0:37:28.49,*Default,NTP,0000,0000,0000,,{\blur3}我跟你开玩笑的 没事 我们走吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm teasing you. It's fine. We should go.
+Dialogue: 0,0:37:31.04,0:37:32.83,*Default,NTP,0000,0000,0000,,{\blur3}再见 母亲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Goodbye, Mother.
+Dialogue: 0,0:37:35.21,0:37:36.83,*Default,NTP,0000,0000,0000,,{\blur3}愿朱诺神后保佑你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Juno bless you.
+Dialogue: 0,0:37:37.46,0:37:39.75,*Default,NTP,0000,0000,0000,,{\blur3}哦 感谢天主 你还没走\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Thank the gods you haven't gone already.
+Dialogue: 0,0:37:39.79,0:37:42.50,*Default,NTP,0000,0000,0000,,{\blur3}我很抱歉来晚了 女人们的麻烦事…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm sorry I'm late. Women's troubles.
+Dialogue: 0,0:37:42.50,0:37:45.63,*Default,NTP,0000,0000,0000,,{\blur3}必须先到神庙去一趟 那地方吵得不可开交\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Had to go to the temple, the place was a madhouse.
+Dialogue: 0,0:37:45.67,0:37:48.80,*Default,NTP,0000,0000,0000,,{\blur3}- 我真高兴没有跟你错过 - 给我一个吻吧 姐姐\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- I'm so glad I didn't miss you. - Give me a kiss, sister.
+Dialogue: 0,0:37:48.84,0:37:50.18,*Default,NTP,0000,0000,0000,,{\blur3}人们还等着呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The men are waiting.
+Dialogue: 0,0:38:18.41,0:38:19.87,*Default,NTP,0000,0000,0000,,{\blur3}前进\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Forward!
+Dialogue: 0,0:38:30.09,0:38:33.55,*Default,NTP,0000,0000,0000,,{\blur3}现在你可以告诉我关于阿格里帕的一切了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So now you can tell me all about Agrippa.
+Dialogue: 0,0:38:34.55,0:38:36.22,*Default,NTP,0000,0000,0000,,{\blur3}关于他的什么？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, what about him?
+Dialogue: 0,0:38:37.31,0:38:40.27,*Default,NTP,0000,0000,0000,,{\blur3}你们这对小情人发展多久了？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How long have you two been lovers?
+Dialogue: 0,0:38:40.31,0:38:41.85,*Default,NTP,0000,0000,0000,,{\blur3}没这回事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's not true.
+Dialogue: 0,0:38:41.89,0:38:45.90,*Default,NTP,0000,0000,0000,,{\blur3}哦 得了 别跟你妈妈说谎 你知道这套行不通的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Please, don't lie to your mother, you know it's futile.
+Dialogue: 0,0:38:49.40,0:38:51.36,*Default,NTP,0000,0000,0000,,{\blur3}你怎么知道的？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How did you know?
+Dialogue: 0,0:38:52.82,0:38:54.99,*Default,NTP,0000,0000,0000,,{\blur3}现在不就知道了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I didn't until now.
+Dialogue: 0,0:38:56.03,0:38:57.03,*Default,NTP,0000,0000,0000,,{\blur3}你不能…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You mustn't...
+Dialogue: 0,0:38:57.08,0:38:59.74,*Default,NTP,0000,0000,0000,,{\blur3}你不能告诉屋大维 求你了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You mustn't tell Octavian. Please!
+Dialogue: 0,0:38:59.87,0:39:02.00,*Default,NTP,0000,0000,0000,,{\blur3}我想这也无伤大雅\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's harmless enough, I suppose.
+Dialogue: 0,0:39:02.08,0:39:05.50,*Default,NTP,0000,0000,0000,,{\blur3}你跟阿格里帕肯定有理由小心谨慎\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Both you and Agrippa have good reason to be discreet.
+Dialogue: 0,0:39:05.54,0:39:07.54,*Default,NTP,0000,0000,0000,,{\blur3}你们可以尽情享受一下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You may as well enjoy yourself.
+Dialogue: 0,0:39:07.59,0:39:08.59,*Default,NTP,0000,0000,0000,,{\blur3}谢谢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Thank you.
+Dialogue: 0,0:39:08.63,0:39:11.05,*Default,NTP,0000,0000,0000,,{\blur3}只要你还没丧失理智\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Just as long as you keep your wits about you.
+Dialogue: 0,0:39:11.09,0:39:14.38,*Default,NTP,0000,0000,0000,,{\blur3}就别想着能远走高飞 有朝一日嫁给他\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Don't think you'll marry him someday
+Dialogue: 0,0:39:14.43,0:39:15.89,*Default,NTP,0000,0000,0000,,{\blur3}- 因为这是不可能的 - 我知道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- because it won't happen. - I know.
+Dialogue: 0,0:39:15.93,0:39:18.26,*Default,NTP,0000,0000,0000,,{\blur3}但是我爱他 母亲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But I love him, Mother.
+Dialogue: 0,0:39:19.31,0:39:20.76,*Default,NTP,0000,0000,0000,,{\blur3}我爱他\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I love him.
+Dialogue: 0,0:39:21.52,0:39:24.94,*Default,NTP,0000,0000,0000,,{\blur3}真是柔肠百结啊 我该拿你怎么办呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Soft as cheese. What am I gonna do with you?
+Dialogue: 0,0:39:26.10,0:39:27.86,*Default,NTP,0000,0000,0000,,{\blur3}救命啊\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Help me!
+Dialogue: 0,0:39:28.44,0:39:30.90,*Default,NTP,0000,0000,0000,,{\blur3}天啊 救救我\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Gods, help me!
+Dialogue: 0,0:39:31.73,0:39:33.40,*Default,NTP,0000,0000,0000,,{\blur3}天啊 救救我\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Gods, help me!
+Dialogue: 0,0:39:33.44,0:39:36.61,*Default,NTP,0000,0000,0000,,{\blur3}求你们救救我 我求求你们救我\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Please help me! I beg you to help me.
+Dialogue: 0,0:39:36.61,0:39:41.08,*Default,NTP,0000,0000,0000,,{\blur3}伊俄卡斯特 出什么事了？你出什么事了？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Jocasta, what's wrong? What's happened to you?
+Dialogue: 0,0:39:41.12,0:39:43.45,*Default,NTP,0000,0000,0000,,{\blur3}夜里有人进来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Men came in the night.
+Dialogue: 0,0:39:43.45,0:39:45.71,*Default,NTP,0000,0000,0000,,{\blur3}我全家都死光了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}All my family are dead.
+Dialogue: 0,0:39:45.75,0:39:48.88,*Default,NTP,0000,0000,0000,,{\blur3}他们杀死了我全家 还把我掳走\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They killed them and took me away.
+Dialogue: 0,0:39:48.92,0:39:52.55,*Default,NTP,0000,0000,0000,,{\blur3}- 他们污辱了我 - 你现在安全了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- They have dishonored me. - You're safe now.
+Dialogue: 0,0:39:52.59,0:39:54.96,*Default,NTP,0000,0000,0000,,{\blur3}是吗 母亲？我们会保证她的安全\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Isn't she, Mother? We'll keep her safe.
+Dialogue: 0,0:39:56.17,0:39:58.76,*Default,NTP,0000,0000,0000,,{\blur3}是的 我们会保护你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Of course. We'll protect you.
+Dialogue: 0,0:40:26.49,0:40:28.45,*Default,NTP,0000,0000,0000,,{\blur3}- 嗨 - 嗨\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Hi - Hi
+Dialogue: 0,0:40:34.84,0:40:37.76,*Default,NTP,0000,0000,0000,,{\blur3}这整个地方都是一股子鱼味 对吧？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Whole place stinks of fish, doesn't it?
+Dialogue: 0,0:40:38.80,0:40:41.88,*Default,NTP,0000,0000,0000,,{\blur3}我不在乎 有家的味道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I don't mind. Reminds me of home.
+Dialogue: 0,0:40:42.09,0:40:44.59,*Default,NTP,0000,0000,0000,,{\blur3}哦 对呀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Oh, yeah
+Dialogue: 0,0:40:44.85,0:40:48.43,*Default,NTP,0000,0000,0000,,{\blur3}闻起来像鱼 是吧 你那块地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Like fish, did they? Your lot?
+Dialogue: 0,0:40:48.47,0:40:50.56,*Default,NTP,0000,0000,0000,,{\blur3}我都不知道呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I didn't know that.
+Dialogue: 0,0:40:51.60,0:40:54.65,*Default,NTP,0000,0000,0000,,{\blur3}我们有一个大湖 很深\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We had a big lake. Deep.
+Dialogue: 0,0:40:55.27,0:40:57.32,*Default,NTP,0000,0000,0000,,{\blur3}有很多鱼\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A lot of fish.
+Dialogue: 0,0:40:58.40,0:41:00.07,*Default,NTP,0000,0000,0000,,{\blur3}拿头盔干什么？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What is the helmet for?
+Dialogue: 0,0:41:01.19,0:41:02.65,*Default,NTP,0000,0000,0000,,{\blur3}没什么\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Nothing.
+Dialogue: 0,0:41:03.86,0:41:07.20,*Default,NTP,0000,0000,0000,,{\blur3}- 回想一下以前那些日子 如此而已 - 以前的日子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Just thinking of old days, that's all. - Old days?
+Dialogue: 0,0:41:07.24,0:41:09.91,*Default,NTP,0000,0000,0000,,{\blur3}不是今天\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Not today.
+Dialogue: 0,0:41:09.95,0:41:12.71,*Default,NTP,0000,0000,0000,,{\blur3}- 士兵们离开了 - 你说我吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Soldiers leaving. - You mean me?
+Dialogue: 0,0:41:12.75,0:41:16.33,*Default,NTP,0000,0000,0000,,{\blur3}跟着他们一起走？不会的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Leaving with them? No.
+Dialogue: 0,0:41:16.42,0:41:17.71,*Default,NTP,0000,0000,0000,,{\blur3}不会\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No.
+Dialogue: 0,0:41:18.71,0:41:22.22,*Default,NTP,0000,0000,0000,,{\blur3}我显然是那么想过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, it had crossed my mind, obviously.
+Dialogue: 0,0:41:24.26,0:41:26.18,*Default,NTP,0000,0000,0000,,{\blur3}我跟长官们很熟 是吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm in with the chiefs, aren't I?
+Dialogue: 0,0:41:26.22,0:41:28.68,*Default,NTP,0000,0000,0000,,{\blur3}如果我现在回去参军\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I mean, if I was to go back in now,
+Dialogue: 0,0:41:28.72,0:41:31.89,*Default,NTP,0000,0000,0000,,{\blur3}我也许可以当首席长矛手 至少 甚至使节也有可能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'd probably be first spear at least. Legate even.
+Dialogue: 0,0:41:31.93,0:41:35.14,*Default,NTP,0000,0000,0000,,{\blur3}想想吧 罗马使节的夫人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Think about that, wife of a legate! Talk about respect.
+Dialogue: 0,0:41:35.19,0:41:36.90,*Default,NTP,0000,0000,0000,,{\blur3}拥有财富与尊重\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And money.
+Dialogue: 0,0:41:37.94,0:41:39.94,*Default,NTP,0000,0000,0000,,{\blur3}也许有钱买下一个湖\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Probably buy a lake.
+Dialogue: 0,0:41:43.82,0:41:45.95,*Default,NTP,0000,0000,0000,,{\blur3}这会是场短促的战斗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It'd be a short campaign.
+Dialogue: 0,0:41:45.99,0:41:48.07,*Default,NTP,0000,0000,0000,,{\blur3}每个人都这么说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Everyone says so.
+Dialogue: 0,0:41:54.25,0:41:57.25,*Default,NTP,0000,0000,0000,,{\blur3}冥神他儿子的 我只不过说说而已\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Sons of Dis, I was only talking!
+Dialogue: 0,0:41:57.29,0:41:59.29,*Default,NTP,0000,0000,0000,,{\blur3}又不是有心要让你哭的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No call for blubbery.
+Dialogue: 0,0:42:05.38,0:42:07.13,*Default,NTP,0000,0000,0000,,{\blur3}我“还”孕了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm "preglant".
+Dialogue: 0,0:42:09.55,0:42:11.60,*Default,NTP,0000,0000,0000,,{\blur3}什么？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What?
+Dialogue: 0,0:42:11.64,0:42:13.43,*Default,NTP,0000,0000,0000,,{\blur3}我“还”孕了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm "preglant"!
+Dialogue: 0,0:42:13.47,0:42:15.27,*Default,NTP,0000,0000,0000,,{\blur3}- “还”孕了 - 怀孕？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- "Preglant"! - Pregnant?
+Dialogue: 0,0:42:15.27,0:42:17.48,*Default,NTP,0000,0000,0000,,{\blur3}随便你叫什么\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Whatever you call it!
+Dialogue: 0,0:42:31.32,0:42:33.37,*Default,NTP,0000,0000,0000,,{\blur3}你拿的是什么？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What is that you've got there?
+Dialogue: 0,0:42:33.41,0:42:35.91,*Default,NTP,0000,0000,0000,,{\blur3}你望着它发呆都一小时了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You've been mooning over it the last hour.
+Dialogue: 0,0:42:37.12,0:42:39.58,*Default,NTP,0000,0000,0000,,{\blur3}这是我父亲的印章戒指\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is my father's signet ring.
+Dialogue: 0,0:42:40.62,0:42:42.33,*Default,NTP,0000,0000,0000,,{\blur3}我从母亲那儿拿到的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I received it from my mother.
+Dialogue: 0,0:42:42.37,0:42:45.42,*Default,NTP,0000,0000,0000,,{\blur3}我记得我还是小孩子的时候 他就戴在手上了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I remember it on his hand when I was a boy.
+Dialogue: 0,0:42:48.09,0:42:49.34,*Default,NTP,0000,0000,0000,,{\blur3}戴起来很合适\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a good fit.
+Dialogue: 0,0:42:52.76,0:42:55.80,*Default,NTP,0000,0000,0000,,{\blur3}长官 探子回报 已经发现敌军\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Sir, word from the scouts. The enemy is sighted.
+Dialogue: 0,0:42:55.85,0:42:58.89,*Default,NTP,0000,0000,0000,,{\blur3}- 终于来了 - 不只是屋大维的军队 长官\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- At last! - It's not just Octavian, sir.
+Dialogue: 0,0:42:58.97,0:43:01.39,*Default,NTP,0000,0000,0000,,{\blur3}马克·安东尼也跟他一起来了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Mark Antony is with him.
+Dialogue: 0,0:43:01.48,0:43:02.94,*Default,NTP,0000,0000,0000,,{\blur3}- 这不可能 - 已经看到苍鹫旗了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- That's impossible! - The Heron standard was seen.
+Dialogue: 0,0:43:02.98,0:43:05.65,*Default,NTP,0000,0000,0000,,{\blur3}- 多少军团？- 看起来有19个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- How many legions? - 19, it seems.
+Dialogue: 0,0:43:05.69,0:43:07.65,*Default,NTP,0000,0000,0000,,{\blur3}对抗我们的14个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To our 14.
+Dialogue: 0,0:43:09.98,0:43:11.99,*Default,NTP,0000,0000,0000,,{\blur3}那个卑鄙小人见风使舵了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The worm turns.
+Dialogue: 0,0:43:13.70,0:43:16.74,*Default,NTP,0000,0000,0000,,{\blur3}- 他们距离多远 - 只有一天的路程\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- How far away are they? - A day's march.
+Dialogue: 0,0:43:17.91,0:43:19.99,*Default,NTP,0000,0000,0000,,{\blur3}集合所有人必须立刻拔营\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Muster the men. We must break camp
+Dialogue: 0,0:43:20.04,0:43:22.33,*Default,NTP,0000,0000,0000,,{\blur3}马上撤退\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and begin the retreat immediately.
+Dialogue: 0,0:43:22.33,0:43:24.58,*Default,NTP,0000,0000,0000,,{\blur3}不 等等 停下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No, wait. Stop.
+Dialogue: 0,0:43:33.92,0:43:36.97,*Default,NTP,0000,0000,0000,,{\blur3}什么也别做 我们绝不撤退\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Do nothing. We will not retreat.
+Dialogue: 0,0:43:37.01,0:43:39.30,*Default,NTP,0000,0000,0000,,{\blur3}- 老朋友 这可是… - 不\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Old friend, this isn't... - No.
+Dialogue: 0,0:43:42.85,0:43:44.94,*Default,NTP,0000,0000,0000,,{\blur3}不要再逃避了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No more running.
+Dialogue: 0,0:43:46.65,0:43:49.19,*Default,NTP,0000,0000,0000,,{\blur3}我们明天就在这里迎击他们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We will meet them here tomorrow.
+Dialogue: 0,0:43:50.48,0:43:52.94,*Default,NTP,0000,0000,0000,,{\blur3}如果我们赢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If we win,
+Dialogue: 0,0:43:52.98,0:43:55.53,*Default,NTP,0000,0000,0000,,{\blur3}将给我们带来更大的荣耀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}all the more glory for us.
+Dialogue: 0,0:43:57.28,0:43:59.57,*Default,NTP,0000,0000,0000,,{\blur3}如果我们注定要死\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And if we are to die,
+Dialogue: 0,0:44:00.62,0:44:03.37,*Default,NTP,0000,0000,0000,,{\blur3}丧命此地也没什么不好\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this is as good a place as any.
+Dialogue: 0,0:44:05.91,0:44:08.42,*Default,NTP,0000,0000,0000,,{\blur3}现在就听天由命吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}'Tis in the hands of the gods now.
+Dialogue: 0,0:44:09.46,0:44:12.21,*Default,NTP,0000,0000,0000,,{\blur3}我们还是占上风的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We have the upper ground.
+Dialogue: 0,0:44:13.25,0:44:15.55,*Default,NTP,0000,0000,0000,,{\blur3}照他说的做\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As he says.
+Dialogue: 0,0:44:23.95,0:44:26.09,*Default,NTP,0000,0000,0000,,{\blur3}[希腊北部　腓力比]
+Dialogue: 0,0:44:53.08,0:44:55.25,*Default,NTP,0000,0000,0000,,{\blur3}天啊 我完全不记得了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Heavens, I entirely forgot!
+Dialogue: 0,0:44:55.29,0:44:58.88,*Default,NTP,0000,0000,0000,,{\blur3}- 今天是你的生日 对吧？- 是吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Today is your birthday, isn't it? - Is it?
+Dialogue: 0,0:44:59.09,0:45:01.43,*Default,NTP,0000,0000,0000,,{\blur3}我想你是对的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I believe you're right.
+Dialogue: 0,0:45:04.60,0:45:07.10,*Default,NTP,0000,0000,0000,,{\blur3}生日快乐\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Happy birthday.
+Dialogue: 0,0:45:07.14,0:45:09.43,*Default,NTP,0000,0000,0000,,{\blur3}抱歉 这儿没蛋糕\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Sorry there's no cake.
+Dialogue: 0,0:45:09.43,0:45:12.31,*Default,NTP,0000,0000,0000,,{\blur3}那就明年 嗯？你可以给我烤个加大的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Next year. You can bake me an extra big one.
+Dialogue: 0,0:45:12.39,0:45:13.73,*Default,NTP,0000,0000,0000,,{\blur3}我一定不会忘的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I shan't forget.
+Dialogue: 0,0:45:13.77,0:45:16.61,*Default,NTP,0000,0000,0000,,{\blur3}别加肉桂 那些总让我打喷嚏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No cinnamon. Makes me sneeze.
+Dialogue: 0,0:45:27.20,0:45:28.70,*Default,NTP,0000,0000,0000,,{\blur3}如果你要撒尿的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you need to urinate,
+Dialogue: 0,0:45:28.74,0:45:30.54,*Default,NTP,0000,0000,0000,,{\blur3}现在正是时候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}now would be the time.
+Dialogue: 0,0:45:31.29,0:45:33.37,*Default,NTP,0000,0000,0000,,{\blur3}我很好 谢谢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm fine, thank you.
+Dialogue: 0,0:45:33.41,0:45:35.29,*Default,NTP,0000,0000,0000,,{\blur3}你确定？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You sure?
+Dialogue: 0,0:45:38.04,0:45:39.80,*Default,NTP,0000,0000,0000,,{\blur3}那就让我们开始吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Let us begin, then.
+Dialogue: 0,0:45:40.50,0:45:41.96,*Default,NTP,0000,0000,0000,,{\blur3}看仔细了 小子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Watch closely, boy.
+Dialogue: 0,0:45:43.84,0:45:47.14,*Default,NTP,0000,0000,0000,,{\blur3}看看我是怎么开创历史的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is how history is made.
+Dialogue: 0,0:45:49.60,0:45:50.60,*Default,NTP,0000,0000,0000,,{\blur3}现在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now...
+Dialogue: 0,0:45:51.31,0:45:53.18,*Default,NTP,0000,0000,0000,,{\blur3}让我们来找点乐子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}let's have some fun.
+Dialogue: 0,0:45:56.39,0:45:59.36,*Default,NTP,0000,0000,0000,,{\blur3}前进\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Advance!
+Dialogue: 0,0:46:13.33,0:46:16.08,*Default,NTP,0000,0000,0000,,{\blur3}抱歉 恕我冒昧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Sorry, rude of me.
+Dialogue: 0,0:46:16.16,0:46:18.58,*Default,NTP,0000,0000,0000,,{\blur3}要把指挥权给你吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Would you like the honor?
+Dialogue: 0,0:46:18.62,0:46:21.34,*Default,NTP,0000,0000,0000,,{\blur3}不不 你放手去做吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No, no, you do it by all means.
+Dialogue: 0,0:46:22.34,0:46:24.17,*Default,NTP,0000,0000,0000,,{\blur3}谢谢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Thank you.
+Dialogue: 0,0:46:26.34,0:46:29.26,*Default,NTP,0000,0000,0000,,{\blur3}前进\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Advance!
+Dialogue: 0,0:47:50.80,0:47:53.26,*Default,NTP,0000,0000,0000,,{\blur3}发生了什么事？你知道吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What is happening? Do you know?
+Dialogue: 0,0:47:53.30,0:47:55.38,*Default,NTP,0000,0000,0000,,{\blur3}完全不知道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No idea.
+Dialogue: 0,0:48:00.51,0:48:03.27,*Default,NTP,0000,0000,0000,,{\blur3}听我号令 跟我来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On my command, follow me!
+Dialogue: 0,0:48:03.89,0:48:05.10,*Default,NTP,0000,0000,0000,,{\blur3}你去哪儿？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Where are you going?
+Dialogue: 0,0:48:06.64,0:48:09.44,*Default,NTP,0000,0000,0000,,{\blur3}当你心存疑问时 就进攻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When in doubt, attack!
+Dialogue: 0,0:48:11.44,0:48:13.57,*Default,NTP,0000,0000,0000,,{\blur3}部队随安东尼前进\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Standard on Antony!
+Dialogue: 0,0:48:24.62,0:48:26.83,*Default,NTP,0000,0000,0000,,{\blur3}去吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Go.
+Dialogue: 0,0:48:26.87,0:48:28.29,*Default,NTP,0000,0000,0000,,{\blur3}谢谢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Thank you.
+Dialogue: 0,0:48:28.29,0:48:29.79,*Default,NTP,0000,0000,0000,,{\blur3}你们俩 跟我来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You two, on me.
+Dialogue: 0,0:48:29.83,0:48:31.00,*Default,NTP,0000,0000,0000,,{\blur3}- 长官 - 是的 长官\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Sir! - Yes, sir!
+Dialogue: 0,0:49:09.37,0:49:12.67,*Default,NTP,0000,0000,0000,,{\blur3}长官 安东尼的部队已经突破了防线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Sir, Antony's forces have broken the line.
+Dialogue: 0,0:49:13.33,0:49:14.75,*Default,NTP,0000,0000,0000,,{\blur3}我们的右翼已被击溃\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our right flank is gone.
+Dialogue: 0,0:49:19.63,0:49:20.63,*Default,NTP,0000,0000,0000,,{\blur3}停下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Halt!
+Dialogue: 0,0:49:20.67,0:49:22.38,*Default,NTP,0000,0000,0000,,{\blur3}我们的右翼已经完了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our right flank is gone.
+Dialogue: 0,0:49:22.43,0:49:24.30,*Default,NTP,0000,0000,0000,,{\blur3}派预备部队上前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Send in the reserve cohort!
+Dialogue: 0,0:49:27.35,0:49:29.47,*Default,NTP,0000,0000,0000,,{\blur3}掩护\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Testudo!
+Dialogue: 0,0:49:50.29,0:49:53.20,*Default,NTP,0000,0000,0000,,{\blur3}前进\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Forward!
+Dialogue: 0,0:50:12.72,0:50:14.56,*Default,NTP,0000,0000,0000,,{\blur3}放下来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Down.
+Dialogue: 0,0:50:16.44,0:50:18.27,*Default,NTP,0000,0000,0000,,{\blur3}卡西乌斯？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Cassius?
+Dialogue: 0,0:50:23.65,0:50:24.94,*Default,NTP,0000,0000,0000,,{\blur3}卡西乌斯？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Cassius?
+Dialogue: 0,0:50:25.99,0:50:28.20,*Default,NTP,0000,0000,0000,,{\blur3}发生了什么事？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What happened?
+Dialogue: 0,0:50:28.24,0:50:30.41,*Default,NTP,0000,0000,0000,,{\blur3}不清楚 说实话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Not sure, to be honest.
+Dialogue: 0,0:50:31.41,0:50:33.45,*Default,NTP,0000,0000,0000,,{\blur3}这生日糟透了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Hell of a birthday.
+Dialogue: 0,0:50:33.49,0:50:34.75,*Default,NTP,0000,0000,0000,,{\blur3}别绝望\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Don't despair.
+Dialogue: 0,0:50:34.79,0:50:37.54,*Default,NTP,0000,0000,0000,,{\blur3}- 这一天还没结束呢 - 长官 我们的中央\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- The day's not done yet. - Sir, our center is routed.
+Dialogue: 0,0:50:37.58,0:50:41.42,*Default,NTP,0000,0000,0000,,{\blur3}已经被包围 必须后撤了 我们必须马上后撤\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We must fall back. We must fall back immediately.
+Dialogue: 0,0:50:52.10,0:50:54.85,*Default,NTP,0000,0000,0000,,{\blur3}我明白了 好吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I see. All right.
+Dialogue: 0,0:50:54.89,0:50:57.39,*Default,NTP,0000,0000,0000,,{\blur3}来吧 老朋友 我们该走了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Come, old friend, we have to move.
+Dialogue: 0,0:50:58.77,0:51:00.89,*Default,NTP,0000,0000,0000,,{\blur3}长官 我们必须离开\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Sir, we must go.
+Dialogue: 0,0:51:00.98,0:51:03.02,*Default,NTP,0000,0000,0000,,{\blur3}卡西乌斯？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Cassius?
+Dialogue: 0,0:51:09.57,0:51:11.07,*Default,NTP,0000,0000,0000,,{\blur3}我们必须离开\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We must go.
+Dialogue: 0,0:51:38.72,0:51:40.39,*Default,NTP,0000,0000,0000,,{\blur3}长官\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Sir.
+Dialogue: 0,0:51:44.52,0:51:48.61,*Default,NTP,0000,0000,0000,,{\blur3}能够指挥你们作战是我的光荣\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It has been an honor and a pleasure leading you.
+Dialogue: 0,0:51:48.65,0:51:51.78,*Default,NTP,0000,0000,0000,,{\blur3}很抱歉没能打得更漂亮些\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I am sorry we could not do better.
+Dialogue: 0,0:51:51.82,0:51:54.82,*Default,NTP,0000,0000,0000,,{\blur3}现在你们得顾自己了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But you must look to yourselves now.
+Dialogue: 0,0:51:54.82,0:51:57.91,*Default,NTP,0000,0000,0000,,{\blur3}- 留下你们的小命 - 长官…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Save your skins. - Sir...
+Dialogue: 0,0:52:03.12,0:52:04.91,*Default,NTP,0000,0000,0000,,{\blur3}给我母亲带去我的祝愿\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Give my best to my mother.
+Dialogue: 0,0:52:04.96,0:52:06.46,*Default,NTP,0000,0000,0000,,{\blur3}告诉她…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Tell her...
+Dialogue: 0,0:52:15.05,0:52:16.84,*Default,NTP,0000,0000,0000,,{\blur3}告诉她她该知道的事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Tell her something suitable.
+Dialogue: 0,0:53:11.90,0:53:14.98,*Default,NTP,0000,0000,0000,,{\blur3}部队停下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Cohort, halt!
+Dialogue: 0,0:54:04.99,0:54:08.07,*Default,NTP,0000,0000,0000,,{\blur3}继续找 把死尸扔到火堆上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Keep searching! Put the dead on the pyre.
+Dialogue: 0,0:54:08.16,0:54:09.78,*Default,NTP,0000,0000,0000,,{\blur3}深呼吸 小子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Breathe deep, boy.
+Dialogue: 0,0:54:10.74,0:54:12.58,*Default,NTP,0000,0000,0000,,{\blur3}胜利的味道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The smell of victory.
+Dialogue: 0,0:54:12.62,0:54:15.67,*Default,NTP,0000,0000,0000,,{\blur3}浓烟 粪便和腐肉的味道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Smoke, shit and rotting flesh.
+Dialogue: 0,0:54:15.71,0:54:18.96,*Default,NTP,0000,0000,0000,,{\blur3}- 多美妙啊 不是吗？- 有什么要报告的 阿格里帕？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Beautiful, isn't it? - What report, Agrippa?
+Dialogue: 0,0:54:18.96,0:54:23.80,*Default,NTP,0000,0000,0000,,{\blur3}卡西乌斯的尸体已经找到 我们还在找布鲁图斯\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The body of Cassius has been found. We're still searching for Brutus.
+Dialogue: 0,0:54:23.80,0:54:25.13,*Default,NTP,0000,0000,0000,,{\blur3}太好了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Excellent.
+Dialogue: 0,0:54:26.17,0:54:30.05,*Default,NTP,0000,0000,0000,,{\blur3}把他的首级裹在盐袋子里 运回罗马去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Have the head packed in salt for transportation back to Rome.
+Dialogue: 0,0:54:31.10,0:54:33.18,*Default,NTP,0000,0000,0000,,{\blur3}人们喜欢…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}People appreciate...
+Dialogue: 0,0:54:33.22,0:54:35.77,*Default,NTP,0000,0000,0000,,{\blur3}这种伎俩 我以为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the little touches, I find.
